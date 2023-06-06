@@ -1,0 +1,17 @@
+{
+  "number": 923,
+  "name": "Pawmot",
+  "base_hp": 5,
+  "strength": "4/8",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Scratch", "Growl", "Arm Thrust", "Revival Blessing", "Thunder Shock", "Quick Attack", "Charge"],
+    "silver": ["Nuzzle", "Dig", "Bite", "Spark", "Thunder Wave", "Entrainment", "Slam"],
+    "gold": ["Close Combat", "Discharge", "Agility", "Wild Charge", "Double Shock"],
+    "platinum": ["Mach Punch", "Sweet Kiss", "Wish"],
+    "diamond": []
+  }
+}

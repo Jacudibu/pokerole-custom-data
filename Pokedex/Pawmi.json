@@ -1,0 +1,17 @@
+{
+  "number": 921,
+  "name": "Pawmi",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/2",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Scratch", "Growl", "Thunder Shock", "Quick Attack", "Charge"],
+    "silver": ["Nuzzle", "Dig", "Bite", "Spark", "Thunder Wave", "Entrainment", "Slam"],
+    "gold": ["Discharge", "Agility", "Wild Charge"],
+    "platinum": ["Mach Punch", "Sweet Kiss", "Wish"],
+    "diamond": []
+  }
+}
