@@ -1,0 +1,11 @@
+{
+    "name": "Attract",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Beauty",
+    "target": "Foe",
+    "effect": "If Successful, Target is now In Love. This Move fails if user doesn't fit into the targets sexuality.",
+    "description": "The user makes use of its good looks and attitude to infatuate its foe.",
+    "category": "Support"
+}

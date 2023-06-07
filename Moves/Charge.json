@@ -1,0 +1,11 @@
+{
+    "name": "Charge",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User",
+    "effect": "Add 2 Dice to the Damage Pool to the next Electric Damaging move the user performs and increase their Special Defense by 1.",
+    "description": "The user concentrates all the electricity in its body to be released.",
+    "category": "Support"
+}

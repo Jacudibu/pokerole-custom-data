@@ -1,0 +1,11 @@
+{
+    "name": "Baton Pass",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Ally",
+    "effect": "The user passes on any attribute increase to the target Pokemon. On success, this move cannot be used again within the same combat scene.",
+    "description": "The user stores part of its power on a twig or a stick, anyone who touch the item will receive its might.",
+    "category": "Support"
+}

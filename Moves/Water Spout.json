@@ -1,0 +1,11 @@
+{
+    "name": "Water Spout",
+    "type": "Water",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Remove 1 Dice to the Damage Roll for every 20% of missing HP the user has, rounded up. You can use `/<TODO>` to calculate this for you.",
+    "description": "The Pokemon builds up an amazing pressure and releases a huge columnar vortex of water that could even reach the clouds.",
+    "category": "Special"
+}

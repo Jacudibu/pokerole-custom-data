@@ -1,0 +1,11 @@
+{
+    "name": "Reversal",
+    "type": "Fighting",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Add 1 Dice to the Damage Roll for every 20% of missing HP the user has, rounded up. You can use `/<TODO>` to calculate this for you.",
+    "description": "The user gathers its mettle to block away the pain and focus on hitting harder",
+    "category": "Physical"
+}

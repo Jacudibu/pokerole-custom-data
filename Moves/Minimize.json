@@ -1,0 +1,11 @@
+{
+    "name": "Minimize",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User",
+    "effect": "Adds +1 Evasion to the user.",
+    "description": "The Pokemon compacts its body, appearing smaller than its normal size.",
+    "category": "Support"
+}

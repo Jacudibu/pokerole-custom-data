@@ -1,0 +1,11 @@
+{
+    "name": "Captivate",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Beauty",
+    "target": "All Foes",
+    "effect": "If the user matches the affected Targets sexuality, reduce their Special by 2.",
+    "description": "The Pokemon shows off its attractiveness and even flirts with the opponents, those who fall for its charms can\u2019t focus on the battle.",
+    "category": "Support"
+}

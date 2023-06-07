@@ -1,0 +1,11 @@
+{
+    "name": "Copycat",
+    "type": "Normal",
+    "power": 0,
+    "damage": "Same as the copied move",
+    "accuracy": "Same as the copied move",
+    "target": "Foe",
+    "effect": "Copies the last move the foe has performed.",
+    "description": "The user will closely watch the movements of the target and will imitate them to perfection.",
+    "category": "Support"
+}
