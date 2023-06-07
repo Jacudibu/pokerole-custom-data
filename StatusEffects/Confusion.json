@@ -2,6 +2,6 @@
     "name": "Confused",
     "description": "You can't tell friend from foe. They are just looking all the same to you!",
     "resist": "See duration.",
-    "effect": "subject has pick their target(s) randomly after picking a move, which includes themselves.",
+    "effect": "The subject has to pick their target(s) randomly after picking a move, which includes themselves.",
     "duration": "Roll Insight at the start of the turn. Once you have a total of 6 successes, your character snaps out of it."
 }
