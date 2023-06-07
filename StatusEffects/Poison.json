@@ -1,0 +1,7 @@
+{
+    "name": "Poison",
+    "description": "You feel sick and nauseous with a mild fever.",
+    "resist": "As long as the subject doesn't exert any strenous movements, damage is dealt once per hour instead of each Round.",
+    "effect": "Inflict 1 point of damage at the end of each Round. Poison and Steel-type Pokémon are immune.",
+    "duration": "Until you receive medical attention or until you Faint and wake up 8 hrs. later. (Persists outside of battle)"
+}

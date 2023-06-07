@@ -1,0 +1,7 @@
+{
+    "name": "Badly Poisoned",
+    "description": "You’re burning in fever and suffering horrible pain all over your body.",
+    "resist": "If the subject lies down or doesn't move at all, the damage will be dealt once per hour intead of each round. When resisting in battle instead of attacking, this resets the damage counter back to 1.",
+    "effect": "Inflict 1 point of damage at the end of each round. Damage increases by 1 each time this is procced. Poison and Steel types are immune.",
+    "duration": "Until you receive medical attention or until your body can’t resist any longer. (Persists outside of battle)"
+}
