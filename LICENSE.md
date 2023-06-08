@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Jacudibu
+Copyright (c) 2023 Jacudibu. Pokémon and Pokémon character names are trademarks of Nintendo.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
