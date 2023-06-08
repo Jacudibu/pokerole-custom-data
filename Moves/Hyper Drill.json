@@ -1,0 +1,11 @@
+{
+  "name": "Hyper Drill",
+  "type": "Normal",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "This move ignores any shielding move. Inflicts Wounds.",
+  "description": "The Pokémon spins the pointed part of its body at high speed to pierce the target. It shreds through anything in its way with ease, and leaves the target with a nice hole to deal with later.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Twin Beam",
+  "type": "Psychic",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Double Action",
+  "description": "Psychic energies are shot from the user's eyes to inflict damage.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Last Respects",
+  "type": "Ghost",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "For every currently fainted ally, add 2 dice to the damage roll. Up to 8 dice can be added this way.",
+  "description": "The Pokémon is filled with sorrow as its allies fall before it. It takes this sorrow and channels it into an increasingly powerful attack to avenge its allies.",
+  "category": "Physical"
+}

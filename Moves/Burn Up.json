@@ -1,0 +1,11 @@
+{
+  "name": "Burn Up",
+  "type": "Fire",
+  "power": 7,
+  "damage": "Special",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. If this move lands, remove the user's Fire typing for an entire day. If the user is not fire type, this move fails. If the user is terastallized into a fire type, do not remove this typing.",
+  "description": "The User unleashes all of its might through a massive blast of raging fire. Although the damage is devastating the Pokemon is left unable to produce more fire for at least a day.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mortal Spin",
+  "type": "Poison",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Poisons all hit foes. Removes all hazards on the user's side. Unbinds the user if they are bound, such as by Sand Tomb.",
+  "description": "The Pokémon coats itself in a poison before performing a spin attack. No Pokémon would want to keep holding on while it does this. The spin knocks away any hazards near it as well.",
+  "category": "Physical"
+}

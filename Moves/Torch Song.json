@@ -1,0 +1,11 @@
+{
+  "name": "Torch Song",
+  "type": "Fire",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Sound Based. Increases Special by 1",
+  "description": "The user sings a sing about firey passion. The subject of said song is usually a bygone lover.",
+  "category": "Special"
+}

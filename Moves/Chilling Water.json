@@ -1,0 +1,11 @@
+{
+  "name": "Chilling Water",
+  "type": "Water",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Decrease the target's Strength by 1",
+  "description": "The Pokémon attacks its target by showering it with water that's so cold, it saps the the foe's strength.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Silk Trap",
+  "type": "Bug",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Self",
+  "effect": "Priority 4. Shield Move. Reduce by 3, all damage taken by attackers. Reduces minimum damage taken down to 0. If the User would be hit by a physical move, lower the Dexterity of the attacker by 1.",
+  "description": "The user sets up a shield of webbing in front of themself; a sneaky trap made to inhibit their foes.",
+  "category": "Support"
+}

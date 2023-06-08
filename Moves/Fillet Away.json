@@ -1,0 +1,11 @@
+{
+  "name": "Fillet Away",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "Self",
+  "effect": "User deals damage to itself equaling half its total HP, rounded down. Increase the user's Strength, Special, and Dexterity by 2.",
+  "description": "The Pokémon sloughs off its own flesh to reveal the sharp bone underneath. This not only increases its ability to harm, but also increases it's speed. It's quite the horrific sight for a foe.",
+  "category": "Support"
+}

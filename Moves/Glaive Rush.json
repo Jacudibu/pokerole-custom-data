@@ -1,0 +1,11 @@
+{
+  "name": "Glaive Rush",
+  "type": "Dragon",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Until the user's next turn, all moves used against it succeed even on a failed accuracy throw, and all attacks have their damage dice multiplied by 1.5x, rounded up. Inflicts Wounds.",
+  "description": "The user throws its entire body into a reckless charge. This deals big damage to the target, leaving big gashes. This also leaves the user exposed, though, and a prime target for counterattack.",
+  "category": "Physical"
+}

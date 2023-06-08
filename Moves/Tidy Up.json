@@ -1,0 +1,11 @@
+{
+  "name": "Tidy Up",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Self",
+  "effect": "Increase the User's Strength and Dexterity. Removes hazards from the field.",
+  "description": "As a form of battle practice, the User sets to cleaning up their vicinity, removing any obstacles that might hurt their friends.",
+  "category": "Support"
+}

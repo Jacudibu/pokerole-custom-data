@@ -1,0 +1,11 @@
+{
+  "name": "Rage Fist",
+  "type": "Ghost",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "For each time the user has been hit this combat, add 2 dice to the damage pool. Up to 6 dice can be added this way.",
+  "description": "The user converts its rage into energy to attack. It would be unwise to attack this foe if you're unsure you can finish the job.",
+  "category": "Physical"
+}

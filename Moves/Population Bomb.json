@@ -1,0 +1,11 @@
+{
+  "name": "Population Bomb",
+  "type": "Normal",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Successive Actions. -1 Accuracy. Ignore the normal multi-hit rules, this move only gains -1 Accuracy on every successive accuracy roll.",
+  "description": "The Pokémon's fellows gather in droves to perform a combo attack. Depending on how they all feel in the moment, this attack can be crippling, or useless.",
+  "category": "Physical"
+}

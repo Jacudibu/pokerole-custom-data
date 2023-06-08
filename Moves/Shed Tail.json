@@ -1,0 +1,11 @@
+{
+  "name": "Shed Tail",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Self + Ally",
+  "effect": "The user deals 4 damage to themself and set up a decoy with 2 HP. The decoy has the same defense as the user, and will take damage for the selected ally. When the decoy's HP is depleted, the Ally can be targeted again. Decoy cannot be affected by support moves",
+  "description": "The user sheds its tail off, and crafts it into a makeshift dummy to protect an ally.",
+  "category": "Support"
+}

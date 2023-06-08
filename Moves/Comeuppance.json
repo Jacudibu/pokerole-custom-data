@@ -1,0 +1,11 @@
+{
+  "name": "Comeuppance",
+  "type": "Dark",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Self",
+  "effect": "This Move can only deal damage if a Foe has dealt any sort of Damage to the User this Round. Roll the same Damage Pool as the last Foe who hit, plus 2 Extra Dice. Ignore the foe's Defenses.",
+  "description": "The Pokémon channels karmatic energy, before retaliating with much greater force against the opponent that last inflicted damage on it. They always get their comuppance.",
+  "category": "Support"
+}

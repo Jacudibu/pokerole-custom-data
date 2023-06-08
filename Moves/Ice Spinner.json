@@ -1,0 +1,11 @@
+{
+  "name": "Ice Spinner",
+  "type": "Ice",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Removes any ongoing terrain effects.",
+  "description": "The Pokémon covers its feet in thin ice and twirls around, slamming into the target. It leaves a clear path in its wake, for both ally and enemy to tread alike.",
+  "category": "Physical"
+}

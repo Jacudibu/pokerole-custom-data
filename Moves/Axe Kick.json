@@ -1,0 +1,11 @@
+{
+  "name": "Axe Kick",
+  "type": "Fighting",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 chance dice to confuse the foe. If accuracy roll is unsuccessful, deal 5 dice of damage to the user. -1 Accuracy.",
+  "description": "The Pokémon attacks by kicking up into the air and slamming its heel down upon their target. The target might be left reeling from the blow. If the user misses, they'll surely be left with a sore heel.",
+  "category": "Physical"
+}

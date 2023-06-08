@@ -1,0 +1,11 @@
+{
+  "name": "Armor Cannon",
+  "type": "Fire",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Decrease the user's Defense and Special Defense by 1. Inflicts Wounds.",
+  "description": "The Pokémon shoots its own armor out as blazing projectiles. The target will be left will some searing wounds.",
+  "category": "Special"
+}

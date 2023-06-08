@@ -1,0 +1,11 @@
+{
+  "name": "Pounce",
+  "type": "Bug",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce the foe's Dexterity by 1.",
+  "description": "The Pokémon attacks by pouncing on the target. This will often cause the target to topple.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Psyblade",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If used on electric terrain, add 2 dice to this move's damage pool. Inflicts Wounds.",
+  "description": "The Pokémon rends the target with an ethereal blade. This leaves the target with oozing wounds of body and mind.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Aqua Step",
+  "type": "Water",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Increase the user's Dexterity by 1",
+  "description": "The Pokémon toys with its target and attacks it using light and fluid dance steps.",
+  "category": "Physical"
+}

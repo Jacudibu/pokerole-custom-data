@@ -1,0 +1,11 @@
+{
+  "name": "Lumina Crash",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Reduce the foe's Special Defense by 2.",
+  "description": "The Pokémon attacks by unleashing a peculiar light that even affects the mind. The target is left with a weak mind, and sore body.",
+  "category": "Special"
+}

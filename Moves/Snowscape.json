@@ -1,0 +1,11 @@
+{
+  "name": "Snowscape",
+  "type": "Ice",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Self",
+  "effect": "Creates Snow Weather on the battlefield.",
+  "description": "The user summons a flurry of soft, delicate snow onto the battlefield.",
+  "category": "Support"
+}

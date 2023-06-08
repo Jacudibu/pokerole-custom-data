@@ -1,0 +1,11 @@
+{
+  "name": "Collision Course",
+  "type": "Fighting",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If this move is super effective on the target, add 2 dice to the damage roll, in addition to the normal super effective damage. Inflicts Wounds.",
+  "description": "The pokémon transforms and crashes to the ground, causing a massive prehistoric explosion. This explosion hurts certain pokemon much more than usual.",
+  "category": "Physical"
+}

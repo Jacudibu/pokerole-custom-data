@@ -1,0 +1,11 @@
+{
+  "name": "Triple Dive",
+  "type": "Water",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Triple Action. -1 Accuracy",
+  "description": "The user dives and resurfaces three times, striking the opposition each time.",
+  "category": "Physical"
+}

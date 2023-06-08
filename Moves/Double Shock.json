@@ -1,0 +1,11 @@
+{
+  "name": "Double Shock",
+  "type": "Electric",
+  "power": 7,
+  "damage": "Strength",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. If this move lands, remove the user's Electric typing for an entire day. If the user is not electric type, this move fails. If the user is terastallized into an electric type, do not remove this typing.",
+  "description": "The Pokémon discharges all the electricity from its body to perform a high-damage attack. The resulting attack is brutal to the foe, but the user will feel a lack of energy for quite awhile.",
+  "category": "Physical"
+}

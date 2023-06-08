@@ -1,0 +1,11 @@
+{
+  "name": "Hydro Stream",
+  "type": "Water",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "This move benefits from harsh sunlight as a fire type move would. Inflicts Wounds.",
+  "description": "The user blasts the target with boiling-hot water. An intense sun would only make it hotter. It's sure to leave the target a nice weeping wound.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Doodle",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Clever",
+  "target": "Foe",
+  "effect": "Copies the targeted foe's ability to the user and all allies. Certain abilities can't be copied.",
+  "description": "The Pokémon captures the very essence of the target in a sketch. They share this sketch with all their allies, all of which are imprinted on by such a sight.",
+  "category": "Support"
+}
