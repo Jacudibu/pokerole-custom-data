@@ -1,0 +1,11 @@
+{
+  "name": "Yawn",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "The target will fall asleep at the end of the next round.",
+  "description": "The user lets out an infectious yawn that will make anyone drowsy enough to fall asleep pretty soon.",
+  "category": "Support"
+}
