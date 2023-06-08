@@ -1,0 +1,11 @@
+{
+  "name": "Focus Punch",
+  "type": "Fighting",
+  "power": 6,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Charge Move. The attack will fail if the user gets hit before releasing this attack.",
+  "description": "A brutal punch that requires calm and concentration",
+  "category": "Physical"
+}
