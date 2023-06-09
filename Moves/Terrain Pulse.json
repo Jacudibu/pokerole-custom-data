@@ -1,0 +1,11 @@
+{
+  "name": "Terrain Pulse",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "If any terrain is present, add 2 dice to the damage pool. This move matches the type of any present terrain.",
+  "description": "The Pokémon channels the energy of the terrain around it to send a wave of matching energy at the foe.",
+  "category": "Special"
+}

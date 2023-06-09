@@ -1,0 +1,11 @@
+{
+  "name": "Mountain Gale",
+  "type": "Ice",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Roll 3 chance dice to flinch the foe. -2 accuracy.",
+  "description": "The user throws massive chunks of ice harvested from it's own body. The ice hits with enough force to cause enemies to stutter.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Power Shift",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Self",
+  "effect": "The user swaps its Strength and Vitality stat. The user swaps its Special and Insight stat. Their HP and moves remain unchanged.",
+  "description": "Focusing in on their own body, the user suddenly switches their specialization.",
+  "category": "Support"
+}

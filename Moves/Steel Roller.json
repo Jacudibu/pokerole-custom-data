@@ -1,0 +1,11 @@
+{
+  "name": "Steel Roller",
+  "type": "Steel",
+  "power": 6,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Move can only be used if a terrain effect is in play. Remove any terrain effects when landing this move.",
+  "description": "The Pokémon gets very angry when the ground is not utterly normal and perfect and channels all its energy to destroy any terrain that would prevent this.",
+  "category": "Physical"
+}

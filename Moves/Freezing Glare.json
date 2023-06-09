@@ -1,0 +1,11 @@
+{
+  "name": "Freezing Glare",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Roll 1 chance die to freeze the foe.",
+  "description": "The Pokémon shoots beams from its eyes, measured at absolute zero. Any foe caught in the beams too long will be frozen solid, any others will suffer frostbite.",
+  "category": "Special"
+}

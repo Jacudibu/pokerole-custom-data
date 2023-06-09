@@ -1,0 +1,11 @@
+{
+  "name": "Flip Turn",
+  "type": "Water",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "+1 Evasion until user's next action.",
+  "description": "The Pokémon springs off the enemy during its attack, allowing it to land out of range of a counterattack.",
+  "category": "Physical"
+}

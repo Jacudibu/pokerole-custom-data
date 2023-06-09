@@ -1,0 +1,11 @@
+{
+  "name": "Coaching",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Clever",
+  "target": "All Allies",
+  "effect": "Increases all allies' Strength and Defense by 1. Never Fail.",
+  "description": "The Pokémon quickly shares some combat tips to its friends, allowing them to fight better!",
+  "category": "Support"
+}

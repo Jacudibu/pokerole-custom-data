@@ -1,0 +1,11 @@
+{
+  "name": "Wave Crash",
+  "type": "Water",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Recoil.",
+  "description": "The user coats itself in waves, to then strike the enemy with all the force it can. The biting waves hurt the opposition and user alike.",
+  "category": "Physical"
+}

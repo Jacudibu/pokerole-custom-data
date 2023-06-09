@@ -1,0 +1,11 @@
+{
+  "name": "Corrosive Gas",
+  "type": "Poison",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Clever",
+  "target": "Area",
+  "effect": "The affected pokémons held items are corroded beyond use and must be repaired. Moves and abilities to recover items don't work on corroded items. Some items can't be corroded.",
+  "description": "The Pokémon fills the area with a highly corrosive gas that quickly eats away at anything the pokémon in the area are holding, rendering all effected items useless.",
+  "category": "Support"
+}

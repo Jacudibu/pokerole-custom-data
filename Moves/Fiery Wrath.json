@@ -1,0 +1,11 @@
+{
+  "name": "Firey Wrath",
+  "type": "Dark",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "All Foes",
+  "effect": "Roll 2 chance dice to flinch the foe. Do this for every foe hit.",
+  "description": "The Pokémon turns into an avatar of wrath, before crashing into the opposing side. The resulting causes pain and anger in all affected, possibly to the point they struggle to aim.",
+  "category": "Special"
+}

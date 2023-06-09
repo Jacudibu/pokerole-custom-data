@@ -1,0 +1,11 @@
+{
+  "name": "Psyshield Bash",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Increases the user's Defense by 1. -1 accuracy.",
+  "description": "The user summons a shield of psychic energy around their head before headbutting the enemy. This shield remains even after the attack is done.",
+  "category": "Physical"
+}

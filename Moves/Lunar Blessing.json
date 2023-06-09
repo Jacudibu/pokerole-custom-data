@@ -1,0 +1,11 @@
+{
+  "name": "Lunar Blessing",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Self + Allies",
+  "effect": "Heal 1 HP to all pokemon affected. Remove all stats conditions from all pokemon affected.",
+  "description": "The user summons forth lunar power to treat itself and its friends of their injuries. The lunar power is quite invigorating.",
+  "category": "Support"
+}

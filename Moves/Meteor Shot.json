@@ -1,0 +1,11 @@
+{
+  "name": "Meteor Shot",
+  "type": "Rock",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Charge Move. On the first turn, increase user's Special by 1, on the next, execute the attack. -1 Accuracy.",
+  "description": "The Pokémon gathers power from the heavens above, before suddenly summoning a massive rock to slam into their opponent, likely leaving them crippled.",
+  "category": "Special"
+}

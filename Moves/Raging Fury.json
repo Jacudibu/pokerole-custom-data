@@ -1,0 +1,11 @@
+{
+  "name": "Raging Fury",
+  "type": "Fire",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Rampage.",
+  "description": "The user coats itself in intense flames before going on a rampage. After a few attacks, it leaves itself dazed and confused.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Glacial Lance",
+  "type": "Ice",
+  "power": 6,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "",
+  "description": "The Pokémon throws a lance cloaked in blizzard at its foes, where it explodes, searing them with an ice cold blast.",
+  "category": "Physical"
+}

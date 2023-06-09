@@ -1,0 +1,11 @@
+{
+  "name": "Shelter",
+  "type": "Steel",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "Self",
+  "effect": "Increase the user's defense by 2 and evasion by 1.",
+  "description": "The user hides behind their own shell, taking up a defensive formation that makes them harder to hurt.",
+  "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Esper Wing",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Critical. Inflicts Wounds. Increases the user's Dexterity by 1.",
+  "description": "The user summons a psychic aura around its wings, which it uses to slash the foe. The attack is quick and concise.",
+  "category": "Special"
+}

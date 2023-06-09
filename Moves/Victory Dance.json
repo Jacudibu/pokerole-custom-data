@@ -1,0 +1,11 @@
+{
+  "name": "Victory Dance",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Self",
+  "effect": "Increases the user's Strength, Defense, and Dexterity by 1.",
+  "description": "Assuming they've already won, the pokemon celebrates it's victory early. The dance they do invigorates them for the remainder of the battle.",
+  "category": "Support"
+}

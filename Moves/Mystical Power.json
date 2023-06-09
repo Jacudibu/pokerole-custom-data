@@ -1,0 +1,11 @@
+{
+  "name": "Mystical Power",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Raises the user's Special by 1.",
+  "description": "A mysterious power of the soul is unleashed from the user. This power increases the user's psychic capabilities.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Misty Explosion",
+  "type": "Fairy",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Area",
+  "effect": "Add 2 dice to the damage pool if performed on misty terrain. After performing this move, the user takes damage equal to their remaining HP.",
+  "description": "The Pokémon channels all its Fairy energy into a massive blast, shooting out a very painful shockwave. The area is left foggy with mist. If the area is already misty, it channels this mist to amplify the attack. All its power drained, it immediately falls unconscious after.",
+  "category": "Special"
+}

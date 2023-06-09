@@ -1,0 +1,11 @@
+{
+  "name": "Thunderous Kick",
+  "type": "Fighting",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Reduce foe's Defense by 1.",
+  "description": "The Pokémon uses its massive talons to viciously rend at the foe. This leaves them bleeding and more defenseless to further attack.",
+  "category": "Physical"
+}

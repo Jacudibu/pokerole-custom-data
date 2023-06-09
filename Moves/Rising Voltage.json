@@ -1,0 +1,11 @@
+{
+  "name": "Rising Voltage",
+  "type": "Electric",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "If performed on electric terrain, add 3 dice to the damage pool.",
+  "description": "The Pokémon channels energy through the ground before shooting it up through the opponent. This is much more painful if the ground is already electrified.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Expanding Force",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "If performed on psychic terrain, add 2 dice to the damage pool, and change targeting to all foes.",
+  "description": "The Pokémon's psychic power grows, and affects the mind of a single foe. If channeled through psychic terrain, this power can affect all foes, and cause much more harm.",
+  "category": "Special"
+}

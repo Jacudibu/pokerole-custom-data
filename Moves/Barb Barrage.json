@@ -1,0 +1,11 @@
+{
+  "name": "Barb Barrage",
+  "type": "Poison",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Roll 5 chance dice to Poison the foe. If the foe is already Poisoned, add 2 dice to the damage roll.",
+  "description": "The user launches a thousand venom-laced barbs at its opposition.",
+  "category": "Physical"
+}

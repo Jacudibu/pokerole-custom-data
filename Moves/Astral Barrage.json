@@ -1,0 +1,11 @@
+{
+  "name": "Astral Barrage",
+  "type": "Ghost",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "All Foes",
+  "effect": "",
+  "description": "The Pokémon bombards the enemies' side of the field in a torrent of little ghosts. These ghosts terrorize the opposition before vanishing.",
+  "category": "Special"
+}

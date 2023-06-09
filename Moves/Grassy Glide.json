@@ -1,0 +1,11 @@
+{
+  "name": "Grassy Glide",
+  "type": "Grass",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If performed on grassy terrain, move becomes Priority 1.",
+  "description": "The Pokémon glides along the ground to deliver a firm blow to the opponent. Grass underfoot allows it to glide much quicker.",
+  "category": "Physical"
+}

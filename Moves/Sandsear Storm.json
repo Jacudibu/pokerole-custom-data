@@ -1,0 +1,11 @@
+{
+  "name": "Sandsear Storm",
+  "type": "Ground",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All foes",
+  "effect": "Inflicts Wounds. Roll 2 chance dice to inflict Burn 2 on each target affected. -2 accuracy",
+  "description": "The user whips up burning hot winds to pelt the enemy with a tornado of sand. The searing wind and sand may burn those affected.",
+  "category": "Special"
+}

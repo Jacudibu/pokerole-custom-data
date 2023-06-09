@@ -1,0 +1,11 @@
+{
+  "name": "Skitter Smack",
+  "type": "Bug",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce foe's Special by 1. -1 Accuracy",
+  "description": "The Pokémon rushes up behind its foe to give it a firm smack to the back of the head. In its hurry it can sometimes be inaccurate. ",
+  "category": "Physical"
+}

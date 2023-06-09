@@ -1,0 +1,11 @@
+{
+  "name": "Take Heart",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Self",
+  "effect": "The user increases its Special and Sp. Defense by 1, and cures any status conditions on itself.",
+  "description": "The user lifts its own spirits, revitalizing itself and repreparing for the fight.",
+  "category": "Support"
+}
