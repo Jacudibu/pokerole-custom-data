@@ -1,0 +1,17 @@
+{
+  "number": 901,
+  "name": "Ursaluna",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "1/3",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Covet", "Scratch", "Leer", "Lick", "Fake Tears", "Headlong Rush", "Fury Swipes"],
+    "silver": ["Payback", "Sweet Scent", "Slash", "Play Nice", "Play Rough", "Scary Face"],
+    "gold": ["Rest", "Snore", "High Horsepower", "Thrash", "Hammer Arm"],
+    "platinum": ["Swords Dance", "Night Slash", "Belly Drum"],
+    "diamond": []
+  }
+}
