@@ -2,7 +2,7 @@
   "name": "Shell Side Arm",
   "type": "Poison",
   "power": 3,
-  "damage": "SpecialOrStrength",
+  "damage": "Strength/special",
   "accuracy": "Insight",
   "target": "Foe",
   "effect": "User picks which stat to roll with. Move is physical/special in accordance with the choice. Roll 2 chance dice to poison the foe.",
