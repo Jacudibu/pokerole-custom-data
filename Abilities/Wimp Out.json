@@ -1,0 +1,5 @@
+{
+  "name": "Wimp Out",
+  "description": "The Pokemon goes into a lot of stress whenever its exoskeleton is weakened, it can escape from any situation out of sheer cowardice.",
+  "effect": "Whenever this Pokemon reaches half of its total HP, it is forced to use Dodge as its next action at the start of the turn."
+}

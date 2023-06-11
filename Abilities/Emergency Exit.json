@@ -1,0 +1,5 @@
+{
+  "name": "Emergency Exit",
+  "description": "The Pokemon makes tactical escapes when the situation escalates out of control. You may force him to fight despite this but it won't like it.",
+  "effect": "Whenever this Pokemon reaches half of its total HP, it will have +1 Evasion during the next turn."
+}
