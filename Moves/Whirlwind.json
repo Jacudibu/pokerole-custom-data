@@ -1,0 +1,11 @@
+{
+  "name": "Whirlwind",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Low Priority 6. The target is forced to the bottom of the turn order next round. Priority moves can't change this. If a priority move would fail because it can't go first, it can't be used.",
+  "description": "The Pokemon creates a powerful wind current that swirls the enemy around and sends it flying away.",
+  "category": "Support"
+}

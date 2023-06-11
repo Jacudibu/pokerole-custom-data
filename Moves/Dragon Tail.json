@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Tail",
+  "type": "Dragon",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Low Priority 1. The target is forced to the bottom of the turn order next round. Priority moves can't change this. If a priority move would fail because it can't go first, it can't be used. -1 Accuracy.",
+  "description": "This Powerful tail strike can knockdown anyone up to 100 feet away!",
+  "category": "Physical"
+}
