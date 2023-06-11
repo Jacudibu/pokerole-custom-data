@@ -1,0 +1,5 @@
+{
+  "name": "Harvest",
+  "description": "This Pokémon will naturally produce edible fruits in a short period of time, if fed berries it will start growing them too.",
+  "effect": "If this pokemon uses a berry as a held item during a fight, roll 1 die. On success, get the berry back at the end of the turn. If under harsh sunlight, ignore the dice roll and always receive the berry back."
+}
