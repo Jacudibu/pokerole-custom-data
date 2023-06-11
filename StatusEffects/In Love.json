@@ -1,0 +1,7 @@
+{
+    "name": "In Love",
+    "description": "You’ll protect your beloved! ...what was her name again?",
+    "resist": "Roll Insight at the beginning of the Round, if the subject scores 2 or more successes, it may act normally during this Round.",
+    "effect": "The subject Holds Back (inflicts half damage) against the foe and the foe’s allies.",
+    "duration": "One scene."
+}
