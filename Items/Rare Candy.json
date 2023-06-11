@@ -1,0 +1,7 @@
+{
+    "name": "Rare Candy",
+    "price": 600,
+    "description": "An incredibly tasty piece of candy which miraculously provides whomever eats it with 15 Experience points! Actually, they aren't that rare, people just tend to eat them right away...",
+    "category": "Consumable",
+    "single_use": true
+}

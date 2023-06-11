@@ -1,0 +1,7 @@
+{
+    "name": "Hidden Ability Capsule",
+    "price": 2000,
+    "description": "Consuming this strange pill unlocks a Pokemon's Hidden Ability (if it has one)! Although, it's probably best not to ask about the details on how these work or how they where made...",
+    "category": "Consumable",
+    "single_use": true
+}
