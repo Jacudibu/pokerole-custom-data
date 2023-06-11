@@ -1,0 +1,5 @@
+{
+  "name": "Curious Medicine",
+  "description": "This pokemon holds an odd medicine in its shell that seems to make everyone feel... Meh...",
+  "effect": "Upon entering battle, all Attribute changes, both decreases and increases, are removed from all pokemon."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Thermal Exchange",
+  "description": "Perfect control over it's own internal temperature let's this mon convert heat into power!",
+  "effect": "When attacked by a Fire-type move, this pokemon's Strength is increased by 1. Additionally, this pokemon is immune to all Burn status ailments. If a Pokemon with this ability somehow contracts a Burn ailment, it is instantly cured."
+}

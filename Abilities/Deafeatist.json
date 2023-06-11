@@ -1,0 +1,5 @@
+{
+  "name": "Defeatist",
+  "description": "This Pokemon is a pessimist by nature. When things get difficult, it will be the first to give up.",
+  "effect": "If this Pokemon is at half or less of its total HP, reduce 2 Points from its Strength and Special Attributes. You may spend one Will in order to ignore this reduction for one action."
+}

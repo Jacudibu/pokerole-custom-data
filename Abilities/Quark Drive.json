@@ -1,0 +1,5 @@
+{
+  "name": "Quark Drive",
+  "description": "Even just a faint trace of energy nearby can overcharge this mechanical mon!",
+  "effect": "If Electric Terrain is active or this pokemon is holding Booster Energy, their highest attribute is increased by 1 unless it's Dexterity in which case, it increases by 2."
+}

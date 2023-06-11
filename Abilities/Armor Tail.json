@@ -1,0 +1,5 @@
+{
+  "name": "Armor Tail",
+  "description": "The odd tail covering this pokemon's head seems to protect it from sudden attacks!",
+  "effect": "Priority moves targeting this pokemon or it's allies automatically fail."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Electromorphosis",
+  "description": "Masochism, but for electric types.",
+  "effect": "When hit by a Physical attack, this pokemon's next Electric-Type attack is effected as if by the move Charge."
+}

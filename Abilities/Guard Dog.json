@@ -1,0 +1,5 @@
+{
+  "name": "Guard Dog",
+  "description": "Bravery in the face of any would be attackers.",
+  "effect": "Pokemon is immune to the forced switch effect of moves (i.e. Roar, Dragon Tail). Additionally, the pokemon also gains 1 Strength when affected by Intimidate."
+}

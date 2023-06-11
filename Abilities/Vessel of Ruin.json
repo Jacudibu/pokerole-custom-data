@@ -1,0 +1,5 @@
+{
+  "name": "Vessel of Ruin",
+  "description": "The fear that filled the ancient vessel that adorns this pokemon's head brings ruin to all those near.",
+  "effect": "All pokemon except others with Vessel of Ruin have their Special lowered by 2."
+}

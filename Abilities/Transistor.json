@@ -1,0 +1,5 @@
+{
+  "name": "Transistor",
+  "description": "This mon's body is made of electricity, only makes sense that they know how to use it well!",
+  "effect": "Electric-type attacks used by this pokemon gain 1 damage."
+}

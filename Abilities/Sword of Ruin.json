@@ -1,0 +1,5 @@
+{
+  "name": "Sword of Ruin",
+  "description": "The hatred of those that have perished by the sword that makes up this pokemon fangs brings ruin to all those near.",
+  "effect": "All pokemon except others with Sword of Ruin have their Defense lowered by 2."
+}

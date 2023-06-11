@@ -1,0 +1,5 @@
+{
+  "name": "Commander",
+  "description": "This pokemon makes the inside of an ally Dondozo's mouth it's base of operations and takes charge from there. Using it's cunning strategies to barrel through a fight!",
+  "effect": "When entering a battle with an ally Dondozo, this mon grants them increases in Strength, Special, Defense, Special Defense and Dexterity all by 2. All forced switcher moves targeting the ally Dondozo automatically fail. Additionally, all attack's targeting this pokemon automatically miss as long as the ally Dondozo is active. This ability can only activate between one pair of Tatsugiri and Dondozo per battle."
+}

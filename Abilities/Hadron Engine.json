@@ -1,0 +1,5 @@
+{
+  "name": "Hadron Engine",
+  "description": "This pokemon's engine is overflowing with energy!",
+  "effect": "Once entering battle, this pokemon starts Electric Terrain and increases Special by 2 as long as it persists."
+}

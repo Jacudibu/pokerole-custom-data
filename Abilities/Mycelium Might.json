@@ -1,0 +1,5 @@
+{
+  "name": "Mycelium Might",
+  "description": "A fungal network is slow, but very efficient when given the proper time...",
+  "effect": "Support moves used by this pokemon are given low priority 6 but also ignore effects that would impede them."
+}

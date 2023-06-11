@@ -1,0 +1,5 @@
+{
+  "name": "Grim Neigh",
+  "description": "This pokemon utters a terrifying neigh whenever it defeats an opponent, seeming to grow stronger with each one...",
+  "effect": "If a foe faints because of an attack dealt by this Pokemon, Increase 1 Point to its Special Attribute. Up to 3 points can be increased this way."
+}

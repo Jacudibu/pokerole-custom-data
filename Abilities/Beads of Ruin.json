@@ -1,0 +1,5 @@
+{
+  "name": "Beads of Ruin",
+  "description": "The accumulated envy over the beads that make up this pokemon's eyes has begun to bring ruin to all others near",
+  "effect": "All pokemon except others with Beads of Ruin have their Special Defense lowered by 2."
+}
