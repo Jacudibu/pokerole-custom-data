@@ -1,0 +1,11 @@
+{
+  "name": "Roost",
+  "type": "Flying",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Self",
+  "effect": "Basic Heal. The user loses the flying type for the remainder of the round. If successful, spend 1 Will to activate.",
+  "description": "The pokemon lands on the ground to relax.",
+  "category": "Support"
+}
