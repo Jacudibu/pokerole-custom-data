@@ -5,7 +5,7 @@
     "damage": "Strength",
     "accuracy": "Dexterity",
     "target": "Foe",
-    "effect": "Add 1 Dice to the Damage Roll for every 20% of missing HP the user has, rounded up. You can use `/<TODO>` to calculate this for you.",
+    "effect": "Add 1 Dice to the Damage Roll for every 20% of missing HP the user has, rounded up. You can use `/calculate_hp_damage_modifier` to calculate this for you.",
     "description": "The User flails and struggles to survive. The more weakened it is the stronger this attack will be.",
     "category": "Physical"
 }

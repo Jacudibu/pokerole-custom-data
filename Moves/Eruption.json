@@ -5,7 +5,7 @@
     "damage": "Special",
     "accuracy": "Special",
     "target": "All Foes",
-    "effect": "Wounding Damage. Remove 1 Dice to the Damage Roll for every 20% of missing HP the user has, rounded up. You can use `/<TODO>` to calculate this for you.",
+    "effect": "Wounding Damage. Remove 1 Dice to the Damage Roll for every 20% of missing HP the user has, rounded up. You can use `/calculate_hp_damage_modifier` to calculate this for you.",
     "description": "A fierce burst of lava coming from the user at full force charring whatever comes in contact with it.",
     "category": "Special"
 }

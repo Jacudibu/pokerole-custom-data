@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Insight",
   "target": "Foe",
-  "effect": "Remove 1 Dice to the Damage Roll for every 20% of missing HP the user has, rounded up. You can use `/<TODO>` to calculate this for you.",
+  "effect": "Remove 1 Dice to the Damage Roll for every 20% of missing HP the user has, rounded up. You can use `/calculate_hp_damage_modifier` to calculate this for you.",
   "description": "The Pokémon harnesses its own draconic lifeforce to attack the foe with extreme might. It struggles to hit as hard when this lifeforce dwindles.",
   "category": "Special"
 }
