@@ -1,0 +1,17 @@
+{
+  "number": 215,
+  "name": "Sneasel (Hisuian Form)",
+  "base_hp": 3,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Scratch", "Leer", "Rock Smash", "Taunt"],
+    "silver": ["Quick Attack", "Metal Claw", "Poison Jab", "Brick Break", "Hone Claws"],
+    "gold": ["Slash", "Agility", "Screech", "Close Combat"],
+    "platinum": ["Fake Out", "Night Slash", "Quick Guard"],
+    "diamond": []
+  }
+}
