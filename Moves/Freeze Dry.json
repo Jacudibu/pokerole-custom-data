@@ -1,0 +1,11 @@
+{
+  "name": "Freeze Dry",
+  "type": "Ice",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "This move deals Super Effective and Wounding Damage to Water types.",
+  "description": "The user freezes all moisture in the air, causing water types to suffer.",
+  "category": "Special"
+}
