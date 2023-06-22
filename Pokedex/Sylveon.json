@@ -8,10 +8,10 @@
   "special": "3/6",
   "insight": "3/7",
   "moves": {
-    "bronze": ["Fairy Wind, Helping Hand, Sand Attack, Tackle, Tail Whip"],
-    "silver": ["Disarming Voice, Draining Kiss, Light Screen, Misty Terrain, Quick Attack, Skill Swap, Swift"],
-    "gold": ["Last Resort, Moonblast, Psych Up"],
-    "platinum": ["Captivate, Hyper Voice, Wish"],
+    "bronze": ["Fairy Wind", "Helping Hand", "Sand Attack", "Tackle", "Tail Whip"],
+    "silver": ["Disarming Voice", "Draining Kiss", "Light Screen", "Misty Terrain", "Quick Attack", "Skill Swap", "Swift"],
+    "gold": ["Last Resort", "Moonblast", "Psych Up"],
+    "platinum": ["Captivate", "Hyper Voice", "Wish"],
     "diamond": []
   }
 }

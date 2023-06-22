@@ -11,7 +11,7 @@
     "bronze": ["Helping Hand", "Pursuit", "Quick Attack", "Sand Attack", "Tackle", "Tail Whip"],
     "silver": ["Assurance", "Confuse Ray", "Feint Attack", "Mean Look", "Moonlight", "Screech"],
     "gold": ["Guard Swap", "Last Resort"],
-    "platinum": ["Curse, Foul Play, Wish"],
+    "platinum": ["Curse", "Foul Play", "Wish"],
     "diamond": []
   }
 }
