@@ -1,0 +1,17 @@
+{
+  "number": 908,
+  "name": "Meowscarada",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Leafage", "Scratch", "Tail Whip", "Hone Claws"],
+    "silver": ["Magical Leaf", "Quick Attack", "Seed Bomb", "U-Turn", "Worry Seed", "Slash"],
+    "gold": ["Flower Trick", "Night Slash", "Energy Ball", "Play Rough", "Knock Off", "Grassy Terrain", "Leaf Storm"],
+    "platinum": ["Sucker Punch", "Ally Switch", "Petal Blizzard"],
+    "diamond": []
+      }
+    }

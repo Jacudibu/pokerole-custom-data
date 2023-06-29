@@ -1,0 +1,17 @@
+{
+  "number": 906,
+  "name": "Sprigatito",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Scratch", "Tail Whip", "Leafage", "Bite", "Hone Claws"],
+    "silver": ["Magical Leaf", "Quick Attack", "Seed Bomb", "U-turn", "Worry Seed", "Slash", "Energy Ball", "Play Rough"],
+    "gold": [],
+    "platinum": ["Leech Seed", "Copycat", "Sucker Punch"],
+    "diamond": []
+  }
+}
