@@ -1,0 +1,17 @@
+{
+  "number": 909,
+  "name": "Fuecoco",
+  "base_hp": 4,
+  "strength": "1/3",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Tackle", "Leer", "Ember", "Round"],
+    "silver": ["Bite", "Incinerate", "Yawn", "Snarl", "Roar", "Flamethrower"],
+    "gold": ["Hyper Voice", "Fire Blast"],
+      "platinum": ["Curse", "Encore", "Slack Off"],
+      "diamond": []
+      }
+    }

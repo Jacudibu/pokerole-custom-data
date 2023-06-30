@@ -1,0 +1,17 @@
+{
+  "number": 913,
+  "name": "Quaxwell",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Pound", "Growl", "Water Gun", "Double Hit", "Work Up", "Wing Attack"],
+    "silver": ["Aqua Jet", "Water Pulse", "Low Sweep", "Aqua Cutter", "Air Slash", "Focus Energy"],
+    "gold": ["Acrobatics", "Liquidation", "Feather Dance"],
+    "platinum": ["Detect", "Rapid Spin", "Roost"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 910,
+  "name": "Crocalor",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Tackle", "Leer", "Ember", "Round"],
+    "silver": ["Bite", "Yawn", "Incinerate", "Snarl", "Roar", "Flamethrower"],
+    "gold": ["Hyper Voice", "Will-O-Wisp", "Fire Blast"],
+      "platinum": ["Curse", "Encore", "Slack Off"],
+      "diamond": []
+      }
+    }

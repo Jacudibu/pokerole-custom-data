@@ -1,0 +1,17 @@
+{
+  "number": 911,
+  "name": "Skeledirge",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "1/4",
+  "vitality": "2/6",
+  "special": "2/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Ember", "Tackle", "Leer", "Lick", "Round"],
+      "silver": ["Scary Face", "Bite", "Incinerate", "Snarl", "Roar", "Flamethrower"],
+      "gold": ["Torch Song", "Shadow Ball", "Hyper Voice", "Will-O-Wisp", "Hex", "Fire Blast", "Overheat"],
+      "platinum": ["Curse", "Slack Off", "Belch"],
+      "diamond": []
+      }
+    }
