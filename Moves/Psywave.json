@@ -1,7 +1,7 @@
 {
   "name": "Psywave",
   "type": "Psychic",
-  "power": "3",
+  "power": 3,
   "damage": "Rank",
   "accuracy": "Insight",
   "target": "Foe",

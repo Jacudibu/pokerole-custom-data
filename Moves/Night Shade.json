@@ -1,7 +1,7 @@
 {
   "name": "Night Shade",
   "type": "Ghost",
-  "power": "3",
+  "power": 3,
   "damage": "Rank",
   "accuracy": "Insight",
   "target": "Foe",

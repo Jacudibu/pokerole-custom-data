@@ -1,7 +1,7 @@
 {
   "name": "Seismic Toss",
   "type": "Fighting",
-  "power": "3",
+  "power": 3,
   "damage": "Rank",
   "accuracy": "Strength",
   "target": "Foe",
