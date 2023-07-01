@@ -9,8 +9,8 @@
   "insight": "1/3",
   "moves": {
     "bronze": ["Scratch", "Tail Whip", "Leafage", "Bite", "Hone Claws"],
-    "silver": ["Magical Leaf", "Quick Attack", "Seed Bomb", "U-turn", "Worry Seed", "Slash", "Energy Ball", "Play Rough"],
-    "gold": [],
+    "silver": ["Magical Leaf", "Quick Attack", "Seed Bomb", "U-turn", "Worry Seed", "Slash"],
+    "gold": ["Energy Ball", "Play Rough"],
     "platinum": ["Leech Seed", "Copycat", "Sucker Punch"],
     "diamond": []
   }
