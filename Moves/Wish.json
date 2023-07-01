@@ -1,0 +1,10 @@
+{
+  "name": "Wish",
+  "type": "Normal",
+  "power": 0,
+  "accuracy": "Will",
+  "target": "Self or Ally",
+  "effect": "Basic Heal. If successful, spend 1 Will point to activate. The target will be healed at the end of next round. When used in combat, enemies may or may not prioritize the target.",
+  "description": "The Pokemon makes a loud wish with all its might - if it gets heard by the right spirits, it might become true.",
+  "category": "Support"
+}
