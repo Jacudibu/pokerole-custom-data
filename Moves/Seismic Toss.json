@@ -1,0 +1,11 @@
+{
+  "name": "Seismic Toss",
+  "type": "Fighting",
+  "power": "3",
+  "damage": "Rank",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Roll Damage Dice according to the User's Rank. Ignores defense.",
+  "description": "The target gets launched up then falls face first into the ground, the stronger the user the higher the foe will be thrown.",
+  "category": "Physical"
+}

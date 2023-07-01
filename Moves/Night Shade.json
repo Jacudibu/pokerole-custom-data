@@ -1,0 +1,11 @@
+{
+  "name": "Night Shade",
+  "type": "Ghost",
+  "power": "3",
+  "damage": "Rank",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Roll Damage Dice according to the User's Rank. Ignores defense.",
+  "description": "The user casts a shade with a frightening mirage inside that torments the target.",
+  "category": "Special"
+}
