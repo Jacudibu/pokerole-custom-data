@@ -2,6 +2,7 @@
   "name": "Wish",
   "type": "Normal",
   "power": 0,
+  "damage": "",
   "accuracy": "Will",
   "target": "Self or Ally",
   "effect": "Basic Heal. If successful, spend 1 Will point to activate. The target will be healed at the end of next round. When used in combat, enemies may or may not prioritize the target.",
