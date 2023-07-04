@@ -1,0 +1,17 @@
+{
+  "number": 915,
+  "name": "Lechonk",
+  "base_hp": 4,
+  "strength": "1/3",
+  "dexterity": "1/3",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Tackle", "Tail Whip", "Disarming Voice", "Echoed Voice"],
+    "silver": ["Mud Shot", "Covet", "Dig", "Headbutt", "Yawn", "Take Down", "Work Up", "Uproar"],
+    "gold": ["Double Edge"],
+    "platinum": ["Stockpile", "Spit Up", "Swallow"],
+    "diamond": []
+  }
+}

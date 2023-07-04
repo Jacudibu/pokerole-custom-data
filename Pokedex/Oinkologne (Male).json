@@ -1,0 +1,17 @@
+{
+  "number": 916,
+  "name": "Oinkologne (Male)",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Tackle", "Tail Whip", "Disarming Voice", "Echoed Voice"],
+    "silver": ["Mud Shot", "Covet", "Dig", "Headbutt", "Yawn", "Take Down"],
+    "gold": ["Work Up", "Yawn", "Double Edge", "Earth Power", "Belch"],
+    "platinum": ["Stockpile", "Spit Up", "Swallow"],
+    "diamond": []
+  }
+}
