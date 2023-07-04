@@ -1,0 +1,17 @@
+{
+  "number": 571,
+  "name": "Zoroark (Hisuian Form)",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Scratch", "Leer", "Torment", "Hone Claws"],
+    "silver": ["Shadow Sneak", "Curse", "Taunt", "Knock Off", "Spite", "Agility", "Shadow Ball"],
+    "gold": ["Bitter Malice", "Nasty Plot", "Foul Play"],
+      "platinum": ["Memento", "Extrasensory", "Comeuppance"],
+      "diamond": []
+      }
+    }

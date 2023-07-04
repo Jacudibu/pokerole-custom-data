@@ -1,0 +1,17 @@
+{
+  "number": 920,
+  "name": "Lokix",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Low Kick", "Detect", "Tackle", "Leer", "Lunge", "Struggle Bug", "Astonish", "Struggle Bug"],
+    "silver": ["Double Kick", "Screech", "Endure", "Bug Bite", "Feint", "Agility", "Throat Chop"],
+    "gold": ["Sucker Punch", "First Impression", "Bounce", "Axe Kick"],
+    "platinum": ["Counter", "Skitter Smack"],
+    "diamond": []
+  }
+}

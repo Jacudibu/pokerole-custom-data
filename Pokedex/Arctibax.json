@@ -1,0 +1,17 @@
+{
+  "number": 997,
+  "name": "Arctibax",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Tackle", "Leer", "Dragon Tail", "Icy Wind"],
+    "silver": ["Dragon Breath", "Focus Energy", "Bite", "Ice Fang"],
+    "gold": ["Take Down", "Ice Beam", "Crunch", "Icicle Crash"],
+    "platinum": ["Icicle Spear", "Aqua Tail", "Freeze-Dry"],
+    "diamond": []
+  }
+}

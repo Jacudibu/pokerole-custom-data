@@ -1,0 +1,17 @@
+{
+  "number": 905,
+  "name": "Enamorus (Therian Form)",
+  "base_hp": 4,
+  "strength": "6/6",
+  "dexterity": "4/4",
+  "vitality": "6/6",
+  "special": "7/7",
+  "insight": "6/6",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": [],
+    "platinum": ["Astonish", "Fairy Wind", "Torment", "Flatter", "Twister", "Draining Kiss", "Iron Defense", "Imprison", "Mystical Fire", "Dazzling Gleam", "Extrasensory", "Uproar", "Superpower", "Healing Wish", "Moonblast", "Outrage", "Springtide Storm"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 211,
+  "name": "Qwilfish (Hisuian Form)",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Poison Sting", "Tackle", "Harden", "Bite"],
+    "silver": ["Fell Stinger", "Minimize", "Spikes", "Brine", "Barb Barrage", "Pin Missile", "Toxic Spikes"],
+    "gold": ["Stockpile", "Spit Up", "Toxic", "Crunch", "Acupressure", "Destiny Bond"],
+    "platinum": ["Aqua Jet", "Self-Destruct", "Flail"],
+    "diamond": []
+  }
+}

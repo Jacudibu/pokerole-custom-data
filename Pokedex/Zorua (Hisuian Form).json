@@ -1,0 +1,17 @@
+{
+  "number": 570,
+  "name": "Zorua (Hisuian Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/5",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Scratch", "Leer", "Torment", "Hone Claws"],
+    "silver": ["Shadow Sneak", "Curse", "Taunt", "Knock Off", "Spite", "Agility", "Shadow Ball"],
+    "gold": ["Bitter Malice", "Nasty Plot", "Foul Play"],
+      "platinum": ["Memento", "Extrasensory", "Comeuppance"],
+      "diamond": []
+      }
+    }

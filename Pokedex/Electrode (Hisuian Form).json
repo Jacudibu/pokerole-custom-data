@@ -1,0 +1,17 @@
+{
+  "number": 101,
+  "name": "Electrode (Hisuian Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "4/8",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Charge", "Tackle", "Chloroblast", "Thunder Shock", "Stun Spore", "Bullet Seed"],
+    "silver": ["Rollout", "Screech", "Charge Beam", "Swift", "Electro Ball", "Self-Destruct", "Energy Ball", "Seed Bomb", "Discharge"],
+    "gold": ["Explosion", "Gyro Ball", "Grassy Terrain"],
+    "platinum": ["Leech Seed", "Recycle", "Worry Seed"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 905,
+  "name": "Enamorus",
+  "base_hp": 4,
+  "strength": "6/6",
+  "dexterity": "6/6",
+  "vitality": "5/5",
+  "special": "7/7",
+  "insight": "5/5",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": [],
+    "platinum": ["Astonish", "Fairy Wind", "Torment", "Flatter", "Twister", "Draining Kiss", "Iron Defense", "Imprison", "Mystical Fire", "Dazzling Gleam", "Extrasensory", "Uproar", "Superpower", "Healing Wish", "Moonblast", "Outrage", "Springtide Storm"],
+    "diamond": []
+  }
+}

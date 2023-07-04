@@ -1,0 +1,17 @@
+{
+  "number": 706,
+  "name": "Goodra (Hisuian Form)",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "1/3",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "4/8",
+  "moves": {
+    "bronze": ["Shelter", "Acid Spray", "Tearful Look", "Feint", "Absorb", "Tackle", "Water Gun", "Dragon Breath", "Iron Tail"],
+    "silver": ["Protect", "Flail", "Water Pulse", "Rain Dance", "Dragon Pulse"],
+    "gold": ["Curse", "Iron Head", "Body Slam", "Muddy Water", "Heavy Slam"],
+    "platinum": ["Counter", "Life Dew"],
+    "diamond": []
+  }
+}

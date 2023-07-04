@@ -1,0 +1,17 @@
+{
+  "number": 928,
+  "name": "Smoliv",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "1/3",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Tackle", "Sweet Scent", "Absorb", "Growth", "Razor Leaf"],
+    "silver": ["Helping Hand", "Flail", "Mega Drain", "Grassy Terrain", "Seed Bomb", "Energy Ball"],
+    "gold": ["Leech Seed", "Terrain Pulse"],
+    "platinum": ["Synthesis", "Memento", "Weather Ball"],
+    "diamond": []
+  }
+}
