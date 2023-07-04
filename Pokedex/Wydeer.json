@@ -1,0 +1,17 @@
+{
+  "number": 899,
+  "name": "Wydeer",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Tackle", "Psyshield Bash", "Leer", "Astonish", "Hypnosis"],
+    "silver": ["Sand Attack", "Take Down", "Confuse Ray", "Calm Mind", "Role Play"],
+    "gold": ["Zen Headbutt", "Imprison", "Double-Edge", "Megahorn"],
+    "platinum": ["Thrash", "Disable", "Double Kick"],
+    "diamond": []
+  }
+}
