@@ -1,0 +1,18 @@
+{
+  "number": 982,
+  "name": "Dudunsparce",
+  "base_hp": 7,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Defense Curl", "Flail", "Mud-Slap", "Rollout"],
+    "silver": ["Glare", "Screech", "Ancient Power", "Drill Run", "Yawn", "Hyper Drill", "Roost"],
+    "gold": ["Dragon Rush", "Coil", "Double-Edge", "Endeavor", "Hurricane", "Boomburst"],
+    "platinum": ["Bite", "Aqua Tail", "Last Resort"],
+    "diamond": []
+  }
+}
+
