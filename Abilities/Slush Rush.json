@@ -1,0 +1,5 @@
+{
+  "name": "Slush Rush",
+  "description": "This Pokemon is used to running and hunting on icy terrain, moving swiftly through the snow during blizzards and ice storms",
+  "effect": "If either Hail Weather or Snow Weather are in effect, increase 1 Point to the Dexterity Attribute of this Pokemon. The Pokemon is immune to damage from Hail Weather."
+}

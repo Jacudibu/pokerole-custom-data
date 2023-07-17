@@ -1,0 +1,5 @@
+{
+  "name": "Anger Shell",
+  "description": "When this pokemon's shell breaks, it's anger is almost palpable!",
+  "effect": "When this pokemon drops to or below half health, Defense and Special Defense lower by 1 while Strength, Special and Dexterity raise by 1."
+}
