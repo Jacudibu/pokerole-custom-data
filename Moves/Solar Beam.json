@@ -1,0 +1,11 @@
+{
+    "name": "Solar Beam",
+    "type": "Grass",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Charge Move. If there is a Sunny Weather, you skip this Move's Charge action. If performed under Rain, Sandstorm, Hail or Snow Weather, this Move takes two actions to Charge.",
+    "description": "The user focuses the sunlight it has absorbed into a powerful and devastating beam of light.",
+    "category": "Special"
+}
