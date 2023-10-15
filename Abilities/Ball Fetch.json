@@ -1,0 +1,5 @@
+{
+  "name": "Ball Fetch",
+  "description": "This pokemon is a bit obsessed with fetch. They can't help but grab up anything that's thrown.",
+  "effect": "Whenever this pokemon or an ally misses with a thrown item, the item automatically is added to this pokemon's inventory."
+}
