@@ -1,0 +1,17 @@
+{
+  "number": 958,
+  "name": "Tinkatuff",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Astonish", "Fairy Wind", "Baby-Doll Eyes", "Metal Claw"],
+    "silver": ["Covet", "Rock Smash", "Draining Kiss", "Sweet Kiss", "Brutal Swing", "Slam", "Flash Cannon", "Play Rough"],
+    "gold": ["Fake Out", "Flatter", "Skitter Smack", "Knock Off"],
+    "platinum": ["Feint", "Quash", "Ice Hammer"],
+    "diamond": []
+  }
+}
