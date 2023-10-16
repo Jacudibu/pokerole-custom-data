@@ -1,0 +1,6 @@
+{
+  "name": "Stat Changes",
+  "flavor": "Feeling weak... or... strong? I don't know how to feel.",
+  "text": "Stat changes done by different moves stack up to a maximum of +/- 3.\nCritical stat changes apply/reduce one additional stat point, but not past the limit! If it would boost multiple stats, you got to choose one which will receive the crit bonus.\nDefense cannot go below 0, combat stats can't go below 1.",
+  "example": ""
+}
