@@ -1,0 +1,7 @@
+{
+    "name": "Salac Berry",
+    "price": 80,
+    "description": "Temporarily raises Dexterity by 1 once consumed. Lasts for one encounter or one irp-hour.",
+    "category": "Consumable",
+    "single_use": true
+}
