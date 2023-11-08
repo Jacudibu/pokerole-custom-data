@@ -1,0 +1,18 @@
+{
+  "number": 678,
+  "api_id": 678,
+  "name": "Meowstic (Male)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Confusion", "Disarming Voice", "Fake Out", "Leer", "Magical Leaf", "Mean Look", "Scratch"],
+    "silver": ["Charge Beam", "Charm", "Covet", "Extrasensory", "Helping Hand", "Light Screen", "Psybeam", "Psyshock", "Reflect", "Role Play", "Stored Power", "Sucker Punch"],
+    "gold": ["Imprison", "Misty Terrain", "Psychic", "Quick Guard", "Shadow Ball"],
+    "platinum": ["Shock Wave", "Tickle", "Yawn"],
+    "diamond": []
+  }
+}
