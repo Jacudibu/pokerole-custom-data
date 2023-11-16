@@ -1,0 +1,17 @@
+{
+  "number": 937,
+  "name": "Ceruledge",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Leer", "Ember", "Astonish", "Clear Smog"],
+    "silver": ["Shadow Claw", "Fire Spin", "Will-O-Wisp", "Night Shade", "Flame Charge", "Incinerate", "Lava Plume"],
+    "gold": ["Swords Dance", "Ally Switch", "Bitter Blade", "Psycho Cut", "Flare Blitz"],
+    "platinum": ["Spite", "Destiny Bond"],
+    "diamond": []
+  }
+}

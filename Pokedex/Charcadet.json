@@ -1,0 +1,17 @@
+{
+  "number": 935,
+  "name": "Charcadet",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Leer", "Ember Astonish", "Clear Smog"],
+    "silver": ["Fire Spin", "Will-O-Wisp", "Night Shade", "Flame Charge"],
+    "gold": ["Incinerate", "Lava Plume"],
+    "platinum": ["Disable", "Spite"],
+    "diamond": []
+  }
+}
