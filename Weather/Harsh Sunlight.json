@@ -1,0 +1,5 @@
+{
+  "name": "Harsh Sunlight",
+  "description": "A harsh sunlight creates extreme heat through the battlefield, there is lava on the floor and some objects just burst into flames. You might need special equipment to go through this weather.",
+  "effect": "- All Fire-Type moves have 1 Extra Die to their Damage Pools.\n- All Water-Type Moves fail to be executed.\n- Add 2 dice to any roll of Chance Dice to Burn a foe.\n- No one can be affected by the Frozen Status Condition.\n- Sunny, Rain, Sandstorm and Hail Weather conditions fail to activate through any means."
+}

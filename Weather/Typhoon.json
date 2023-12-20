@@ -1,0 +1,5 @@
+{
+  "name": "Typhoon",
+  "description": "A great torrent quickly floods the field, in just a matter of seconds everything is underwater and you struggle to stay afloat trough the crashing waves around.",
+  "effect": "- All Water-Type moves have 1 Extra Die to their Damage Pools.\n- All Fire-Type Moves fail to be executed.\n- No one can be affected by the Burn Status Condition.\n- Moves that become Complete Heal with Sunny Weather will not restore any HP.\n- Sunny, Rain, Sandstorm and Hail Weather conditions fail to activate through any means."
+}
