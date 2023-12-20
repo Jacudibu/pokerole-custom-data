@@ -1,0 +1,7 @@
+{
+    "name": "Disabled",
+    "description": "Something is preventing you from using your attack!",
+    "resist": "Can't be resisted.",
+    "effect": "The subject cannot perform a disabled move. Only one move can be disabled per subject at a time.",
+    "duration": "Ranges from 5 Rounds to a Scene."
+}

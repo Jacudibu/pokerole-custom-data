@@ -1,0 +1,7 @@
+{
+    "name": "Sleep",
+    "description": "our eyes feel so heavy... maybe you should just... zzz...",
+    "resist": "If the subject is in Battle or under stress, roll its Insight at the beginning of its attempted action, the subject wakes up after adding up 5 successes. Doing this counts as an action.",
+    "effect": "The subject falls into a deep slumber and cannot perform any action until it wakes up.",
+    "duration": "5 Minutes"
+}

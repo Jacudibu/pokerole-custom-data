@@ -1,0 +1,7 @@
+{
+    "name": "Frozen Solid",
+    "description": "You’ve been trapped in a block of ice!",
+    "resist": "The block of ice has 5 HP with a Def & SpDef score of 2. At the end of the round the subject may try to break the Ice with a move. Moves that are super-effective against Ice types break it instantly.",
+    "effect": "The subject cannot perform any action. Ice-type Pokémon are immune.",
+    "duration": "Until the ice is broken or finally melts on its own after a few hours. The frozen subject will be found Fainted if left to thaw on its own."
+}
