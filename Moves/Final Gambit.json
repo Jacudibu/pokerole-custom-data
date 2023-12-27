@@ -1,6 +1,7 @@
 {
     "name": "Final Gambit",
     "type": "Normal",
+    "power": 0,
     "damage": "Special",
     "accuracy": "Dexterity",
     "target": "Foe",
