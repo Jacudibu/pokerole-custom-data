@@ -1,0 +1,7 @@
+{
+  "name": "Pixie Dust",
+  "price": 100,
+  "description": "Adds 1 damage die to Fairy-type moves",
+  "category": "HeldItem",
+  "single_use": false
+}
