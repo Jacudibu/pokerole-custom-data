@@ -1,0 +1,17 @@
+{
+  "number": 931,
+  "name": "Squawkabilly",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Growl", "Peck", "Mimic", "Quick Attack", "Torment"],
+    "silver": ["Aerial Ace", "Fury Attack", "Taunt", "Uproar", "Copycat", "Fly", "Facade"],
+    "gold": ["Swagger", "Brave Bird", "Roost", "Reversal"],
+    "platinum": ["Double-Edge", "Parting Shot", "Final Gambit"],
+    "diamond": []
+  }
+}

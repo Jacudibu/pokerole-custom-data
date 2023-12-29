@@ -1,0 +1,17 @@
+{
+  "number": 924,
+  "name": "Tandemaus",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Pound", "Baby-Doll Eyes", "Echoed Voice", "Helping Hand"],
+    "silver": ["Super Fang", "Double Hit", "Bullet Seed", "Encore", "Play Rough", "Hyper Voice", "Charm"],
+    "gold": ["Beat Up", "Copycat", "Population Bomb"],
+    "platinum": ["After You", "Switcheroo", "Tickle"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Prankster",
+  "description": "This Pokemon will always have a mischievous twinkle in its eye. No one will be safe from its pranks",
+  "effect": "Add Priority 1 to all Support moves used by this pokemon. Enemy Dark Type pokemon are immune to the effects of Support Moves from this pokemon."
+}

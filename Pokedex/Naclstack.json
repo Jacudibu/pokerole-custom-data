@@ -1,0 +1,17 @@
+{
+  "number": 933,
+  "name": "Naclstack",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "3/6",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Tackle", "Harden", "Rock Throw", "Mud Shot", "Smack Down", "Salt Cure"],
+    "silver": ["Rock Polish", "Headbutt", "Iron Defense", "Recover", "Rock Slide", "Stealth Rock", "Heavy Slam"],
+    "gold": ["Earthquake", "Stone Edge"],
+    "platinum": ["Curse", "Fissure", "Ancient Power"],
+    "diamond": []
+  }
+}

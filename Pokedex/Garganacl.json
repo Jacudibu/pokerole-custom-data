@@ -1,0 +1,17 @@
+{
+  "number": 935,
+  "name": "Garganacl",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "1/3",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Tackle", "Harden", "Rock Throw", "Mud Shot", "Smack Down", "Salt Cure", "Hammer Arm"],
+    "silver": ["Rock Polish", "Headbutt", "Iron Defense", "Recover", "Rock Slide", "Stealth Rock", "Heavy Slam"],
+    "gold": ["Earthquake", "Stone Edge", "Explosion"],
+    "platinum": ["Curse", "Fissure", "Ancient Power"],
+    "diamond": []
+  }
+}

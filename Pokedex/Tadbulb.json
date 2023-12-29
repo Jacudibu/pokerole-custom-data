@@ -1,0 +1,17 @@
+{
+  "number": 938,
+  "name": "Tadbulb",
+  "base_hp": 4,
+  "strength": "1/3",
+  "dexterity": "1/3",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Tackle", "Mud-Slap", "Thunder Shock"],
+    "silver": ["Water Gun", "Charge", "Spark", "Mud Shot", "Flail", "Discharge", "Weather Ball"],
+    "gold": ["Electric Terrain", "Sucker Punch", "Zap Cannon"],
+    "platinum": ["Muddy Water", "Parabolic Charge", "Soak"],
+    "diamond": []
+  }
+}

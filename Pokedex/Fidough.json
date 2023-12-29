@@ -1,0 +1,17 @@
+{
+  "number": 926,
+  "name": "Fidough",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Tackle", "Growl", "Tail Whip", "Covet"],
+    "silver": ["Bite", "Baby-Doll Eyes", "Play Rough", "Work Up", "Baton Pass", "Roar", "Double-Edge", "Charm"],
+    "gold": ["Crunch", "Last Resort"],
+    "platinum": ["Yawn", "Wish", "Sweet Scent"],
+    "diamond": []
+  }
+}

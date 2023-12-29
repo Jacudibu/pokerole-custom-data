@@ -1,0 +1,17 @@
+{
+  "number": 941,
+  "name": "Kilowattrel",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Peck", "Growl", "Thunder Shock", "Quick Attack", "Electro Ball"],
+    "silver": ["Pluck", "Spark", "Uproar", "Roost", "Dual Wingbeat", "Agility"],
+    "gold": ["Volt Switch", "Discharge", "Hurricane"],
+    "platinum": ["Weather Ball", "Feather Dance"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Cud Chew",
+  "description": "This pokemon can regurgitate whatever it last ate for just as much benefit! Yay?",
+  "effect": "After eating a berry, this pokemon will automatically eat it a second time at the end of next round."
+}

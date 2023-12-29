@@ -1,0 +1,17 @@
+{
+  "number": 939,
+  "name": "Bellibolt",
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Tackle", "Mud-Slap", "Thunder Shock"],
+    "silver": ["Water Gun", "Charge", "Spark", "Mud Shot", "Flail", "Discharge", "Weather Ball"],
+    "gold": ["Electric Terrain", "Sucker Punch", "Zap Cannon"],
+    "platinum": ["Muddy Water", "Parabolic Charge", "Soak"],
+    "diamond": []
+  }
+}
