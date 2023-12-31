@@ -1,0 +1,17 @@
+{
+  "number": 955,
+  "name": "Flittle",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/5",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Peck", "Growl", "Confusion", "Baby-Doll Eyes"],
+    "silver": ["Disarming Voice", "Quick Attack", "Psybeam", "Pluck", "Agility", "Uproar"],
+    "gold": [],
+    "platinum": ["Ally Switch", "Hypnosis", "Roost"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 970,
+  "name": "Glimmora",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Spiky Shield", "Toxic Spikes", "Mortal Spin", "Rock Throw", "Harden", "Smack Down", "Acid Spray"],
+    "silver": ["Ancient Power", "Rock Polish", "Stealth Rock", "Venoshock", "Sandstorm", "Self-Destruct", "Rock Slide"],
+    "gold": ["Power Gem", "Acid Armor", "Sludge Wave"],
+    "platinum": ["Explosion", "Memento", "Toxic"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 947,
+  "name": "Brambleghast",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Astonish", "Defense Curl", "Rollout", "Absorb", "Rapid Spin"],
+    "silver": ["Bullet Seed", "Infestation", "Hex", "Mega Drain", "Disable", "Phantom Force"],
+    "gold": ["Giga Drain", "Curse", "Pain Split", "Power Whip"],
+    "platinum": ["Leech Seed", "Strength Sap", "Shadow Sneak"],
+    "diamond": []
+  }
+}

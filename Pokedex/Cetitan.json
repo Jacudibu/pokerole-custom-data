@@ -1,0 +1,17 @@
+{
+  "number": 975,
+  "name": "Cetitan",
+  "base_hp": 9,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Tackle", "Powder Snow", "Growl", "Echoed Voice"],
+    "silver": ["Ice Shard", "Rest", "Take Down", "Flail", "Avalanche", "Bounce", "Body Slam"],
+    "gold": ["Amnesia", "Ice Spinner", "Double-Edge", "Blizzard"],
+    "platinum": ["Belly Drum", "Yawn", "Superpower"],
+    "diamond": []
+  }
+}

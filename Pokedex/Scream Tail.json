@@ -1,0 +1,17 @@
+{
+  "number": 985,
+  "name": "Scream Tail",
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": ["Pound", "Sing", "Disable", "Sunny Day", "Howl", "Noble Roar", "Bite", "Body Slam", "Rest", "Play Rough", "Hyper Voice", "Psychic Fangs", "Crunch", "Wish", "Gyro Ball", "Perish Song", "Boomburst"],
+    "platinum": [],
+    "diamond": []
+  }
+}

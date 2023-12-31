@@ -1,0 +1,17 @@
+{
+  "number": 950,
+  "name": "Klawf",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Vice Grip", "Rock Throw", "Harden", "Rock Smash"],
+    "silver": ["Rock Tomb", "Metal Claw", "Protect", "Rock Blast", "X-Scissor", "Swords Dance"],
+    "gold": ["Flair", "Rock Slide", "High Horsepower", "Iron Defense", "Guillotine"],
+    "platinum": ["Crabhammer", "Ancient Power", "Endeavor"],
+    "diamond": []
+  }
+}

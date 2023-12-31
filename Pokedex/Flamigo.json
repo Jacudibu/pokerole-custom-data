@@ -1,0 +1,17 @@
+{
+  "number": 973,
+  "name": "Flamigo",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Peck", "Copycat", "Double Kick", "Detect"],
+    "silver": ["Wing Attack", "Focus Energy", "Low Kick", "Feint", "Payback", "Roost", "Air Slash"],
+    "gold": ["Mega Kick", "Wide Guard", "Throat Chop", "Brave Bird"],
+    "platinum": ["Sky Attack", "Quick Guard", "Double Team"],
+    "diamond": []
+  }
+}

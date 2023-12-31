@@ -1,0 +1,17 @@
+{
+  "number": 945,
+  "name": "Grafaiai",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Scratch", "Leer", "Acid Spray", "Bite", "Fury Swipes", "Doodle"],
+    "silver": ["Switcheroo", "Poison Fang", "Flatter", "Slash", "U-turn", "Poison Jab", "Taunt", "Substitute"],
+    "gold": ["Knock Off", "Gunk Shot"],
+    "platinum": ["Copycat", "Swagger", "Toxic"],
+    "diamond": []
+  }
+}

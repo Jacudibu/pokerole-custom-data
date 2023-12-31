@@ -1,0 +1,17 @@
+{
+  "number": 965,
+  "name": "Varoom",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Lick", "Poison Gas", "Smog", "Taunt", "Assurance"],
+    "silver": ["Sludge", "Gyro Ball", "Headbutt", "Screech", "Iron Head", "Swagger", "Poison Jab"],
+    "gold": ["Uproar", "Spin Out", "Gunk Shot"],
+    "platinum": ["Self-Destruct", "Haze", "Parting Shot"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 986,
+  "name": "Brute Bonnet",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": ["Absorb", "Growth", "Astonish", "Sunny Day", "Stun Spore", "Mega Drain", "Synthesis", "Clear Smog", "Payback", "Thrash", "Giga Drain", "Sucker Punch", "Spore", "Ingrain", "Rage Powder", "Solar Beam"],
+    "platinum": [],
+    "diamond": []
+  }
+}

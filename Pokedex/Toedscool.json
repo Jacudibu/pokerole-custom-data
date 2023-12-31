@@ -1,0 +1,17 @@
+{
+  "number": 948,
+  "name": "Toedscool",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Wrap", "Mud Slap", "Absorb", "Poison Powder", "Stun Spore"],
+    "silver": ["Supersonic", "Tackle", "Mega Drain", "Screech", "Mud Shot", "Hex", "Seed Bomb", "Spore"],
+    "gold": ["Growth", "Giga Drain", "Earth Power", "Power Whip"],
+    "platinum": ["Leech Seed", "Rage Powder", "Toxic"],
+    "diamond": []
+  }
+}

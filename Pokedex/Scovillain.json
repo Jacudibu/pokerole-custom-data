@@ -1,0 +1,17 @@
+{
+  "number": 952,
+  "name": "Scovillain",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Fire Fang", "Spicy Extract", "Flamethrower", "Leafage", "Leer", "Bite", "Growth"],
+    "silver": ["Razor Leaf", "Sunny Day", "Bullet Seed", "Headbutt", "Zen Headbutt"],
+    "gold": ["Crunch", "Seed Bomb", "Solar Beam", "Overheat"],
+    "platinum": ["Ingrain", "Worry Seed", "Rage Powder"],
+    "diamond": []
+  }
+}

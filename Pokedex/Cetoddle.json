@@ -1,0 +1,17 @@
+{
+  "number": 974,
+  "name": "Cetoddle",
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Tackle", "Powder Snow", "Growl", "Echoed Voice"],
+    "silver": ["Ice Shard", "Rest", "Take Down", "Flail", "Avalanche", "Bounce", "Body Slam"],
+    "gold": ["Amnesia", "Ice Spinner", "Double-Edge", "Blizzard"],
+    "platinum": ["Belly Drum", "Yawn", "Superpower"],
+    "diamond": []
+  }
+}

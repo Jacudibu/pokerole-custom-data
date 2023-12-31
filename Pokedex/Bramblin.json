@@ -1,0 +1,17 @@
+{
+  "number": 946,
+  "name": "Bramblin",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Astonish", "Defense Curl", "Rollout", "Absorb", "Rapid Spin"],
+    "silver": ["Bullet Seed", "Infestation", "Hex", "Mega Drain", "Disable", "Phantom Force"],
+    "gold": ["Curse", "Pain Split", "Power Whip"],
+    "platinum": ["Leech Seed", "Strength Sap", "Shadow Sneak"],
+    "diamond": []
+  }
+}

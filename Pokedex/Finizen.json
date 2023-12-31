@@ -1,0 +1,17 @@
+{
+  "number": 963,
+  "name": "Finizen",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Water Gun", "Supersonic", "Astonish", "Focus Energy"],
+    "silver": ["Aqua Jet", "Double Hit", "Dive", "Charm", "Acrobatics", "Encore"],
+    "gold": ["Aqua Tail", "Mist", "Hydro Pump"],
+    "platinum": ["Bounce", "Counter", "Haze"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 979,
+  "name": "Annihilape",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Counter", "Fling", "Shadow Punch", "Scratch", "Leer", "Focus Energy", "Fury Swipes", "Low Kick"],
+    "silver": ["Seismic Toss", "Swagger", "Cross Chop", "Assurance", "Thrash", "Rage Fist"],
+    "gold": ["Close Combat", "Screech", "Stomping Tantrum", "Outrage", "Final Gambit"],
+    "platinum": ["Curse", "Spite", "Beat Up"],
+    "diamond": []
+  }
+}

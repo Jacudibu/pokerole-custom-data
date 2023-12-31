@@ -1,0 +1,17 @@
+{
+  "number": 951,
+  "name": "Capsakid",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Leafage", "Leer", "Bite", "Growth"],
+    "silver": ["Razor Leaf", "Sunny Day", "Bullet Seed", "Headbutt", "Zen Headbutt"],
+    "gold": ["Crunch", "Seed Bomb", "Solar Beam"],
+    "platinum": ["Ingrain", "Worry Seed", "Rage Powder"],
+    "diamond": []
+  }
+}

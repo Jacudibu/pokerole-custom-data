@@ -1,0 +1,17 @@
+{
+  "number": 962,
+  "name": "Bombirdier",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Wing Attack", "Leer", "Memento", "Hone Claws", "Thief"],
+    "silver": ["Rock Throw", "Whirlwind", "Pluck", "Torment", "Rock Tomb", "Payback"],
+    "gold": ["Dual Wingbeat", "Rock Slide", "Knock Off", "Parting Shot"],
+    "platinum": ["Power Trip", "Sucker Punch", "Sky Attack"],
+    "diamond": []
+  }
+}

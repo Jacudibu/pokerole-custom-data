@@ -1,0 +1,17 @@
+{
+  "number": 1007,
+  "name": "Koraidon",
+  "base_hp": 6,
+  "strength": "7/7",
+  "dexterity": "7/7",
+  "vitality": "6/6",
+  "special": "5/5",
+  "insight": "6/6",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": [],
+    "platinum": ["Sunny Day", "Breaking Swipe", "Rock Smash", "Ancient Power", "Drain Punch", "Brick Break", "Agility", "Dragon Claw", "Flamethrower", "Collision Course", "Screech", "Counter", "Outrage", "Close Combat", "Flare Blitz", "Giga Impact"],
+    "diamond": []
+  }
+}

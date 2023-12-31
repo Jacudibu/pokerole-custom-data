@@ -1,0 +1,17 @@
+{
+  "number": 987,
+  "name": "Flutter Man",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "3/7",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": ["Confuse Ray", "Spite", "Astonish", "Sunny Day", "Psybeam", "Mean Look", "Memento", "Wish", "Dazzling Gleam", "Shadow Ball", "Mystical Fire", "Power Gem", "Psyshock", "Phantom Force", "Pain Split", "Moonblast", "Perish Song"],
+    "platinum": [],
+    "diamond": []
+  }
+}

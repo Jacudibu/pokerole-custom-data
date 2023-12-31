@@ -1,0 +1,17 @@
+{
+  "number": 978,
+  "name": "Tatsugiri",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Water Gun", "Splash", "Harden"],
+    "silver": ["Helping Hand", "Water Pulse", "Soak", "Taunt", "Memento"],
+    "gold": ["Muddy Water", "Nasty Plot", "Mirror Coat", "Dragon Pulse"],
+    "platinum": ["Baton Pass", "Counter", "Rapid Spin"],
+    "diamond": []
+  }
+}

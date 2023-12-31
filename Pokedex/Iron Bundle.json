@@ -1,0 +1,17 @@
+{
+  "number": 991,
+  "name": "Iron Bundle",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "3/7",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": ["Present", "Electric Terrain", "Powder Snow", "Whirlpool", "Take Down", "Drill Peck", "Helping Hand", "Freeze-Dry", "Flip Turn", "Ice Beam", "Agility", "Snowscape", "Hydro Pump", "Aurora Veil", "Blizzard"],
+    "platinum": [],
+    "diamond": []
+  }
+}

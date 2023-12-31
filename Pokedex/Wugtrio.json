@@ -1,0 +1,17 @@
+{
+  "number": 961,
+  "name": "Wugtrio",
+  "base_hp": 3,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Water Gun", "Sand Attack", "Mud Slap", "Wrap"],
+    "silver": ["Aqua Jet", "Slam", "Water Pulse", "Headbutt", "Dig", "Sucker Punch", "Throat Chop"],
+    "gold": ["Liquidation", "Triple Dive"],
+    "platinum": ["Final Gambit", "Memento"],
+    "diamond": []
+  }
+}

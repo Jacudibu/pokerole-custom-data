@@ -1,0 +1,17 @@
+{
+  "number": 966,
+  "name": "Revavroom",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Magent Rise", "Gear Shift", "Lick", "Poison Gas", "Smog", "Taunt", "Assurance"],
+    "silver": ["Sludge", "Gyro Ball", "Headbutt", "Screech", "Iron Head", "Swagger", "Poison Jab"],
+    "gold": ["Uproar", "Spin Out", "Gunk Shot"],
+    "platinum": ["Self-Destruct", "Haze", "Parting Shot"],
+    "diamond": []
+  }
+}
