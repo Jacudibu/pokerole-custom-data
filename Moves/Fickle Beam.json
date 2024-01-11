@@ -1,0 +1,11 @@
+{
+  "name": "Fickle Beam",
+  "type": "Dragon",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "After rolling accuracy but before rolling damage, roll three chance dice. On a success, add 4 dice to the damage roll.",
+  "description": "The user fires a beam of draconic light at the foe. Sometimes, the beam strikes a bit harder than normal.",
+  "category": "Special"
+}

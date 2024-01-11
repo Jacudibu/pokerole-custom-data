@@ -1,0 +1,5 @@
+{
+  "name": "Embody Aspect",
+  "description": "When this pokemon terastalizes, it embodies the pure aspects of its mask.",
+  "effect": "This ability is gained when Ogerpon Terastalizes. It gains a boost depending on it's held mask:\n- Teal Mask: +1 Dex\n- Wellspring Mask: +1 SpDef\n- Hearthflame Mask: +1 Strength\n- Cornerstone Mask: +1 Defense"
+}

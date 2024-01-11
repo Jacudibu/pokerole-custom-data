@@ -1,0 +1,11 @@
+{
+  "name": "Hard Press",
+  "type": "Steel",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Vitality",
+  "target": "Foe",
+  "effect": "If the foe has a base HP higher than 3, add 1 damage dice for each point higher it has. Up to 9 damage dice can be added this way.",
+  "description": "The user aims to crush their foe, using their own weight against them.",
+  "category": "Physical"
+}

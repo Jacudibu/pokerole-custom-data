@@ -1,0 +1,11 @@
+{
+    "name": "Mighty Cleave",
+    "type": "Rock",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "This move ignores the effects of Shield moves.",
+    "description": "The user utilizes its incredible strength to cleave through even the mightiest of shields.",
+    "category": "Physical"
+}

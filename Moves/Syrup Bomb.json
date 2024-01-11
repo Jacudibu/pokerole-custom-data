@@ -1,0 +1,11 @@
+{
+  "name": "Syrup Bomb",
+  "type": "Grass",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "At the end of the next 3 rounds, reduce the targets Dexterity by 1 consecutively.",
+  "description": "The user rigs an explosive set with their own syrupy goop. As the syrup hardens, the afflicted feels more sticky and sluggish",
+  "category": "Special"
+}

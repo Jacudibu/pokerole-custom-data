@@ -1,0 +1,11 @@
+{
+  "name": "Malignant Chain",
+  "type": "Poison",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 5 chance die to Badly Poison the foe.",
+  "description": "The user strikes at a foe with a series of chains coated in toxic oils.",
+  "category": "Special"
+}

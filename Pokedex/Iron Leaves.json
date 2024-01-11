@@ -1,0 +1,17 @@
+{
+  "number": 1010,
+  "name": "Iron Leaves",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": ["Quick Attack", "Leer", "Helping Hand", "Work Up", "Electric Terrain", "Quash", "Magical Leaf", "Retaliate", "Quick Guard", "Night Slash", "Swords Dance", "Sacred Sword", "Leaf Blade", "Psyblade", "Close Combat", "Imprison", "Megahorn", "Ally Switch", "Solar Blade"],
+    "platinum": [],
+    "diamond": []
+  }
+}

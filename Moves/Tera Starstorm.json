@@ -1,0 +1,11 @@
+{
+  "name": "Tera Starstorm",
+  "type": "Normal",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If used by a Pokemon that is Steller type by terastalization, this move becomes Stellar type and targets all foes.",
+  "description": "The pokemon uses the awesome power of terastalization to fire a colorless beam of energy at the foe. The beam is spread if the pokemon is Stellar.",
+  "category": "Special"
+}

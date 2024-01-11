@@ -1,0 +1,5 @@
+{
+  "name": "Toxic Chain",
+  "description": "This pokemon wields a chain coated in harsh toxins, which is utilized in every attack.",
+  "effect": "Whenever this pokemon lands an attack, roll 3 Chance Dice to Badly Poison the foe."
+}

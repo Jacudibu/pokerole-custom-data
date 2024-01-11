@@ -1,0 +1,17 @@
+{
+  "number": 1020,
+  "name": "Gouging Fire",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": ["Stomp", "Leer", "Incinerate", "Sunny Day", "Ancient Power", "Double Kick", "Noble Roar", "Fire Fang", "Howl", "Bite", "Dragon Claw", "Crush Claw", "Morning Sun", "Burning Bulwark", "Dragon Rush", "Fire Blast", "Lava Plume", "Outrage", "Flare Blitz", "Raging Fury"],
+    "platinum": ["move1", "move2"],
+    "diamond": []
+  }
+}

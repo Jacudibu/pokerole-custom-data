@@ -1,0 +1,11 @@
+{
+  "name": "Thunderclap",
+  "type": "Electric",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Self",
+  "effect": "Priority 1. This move can be used after a foe rolls accuracy, but before they roll damage.",
+  "description": "A vigorous move that summons electrical energy around a foe before they can strike.",
+  "category": "Special"
+}

@@ -1,0 +1,17 @@
+{
+  "number": 1018,
+  "name": "Archaludon",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Hone Claws", "Leer","Metal Claw", "Electro Shot"],
+    "silver": ["Breaking Swipe", "Dragon Claw", "Dragon Tail", "Iron Defense", "Laser Focus", "Metal Sound"],
+    "gold": ["Flash Cannon", "Hyper Beam", "Metal Burst"],
+    "platinum": ["Draco Meteor", "Mirror Coat", "Steel Beam"],
+    "diamond": []
+  }
+}

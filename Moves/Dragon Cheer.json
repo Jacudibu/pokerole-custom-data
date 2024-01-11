@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Cheer",
+  "type": "Dragon",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Allies",
+  "effect": "Gives all affected allies attacking moves High Critical. If the affected ally is Dragon type, they only require one 6 on accuracy rolls to deal a Critical Strike.",
+  "description": "The user cheers for their allies, inspiring them to fight even harder than before.",
+  "category": "Support"
+}

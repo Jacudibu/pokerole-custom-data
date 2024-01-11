@@ -1,0 +1,11 @@
+{
+  "name": "Ivy Cudgel",
+  "type": "Grass",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Crit. This move's type becomes the same as the secondary type of the Ogerpon using it. If the pokemon who uses this move is not Ogerpon, the move remains Grass type.",
+  "description": "The user strikes the enemy incredibly hard with a mossy stick. Has a good chance of breaking through the enemy's defenses.",
+  "category": "Special"
+}

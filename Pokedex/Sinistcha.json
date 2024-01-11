@@ -1,0 +1,17 @@
+{
+  "number": 1013,
+  "name": "Sinistcha",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Astonish", "Withdraw", "Stun Spore", "Absorb", "Matcha Gotcha"],
+    "silver": ["Life Dew", "Foul Play", "Mega Drain", "Hex", "Rage Powder"],
+    "gold": ["Giga Drain", "Shadow Ball", "Memento", "Leaf Storm"],
+    "platinum": [],
+    "diamond": []
+  }
+}

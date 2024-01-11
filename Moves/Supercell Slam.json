@@ -1,0 +1,11 @@
+{
+  "name": "Supercell Slam",
+  "type": "Electric",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If this move fails to hit, roll 5 dice of damage on the user. -1 accuracy.",
+  "description": "The user unleashes a gigavolt that it aims to slam into its foe. The move archs back to the user if it fails to land however...",
+  "category": "Physical"
+}

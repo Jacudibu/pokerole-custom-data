@@ -1,0 +1,5 @@
+{
+  "name": "Mind's Eye",
+  "description": "This pokemon can view into the thoughts and tactics of anything and everything.",
+  "effect": "All attacks used by this Pokemon with no negative accuracy modifiers are guaranteed to hit. This Pokemon's accuracy cannot be lowered, and it can hit ghost-types with fighting and normal moves."
+}
