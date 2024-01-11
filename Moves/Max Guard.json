@@ -1,0 +1,11 @@
+{
+  "name": "Max Guard",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "Self",
+  "effect": "Shield move. This move replaces all support moves when Dynamaxed. Reduce all damage this pokemon would take by 5. Minimum damage is reduced to 0. This move ignores abilities or moves that can strike through Shield moves.",
+  "description": "The user puts its super-sized body on full defense, aiming to block incoming damage from any source.",
+  "category": "Support"
+}
