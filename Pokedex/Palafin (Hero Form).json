@@ -1,0 +1,18 @@
+{
+  "number": 964,
+  "name": "Palafin (Hero Form)",
+  "api_id": 10256,
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Jet Punch", "Flip Turn", "Water Gun", "Supersonic", "Astonish", "Focus Energy"],
+    "silver": ["Aqua Jet", "Double Hit", "Dive", "Charm", "Acrobatics", "Encore"],
+    "gold": ["Aqua Tail", "Mist", "Hydro Pump", "Focus Punch", "Wave Crash"],
+    "platinum": ["Bounce", "Counter", "Haze"],
+    "diamond": []
+  }
+}
