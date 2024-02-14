@@ -1,0 +1,11 @@
+{
+  "name": "Pain Split",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "Costs 1 Will to use. Roll 1 dice of damage on the foe for every point of difference between the user's current HP and the foe's current HP. The user regains HP equal to half the damage dealt, rounded down. Ignores defenses.",
+  "description": "The user shares it's pain with the foe.",
+  "category": "Support"
+}

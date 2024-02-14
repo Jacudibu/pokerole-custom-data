@@ -1,0 +1,7 @@
+{
+    "name": "Bitmel Berry",
+    "price": 150,
+    "description": "Eating this Berry will grant Burn immunity for 1 scene.",
+    "category": "Berry",
+    "single_use": true
+}
