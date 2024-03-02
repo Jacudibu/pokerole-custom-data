@@ -1,0 +1,5 @@
+{
+  "name": "Battle Armor",
+  "description": "The skin of the Pokemon is covered by plates of a very resistant material, like rock, steel, or an exoskeleton.",
+  "effect": "If a Foe lands a Critical Hit on this Pokemon, it will not receive the 1.5 damage multiplier to damage."
+}

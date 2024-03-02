@@ -1,0 +1,5 @@
+{
+  "name": "Shell Armor",
+  "description": "This Pokemon's shell protects its vulnerable spots from its opponents.",
+  "effect": "If a Foe lands a Critical Hit on this Pokemon, it will not receive the 1.5 damage multiplier to damage."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rollout",
+  "type": "Rock",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Successive Actions. Add Extra Dice equal to the amount of prior hits to the Damage Pool. If the User is under the effect of Defense Curl, add 1 Extra Die to the Damage Pool. -1 Accuracy.",
+  "description": "The user curls up into a ball and starts rolling towards its foe, trampling everything in its way.",
+  "category": "Physical"
+}

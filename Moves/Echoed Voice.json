@@ -1,0 +1,11 @@
+{
+  "name": "Echoed Voice",
+  "type": "Normal",
+  "power": 1,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Successive Actions. Sound Based. Add Extra Dice equal to the amount of prior hits to the Damage Pool.",
+  "description": "The user shouts loudly and the echo answers back, it will yell louder every time the echo talks back.",
+  "category": "Special"
+}

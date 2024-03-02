@@ -1,0 +1,11 @@
+{
+  "name": "Toxic",
+  "type": "Poison",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Badly Poison the Foe. -1 Accuracy if the user is not a poison type.",
+  "description": "With a disgusting diet and training, the user learns how to turn its fluids into a deadly toxin.",
+  "category": "Support"
+}

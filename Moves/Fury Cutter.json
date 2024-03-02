@@ -1,0 +1,11 @@
+{
+  "name": "Fury Cutter",
+  "type": "Bug",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Successive Actions. Add Extra Dice equal to the amount of prior hits to the Damage Pool.",
+  "description": "The Pokemon makes use of its claws or scythes to land as many hits as possible.",
+  "category": "Physical"
+}

@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Special",
   "target": "Foe",
-  "effect": "Sound based. If the user raised their stats this turn, they become confused.",
+  "effect": "Sound based. If the target raised their stats this turn, they become confused.",
   "description": "The user draws the foe in with an alluring song, compelling them to attack themselves with their own boosts.",
   "category": "Special"
 }

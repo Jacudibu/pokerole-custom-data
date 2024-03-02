@@ -1,0 +1,11 @@
+{
+  "name": "Perish Song",
+  "type": "Normal",
+  "power": 0,
+  "damage": 0,
+  "accuracy": "Beauty",
+  "target": "Foe",
+  "effect": "After three rounds, the target is dealt damage equal to its remaining HP plus 1 Wound. -2 Accuracy. Sound Based.",
+  "description": "A song of mourning and despair that resonates on the minds of anyone who listens. Makes you feel like you are on your death bed.",
+  "category": "Support"
+}
