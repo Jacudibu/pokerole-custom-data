@@ -1,0 +1,11 @@
+{
+    "name": "Grassy Terrain",
+    "type": "Grass ",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special ",
+    "target": "Battlefield",
+    "effect": "For the Next 4 Rounds all Grass Attacks will deal 1 Extra Die of Damage. Anyone on the ground will heal 1 HP at the end of each round. Only applies the healing under stress.",
+    "description": "The Pokemon calls upon the healing power of nature to grow a patch of miraculous grass on its side of the battlefield.",
+    "category": "Support"
+}
