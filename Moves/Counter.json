@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Insight",
   "target": "Foe",
-  "effect": "This Move can only deal damage if the Foe has dealt Physical Damage to the User this Round. Deal the same damage dealt to the user +1",
-  "description": "The user prepares to receive damage, then returns the same damage and more.",
+  "effect": "This Move can only deal damage if the Foe has dealt Physical Damage to the User this Round. Deal the same damage dealt to the user +2, ignoring Defenses.",
+  "description": "The user prepares to receive damage then returns it in kind!",
   "category": "Physical"
 }
