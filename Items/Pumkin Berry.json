@@ -1,7 +1,7 @@
 {
     "name": "Pumkin Berry",
     "price": 150,
-    "description": "Eating this Berry will grant Freeze immunity for 1 scene.",
+    "description": "Eating this Berry will grant Frostbite immunity for 1 scene.",
     "category": "Berry",
     "single_use": true
 }

@@ -1,0 +1,7 @@
+{
+    "name": "Aspear Berry",
+    "price": 50,
+    "description": "Eating this Berry will cure Frostbite.",
+    "category": "Berry",
+    "single_use": true
+}
