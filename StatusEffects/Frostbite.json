@@ -1,0 +1,7 @@
+{
+    "name": "Frostbite",
+    "description": "Like a burn... But the opposite!",
+    "resist": "Cannot be resisted.",
+    "effect": "Inflict 1 point of damage at the end of each Round and  reduce the subject's Special by 1. Ice-type Pokémon are immune.",
+    "duration": "Until you receive medical attention, use a Frostbite curing item or finish the quest/spar."
+}
