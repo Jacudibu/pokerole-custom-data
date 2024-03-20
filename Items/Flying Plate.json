@@ -1,0 +1,6 @@
+{
+  "name": "Flying Plate",
+  "description": "Add 1 flat damage to Flying type attacks.",
+  "category": "HeldItem",
+  "single_use": false
+}

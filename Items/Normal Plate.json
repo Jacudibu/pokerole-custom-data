@@ -1,0 +1,6 @@
+{
+  "name": "Normal Plate",
+  "description": "Add 1 flat damage to Normal type attacks.",
+  "category": "HeldItem",
+  "single_use": false
+}

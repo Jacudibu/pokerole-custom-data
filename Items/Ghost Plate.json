@@ -1,0 +1,6 @@
+{
+  "name": "Ghost Plate",
+  "description": "Add 1 flat damage to Ghost type attacks.",
+  "category": "HeldItem",
+  "single_use": false
+}

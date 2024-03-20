@@ -1,0 +1,11 @@
+{
+  "name": "Max Flare",
+  "type": "Fire",
+  "power": "Source Move + 2",
+  "damage": "Strength/Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "This move replaces all fire type moves when Dynamaxed. Creates Sunny weather for 5 turns.",
+  "description": "A super-sized attack that has the Dynamaxed Pokemon summoning a fireball in the sky to rain down fire on the foe.",
+  "category": "Special/Physical"
+}

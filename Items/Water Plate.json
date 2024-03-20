@@ -1,0 +1,6 @@
+{
+    "name": "Water Plate",
+    "description": "Add 1 flat damage to Water type attacks.",
+    "category": "HeldItem",
+    "single_use": false
+}

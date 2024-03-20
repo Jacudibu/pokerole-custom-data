@@ -1,0 +1,6 @@
+{
+    "name": "Rock Plate",
+    "description": "Add 1 flat damage to Rock type attacks.",
+    "category": "HeldItem",
+    "single_use": false
+}

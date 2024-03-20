@@ -1,0 +1,11 @@
+{
+  "name": "Max Rockfall",
+  "type": "Rock",
+  "power": "Source Move + 2",
+  "damage": "Strength/Special",
+  "accuracy": "Vitality",
+  "target": "Foe",
+  "effect": "This move replaces all rock type moves when Dynamaxed. Creates Sandstorm weather for 5 turns.",
+  "description": "A super-sized attack that has the Dynamaxed Pokemon dropping a massive boulder on the opposition.",
+  "category": "Special/Physical"
+}

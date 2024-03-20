@@ -1,0 +1,6 @@
+{
+  "name": "Psychic Plate",
+  "description": "Add 1 flat damage to Psychic type attacks.",
+  "category": "HeldItem",
+  "single_use": false
+}

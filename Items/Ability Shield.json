@@ -1,0 +1,6 @@
+{
+  "name": "Ability Shield",
+  "description": "User cannot have their ability changed by others.",
+  "category": "HeldItem",
+  "single_use": false
+}

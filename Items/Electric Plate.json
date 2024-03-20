@@ -1,0 +1,6 @@
+{
+    "name": "Electric Plate",
+    "description": "Add 1 flat damage to Electric type attacks.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Bug Plate",
+  "description": "Add 1 flat damage to Bug type attacks.",
+  "category": "HeldItem",
+  "single_use": false
+}

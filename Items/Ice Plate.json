@@ -1,0 +1,6 @@
+{
+    "name": "Ice Plate",
+    "description": "Add 1 flat damage to Ice type attacks.",
+    "category": "HeldItem",
+    "single_use": false
+}

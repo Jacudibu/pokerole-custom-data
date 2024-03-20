@@ -1,0 +1,6 @@
+{
+  "name": "Dark Plate",
+  "description": "Add 1 flat damage to Dark type attacks.",
+  "category": "HeldItem",
+  "single_use": false
+}

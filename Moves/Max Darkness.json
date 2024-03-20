@@ -1,0 +1,11 @@
+{
+  "name": "Max Darkness",
+  "type": "Dark",
+  "power": "Source Move + 1",
+  "damage": "Strength/Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "This move replaces all dark type moves when Dynamaxed. Reduce all opponents Special Defense by 1 stage",
+  "description": "A super-sized attack that has the Dynamaxed Pokemon summoning a dark cloud to dull the opponent's senses.",
+  "category": "Special/Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Max Overgrowth",
+  "type": "Grass",
+  "power": "Source Move + 2",
+  "damage": "Strength/Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "This move replaces all grass type moves when Dynamaxed. Summons Grassy Terrain for 5 turns.",
+  "description": "A super-sized attack that has the Dynamaxed Pokemon summoning a mass of gigantic roots from the ground to strike the foe.",
+  "category": "Special/Physical"
+}
