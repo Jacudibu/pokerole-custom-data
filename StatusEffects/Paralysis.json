@@ -2,6 +2,6 @@
     "name": "Paralysis",
     "description": "Your muscles are cramped and you can hardly move!",
     "resist": "Can’t be resisted.",
-    "effect": "You don't roll initiative anymore - it's just your flat Dexterity. Before each action, roll 1d6. On a 1, you fail to execute it.",
+    "effect": "You don't roll initiative anymore - it's just your flat Dexterity. Before each action, roll 1d6. On a 1, you fail to execute it. Electric-type Pokèmon are immune.",
     "duration": "24 hours."
 }

@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Special",
   "target": "Foe",
-  "effect": "Lowers the target's Strength by 1",
+  "effect": "Roll 3 chance dice to inflict the target with Frostbite. Add 3 damage dice if the target already has a status ailment.",
   "description": "The user harnesses all of its anger and hatred upon the enemy, causing mental damage and forcing them into a sheepish state.",
   "category": "Special"
 }
