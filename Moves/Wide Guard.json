@@ -1,0 +1,11 @@
+{
+  "name": "Wide Guard",
+  "type": "Rock",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User and Allies",
+  "effect": "Reaction. Shield Move. Reduce the damage the pokemon would take from a damaging move by 3. Reduces minimum damage to 0.",
+  "description": "The Pokemon uses its whole body to provide coverage and protection to its allies against an incoming attack.",
+  "category": "Support"
+}

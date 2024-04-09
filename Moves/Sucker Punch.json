@@ -1,0 +1,11 @@
+{
+  "name": "Sucker Punch",
+  "type": "Dark",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reaction. This move can only be used after the Target rolls a damaging move.",
+  "description": "While the foe is preparing its attack, the user takes advantage and strikes.",
+  "category": "Physical"
+}

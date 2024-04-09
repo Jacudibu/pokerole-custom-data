@@ -1,0 +1,11 @@
+{
+  "name": "Detect",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage the pokemon would take from a damaging move by 3. Reduces minimum damage to 0. Negate effects of Support Moves that target the user.",
+  "description": "The user detects the intentions of the attacker and acts out to minimize the damage.",
+  "category": "Support"
+}
