@@ -1,0 +1,11 @@
+{
+  "name": "Protect",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Ally",
+  "effect": "Reaction. Shield Move. Redirect all moves targeting the target of this move to the user until their next turn. Reduce 5 damage from the attacks that hit as a result of redirection, reducing to 0 if applicable.",
+  "description": "The user creates an energy shield to deflect blows meant for an ally.",
+  "category": "Support"
+}

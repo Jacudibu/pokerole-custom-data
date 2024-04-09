@@ -1,0 +1,7 @@
+{
+    "name": "Enigma Berry",
+    "price": 300,
+    "description": "Decreases damage from any attack by 5 to a minimum of 0 damage. Consumed as reaction to a damage roll.",
+    "category": "Berry",
+    "single_use": true
+}
