@@ -1,0 +1,6 @@
+{
+  "name": "Apple",
+  "description": "Can be eaten while resting inside a Mystery Dungeon to restore 50% HP (rounded up) and 1 Will.",
+  "category": "Consumable",
+  "single_use": true
+}
