@@ -1,0 +1,11 @@
+{
+  "name": "Refresh",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Self",
+  "effect": "The User cures itself from Poison, Burn, Frostbite or Paralysis.",
+  "description": "The Pokemon takes a few seconds to cool down and get back into shape.",
+  "category": "Support"
+}
