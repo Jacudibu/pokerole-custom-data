@@ -1,0 +1,8 @@
+{
+  "name": "Babiri Berry",
+  "price": 200,
+  "description": "Decreases damage from Steel-type attacks by 5, to a minimum of 0 damage. Consumed as reaction to a damage roll.",
+  "category": "Consumable",
+  "single_use": true
+}
+
