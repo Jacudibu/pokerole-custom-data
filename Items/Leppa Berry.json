@@ -1,0 +1,7 @@
+{
+    "name": "Leppa Berry",
+    "price": 200,
+    "description": "Eating this Berry restores 2 Will.",
+    "category": "Berry",
+    "single_use": true
+}

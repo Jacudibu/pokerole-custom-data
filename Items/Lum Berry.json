@@ -1,0 +1,7 @@
+{
+    "name": "Lum Berry",
+    "price": 150,
+    "description": "Eating this Berry will cure one chosen status ailment.",
+    "category": "Berry",
+    "single_use": true
+}
