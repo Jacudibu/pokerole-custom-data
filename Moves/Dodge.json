@@ -5,7 +5,7 @@
     "damage": "",
     "accuracy": "Dexterity",
     "target": "Self",
-    "effect": "All enemy moves targeting the user have -(number of successes on this Accuracy roll) Accuracy until the end of the turn. You may use this action at any time during the turn (after priority moves), but using it in order to dodge an enemy attack after they have already done their accuracy roll is not possible.",
+    "effect": "Every success from this accuracy roll counts as a point of reduced accuracy on the Move targeting the user. To dodge you must spend a point of Evasion, this can be executed at any time as long as you have at least one point of Evasion active and only effects a singular move targeting the user. You can alternatively  sacrifice your full action to use this move.",
     "description": "The user focuses on their enemies' movements in an attempt to avoid their attacks.",
     "category": "Support"
 }

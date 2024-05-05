@@ -1,11 +1,11 @@
 {
   "name": "Mirror Coat",
   "type": "Psychic",
-  "power": 0,
+  "power": 2,
   "damage": "",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "This Move can only deal damage if the Foe has dealt Special Damage to the User this Round. Deal the same damage dealt to the user +2, ignoring Defenses.",
+  "effect": "Reaction. This move can only deal damage if the Foe has dealt Special Damage to the User this Round. Deal the same damage dealt to the User +2, ignoring Defenses.",
   "description": "The user canalizes the damage received by energies and bounces them back to their source.",
   "category": "Special"
 }

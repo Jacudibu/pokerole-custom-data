@@ -1,0 +1,7 @@
+{
+    "name": "Rampage",
+    "description": "Throw caution to the wind and smack em until you can barely move!",
+    "resist": "Can't resist.",
+    "effect": "For up to three turns use the last Move used on random foes. Once 3 turns are up, you gain the Confused status. If interrupted by an outside source, the status is cancelled.",
+    "duration": "Until the source says, scene end or a mental herb is used!"
+}

@@ -1,11 +1,11 @@
 {
   "name": "Counter",
   "type": "Fighting",
-  "power": 0,
+  "power": 2,
   "damage": "",
   "accuracy": "Insight",
   "target": "Foe",
-  "effect": "This Move can only deal damage if the Foe has dealt Physical Damage to the User this Round. Deal the same damage dealt to the user +2, ignoring Defenses.",
-  "description": "The user prepares to receive damage then returns it in kind!",
+  "effect": "Reaction. This move can only deal damage if the Foe has dealt Physical Damage to the User this Round. Deal the same damage dealt to the User +2, ignoring Defenses.",
+  "description": "The pokemon prepares to receive damage then returns it in kind!",
   "category": "Physical"
 }
