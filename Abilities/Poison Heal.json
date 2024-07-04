@@ -1,0 +1,5 @@
+{
+  "name": "Poison Heal",
+  "description": "The Pokemon has an immunity to any poison and also assimilates that venom as an energy source.",
+  "effect": "If this Pokemon becomes poisoned or badly poisoned, whenever you would receive damage from these statuses, instead gain 1 HP."
+}

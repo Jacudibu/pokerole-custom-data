@@ -1,0 +1,7 @@
+{
+    "name": "Drowsy",
+    "description": "our eyes feel so heavy... maybe you should just... zzz... WHA?! Wait! Don't fall asleep!",
+    "resist": "Use an action to make a roll of Insight. Add up the successes of these rolls until you get an overall total of 5 to clear the status.",
+    "effect": "The effected pokemon's Defense and Special Defense is lowered by 1, stacking on top of the usual +/-3. Additionally, they take +1 minimum damage from all attacking moves.",
+    "duration": "5 minutes."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Toxic Orb",
+  "description": "When carried as an held item, this inflicts the user with Badly Poisoned, including out of battle.",
+  "category": "HeldItem",
+  "single_use": true
+}
