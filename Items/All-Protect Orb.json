@@ -1,0 +1,6 @@
+{
+  "name": "All-Protect Orb",
+  "description": "Activates the effects of the move Protect on the user and allies.",
+  "category": "Orb",
+  "single_use": true
+}

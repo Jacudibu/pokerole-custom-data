@@ -1,0 +1,6 @@
+{
+  "name": "Weather Lock Orb",
+  "description": "Clears weather and prohibits changes to the weather for the rest of the scene.",
+  "category": "Orb",
+  "single_use": true
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Snatch Orb",
+    "description": "Makes the user use the move Snatch.",
+    "category": "Orb",
+    "single_use": true
+}

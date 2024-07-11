@@ -1,0 +1,6 @@
+{
+    "name": "Slow Orb",
+    "description": "Reduces target's Dexterity by 1.",
+    "category": "Orb",
+    "single_use": true
+}

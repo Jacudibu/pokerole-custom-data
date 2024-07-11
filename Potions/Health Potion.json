@@ -1,9 +1,0 @@
-{
-  "name": "Healing Potion",
-  "description": "A thick, red liquid. It tastes just as sweet as it smells! Drinking it will not only make you feel revitalized, but even heal some of your wounds!",
-  "effect": "Every charge heals 1 HP and 1 Wound Damage.",
-  "recipes": [
-    "2 Oran Berry -> 1 Charge",
-    "1 Oran Berry + 1 Sitrus Berry -> 3 Charges"
-  ]
-}

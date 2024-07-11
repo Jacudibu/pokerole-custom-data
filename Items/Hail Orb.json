@@ -1,0 +1,6 @@
+{
+    "name": "Hail Orb",
+    "description": "Summons either Hail or Snow weather for 4 rounds, user's choice.",
+    "category": "Orb",
+    "single_use": true
+}

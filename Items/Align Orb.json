@@ -1,0 +1,6 @@
+{
+  "name": "Align Orb",
+  "description": "Raises the user's current HP to be equal to the highest on the party or as close as their maximum HP allows.",
+  "category": "Orb",
+  "single_use": true
+}

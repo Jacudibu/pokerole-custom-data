@@ -1,0 +1,9 @@
+{
+  "name": "Handmade Healing Juice",
+  "description": "A thick, red liquid which anyone can make on the fly. It tastes just as sweet as it smells! Drinking it will not only make you feel revitalized, but even heal some of your wounds! Less effective than professionally-made potions.",
+  "effect": "Every charge heals 1 HP",
+  "recipes": [
+    "2 Oran Berry -> 1 Charge",
+    "1 Oran Berry + 1 Sitrus Berry -> 3 Charges"
+  ]
+}

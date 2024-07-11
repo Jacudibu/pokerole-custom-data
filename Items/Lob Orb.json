@@ -1,0 +1,6 @@
+{
+  "name": "Lob Orb",
+  "description": "Deals 5 undefendable damage to one target.",
+  "category": "Orb",
+  "single_use": true
+}

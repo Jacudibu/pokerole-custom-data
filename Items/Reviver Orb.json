@@ -1,0 +1,6 @@
+{
+  "name": "Reviver Orb",
+  "description": "Revives the user to full HP after fainting unless they fainted by the move Explosion.",
+  "category": "Orb",
+  "single_use": true
+}

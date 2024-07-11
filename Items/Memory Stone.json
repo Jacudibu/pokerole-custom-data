@@ -1,0 +1,6 @@
+{
+    "name": "Memory Stone",
+    "description": "Raises the user's active move limit by 2 while equipped. If this item is unequipped, the user chooses what 2 moves are removed from the active move list. Cannot be equipped mid-quest.",
+    "category": "HeldItem",
+    "single_use": false
+}

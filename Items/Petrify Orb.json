@@ -1,0 +1,6 @@
+{
+  "name": "Petrify Orb",
+  "description": "Applies Paralysis to one target.",
+  "category": "Orb",
+  "single_use": true
+}

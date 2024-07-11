@@ -1,0 +1,11 @@
+{
+  "name": "Curse",
+  "type": "Ghost",
+  "power": 0,
+  "damage": " ",
+  "accuracy": "Will + Rank",
+  "target": "Foe",
+  "effect": "User deals Damage to itself equal to Half of its total HP rounded down. Roll Damage equal to a Quarter of the User's total max HP (up to 5) against the foe at the end of each Round.",
+  "description": "The user mutters words that become an evil incantation, the curse may only be lifted by a medium or through divine intervention.",
+  "category": "Support"
+}

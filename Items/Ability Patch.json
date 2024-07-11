@@ -1,0 +1,6 @@
+{
+    "name": "Ability Patch",
+    "description": "Let's the user set a second active ability while equipped. Moves and Abilities that would effect the user's ability only effect a single one and is done at random.",
+    "category": "HeldItem",
+    "single_use": false
+}

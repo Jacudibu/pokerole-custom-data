@@ -1,0 +1,6 @@
+{
+  "name": "Switcher Orb",
+  "description": "Makes the user use the move Ally Switch.",
+  "category": "Orb",
+  "single_use": true
+}
