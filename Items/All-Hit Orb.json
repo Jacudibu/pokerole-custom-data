@@ -1,0 +1,6 @@
+{
+  "name": "All-Hit Orb",
+  "description": "Adds High Critical to the user and allies.",
+  "category": "Orb",
+  "single_use": true
+}
