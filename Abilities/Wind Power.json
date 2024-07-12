@@ -1,5 +1,5 @@
 {
   "name": "Wind Power",
   "description": "Yeah so that thing about windmills? Basically that but like... Not at all.",
-  "effect": "When hit by a Wind move or when Tailwind takes effect, this pokemon is affected as if by the move Charge. These moves include:\n- Air Cutter\n- Bleakwind Storm\n- Blizzard\n- Fairy Wind\n -Gust\n -Heat Wave\n -Hurricane\n -Icy Wind\n -Petal Blizzard\n -Sandsear Storm\n -Sandstorm\n -Springtide Storm\n -Tailwind\n -Twister\n -Whirlwind\n -Wildbolt Storm"
+  "effect": "When hit by a Wind move or when Tailwind takes effect, this pokemon is affected as if by the move Charge. These moves include:\n- Air Cutter\n- Bleakwind Storm\n- Blizzard\n- Fairy Wind\n- Gust\n- Heat Wave\n- Hurricane\n- Icy Wind\n- Petal Blizzard\n- Sandsear Storm\n- Sandstorm\n- Springtide Storm\n- Tailwind\n- Twister\n- Whirlwind\n- Wildbolt Storm"
 }
