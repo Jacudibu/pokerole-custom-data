@@ -8,9 +8,6 @@ jobs:
   prettier:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,3 +23,4 @@ jobs:
           # This part is also where you can pass other options, for example:
           prettier_options: --write **/*.json
           only_changed: True
+          github_token: ${{ secrets.PRETTIER_ACCESS_TOKEN }}
