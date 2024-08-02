@@ -1,0 +1,6 @@
+{
+  "name": "Fairy Gem",
+  "description": "Adds 2 damage dice to Fairy type moves. Will be immediately consumed on move use",
+  "category": "HeldItem",
+  "single_use": true
+}

@@ -1,8 +1,9 @@
 {
   "name": "Simple Life Potion",
-  "description": "A simple brew made with berries that soothes injuries. Doesn't really have much of a taste, and it's a bit thick.",
+  "description": "A simple brew made with berries which soothes injuries. Doesn't really have much of a taste, and it's a bit thick.",
   "effect": "Heal 2 HP per charge",
   "recipes": [
+    "85 <:poke_coin:1120237132200546304> -> 1 Charge",
     "200 <:poke_coin:1120237132200546304> -> 3 Charges",
     "4 Oran Berries -> 3 Charges",
     "1 Oran Berries + 1 Sitrus Berries -> 3 Charges"

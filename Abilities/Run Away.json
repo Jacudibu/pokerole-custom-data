@@ -1,0 +1,5 @@
+{
+  "name": "Run Away",
+  "description": "This Pokemon is a master of escape. It will be difficult to catch and can even squeeze through the tiniest gaps to get away.",
+  "effect": "This Pokemon cannot be Blocked. The damage over time effects of binding moves like Whirlpool, Infestation, Wrap, Fire Spin etc. do not trigger for this Pokemon."
+}

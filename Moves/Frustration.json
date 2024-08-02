@@ -1,0 +1,11 @@
+{
+  "name": "Frustration",
+  "type": "Normal",
+  "power": 5,
+  "damage": "Strength - Rank",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "",
+  "description": "A move that relies on how badly a Pokemon has been treated to make it vicious and uncaring.",
+  "category": "Physical"
+}

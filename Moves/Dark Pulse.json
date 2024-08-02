@@ -1,0 +1,11 @@
+{
+  "name": "Dark Pulse",
+  "type": "Dark",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Roll 2 Chance Dice to Flinch the foe.",
+  "description": "The Pokemon sends a wave of dark feelings that affect those who are most vulnerable, hurting the foe and leaving it unable to act.",
+  "category": "Special"
+}

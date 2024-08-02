@@ -1,0 +1,11 @@
+{
+    "name": "Return",
+    "type": "Normal",
+    "power": 0,
+    "damage": "Strength + Rank",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "",
+    "description": "If the Pokemon is treated with care and love, it will return that affection by giving all it's got in battle.",
+    "category": "Physical"
+}
