@@ -1,6 +1,7 @@
 {
   "number": 903,
   "name": "Sneasler",
+  "evolves_from_override": 10235,
   "base_hp": 5,
   "strength": "4/8",
   "dexterity": "3/7",

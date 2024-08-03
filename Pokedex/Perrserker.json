@@ -1,0 +1,18 @@
+{
+  "number": 863,
+  "name": "Perrserker",
+  "evolves_from_override": 10161,
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Metal Burst", "Iron Defense", "Fake Out", "Growl", "Hone Claws", "Scratch", "Iron Head"],
+    "silver": ["Pay Day", "Metal Claw", "Taunt", "Swagger", "Fury Swipes", "Screech"],
+    "gold": ["Slash", "Metal Sound", "Thrash"],
+    "platinum": ["Double-Edge", "Swords Dance", "Throat Chop"],
+    "diamond": []
+  }
+}

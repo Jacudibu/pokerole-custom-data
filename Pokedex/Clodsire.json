@@ -1,6 +1,7 @@
 {
   "number": 980,
   "name": "Clodsire",
+  "evolves_from_override": 10253,
   "base_hp": 7,
   "strength": "2/5",
   "dexterity": "1/2",
