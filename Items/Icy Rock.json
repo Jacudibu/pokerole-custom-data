@@ -1,0 +1,6 @@
+{
+    "name": "Icy Rock",
+    "description": "Hail and Snowscape caused by the user lasts for 7 turns.",
+    "category": "HeldItem",
+    "single_use": false
+}

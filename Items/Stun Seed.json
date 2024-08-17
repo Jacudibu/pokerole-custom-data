@@ -1,0 +1,6 @@
+{
+  "name": "Stun Seed",
+  "description": "Make a Dexterity + Rank roll to shoot these seeds into your foe's mouth. Inflict the Paralysis Condition.",
+  "category": "Consumable",
+  "single_use": true
+}

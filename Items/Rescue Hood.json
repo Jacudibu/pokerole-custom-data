@@ -1,0 +1,6 @@
+{
+    "name": "Rescue Hood",
+    "description": "The effect of HP recovery moves used on allies are increased by 2.",
+    "category": "HeldItem",
+    "single_use": false
+}

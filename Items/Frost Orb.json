@@ -1,0 +1,6 @@
+{
+    "name": "Frost Orb",
+    "description": "Inflicts the user with Frostbite when held.",
+    "category": "HeldItem",
+    "single_use": false
+}
