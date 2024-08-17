@@ -1,0 +1,6 @@
+{
+  "name": "Terastallization",
+  "flavor": "Become Shiny!",
+  "text": "Terastallization is a skill that can be used by pokemon to change their type, allowing those under its effect to gain STAB from this new type along with their previous type(s) (double STAB if it's a tera of one of their original types). This type change also changes their defensive type matchups to only the Tera type. To activate a tera charge you have, you can call it either at initiative or the start of your turn as a free action. Tera charges are expended when used on a quest and do not replenish until the start of a new month which the bot will mention in the bot-action-log. Tera charges used in spars are not expended. You gain a Tera charge by using a Tera Orb and notifying an admin. You gain Tera Orbs either via quest rewards or other means.",
+  "example": "A Magnemite uses Thunder on a Skarmory dealing Super Effective damage. Scared by the strong hit, the Skarmory terastallizes into a Ground-Type, making itself immune from next on oncoming Thunder. The Skarmory then follows it up with a STAB Drill Run thanks to it's tera type."
+}
