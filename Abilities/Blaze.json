@@ -1,0 +1,5 @@
+{
+  "name": "Blaze",
+  "description": "The Fire on this Pokemon's body will burn incredibly fierce just before fading.",
+  "effect": "When this Pokemon's HP is at half or less, Fire-Type Moves will deal 1 extra damage to their attacks."
+}
