@@ -1,6 +1,0 @@
-{
-  "name": "Ignores Defense",
-  "flavor": "The Trojan Horse of attacks.",
-  "text": "Moves tagged with 'Ignores Defense' work as you'd expect by the name; they ignore the Defense and Special Defense of their target. However these moves do come with a couple other caveats. Ignores Defense moves do not gain STAB, Super Effective or Resistances and cannot Critical Hit no matter how many 6s you roll on accuracy. These moves however still abide by Type immunities, so no using Circle Throw on a ghost Type\nThese attributes however do not apply to moves that ignore raised defense like Sacred sword. They do though apply to any Z-Move using the Ignores Defenses tag.",
-  "example": "A Banette and Gardevoir are in a battle with each other. The Banette opens up with Nightshade, rolling 4 successes on the damage roll. Despite Ghost-type being Super Effective again Psychic-types and the three sixes rolled in their accuracy, this attack only does 4 damage to the Gardevoir. The Gardevoir however counters with the move Mirror Coat, dealing the same damage plus two right back at the Banette thanks to it's effect. The Gardevoir however does not add +1 damage from STAB."
-}

@@ -1,6 +1,0 @@
-{
-  "name": "Levels and Ranks",
-  "flavor": "Now, would you look at this shiny badge?",
-  "text": "A level up always requires 100 Experience Points. Experience is gained by going on quests and joining in on events, depending on duration and difficulty/danger levels! For each level up, you gain 1 Stat point, which you may freely spend to increase your stats (see Limit Breaking in case you are maxed out.)\nYou'll gain one combat stat point to allocate for each level up!\n\nFurthermore, Levels decide your guild rank and when you can evolve:\nLevel 2 => Silver\nLevel 3 => Evo #1\nLevel 4 => Gold\nLevel 6 => Evo #2\nLevel 8 => Platinum\nLevel 16 => Diamond\n\nBesides the extra die for all the `+ Rank` accuracy rolls, you'll gain 2 social stat points for each rank up!",
-  "example": ""
-}
