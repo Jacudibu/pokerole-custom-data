@@ -1,0 +1,17 @@
+{
+  "number": 129,
+  "name": "Magikarp",
+  "base_hp": 42,
+  "strength": "8/10",
+  "dexterity": "7/10",
+  "vitality": "6/10",
+  "special": "5/10",
+  "insight": "4/10",
+  "moves": {
+    "bronze": ["Splash"],
+    "silver": ["Tackle"],
+    "gold": ["Flail"],
+    "platinum": ["Bounce"],
+    "diamond": ["Hyper Beam"]
+  }
+}

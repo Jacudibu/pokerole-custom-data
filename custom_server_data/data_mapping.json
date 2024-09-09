@@ -1,5 +1,11 @@
 [
   {
+    "name": "Test Server",
+    "path": "test_server",
+    "server_id": 1115690620342763645,
+    "fallback_id": 0
+  },
+  {
     "name": "Project Chimera",
     "path": "project_chimera",
     "server_id": 1278200775960694815,
