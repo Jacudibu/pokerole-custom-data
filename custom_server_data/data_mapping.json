@@ -2,6 +2,7 @@
   {
     "name": "Explorers of the Sea",
     "path": "explorers_of_the_sea",
-    "server_id": 1113123066059436093
+    "server_id": 1113123066059436093,
+    "fallback_id": 0
   }
 ]
