@@ -1,0 +1,5 @@
+{
+    "name": "Sharpness",
+    "description": "This pokemon uses blades that can only be called truly razor sharp!",
+    "effect": "Slicing moves deal one additional damage."
+}
