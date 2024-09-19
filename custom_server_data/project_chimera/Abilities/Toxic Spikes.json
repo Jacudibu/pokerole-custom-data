@@ -1,0 +1,9 @@
+{
+    "name": "Toxic Spikes",
+    "type": "Poison",
+    "accuracy": "Dexterity",
+    "target": "Foe's Battlefield",
+    "effect": "Hazard. Sets up Poison Spikes on the opponent's battlefield. When triggered roll 3 chance dice to poison the foe. Further triggers will cause a single chance die to be rolled to upgrade the poison to Badly Poisoned. This has no effect on Flying types, Steel types, Poison Types or Pokemon with the ability Levitate. Poison types may also use an action to instantly clear Toxic Spikes from their side of the Battlefield!",
+    "description": "The pokemon sets up a layer of caltrops coated in poison. Accidentally stepping on one serves as a surefire way to get poisoned.",
+    "category": "Support"
+  }
