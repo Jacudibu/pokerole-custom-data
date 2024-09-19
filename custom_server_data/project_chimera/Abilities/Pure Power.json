@@ -1,0 +1,5 @@
+{
+    "name": "Pure Power",
+    "description": "The pokemon has an unnatural source of strength beyond its physical appearance.",
+    "effect": "This Pokemon has a permanent increase to their Strength equal to half their Rank, rounded up."
+}
