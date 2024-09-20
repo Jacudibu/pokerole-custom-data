@@ -1,0 +1,16 @@
+{
+    "number": 234,
+    "name": "Stantler",
+    "base_hp": 5,
+    "strength": "3/6",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+      "bronze": ["Astonish", "Leer", "Tackle", "Take Down"],
+      "silver": ["Calm Mind", "Confuse Ray", "Hypnosis", "Me First", "Role Play", "Sand Attack", "Stomp", "Zen Headbutt"],
+      "gold": ["Captivate", "Imprison", "Jump Kick"],
+      "platinum": ["Disable", "Megahorn", "Thrash"]
+    }
+  }
