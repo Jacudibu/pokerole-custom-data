@@ -1,9 +1,0 @@
-{
-    "name": "Stealth Rocks",
-    "type": "Rock",
-    "accuracy": "Dexterity",
-    "target": "Foe's Battlefield",
-    "effect": "Hazard. Deals 1 Damage when the foe swaps targets with an Attacking Move, this is upgraded to 2 damage if the foe is weak to Rock type attacks.",
-    "description": "A trap of floating rocks are scattered around the battlefield, making movement difficult without getting hurt.",
-    "category": "Support"
-  }
