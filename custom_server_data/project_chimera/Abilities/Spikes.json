@@ -1,9 +1,0 @@
-{
-  "name": "Spikes",
-  "type": "Ground",
-  "accuracy": "Dexterity",
-  "target": "Foe's Battlefield",
-  "effect": "Hazard. Sets up Spikes on the opponent's battlefield. When triggered this deals 1 damage. Add additional damage to this for each layer of Spikes. Additional Layers can be set with a Bonus Action of Dexterity+Rank, needing 5 successes for the second. And another 15 for the third layer.",
-  "description": "The pokemon sets up a layer of sharp caltrops on the field, serving as a sufficient trap to inhibit movement.",
-  "category": "Support"
-}
