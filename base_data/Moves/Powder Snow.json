@@ -1,0 +1,11 @@
+{
+     "name": "Powder Snow",
+     "type": "Ice",
+     "power": 2,
+     "damage": "Special",
+     "accuracy": "Dexterity",
+     "target": "All Foes",
+     "effect": "Roll 3 chance dice to Frostbite each affected foe.",
+     "description": "The user summons in a chilly wind full of snow. This snow frosts over anything it touches.",
+     "category": "Special"
+    }

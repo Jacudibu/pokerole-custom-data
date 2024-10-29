@@ -1,7 +1,7 @@
 {
     "name": "Flinched",
-    "description": "You want to react but your body disagrees!",
-    "resist": "Can’t be resisted.",
-    "effect": "The subject's next move has -2 Accuracy.",
-    "duration": "1 Action."
+    "description": "You want to react but your body disagrees",
+    "resist": "Can not be resisted",
+    "effect": "The subject's next action has an additional negative accuracy modifier equal to their rank modifier.",
+    "duration": "Lasts for 1 action."
 }

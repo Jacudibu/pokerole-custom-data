@@ -1,0 +1,11 @@
+{
+    "name": "Feint",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Reaction. This move is used in reaction to a Shield Move however full team shields do not trigger this. Whatever Shield Move was used to trigger this attack is targeted by this move and then nullified for the rest of the turn. This can be used like a normal move that isn't effected by the redirection of Protect.",
+    "description": "The Pokemon feints a strike then hits for real even if the foe attempts to protect itself.",
+    "category": "Physical"
+  }
