@@ -1,0 +1,5 @@
+{
+    "name": "Stance Change",
+    "description": "This Pokemon can change forms and become a mighty shield or a powerful blade. It's attributes switch upon a change of stance.",
+    "effect": "Only Aegislash may use this Ability. When using an Attacking move, you will change to Blade form; When using a Shield move, you will change to Shield form.\nShield Form uses Aegislash's base stats as normal. Blade Form will use the Vitality stat for Strength rolls, the Insight stat for Special rolls and vice versa. Defense and Special Defense are also calculated using Strength and Special respectively while in Blade Form. HP, move pool maximum and Will points do not change with this shift in form  "
+}

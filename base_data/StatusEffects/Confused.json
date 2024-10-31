@@ -1,7 +1,7 @@
 {
     "name": "Confused",
-    "description": "You can't tell friend from foe. They are just looking all the same to you!",
-    "resist": "See duration.",
-    "effect": "The subject has to pick their target(s) randomly after picking a move, which includes themselves.",
-    "duration": "Roll Insight at the start of the turn. Once you have a total of 6 successes, your character snaps out of it."
+    "description": "You can't tell friend from foe. They all look the same to you!",
+    "resist": "Roll Insight at the start of the afflicted's turn. After 6 successes, they snap out of it.",
+    "effect": "When confused, select a move and target, then roll a single dice. On a success (4+) the move hits as normal. On a fail, select a random target beside your original target, including allies and yourself. Damage dealt while confused is halved, rounded up.",
+    "duration": "Automatically snaps out of it after 4 turns."
 }

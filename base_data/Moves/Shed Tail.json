@@ -4,8 +4,8 @@
   "power": 0,
   "damage": "",
   "accuracy": "Dexterity",
-  "target": "Self + Ally",
-  "effect": "The user deals 4 damage to themself and set up a decoy with 2 HP. The decoy has the same defense as the user, and will take damage for the selected ally. When the decoy's HP is depleted, the Ally can be targeted again. Decoy cannot be affected by support moves",
-  "description": "The user sheds its tail off, and crafts it into a makeshift dummy to protect an ally.",
+  "target": "User + Ally",
+  "effect": "Deal 6 Damage to the user and set a decoy with 4 HP and the same Defenses as the user. All moves targeting the selected ally are redirected to the decoy. If the decoy's HP is depleted, it disappears and the ally comes back into the fight. Decoy can only be affected by damaging moves. Sound based moves ignore the decoy.",
+  "description": "The user sheds it's tail off and crafts it into a makeshift dummy to protect an ally.",
   "category": "Support"
 }

@@ -1,0 +1,6 @@
+{
+    "name": "Life Orb",
+    "description": "All moves deal 2 extra damage but will now have the Recoil effect. This only applies to the first target of Mult-Target moves and the first hit of Successive Action moves.",
+    "category": "HeldItem",
+    "single_use": false
+}

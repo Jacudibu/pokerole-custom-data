@@ -1,0 +1,11 @@
+{
+    "name": "Substitute",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "User",
+    "effect": "Deal 4 Damage to the user and set a decoy with 4 HP and the same Defenses as the user. All moves targeting the user are redirected to the decoy. If the decoy's HP is depleted, it disappears and the user comes back into the fight. Decoy can only be affected by damaging moves. Sound based moves ignore the decoy.",
+    "description": "The pokemon disappears in a poof of smoke. When the smoke vanishes, an object identical to the user remains in it's place to shield it from harm. It looks amazingly real!",
+    "category": "Support"
+  }
