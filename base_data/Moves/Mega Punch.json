@@ -1,0 +1,11 @@
+{
+  "name": "Mega Punch",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity + Rank",
+  "target": "Foe",
+  "effect": "Fist Based. -1 Accuracy.",
+  "description": "The Pokemon throws a mega potent hook towards the foe's face.",
+  "category": "Physical"
+}
