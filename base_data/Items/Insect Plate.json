@@ -1,0 +1,6 @@
+{
+    "name": "Insect Plate".
+    "description": "Adds 1 flat bonus damage to Bug type moves. If held by Arceus, change its type to Bug. A mere replica of the real thing, yet it still courses with the power of growth.",
+    "category": "HeldItem",
+    "single_use": false,
+}
