@@ -7,5 +7,5 @@
   "target": "All Foes",
   "effect": "Reduce the Dexterity of those affected.",
   "description": "The user stomps and tramples the place, breaking stones, trees, and everything nearby.",
-  "category": "Special/Physical/Support"
+  "category": "Physical"
 }
