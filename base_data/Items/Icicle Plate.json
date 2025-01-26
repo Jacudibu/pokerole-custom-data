@@ -1,0 +1,6 @@
+{
+    "name": "Icicle Plate".
+    "description": "Adds 1 flat bonus damage to Ice type moves. If held by Arceus, change its type to Ice. A mere replica of the real thing, yet it still courses with a rigid power.",
+    "category": "HeldItem",
+    "single_use": false,
+}
