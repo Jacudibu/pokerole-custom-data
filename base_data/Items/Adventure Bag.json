@@ -1,0 +1,6 @@
+{
+    "name": "Adventure Bag",
+    "description": "A bag commissioned for each and every member of a guild. These don't inherently need to be bags and can instead be whatever the owner wants for item storage on an adventure.",
+    "category": "KeyItem",
+    "single_use": false,
+}
