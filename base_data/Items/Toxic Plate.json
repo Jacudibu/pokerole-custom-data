@@ -1,0 +1,6 @@
+{
+    "name": "Toxic Plate".
+    "description": "Adds 1 flat bonus damage to Poison type moves. If held by Arceus, change its type to Poison. A mere replica of the real thing, yet it still courses with a venomous power.",
+    "category": "HeldItem",
+    "single_use": false,
+}
