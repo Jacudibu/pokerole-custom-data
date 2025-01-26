@@ -1,0 +1,6 @@
+{
+    "name": "Dread Plate".
+    "description": "Adds 1 flat bonus damage to Dark type moves. If held by Arceus, change its type to Dark. A mere replica of the real thing, yet it still courses with a sinister power.",
+    "category": "HeldItem",
+    "single_use": false,
+}
