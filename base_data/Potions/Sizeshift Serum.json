@@ -1,0 +1,8 @@
+{
+  "name": "Sizeshift Serum",
+  "description": "A brew thats a little bit bitter and salty. Somehow magical, despite the horrid taste. Safe to ingest, but you'll probably want a palate cleanser after.",
+  "effect": "When consumed, you unlock the ability to increase or decrease your size (within the +/- 33% scale) at will while in a safe area. During combat, at GM's Discretion, you may change size under stress at the cost of an Action.",
+  "recipes": [
+    "1000 Poké -> 1 Full Use"
+  ]
+}
