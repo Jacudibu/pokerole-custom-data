@@ -1,0 +1,6 @@
+{
+    "name": "Assault Mail",
+    "description": "Increase Defense by 1. But the user cannot use support moves.",
+    "category": "HeldItem",
+    "single_use": false,
+}
