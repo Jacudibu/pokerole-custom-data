@@ -1,0 +1,11 @@
+{
+  "name": "Sky Uppercut",
+  "type": "Fighting",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Can hit Aerial targets using Fly, Bounce or Sky Drop. -1 Accuracy.",
+  "description": "The user attacks with an uppercut so high, it can even hit those above.",
+  "category": "Physical"
+}
