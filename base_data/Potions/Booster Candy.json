@@ -1,0 +1,8 @@
+{
+  "name": "Booster Candy",
+  "description": "A round, red candy. Has a strong, but energizing, taste.",
+  "effect": "Consumable. When used, raises a chosen stat (between Strength, Dexterity, Special, Defense, and Special Defense) by 1 for the duration of the scene. Does not stack with itself or other Stat-Raising Berries.",
+  "recipes": [
+    "Any 3 Stat-Raising Berries -> 1 Candy",
+  ]
+}
