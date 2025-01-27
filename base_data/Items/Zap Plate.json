@@ -1,5 +1,5 @@
 {
-    "name": "Zap Plate".
+    "name": "Zap Plate",
     "description": "Adds 1 flat bonus damage to Electric type moves. If held by Arceus, change its type to Electric. A mere replica of the real thing, yet it still courses with an energetic power.",
     "category": "HeldItem",
     "single_use": false,
