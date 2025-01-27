@@ -1,5 +1,5 @@
 {
-    "name": "Mind Plate".
+    "name": "Mind Plate",
     "description": "Adds 1 flat bonus damage to Psychic type moves. If held by Arceus, change its type to Psychic. A mere replica of the real thing, yet it still courses with a thoughtful power.",
     "category": "HeldItem",
     "single_use": false,
