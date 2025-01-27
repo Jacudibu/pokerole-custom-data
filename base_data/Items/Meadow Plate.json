@@ -1,5 +1,5 @@
 {
-    "name": "Meadow Plate".
+    "name": "Meadow Plate",
     "description": "Adds 1 flat bonus damage to Grass type moves. If held by Arceus, change its type to Grass. A mere replica of the real thing, yet it still courses with a soothing power.",
     "category": "HeldItem",
     "single_use": false,
