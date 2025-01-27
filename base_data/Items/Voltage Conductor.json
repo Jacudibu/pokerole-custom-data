@@ -2,5 +2,5 @@
     "name": "Voltage Conductor",
     "description": "Electric-Type attacks ignore Ground-Type's immunity.",
     "category": "HeldItem",
-    "single_use": false,
+    "single_use": false
 }

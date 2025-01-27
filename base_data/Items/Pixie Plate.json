@@ -2,5 +2,5 @@
     "name": "Pixie Plate",
     "description": "Adds 1 flat bonus damage to Fairy type moves. If held by Arceus, change its type to Fairy. A mere replica of the real thing, yet it still courses with a bright power.",
     "category": "HeldItem",
-    "single_use": false,
+    "single_use": false
 }

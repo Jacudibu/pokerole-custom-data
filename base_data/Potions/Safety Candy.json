@@ -3,6 +3,6 @@
   "description": "A white, round candy. It melts in your mouth with a creamy flavor, and lasts for a pretty good while.",
   "effect": "Consumable. When used, grants immunity to a chosen status effect (from Burn, Confuse, Sleep, Paralysis, or Infatuation) for 1 scene.",
   "recipes": [
-    "Any 3 Immunity-Granting Berries -> 1 Candy",
+    "Any 3 Immunity-Granting Berries -> 1 Candy"
   ]
 }

@@ -2,5 +2,5 @@
     "name": "Badge",
     "description": "A badge denoting the owner's membership to a guild. It opens up like a locket, the inside detailing their name and other important information along with a button for emergency signals. The outside material of this badge changes in response to the owner's strength.",
     "category": "KeyItem",
-    "single_use": false,
+    "single_use": false
 }

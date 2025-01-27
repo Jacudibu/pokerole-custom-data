@@ -2,5 +2,5 @@
     "name": "Custap Berry",
     "description": "Eating this berry raises the Priority of the user's next move by 1. Can be eaten at Initiative.",
     "category": "Berry",
-    "single_use": true,
+    "single_use": true
 }

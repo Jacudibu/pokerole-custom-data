@@ -2,5 +2,5 @@
     "name": "Cold Iron Grills",
     "description": "Dragon-Type attacks ignore Fairy-Type's immunity.",
     "category": "HeldItem",
-    "single_use": false,
+    "single_use": false
 }

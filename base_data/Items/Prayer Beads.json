@@ -2,5 +2,5 @@
     "name": "Prayer Beads",
     "description": "Fighting-Type attacks ignore Ghost-Type's immunity.",
     "category": "HeldItem",
-    "single_use": false,
+    "single_use": false
 }

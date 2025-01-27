@@ -2,5 +2,5 @@
     "name": "Salt Shaker",
     "description": "Normal-Type attacks ignore Ghost-Type's immunity.",
     "category": "HeldItem",
-    "single_use": false,
+    "single_use": false
 }

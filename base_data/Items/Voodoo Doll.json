@@ -2,5 +2,5 @@
     "name": "Voodoo Doll",
     "description": "Psychic-Type attacks ignore Dark-Type's immunity.",
     "category": "HeldItem",
-    "single_use": false,
+    "single_use": false
 }

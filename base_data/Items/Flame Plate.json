@@ -2,5 +2,5 @@
     "name": "Flame Plate",
     "description": "Adds 1 flat bonus damage to Fire type moves. If held by Arceus, change its type to Fire. A mere replica of the real thing, yet it still courses with an intense power.",
     "category": "HeldItem",
-    "single_use": false,
+    "single_use": false
 }
