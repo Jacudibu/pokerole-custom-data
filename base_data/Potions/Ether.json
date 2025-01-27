@@ -1,0 +1,10 @@
+{
+  "name": "Ether",
+  "description": "An energizing potion. This brown brew tastes pretty plain, which may be a blessing in disguise, but it helps restore a bit of mental fatigue.",
+  "effect": "When consumed, restores 1 Will and 1 HP per charge.",
+  "recipes": [
+    "215 :poke_coin: -> 1 Charge",
+    "400 :poke_coin: -> 3 Charges",
+    "1 Leppa Berry + 2 Oran Berries-> 3 charges",
+  ]
+}
