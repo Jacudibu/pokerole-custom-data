@@ -3,7 +3,7 @@
   "type": "Steel",
   "power": 2,
   "damage": "Strength",
-  "accuracy": "Dexterity + Rank",
+  "accuracy": "Dexterity",
   "target": "Foe",
   "effect": "Double Action. Fist Based. Roll 3 Chance Dice to Flinch the Foe.",
   "description": "The user hardens its limbs and then rotates them at great speed to hit the foe twice in a row. The blow can leave the victim crushed on the floor.",
