@@ -1,5 +1,5 @@
 {
-    "name": "Earth Plate".
+    "name": "Earth Plate",
     "description": "Adds 1 flat bonus damage to Ground type moves. If held by Arceus, change its type to Ground. A mere replica of the real thing, yet it still courses with an adaptable power.",
     "category": "HeldItem",
     "single_use": false,
