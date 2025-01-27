@@ -3,7 +3,7 @@
   "type": "Fighting",
   "power": 4,
   "damage": "Strength",
-  "accuracy": "Strength + Rank",
+  "accuracy": "Strength",
   "target": "Foe",
   "effect": "Fist Based. Reduce User's Dexterity. -1 Accuracy.",
   "description": "A mighty arm thrust that leaves the user quite tired.",
