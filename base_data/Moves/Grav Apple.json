@@ -1,0 +1,11 @@
+{
+  "name": "Grav Apple",
+  "type": "Grass",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Reduce the Foe's Defense. +1 Power in Gravity",
+  "description": "The pokemon rises on top of it's foe and drops an apple on their head. The foe proceeds to eat the apple, distracting it from the fight.",
+  "category": "Physical"
+}
