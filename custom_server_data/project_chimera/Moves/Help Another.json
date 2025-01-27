@@ -1,7 +1,7 @@
 {
     "name": "Help Another",
     "type": "Typeless",
-    "accuracy": "Social Stat",
+    "accuracy": "",
     "target": "One Ally",
     "effect": "Choose a Social Stat for this move upon use, that is used for the Accuracy Dice. If successful add one die to the Action of an Ally. Up to 6 dice may be added this way.",
     "description": "Do something helpful for a friend!",
