@@ -1,0 +1,11 @@
+{
+  "name": "Snore",
+  "type": "Normal",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "This move can only be used if the user is Drowsy or while under the effects of Rest. Roll 3 Chance Dice to flinch the foe. Sound Based.",
+  "description": "The user dozes off for a moment and let's out an ear splitting snore.",
+  "category": "Special"
+}

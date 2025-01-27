@@ -1,0 +1,11 @@
+{
+  "name": "Panacea",
+  "description": "A concoction of mixed berries that can both be consumed and used as a rubbing ointment. The taste... leaves a lot to be desired.",
+  "effect": "Cure a chosen status and heal 1 HP per used charge.",
+  "recipes": [
+    "165 :poke_coin: -> 1 Charge",
+    "300 :poke_coin: -> 3 Charges",
+    "Any 3 Status-Curing Berries -> 3 Charges",
+    "1 Lum + 1 Status Berry -> 3 Charges"
+  ]
+}

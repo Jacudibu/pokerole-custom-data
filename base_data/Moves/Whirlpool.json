@@ -1,0 +1,11 @@
+{
+  "name": "Whirlpool",
+  "type": "Water",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Block. Automatic Critical Hit on Submerged targets using Dive. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.",
+  "description": "Trap the foe inside a violent swirling vortex of water that makes the target unable to escape from battle.",
+  "category": "Special"
+}

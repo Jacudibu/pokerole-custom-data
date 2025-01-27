@@ -1,0 +1,11 @@
+{
+  "name": "Thunder",
+  "type": "Electric",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Can hit Aerial targets using Fly, Bounce or Sky Drop. Roll 3 Chance Dice to Paralyze foe. If performed under Sunny Weather, Accuracy becomes -3 instead. If performed under Rain Weather, Ignore this Moves Reduced Accuracy. -2 Accuracy.",
+  "description": "The Pokemon commands a tremendous lightning to strike a specific point on the ground. It's quite dangerous.",
+  "category": "Special"
+}

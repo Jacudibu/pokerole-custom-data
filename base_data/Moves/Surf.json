@@ -1,0 +1,11 @@
+{
+  "name": "Surf",
+  "type": "Water",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Automatic Critical Hit on Submerged targets using Dive.",
+  "description": "The user summons a giant wave, surfing atop it.",
+  "category": "Special"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Earth Guardian Totem",
+    "description": "Ground-Type attacks ignore Flying-Type's immunity.",
+    "category": "HeldItem",
+    "single_use": false
+}

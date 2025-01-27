@@ -1,0 +1,6 @@
+{
+    "name": "Acid Vial",
+    "description": "Poison-Type attacks ignore Steel-Type's immunity.",
+    "category": "HeldItem",
+    "single_use": false
+}

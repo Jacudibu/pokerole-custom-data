@@ -1,0 +1,5 @@
+{
+    "name": "Pickup",
+    "description": "This Pokémon has a knack for finding objects while out and about that others tend to miss.",
+    "effect": "At the end of a scene, at GM discretion (such as after completing a battle, or at the end of the quest), roll 2d6. The reward table for this move can be found using the /rule command."
+}

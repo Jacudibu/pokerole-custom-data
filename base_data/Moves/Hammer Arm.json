@@ -1,0 +1,11 @@
+{
+  "name": "Hammer Arm",
+  "type": "Fighting",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Strength + Rank",
+  "target": "Foe",
+  "effect": "Fist Based. Reduce User's Dexterity. -1 Accuracy.",
+  "description": "A mighty arm thrust that leaves the user quite tired.",
+  "category": "Physical"
+}

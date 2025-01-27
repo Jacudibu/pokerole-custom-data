@@ -1,0 +1,11 @@
+{
+  "name": "Sleep Talk",
+  "type": "Normal",
+  "power": "",
+  "damage": "",
+  "accuracy": "",
+  "target": "Random Foe",
+  "effect": "This move is only usable while under the effects of Drowsy or Rest. Randomly select a move other than Sleep Talk, if it is a damaging move, it gains +2 Power for this round.",
+  "description": "The user dozes off for a moment and uses a move at random in their stupor.",
+  "category": "Support"
+}

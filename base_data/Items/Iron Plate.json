@@ -1,0 +1,6 @@
+{
+    "name": "Iron Plate",
+    "description": "Adds 1 flat bonus damage to Steel type moves. If held by Arceus, change its type to Steel. A mere replica of the real thing, yet it still courses with a protective power.",
+    "category": "HeldItem",
+    "single_use": false
+}

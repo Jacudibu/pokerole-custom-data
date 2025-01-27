@@ -1,0 +1,11 @@
+{
+  "name": "U-turn",
+  "type": "Bug",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "User gains +1 evasion until their next action.",
+  "description": "The user strikes their foe, before quicky darting backward to put a safe distance between them.",
+  "category": "Physical"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Regenerator",
+    "description": "The body of this Pokemon will regenerate from damage really quick, wounds that would take days to heal will get better in a few hours.",
+    "effect": "This Pokemon may Heal up to 4 Damage or up to 2 Wounds as a Free Action once per Scene."
+}

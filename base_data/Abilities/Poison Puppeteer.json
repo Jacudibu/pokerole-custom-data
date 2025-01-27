@@ -1,0 +1,5 @@
+{
+    "name": "Poison Puppeteer",
+    "description": "This pokemon's toxins are strong enough to leave it's victims delirious, almost as if they're in a trance.",
+    "effect": "Any target afflicted with the Poisoned or Badly Poisoned status by this pokemon are also afflicted by the Confused status."
+}

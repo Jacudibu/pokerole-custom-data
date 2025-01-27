@@ -1,0 +1,11 @@
+{
+  "name": "Parting Shot",
+  "type": "Dark",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "Foe",
+  "effect": "Reduce the target's Strength and Special by 1. User gains +1 evasion until their next action.",
+  "description": "The pokemon intimidates and terrifies the foe, leaving it too shaken up to follow up an attack.",
+  "category": "Support"
+}

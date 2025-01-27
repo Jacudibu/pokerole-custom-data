@@ -1,0 +1,6 @@
+{
+    "name": "Ouija Board",
+    "description": "Ghost-Type attacks ignore Normal-Type's immunity.",
+    "category": "HeldItem",
+    "single_use": false
+}
