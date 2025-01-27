@@ -1,0 +1,8 @@
+{
+  "name": "Cure Candy",
+  "description": "A small, round, easy-to-eat green candy. It has a minty fresh taste to it.",
+  "effect": "Consumable. When used, cures a chosen status ailment.",
+  "recipes": [
+    "Any 3 Status-Curing Berries -> 1 Candy",
+  ]
+}
