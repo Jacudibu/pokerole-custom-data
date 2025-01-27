@@ -1,0 +1,11 @@
+{
+  "name": "Volt Switch",
+  "type": "Electric",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "User gains +1 evasion until their next action.",
+  "description": "The user fires off an electric jolt that slings themslves around the battlefield, making themselves harder to hit for a brief moment..",
+  "category": "Physical"
+}
