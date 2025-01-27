@@ -1,5 +1,5 @@
 {
-    "name": "Fist Plate".
+    "name": "Fist Plate",
     "description": "Adds 1 flat bonus damage to Fighting type moves. If held by Arceus, change its type to Fighting. A mere replica of the real thing, yet it still courses with a determined power.",
     "category": "HeldItem",
     "single_use": false,
