@@ -1,0 +1,11 @@
+{
+    "name": "Natural Gift",
+    "type": "Normal",
+    "power": 0,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ranged. Consumes the berry used. For more information, look for Natural Gift Chart in ``/rule`` command. ",
+    "description": "The user throws their berry at the foe. What happens next varies wildly depending on the berry thrown.",
+    "category": "Physical"
+  }
