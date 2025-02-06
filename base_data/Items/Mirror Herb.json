@@ -1,6 +1,6 @@
 {
   "name": "Mirror Herb",
   "description": "User copies the stat increases of a pokemon on the field. Consumed on use.",
-  "category": "Held Item",
+  "category": "Herb",
   "single_use": true
 }
