@@ -1,0 +1,5 @@
+{
+    "name": "Wonder Guard",
+    "description": "This Pokemon's body is protected by an incredible otherworldly aura.",
+    "effect": "This pokemon only takes minimum damage from attacking moves aswell as damage from afflicted Status Conditions. Unlike others, this pokemon's HP is not doubled, only being the total of Base HP and Vitality added together."
+}

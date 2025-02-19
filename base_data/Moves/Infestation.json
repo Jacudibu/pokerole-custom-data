@@ -1,0 +1,11 @@
+{
+    "name": "Infestation",
+    "type": "Bug",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Contact. Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds.",
+    "description": "The pokemon summons a huge swarm of bugs to prevent the target from escaping. Sometimes the swarm may take a bite out of the target. The call extends for hundreds of yards.",
+    "category": "Special"
+  }

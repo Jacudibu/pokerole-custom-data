@@ -1,0 +1,11 @@
+{
+    "name": "Draining Kiss",
+    "type": "Fairy",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Contact. The user restores HP equal to half the damage dealt, rounded down.",
+    "description": "The user kisses the target suddenly, it somehow seems to drain the energy of who makes contact.",
+    "category": "Special"
+}
