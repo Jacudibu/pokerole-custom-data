@@ -1,0 +1,11 @@
+{
+    "name": "Fling",
+    "type": "Dark",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ranged. Throw your held item. For more information, look for Fling table in ``/rule`` command.",
+    "description": "The user takes an item and throws it at the opponent. It may be retrieved after the fight... as long as it didn't break.",
+    "category": "Physical"
+  }

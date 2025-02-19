@@ -1,0 +1,11 @@
+{
+    "name": "Wring Out",
+    "type": "Normal",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Contact. Remove 1 Dice from the Damage Roll for every missing HP of the Target. Up to 4 Dice may be removed this way.",
+    "description": "The pokemon literally squeezes the life out of the target. As life is fading, squeezing will be harder.",
+    "category": "Special"
+  }

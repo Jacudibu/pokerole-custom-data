@@ -1,0 +1,6 @@
+{
+    "name": "Focus Lens",
+    "description": "Area moves used now become single target.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Smoke Ball",
+    "description": "The user gains 1 Evasion upon entering battle.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,5 +1,5 @@
 {
     "name": "Thunderstorm",
     "description": "A thunderstorm with booming thunder and crackling lightning has formed overhead. Watch out, you might end up just getting a shock.",
-    "effect": "- All Electric-Type moves gain +1 accuracy.\n- At the start of a round, all pokemon roll a singular dice and on 1, take 4 dice of Special Electric-Type damage."
+    "effect": "- All Electric-Type moves gain +1 accuracy.\n- At the start of a round, all pokemon roll a singular dice and on 1, take 4 dice of Special Electric-Type damage.\n- Abilities and moves that trigger from Rain also trigger from Thunderstorm."
 }
