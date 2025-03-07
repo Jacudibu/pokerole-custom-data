@@ -1,0 +1,11 @@
+{
+    "name": "Sing",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute",
+    "target": "Foe",
+    "effect": "Sound Based. The target becomes Drowsy. -2 Accuracy. ",
+    "description": "The user sings a charming song that makes the target want to sleep.",
+    "category": "Support"
+}

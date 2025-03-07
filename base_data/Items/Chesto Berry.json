@@ -1,0 +1,7 @@
+{
+    "name": "Chesto Berry",
+    "price": 75,
+    "description": "Eating this Berry will cure Drowsy.",
+    "category": "Berry",
+    "single_use": true
+}

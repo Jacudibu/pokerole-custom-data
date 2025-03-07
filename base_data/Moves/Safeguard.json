@@ -1,0 +1,11 @@
+{
+    "name": "Safeguard",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User and Allies",
+    "effect": "For the next 4 rounds, the user and their allies become immune to Status Ailments. Previously inflicted ailments remain uncured.",
+    "description": "The Pokémon creates an energy shield that protects everyone from harm.",
+    "category": "Support"
+  }

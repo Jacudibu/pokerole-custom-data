@@ -1,0 +1,11 @@
+{
+    "name": "Dark Void",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "All Foes",
+    "effect": "The targets become Drowsy. -2 Accuracy.",
+    "description": "A portal opens and transports all foes to a world of darkness, inside they can't see or feel anything, it's like they are trapped in an eternal slumber.",
+    "category": "Support"
+  }
