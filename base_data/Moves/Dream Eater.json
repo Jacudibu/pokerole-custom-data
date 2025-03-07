@@ -1,0 +1,11 @@
+{
+    "name": "Dream Eater",
+    "type": "Psychic",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "This move fails if the target is not Drowsy. The user restores HP equal to half the damage dealt, rounded down.",
+    "description": "The user eats the dreams of the target while they doze off for a moment. The foe feels a bit weaker afterwards.",
+    "category": "Special"
+  }

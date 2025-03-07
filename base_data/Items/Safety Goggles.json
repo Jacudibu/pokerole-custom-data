@@ -1,0 +1,6 @@
+{
+    "name": "Safety Goggles",
+    "description": "The user is immune to Weather related damage as well as Spore/Powder moves. The user is also unaffected by the ability Effect Spore.",
+    "category": "HeldItem",
+    "single_use": false
+}

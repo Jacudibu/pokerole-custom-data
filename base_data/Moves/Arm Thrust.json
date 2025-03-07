@@ -1,0 +1,11 @@
+{
+    "name": "Arm Thrust",
+    "type": "Fighting",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Fist Based. Successive Action.",
+    "description": "The user quickly throws blows of open-palmed thrusts against the foe.",
+    "category": "Physical"
+  }

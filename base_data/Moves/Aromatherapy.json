@@ -1,0 +1,11 @@
+{
+    "name": "Aromatherapy",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User and Allies",
+    "effect": " Cure User and Allies from Burn, Frostbite, Paralysis, Poison, Badly Poisoned, and Drowsy.",
+    "description": "The Pokemon releases medicinal scents and vapors to refresh the user and its allies.",
+    "category": "Support"
+}

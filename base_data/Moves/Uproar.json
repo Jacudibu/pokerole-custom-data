@@ -1,0 +1,11 @@
+{
+    "name": "Uproar",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Random Foe",
+    "effect": "Sound Based. Any Drowsy Pokémon has that status cleared. For the rest of the round, no Pokemon become Drowsy.",
+    "description": "The Pokémon shouts, screams, squaks, or otherwise makes a racket that hurts the ears of those who listen, making it especially hard to get any sleep.",
+    "category": "Special"
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "Negligent Discharge of a Firearm",
+    "type": "Steel",
+    "power": 10,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Random",
+    "effect": "Ranged. Ignores Defenses. Inflicts Wounds equal to damage dealt.",
+    "description": "The user is really excited to show off their gun skills. They have no gun skills.",
+    "category": "Physical"
+}

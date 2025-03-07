@@ -6,6 +6,6 @@
   "accuracy": "Dexterity",
   "target": "Area",
   "effect": "Ranged. Critical Hit on Underground targets using Dig.",
-  "description": "The user quakes the ground plates. Some plates will move easier than others.",
+  "description": "The Pokémon focuses its energy into shaking the ground. Everyone around will be thrown like a rag doll.",
   "category": "Physical"
 }

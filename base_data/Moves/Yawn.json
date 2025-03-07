@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Special",
   "target": "Foe",
-  "effect": "The target will fall asleep at the end of the next round.",
-  "description": "The user lets out an infectious yawn that will make anyone drowsy enough to fall asleep pretty soon.",
+  "effect": "The target becomes Drowsy at the end of the next round.",
+  "description": "The user lets out an infectious yawn that would make anyone drowsy in no time",
   "category": "Support"
 }
