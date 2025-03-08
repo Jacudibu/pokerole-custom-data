@@ -5,7 +5,7 @@
     "damage": "Special",
     "accuracy": "Dexterity",
     "target": "Foe",
-    "effect": "Contact. Add 1 Extra Dice to the Damage Pool for every 50 kgs. of weight on the foe.",
-    "description": "The user snares the target's feet with grass making it fall to the ground. The bigger the foe, the harder the fall.",
+    "effect": "Contact. This move adds Damage Dice the heavier the opponent.\n> 10 kg: +1\n> 25 kg: +2\n> 50 kg: +3\n> 100 kg: +4\n> 200 kg: +5",
+    "description": "The user snares the target's feet with grass, making it fall to the ground. The bigger the foe the harder the fall.",
     "category": "Special"
 }

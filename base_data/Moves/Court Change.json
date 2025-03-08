@@ -1,0 +1,11 @@
+{
+    "name": "Court Change",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Battlefield",
+    "effect": "Any and all Foe's Battlefield and User's Battlefield effects swap sides of the field. Examples include Reflect, Tailwind, Stealth Rocks and Spikes.",
+    "description": "The user signals the referee for half-time. They comply and both parties swap sides of the field. Wait... Did we forget something?",
+    "category": "Support"
+}
