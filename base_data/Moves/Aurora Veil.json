@@ -4,8 +4,8 @@
   "power": 0,
   "damage": "",
   "accuracy": "Special",
-  "target": "User and Allies",
-  "effect": "User and Allies will receive 1 less Damage from both Physical and Special Attacks. This move will fail if not performed under either Hail Weather or Snow Weather. Lasts until Hail Weather or Snow Weather is over.",
-  "description": "Aurora lights and ice spin around the Pokemon and its Allies, deflecting attacks.",
+  "target": "User's Battlefield",
+  "effect": "Lasts 4 Rounds. User and Allies will receive 1 less damage from both Special and Physical Attacks. This move will fail if not performed under either Hail or Snow Weather. The effect of this move also ends if either weather clears.",
+  "description": "Aurora lights and ice spin around the user and it's allies, deflecting attacks.",
   "category": "Support"
 }

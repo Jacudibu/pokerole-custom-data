@@ -1,0 +1,11 @@
+{
+    "name": "Reflect",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User's Battlefield",
+    "effect": "Lasts 4 Rounds. User and Allies will receive 1 less damage from Physical Attacks.",
+    "description": "The user manifests it's mental power on the world, creating an invisible wall and floors that prevent passing objects.",
+    "category": "Support"
+}
