@@ -1,0 +1,11 @@
+{
+    "name": "Nightmare",
+    "type": "Ghost",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Only works if the target is Drowsy. Deal 1 damage to the foe. Foe takes an additional 1 Damage at the beginning of a round if they are still Drowsy.",
+    "description": "The user haunts and torments the weary mind of a sleepy Pokemon.",
+    "category": "Support"
+  }

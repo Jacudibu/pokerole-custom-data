@@ -1,0 +1,11 @@
+{
+  "name": "Safeguard",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User's Battlefield",
+  "effect": "Lasts 4 Rounds. User and Allies are immune to Status Ailments. Previously inflicted Status Ailments remain.",
+  "description": "The user creates an energy shield that protects everyone from harm.",
+  "category": "Support"
+}

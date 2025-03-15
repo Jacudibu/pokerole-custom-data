@@ -1,0 +1,5 @@
+{
+    "name": "Sand Rush",
+    "description": "While sand whips across the battlefield, the Pokemon can paddle through it as if it was water.",
+    "effect": "If Sandstorm Weather is in effect, increase 2 Points to the Dexterity Attribute of this Pokemon. The Pokemon is immune to damage from Sandstorm Weather."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Mold Breaker",
+    "description": "This pokemon will find unusual ways to achieve it's goals. They are inventive and go around problems.",
+    "effect": "If a target's ability would negate the action of this pokemon, ignore it."
+}

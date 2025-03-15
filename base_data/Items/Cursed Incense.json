@@ -1,0 +1,6 @@
+{
+    "name": "Cursed Incense",
+    "description": "Attacking moves now reduce the target's Will by 1 on success. This can only activate once per Round.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Magnitude",
+  "type": "Ground",
+  "power": 0,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Ranged. Roll 1 Dice to determine this Move's Power. Automatic Critical Hit on Underground targets using Dig.",
+  "description": "The user quakes the ground plates. Some plates will move easier than others.",
+  "category": "Physical"
+}

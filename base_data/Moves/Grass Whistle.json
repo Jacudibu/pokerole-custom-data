@@ -1,0 +1,11 @@
+{
+    "name": "Grass Whistle",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Sound Based. Inflict the Target with Drowsy. -2 Accuracy.",
+    "description": "The user plays a beautiful melody that soothing melody thar lulls others to sleep.",
+    "category": "Support"
+  }

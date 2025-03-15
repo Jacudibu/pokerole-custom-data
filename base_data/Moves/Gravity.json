@@ -1,0 +1,11 @@
+{
+  "name": "Gravity",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Battlefield",
+  "effect": "All pokemon lose their immunity to Ground-type attacks and other Immunities relating to Flying or Levitating. Can hit Aerial targets using Fly, Bounce or Sky Drop and will cancel those moves if they are in effect. Fly, Bounce, Sky Drop, High Jump Kick, Jump Kick, Flying Press, Magnet Rise, Telekinesis and Splash are incapable of being used while Gravity is in effect. Additionally , all moves gain +1 Accuracy while Gravity is in effect",
+  "description": "The gravity is intensified, bringing everyone to their knees. Flying pokemon are slammed to the ground.",
+  "category": "Support"
+}

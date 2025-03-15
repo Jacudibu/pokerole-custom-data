@@ -1,0 +1,11 @@
+{
+  "name": "Ice Hammer",
+  "type": "Ice",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Fist Based. Reduce User's Dexterity. -1 Accuracy.",
+  "description": "The Pokemon uses its powerful gelid arms and strikes the foe with a swinging motion",
+  "category": "Physical"
+}

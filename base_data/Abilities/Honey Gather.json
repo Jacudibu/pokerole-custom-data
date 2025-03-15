@@ -1,0 +1,5 @@
+{
+    "name": "Honey Gather",
+    "description": "This Pokémon produces it's own honey. The quality improves as the Pokémon gets stronger, and there are those that would pay nicely for it.",
+    "effect": "After this Pokémon completes a mission, they gain extra :poke_coin: equal to 50 × their Rank."
+}

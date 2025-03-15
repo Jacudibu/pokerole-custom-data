@@ -1,0 +1,11 @@
+{
+  "name": "Wake-Up Slap",
+  "type": "Fighting",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If the foe is Drowsy, add 2 Extra Dice to the Damage Pool. The foe is cured of Drowsy afterwards.",
+  "description": "A powerful slap that will leave even the laziest Pokémon wide awake.",
+  "category": "Physical"
+}

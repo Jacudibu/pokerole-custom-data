@@ -1,0 +1,11 @@
+{
+    "name": "Light Screen",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User's Battlefield",
+    "effect": "Lasts 4 Rounds. User and Allies will receive 1 less damage from Special Attacks.",
+    "description": "The user manifests it's mental power on the world, creating an invisible wall and floors that prevent passing energies.",
+    "category": "Support"
+}

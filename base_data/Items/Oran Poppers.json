@@ -1,0 +1,6 @@
+{
+    "name": "Oran Poppers",
+    "description": "A bottle of freeze dried Oran Berries. A fainted pokemon can eat one to regain conciseness, but not enough energy to fight without full revival.",
+    "category": "KeyItem",
+    "single_use": false
+}

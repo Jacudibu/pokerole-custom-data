@@ -1,0 +1,11 @@
+{
+    "name": "Heavy Slam",
+    "type": "Steel",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If the target has used the move Minimize, this move is an automatic Critical Hit. This move adds Damage Dice the heavier the user is than the opponent.\n> 10 kg: +1\n> 25 kg: +2\n> 50 kg: +3\n> 100 kg: +4\n> 200 kg: +5",
+    "description": "The user slams the foe using it's whole body weight. Smaller foes will be deeply affected.",
+    "category": "Physical"
+}

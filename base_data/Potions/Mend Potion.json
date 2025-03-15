@@ -1,0 +1,10 @@
+{
+    "name": "Mend Potion",
+    "description": "A tonic made to repair more serious injuries. Not meant to be ingested.",
+    "effect": "Recover 1 Wound per charge",
+    "recipes": [
+      "115 :poke_coin: -> 1 Charge",
+      "250 :poke_coin: -> 3 Charges",
+      "2 Sitrus Berries -> 3 Charges"
+    ]
+  }

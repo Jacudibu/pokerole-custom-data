@@ -3,9 +3,9 @@
   "type": "Poison",
   "power": 4,
   "damage": "Special",
-  "accuracy": "Dexterity",
+  "accuracy": "Special",
   "target": "Foe",
-  "effect": "Roll 5 chance die to Badly Poison the foe.",
-  "description": "The user strikes at a foe with a series of chains coated in toxic oils.",
+  "effect": "Roll 5 Chance Dice to Badly Poison the target.",
+  "description": "The user assails the target with a horrid poison by wrapping them in a toxic, corrosive chain.",
   "category": "Special"
 }

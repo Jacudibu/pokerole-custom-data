@@ -1,0 +1,11 @@
+{
+     "name": "Ice Beam",
+     "type": "Ice",
+     "power": 3,
+     "damage": "Special",
+     "accuracy": "Dexterity",
+     "target": "Foe",
+     "effect": "Roll 2 chance dice to Frostbite the foe.",
+     "description": "The user fires off a freezing ray that lowers the termperature of anything it hits.",
+     "category": "Special"
+    }

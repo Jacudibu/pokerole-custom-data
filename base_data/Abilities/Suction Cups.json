@@ -1,0 +1,5 @@
+{
+    "name": "Suction Cups",
+    "description": "This pokemon's limbs contain suckers that allow it to stay rooted in place. It can stick to any kind of surface, even upside down.",
+    "effect": "The pokemon can choose to ignore effects that would change it's initiative."
+}

@@ -3,9 +3,9 @@
   "type": "Fighting",
   "power": 0,
   "damage": "",
-  "accuracy": "Insight",
-  "target": "User",
-  "effect": "Reaction. Shield Move. Reduce the damage the pokemon would take from a damaging move by 3. Reduces minimum damage to 0. Negate effects of Support Moves that target the user.",
-  "description": "The user detects the intentions of the attacker and acts out to minimize the damage.",
+  "accuracy": "Dexterity",
+  "target": "Ally",
+  "effect": "Reaction. Shield move. Redirect all moves targeting the target of this move to the user until the end of round. Treat the accuracy of this move as if it were the effect of the 'Dodge' action to the first redirected move. Rerolls cannot be used on accuracy rolls against the user until end of round.",
+  "description": "The user focuses on the opponents intent and target, and makes a key dodge at the last moment.",
   "category": "Support"
 }

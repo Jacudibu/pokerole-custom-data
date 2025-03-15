@@ -1,0 +1,6 @@
+{
+    "name": "Mental Herb",
+    "description": "If the user is Infatuated or affected by Rampage (see /status), Taunt, Torment, Encore, or Disable, then they are cured. Item consumed on use.",
+    "category": "Herb",
+    "single_use": true
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Body Press",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Vitality",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Add 1 die of damage for every increased point in the user's Defense attribute. Subtract 1 die of damage for every decreased point to the user's Defense attribute.",
+    "description": "The pokemon uses a judo manuever, throwing its body mass at its opponent instead of using its strength.",
+    "category": "Physical"
+  }
+  

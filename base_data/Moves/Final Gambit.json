@@ -5,7 +5,7 @@
     "damage": "Special",
     "accuracy": "Dexterity",
     "target": "Foe",
-    "effect": "Roll damage dice equal to your remaining HP. Ignore the foe's Defenses. The user faints after dealing damage.",
-    "description": "The Pokemon puts its last strength into an all-or-nothing attack. After that, it faints.",
+    "effect": "Contact. Roll Damage Dice equal to your remaining HP. Ignores the foe's Defenses. The user faints after dealing damage.",
+    "description": "The pokemon puts the last of it's strength into an all-or-nothing attack! Afterwards though, it can't go on.",
     "category": "Special"
-}
+    }

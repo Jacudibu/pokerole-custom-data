@@ -5,7 +5,7 @@
     "damage": "Special",
     "accuracy": "Will",
     "target": "Foe",
-    "effect": "If the user's Will is half spent, add 1 Dice to the Damage Roll. If the User's Will is at 1, add +8 to the Damage Pool.",
-    "description": "The more exhausted the user is, the stronger this attack will become. When the Pokemon is at the last of its strength this move can be devastating.",
+    "effect": "Contact. If the user's Will is half spent, add 1 Dice to the Damage Roll. If the user's Will is at 0, add +8 to the Damage Roll.",
+    "description": "The more exhausted the user is, the stronger this attack will become. When the pokemon is at the last of it's strength, this move can be devastating.",
     "category": "Special"
-}
+    }

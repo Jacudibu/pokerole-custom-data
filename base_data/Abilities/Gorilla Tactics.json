@@ -1,0 +1,5 @@
+{
+    "name": "Gorilla Tactics",
+    "description": "The Pokemon's manners leave a lot to be desired, it is brutish and uncivilized, its only approach to facing problems",
+    "effect": "At the beginning of battle, raise this pokemon's Base Strength by 2 points. Whenever this pokemon uses a Move, until the battle is over or they use a Basic Action, they are locked into said move."
+}

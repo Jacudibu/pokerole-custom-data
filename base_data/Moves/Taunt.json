@@ -1,0 +1,11 @@
+{
+    "name": "Taunt",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Lasts 4 Rounds. The Target can only perform moves that target foes.",
+    "description": "The user mocks and teases the target to make it focus on the enemy.",
+    "category": "Support"
+}

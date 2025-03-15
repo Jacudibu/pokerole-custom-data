@@ -1,0 +1,11 @@
+{
+    "name": "Hidden Power",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength / Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "The type of this move is chosen on learning. The type can be changed by consuming a Respec Potion.",
+    "description": "Every Pokemon has an unknown power that can be released with surprising results.",
+    "category": "PhysicalOrSpecial"
+  }

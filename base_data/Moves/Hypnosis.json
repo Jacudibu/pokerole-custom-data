@@ -1,0 +1,11 @@
+{
+    "name": "Hypnosis",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Make the target Drowsy. Dark-Type Pokemon are affected by this move. -2 Accuracy. ",
+    "description": "Employ a hypnotic suggestion that makes the target feel drowsy. Those in the heat of battle are able to stave off falling asleep entirely.",
+    "category": "Support"
+}
