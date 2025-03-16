@@ -1,0 +1,11 @@
+{
+    "name": "King's Shield",
+    "type": "Steel",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "User",
+    "effect": "Priority 3. Shield. If the foe was using a Contact move. Reduce the foe's Strength by 2. Reduce 3 Dice from the foe's Damage Pool.",
+    "description": "The Pokemon uses a ghostly shield to protect itself. If the foe managed to touch it, the user will drain some of its lifeforce.",
+    "category": "Support"
+}

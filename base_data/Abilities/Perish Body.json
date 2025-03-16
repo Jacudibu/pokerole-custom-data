@@ -1,0 +1,5 @@
+{
+    "name": "Perish Body",
+    "description": "This Pokemon slently curses those who cross it. Condemning their souls to suffer as it has suffered. Avoid this Pokemon, lest you suffer its grudge.",
+    "effect": "If a foe makes Contact with this Pokemon with an attack, the Foe will receive its remaining HP as damage and faint after three Rounds, unless it is removed from battle."
+}

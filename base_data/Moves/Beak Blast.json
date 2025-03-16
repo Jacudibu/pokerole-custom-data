@@ -1,0 +1,11 @@
+{
+    "name": "Beak Blast",
+    "type": "Flying",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "User",
+    "effect": "Ranged. Charge Move. Low Priority 3. If a foe makes Contact with the User while this move is charging, apply Burn 2 to the foe.",
+    "description": "The Pokemon gets ready to release a boiling gas through its beak, which gets incredibly hot. The resulting blast sounds like a train's horn.",
+    "category": "Physical"
+}

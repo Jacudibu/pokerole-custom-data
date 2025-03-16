@@ -1,0 +1,17 @@
+{
+    "number": 894,
+    "name": "Regieleki",
+    "base_hp": 4,
+    "strength": "6/6",
+    "dexterity": "10/10",
+    "vitality": "4/4",
+    "special": "6/6",
+    "insight": "4/4",
+    "moves": {
+      "bronze": [],
+      "silver": [],
+      "gold": [],
+      "platinum": [],
+      "diamond": ["Thunder Shock", "Rapid Spin", "Electroweb", "Ancient Power", "Shock Wave", "Thunder Wave", "Extreme Speed", "Thunder Cage", "Thunderbolt", "Magnet Rise", "Thrash", "Lock-On", "Zap Cannon", "Hyper Beam", "Explosion"]
+    }
+  }

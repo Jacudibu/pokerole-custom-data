@@ -1,5 +1,5 @@
 {
     "name": "Effect Spore",
-    "description": "When stressed, this Pokemon will leak spores through its body that scatter in the air and cause severe allergies.",
-    "effect": "If hit by a Non-Ranged Physical Attack, the Pokemon rolls 3 Chance Die to inflict the attacker with Poison, Paralysis, or Drowsy at random. Grass Type Attackers are unaffected by this ability."
+    "description": "When stressed, this Pokemon will leak spores through its body that scatter in the air causing severe allergies.",
+    "effect": "If a foe makes Contact with this Pokemon with an attack, roll 3 Chance Dice to Poison, Paralyze or inflict the Drowsy condition on the foe at random. Grass Type Attackers are unaffected by this ability."
 }
