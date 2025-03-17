@@ -1,0 +1,11 @@
+{
+    "name": "Baneful Bunker",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "Priority 4. Shield. If the foe attacked using a Contact Move, it is now Poisoned. Reduce 3 Dice from the Foe's Damage Pool.",
+    "description": "The user encloses itself inside its sturdy shell, which is covered by poisonous barbs. If a barb pinches the foe's skin the wound will start to fester.",
+    "category": "Support"
+}

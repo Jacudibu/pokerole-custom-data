@@ -1,0 +1,6 @@
+{
+    "name": "Rocky Helmet",
+    "description": "Whenever a pokemon makes phsycial contact with the holder, they take 1 damage.",
+    "category": "HeldItem",
+    "single_use": false
+}

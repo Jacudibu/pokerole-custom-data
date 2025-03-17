@@ -1,0 +1,5 @@
+{
+    "name": "Rough Skin",
+    "description": "This pokemon's skin or scales are covered in sharp barbs that make it dangerous to touch.",
+    "effect": "Whenever a Pokemon makes Contact with this Pokemon, they take 1 damage."
+}

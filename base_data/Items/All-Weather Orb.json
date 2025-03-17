@@ -1,0 +1,6 @@
+{
+    "name": "All-Weather Orb",
+    "description": "Changes the Weather to one of the user's choice for 4 rounds.",
+    "category": "Orb",
+    "single_use": true
+}

@@ -1,6 +1,6 @@
 {
     "name": "Clear Amulet",
-    "description": "The user is immune to stat debuffs.",
+    "description": "Other Pokemon cannot decrease the stats of this Pokemon. This Pokemon can still decrease it's own stats.",
     "category": "HeldItem",
-    "single_use": false
+    "single_use":false
 }

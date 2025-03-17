@@ -1,0 +1,6 @@
+{
+    "name": "Poison Gem",
+    "description": "Adds 2 Damage Dice to Poison-Type Moves. Will be immediately consumed on move use.",
+    "category": "Consumable",
+    "single_use": true
+}

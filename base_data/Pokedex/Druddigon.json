@@ -1,0 +1,17 @@
+{
+    "number": 621,
+    "name": "Druddigon",
+    "base_hp": 4,
+    "strength": "3/7",
+    "dexterity": "2/4",
+    "vitality": "2/5",
+    "special": "2/4",
+    "insight": "2/5",
+    "moves": {
+      "bronze": ["Bite", "Hone Claws", "Leer", "Scratch"],
+      "silver": ["Chip Away", "Crunch", "Dragon Claw", "Dragon Rage", "Night Slash", "Revenge", "Scary Face", "Slash"],
+      "gold": ["Dragon Tail", "Outrage", "Rock Climb", "Superpower"],
+      "platinum": ["Fire Fang", "Poison Tail", "Thunder Fang"],
+      "diamond": []
+    }
+  }

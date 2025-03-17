@@ -1,11 +1,11 @@
 {
-    "name": "Heavy Slam",
-    "type": "Steel",
+    "name": "Heat Crash",
+    "type": "Fire",
     "power": 1,
     "damage": "Strength",
     "accuracy": "Strength",
     "target": "Foe",
     "effect": "If the target has used the move Minimize, this move is an automatic Critical Hit. This move adds Damage Dice the heavier the user is than the opponent.\n> 10 kg/22 lbs: +1\n> 25 kg/55 lbs: +2\n> 50 kg/110 lbs: +3\n> 100 kg/220 lbs: +4\n> 200 kg/441 lbs: +5",
-    "description": "The user slams the foe using it's whole body weight. Smaller foes will be deeply affected.",
+    "description": "The user slams the target with a body engulfed in flames.",
     "category": "Physical"
 }

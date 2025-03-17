@@ -1,0 +1,17 @@
+{
+    "number": 895,
+    "name": "Regidrago",
+    "base_hp": 10,
+    "strength": "6/6",
+    "dexterity": "4/4",
+    "vitality": "4/4",
+    "special": "6/6",
+    "insight": "4/4",
+    "moves": {
+      "bronze": [],
+      "silver": [],
+      "gold": [],
+      "platinum": [],
+      "diamond": ["Twister", "Vise Grip", "Bite", "Ancient Power", "Dragon Breath", "Focus Energy", "Crunch", "Dragon Claw", "Hammer Arm", "Dragon Dance", "Thrash", "Laser Focus", "Dragon Energy", "Hyper Beam", "Explosion"]
+    }
+  }

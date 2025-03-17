@@ -1,0 +1,6 @@
+{
+    "name": "Ice Gem",
+    "description": "Adds 2 Damage Dice to Ice-Type Moves. Will be immediately consumed on move use.",
+    "category": "Consumable",
+    "single_use": true
+}
