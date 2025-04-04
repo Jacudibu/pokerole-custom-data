@@ -1,0 +1,5 @@
+{
+    "name": "Infernalate",
+    "description": "This pokemon's body produces a heat so intense it burns the very air.",
+    "effect": "Normal-Type Attacks that this Pokemon uses will deal damage as if they were Fire-Type, affected STAB, weakness and resistance. Add 1 Extra Die of Damage to Fire Moves."
+}

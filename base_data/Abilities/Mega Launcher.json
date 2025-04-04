@@ -1,0 +1,5 @@
+{
+    "name": "Mega Launcher",
+    "description": "The cannons on this Pokemon's body allow it to fire extremely powerful attacks.",
+    "effect": "Attacks with the keyword 'Pulse' and 'Aura' used by this Pokemon deal 1 extra damage. Heal Pulse moves used by this pokemon Heal 2 additional HP."
+}

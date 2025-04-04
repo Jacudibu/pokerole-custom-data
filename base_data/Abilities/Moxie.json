@@ -1,0 +1,5 @@
+{
+    "name": "Moxie",
+    "description": "This Pokemon is naturally fierce and will try to get to a position of power by defeating the alphas in the pack.",
+    "effect": "If a foe faints the same round that you dealt direct damage to them, increase your Base Strength by 1 for the remaining duration of the battle. This effect can stack with itself once. This increase does not inhibit the standard +-3 restriction for stat changes."
+}

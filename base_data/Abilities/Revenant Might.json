@@ -1,0 +1,5 @@
+{
+    "name": "Revenant Might",
+    "description": "The ghastly power of this spectre pushes it onwards in the face of potential defeat.",
+    "effect": "When this Pokemon's HP is at half or less, Ghost-Type Moves will deal 1 extra damage to their attacks."
+}

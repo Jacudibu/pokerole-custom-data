@@ -2,10 +2,10 @@
   "name": "Psycho Cut",
   "type": "Psychic",
   "power": 3,
-  "damage": "Strength",
+  "damage": "Physical",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Ranged. High Critical.",
+  "effect": "Slicing. Ranged. High Critical.",
   "description": "Create blades of psychic energy to tear down foes.",
   "category": "Physical"
 }

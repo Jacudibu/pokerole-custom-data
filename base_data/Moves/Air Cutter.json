@@ -1,0 +1,11 @@
+{
+    "name": "Air Cutter",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Slicing. High Critical.",
+    "description": "The user will send out a wave of sharp wind that will harm anything it touches.",
+    "category": "Special"
+  }

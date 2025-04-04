@@ -1,0 +1,5 @@
+{
+    "name": "Geoforce",
+    "description": "The rocks give this pokemon even more force behind it's strikes.",
+    "effect": "When this Pokemon's HP is at half or less, Rock-Type Moves will deal 1 extra damage to their attacks."
+}

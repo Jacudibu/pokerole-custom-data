@@ -1,0 +1,5 @@
+{
+    "name": "Adrenaline",
+    "description": "When the chips are down, this pokemon finds hidden reserves!",
+    "effect": "When this Pokemon's HP is at half or less, Normal-Type Moves will deal 1 extra damage to their attacks."
+}

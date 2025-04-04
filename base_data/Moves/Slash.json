@@ -1,0 +1,11 @@
+{
+    "name": "Slash",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Slicing. High Critical. Inflicts Wounds.",
+    "description": "Using parts of its body as a blade the Pokemon pierces and tears the foe with a vicious force.",
+    "category": "Physical"
+  }

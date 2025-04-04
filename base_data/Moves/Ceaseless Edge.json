@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "High Critical. Inflicts Wounds. Sets up a layer of Spikes on the opponent's side on hit.",
+  "effect": "Slicing. High Critical. Inflicts Wounds. Sets up a layer of Spikes on the oppenent's side on hit.",
   "description": "The user makes a merciless attack aimed for their enemy's weak point. Splinters from the serrated edge are scattered around.",
   "category": "Physical"
 }

@@ -1,0 +1,5 @@
+{
+    "name": "Frisk",
+    "description": "This Pokemon can see the items others may be carrying, even if they are hidden.",
+    "effect": "At the start of the User's turn, this pokemon reveals a Foe's Held Item (of their choice)."
+}

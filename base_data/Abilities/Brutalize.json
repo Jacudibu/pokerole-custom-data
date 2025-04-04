@@ -1,0 +1,5 @@
+{
+    "name": "Brutalize",
+    "description": "Some Pokemon, like this one, take such glee in the suffering of others it makes their very attacks ooze that brutal power.",
+    "effect": "Normal-Type Attacks that this Pokemon uses will deal damage as if they were Dark-Type, affected STAB, weakness and resistance. Add 1 Extra Die of Damage to Dark Moves."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Venomize",
+    "description": "Venom drips from this Pokemons maw and claws, coating all of it's attacks!",
+    "effect": "Normal-Type Attacks that this Pokemon uses will deal damage as if they were Poison-Type, affected STAB, weakness and resistance. Add 1 Extra Die of Damage to Poison Moves."
+}

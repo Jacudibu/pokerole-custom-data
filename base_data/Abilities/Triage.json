@@ -1,0 +1,5 @@
+{
+    "name": "Triage",
+    "description": "The Pokemon feels the urgency to treat the injured; it is also very quick to stitch and make knots. A skill often used to instantly mend wounds.",
+    "effect": "The User may declare and use any move that restores HP to themselves or allies as if it had Priority +1. Add +1 to the healing of the User's HP restoring moves."
+}
