@@ -1,0 +1,5 @@
+{
+    "name": "Rivalry",
+    "description": "The Pokemon will be very competitive with others to prove its position as the alpha of the group, however, it will try to gain the favor of possible mates.",
+    "effect": "At the Start of Combat, this Pokemon chooses one Foe as their Rival. The User adds 2 Extra Damage Dice on attacks against their Rival, and subtracts 2 Damage Dice on attacks not against their Rival. During initiative on subsequent rounds if the User lacks a Rival (ex: from being fainted/removed from combat), the User may choose a new Foe to be their Rival."
+}

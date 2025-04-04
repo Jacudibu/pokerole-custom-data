@@ -1,0 +1,5 @@
+{
+    "name": "Fertilize",
+    "description": "The ground sunders with each of this Pokemon's steps, sending earth shattering blows is it's go to.",
+    "effect": "Normal-Type Attacks that this Pokemon uses will deal damage as if they were Ground-Type, affected STAB, weakness and resistance. Add 1 Extra Die of Damage to Ground Moves."
+}

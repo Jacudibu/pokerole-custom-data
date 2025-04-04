@@ -1,0 +1,5 @@
+{
+    "name": "Temperize",
+    "description": "The power of this pokemon's steely body helps it slam it's foes that much harder.",
+    "effect": "Normal-Type Attacks that this Pokemon uses will deal damage as if they were Steel-Type, affected STAB, weakness and resistance. Add 1 Extra Die of Damage to Steel Moves."
+}

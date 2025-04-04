@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Priority 3. Causes the foe to flinch. Automatically fails if the target did not use a priority move.",
+  "effect": "Reaction. Can only be used in response to a Priority move being used, Flinching the target.",
   "description": "The user's reflexes take priority, reacting quickly to counter a fast attack.",
   "category": "Physical"
 }

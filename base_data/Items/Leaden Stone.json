@@ -1,0 +1,6 @@
+{
+    "name": "Leaden Stone",
+    "description": "The Pokemon's weight is doubled.",
+    "category": "HeldItem",
+    "single_use": false
+}

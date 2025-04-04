@@ -1,0 +1,11 @@
+{
+    "name": "Sacred Sword",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Slicing. Ignore any Increases to the foe's Defense.",
+    "description": "The user slashes its target with a mighty blade that no armor can stop.",
+    "category": "Physical"
+  }

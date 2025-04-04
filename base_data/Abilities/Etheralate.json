@@ -1,0 +1,5 @@
+{
+    "name": "Etheralate",
+    "description": "This Pokemon's spiritual energy is overflowing, filling the air with ominous energy!",
+    "effect": "Normal-Type Attacks that this Pokemon uses will deal damage as if they were Ghost-Type, affected STAB, weakness and resistance. Add 1 Extra Die of Damage to Ghost Moves."
+}

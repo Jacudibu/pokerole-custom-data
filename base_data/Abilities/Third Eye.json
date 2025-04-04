@@ -1,0 +1,5 @@
+{
+    "name": "Third Eye",
+    "description": "By opening this Pokemon's Third Eye, their mental abilities increase tenfold!",
+    "effect": "When this Pokemon's HP is at half or less, Psychic-Type Moves will deal 1 extra damage to their attacks."
+}

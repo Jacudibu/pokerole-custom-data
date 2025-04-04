@@ -1,0 +1,6 @@
+{
+    "name": "Stellar Gem",
+    "description": "Adds 4 Damage Dice to any attacking Moves, adding the Recoil tag. Will be immediately consumed on move use.",
+    "category": "Consumable",
+    "single_use": true
+}

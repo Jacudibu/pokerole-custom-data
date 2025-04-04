@@ -1,0 +1,5 @@
+{
+    "name": "Pollenate",
+    "description": "Pollen and Spores flow with the blows this Pokemon makes.",
+    "effect": "Normal-Type Attacks that this Pokemon uses will deal damage as if they were Grass-Type, affected STAB, weakness and resistance. Add 1 Extra Die of Damage to Grass Moves."
+}

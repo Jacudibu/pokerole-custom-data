@@ -1,0 +1,5 @@
+{
+    "name": "Wyvernize",
+    "description": "The draconic might of this pokemon is overly abundant.",
+    "effect": "Normal-Type Attacks that this Pokemon uses will deal damage as if they were Dragon-Type, affected STAB, weakness and resistance. Add 1 Extra Die of Damage to Dragon Moves."
+}

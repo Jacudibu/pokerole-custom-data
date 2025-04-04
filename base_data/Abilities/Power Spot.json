@@ -1,0 +1,5 @@
+{
+    "name": "Power Spot",
+    "description": "The Pokemon releases mysterious energy that messes up with electronics and compasses but can somehow make you feel very energized.",
+    "effect": "Once per round, this pokemon's presence causes an ally of their choosing to deal 1 extra damage with their attack, after damage calculation. This effect can be applied at any point during an ally's turn."
+}

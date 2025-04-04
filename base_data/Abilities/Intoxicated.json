@@ -1,0 +1,5 @@
+{
+    "name": "Intoxicated",
+    "description": "This pokemon gets a bit drunk on it's own toxins, letting it push further beyond!",
+    "effect": "When this Pokemon's HP is at half or less, Poison-Type Moves will deal 1 extra damage to their attacks."
+}

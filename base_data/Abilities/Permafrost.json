@@ -1,0 +1,5 @@
+{
+    "name": "Permafrost",
+    "description": "When this pokemon feels threatened, it freezes things to an absolute stop.",
+    "effect": "When this Pokemon's HP is at half or less, Ice-Type Moves will deal 1 extra damage to their attacks."
+}
