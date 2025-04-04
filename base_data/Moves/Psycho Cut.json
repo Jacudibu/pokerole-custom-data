@@ -2,7 +2,7 @@
   "name": "Psycho Cut",
   "type": "Psychic",
   "power": 3,
-  "damage": "Physical",
+  "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
   "effect": "Slicing. Ranged. High Critical.",
