@@ -1,0 +1,11 @@
+{
+    "name": "Belly Drum",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "User",
+    "effect": "User deals Damage to itself equal to Half of its total HP rounded down. For the rest of combat, raise the maximum Strength Stat Change for the User by 3 (to a maximum of +6). Increase the User's Strength by 3.",
+    "description": "The Pokemon Roars a war cry while hitting its Belly.",
+    "category": "Support"
+}

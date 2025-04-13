@@ -1,6 +1,6 @@
 {
     "name": "Dragon Gem",
-    "description": "Adds 2 Damage Dice to g-Type Moves. Will be immediately consumed on move use.",
+    "description": "Adds 2 Damage Dice to Dragon-Type Moves. Will be immediately consumed on move use.",
     "category": "Consumable",
     "single_use": true
 }

@@ -1,0 +1,11 @@
+{
+    "name": "Growth",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User",
+    "effect": "Increases the User's Strength and Special by 1 normally or by 2 in Sun.",
+    "description": "The pokemon expands it's body. It grows bigger and stronger",
+    "category": "Support"
+  }

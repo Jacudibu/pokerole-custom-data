@@ -5,7 +5,7 @@
     "damage": "",
     "accuracy": "Vitality",
     "target": "User",
-    "effect": "Priority 4. Shield. If the foe attacked using a Contact Move, it is now Poisoned. Reduce 3 Dice from the Foe's Damage Pool.",
-    "description": "The user encloses itself inside its sturdy shell, which is covered by poisonous barbs. If a barb pinches the foe's skin the wound will start to fester.",
+    "effect": "Reaction. Shield move. Used in reaction to the user being targeted, reducing incoming damage by 3. If the move that strikes the user is a Contact move, the foe is now Poisoned",
+    "description": "The user encloses itself inside it's sturdy shell of which is covered in poisonous barbs. If a barb pricks the foe's skin, the wound would start to fester.",
     "category": "Support"
-}
+  }
