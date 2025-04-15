@@ -1,0 +1,17 @@
+{
+    "number": 489,
+    "name": "Phione",
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "2/5",
+    "vitality": "2/5",
+    "special": "2/5",
+    "insight": "2/5",
+    "moves": {
+      "bronze": ["Bubble", "Water Sport", "Charm"],
+      "silver": ["Supersonic", "Bubble Beam", "Acid Armor", "Rain Dance"],
+      "gold": ["Take Heart", "Whirlpool", "Water Pulse", "Aqua Ring", "Dive"],
+      "platinum": ["Signal Beam", "Icy Wind", "Heal Bell"],
+      "diamond": []
+    }
+  }

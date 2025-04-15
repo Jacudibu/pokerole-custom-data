@@ -5,7 +5,7 @@
     "damage": "",
     "accuracy": "Special",
     "target": "Foe",
-    "effect": "Paralyze the Foe. Has no effect on Grass types. -2 Accuracy.",
+    "effect": "Paralyze the Foe. Has no effect on Grass types. -1 Accuracy.",
     "description": "A blow of dust that paralyzes the target on the spot and cramps its muscles.",
     "category": "Support"
 }
