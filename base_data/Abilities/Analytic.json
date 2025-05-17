@@ -1,0 +1,5 @@
+{
+    "name": "Analytic",
+    "description": "The Pokemon will never charge recklessly, it will take a moment to think about the best decision to make in any situation.",
+    "effect": "If the User has a lower initiative than its target, Add 2 Damage Dice to its attacking moves."
+}

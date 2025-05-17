@@ -1,0 +1,11 @@
+{
+    "name": "Trick Room",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Battlefield",
+    "effect": "Invert the order of initiative. Lasts 4 Rounds. If performed under Cosmic Rays weather, this move targets one side of the field, user's choice and has a different effect. Instead this move now makes those affected add their dexterity as a negative modifier to Initiative rolls.",
+    "description": "This Reality altering move can manipulate time, making those that are normally fast slowed to a crawl and vice versa.",
+    "category": "Support"
+  }

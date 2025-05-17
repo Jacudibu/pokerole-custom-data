@@ -1,0 +1,5 @@
+{
+    "name": "Schooling",
+    "description": "When the going gets tough, this pokemon gangs up. A cordinated mass of fish makes sure that this pokemon is always ready for a fight. When the going gets **too** tough, its friends scatter...",
+    "effect": "At the start of combat, this pokemon enters its 'Schooling' form. In this form, it gets a bonus to Strength, Special, Vitality, and Insight equal to its rank, but loses 1 point in Dexterity. These bonuses effect Max HP, Equipped Moves cap, and Defenses. If this pokemon falls below 25% of its max HP, it loses these bonuses (the moves at the bottom of the Equipped moves list are lost first), and returns back to solo form. It can re-enter this form upon regaining HP over 25% of its max. It will not regain bonuses to Max HP or Equipped Moves."
+}

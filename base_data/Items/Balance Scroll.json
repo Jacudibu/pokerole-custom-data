@@ -1,0 +1,6 @@
+{
+    "name": "Balance Scroll",
+    "description": "Combine the Strength and Special stats of this pokemon, halving them and rounding up. Use this value for any Strength or Special rolls.",
+    "category": "HeldItem",
+    "single_use": false
+}

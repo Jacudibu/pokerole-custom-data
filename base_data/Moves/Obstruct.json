@@ -3,9 +3,9 @@
   "type": "Dark",
   "power": 0,
   "damage": "",
-  "accuracy": "Dexterity",
+  "accuracy": "Vitality",
   "target": "User",
-  "effect": "Reaction. Shield Move. If the Foe used a Contact move against the user, Reduce the Foes Defense by 2. Reduce 3 Dice from the foe's Damage Pool.",
-  "description": "In a reckless action, the user charges against the foe to stop its momentum and block an incoming attack. Being so close allows the user to reach for weak spots.",
+  "effect": "Reaction. Shield move. Used in reaction to the user being targeted, reducing incoming damage by 3. If the move that strikes the user is a Contact move, the foe's Defense is reduced by 2.",
+  "description": "In a reckless action, the user charges against the foe to stop it's momentum and block an incoming attack. Being so close allows the user to reach for weak spots.",
   "category": "Support"
 }

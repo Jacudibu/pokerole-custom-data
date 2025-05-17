@@ -1,0 +1,5 @@
+{
+    "name": "Weak Armor",
+    "description": "This Pokemon's protective outer layers can come off, allowing it to move freely and be more agile.",
+    "effect": "After this Pokemon is hit by a Physical Attack, Increase the User's Dexterity by 2 and Reduce their Defense by 1."
+}

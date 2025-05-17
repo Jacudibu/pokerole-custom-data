@@ -1,11 +1,11 @@
 {
-     "name": "Fire Blast",
-     "type": "Fire",
-     "power": 5,
-     "damage": "Special",
-     "accuracy": "Special",
-     "target": "Foe",
-     "effect": "Inflicts Wounds. Roll 1 Chance Dice to apply Burn 3 to the foe. -2 Accuracy.",
-     "description": "The Pokemon shoots a giant fireball that explodes on contact with the foe, blasting fire in all directions.",
-     "category": "Special"
-   }
+  "name": "Fire Blast",
+  "type": "Fire",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Roll 1 Chance Dice to apply Burn to the foe. -2 Accuracy.",
+  "description": "The Pokemon shoots a giant fireball that explodes on contact with the foe, blasting fire in all directions.",
+  "category": "Special"
+}

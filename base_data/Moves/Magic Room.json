@@ -1,0 +1,11 @@
+{
+    "name": "Magic Room",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Battlefield",
+    "effect": "Nobody can use the effects of their held items while this Room is in effect. Lasts 4 Rounds. If performed under Cosmic Rays weather, this move only affects one side of the battlefield, user's choice.",
+    "description": "Inside the effects of Magic Room, certain technologies and items do not work. Automated technology will function as normal.",
+    "category": "Support"
+  }
