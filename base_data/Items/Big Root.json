@@ -1,6 +1,6 @@
 {
     "name": "Big Root",
-    "description": "When using HP leeching moves, add 1 to the total amount of HP restored.",
+    "description": "When using HP restoring attacks, add 2 to the total amount of HP restored. The User heals 2 additional HP from the effects of Strength Sap, Ingrain, and Leech Seed. The User may recover up to 4 HP from Big Root in a Round.",
     "category": "HeldItem",
     "single_use": false
 }

@@ -1,0 +1,11 @@
+{
+    "name": "Flare Blitz",
+    "type": "Fire",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Recoil. Roll 1 Chance Dice to apply Burn to the foe.",
+    "description": "The user sets itself on fire, recklessly charging against the target with a brutal strike.",
+    "category": "Physical"
+  }

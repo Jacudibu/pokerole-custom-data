@@ -1,0 +1,11 @@
+{
+    "name": "Blue Flare",
+    "type": "Fire",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Roll 2 Chance Dice to apply Burn to the foe. -2 Accuracy.",
+    "description": "Reshiram surronds itself with a giant blue flame that is unleashed with an earth shattering explosion. Recieving this attack directly might completely engulf you in fire.",
+    "category": "Special"
+  }

@@ -1,7 +1,0 @@
-{
-    "name": "Burn 3",
-    "description": "You are completely engulfed by fire!",
-    "resist": "Cannot be resisted.",
-    "effect": "Inflict 3 points of wound damage at the end of each Round and reduce the subjects Strength by 2. Fire-type Pokémon are immune.",
-    "duration": "Use an action to make a Roll of Dexterity + Rank. Add up the successes of these rolls until you get 8. Others can also spend their action to help soothe the burn. A water type move (which cannot inflict the burning status condition) can kill off the flames."
-}

@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Will",
   "target": "All Foes",
-  "effect": "If any foe had their stats increased between their last action, and this attack, inflict them with Burn 2. Inflicts Wounds.",
-  "description": "This Pokémon burns with rage when it sees it opponents getting what it wants. It channels this burning rage to burn said opponents right back.",
+  "effect": "If any foe had their stats increased between their last action, and this attack, inflict them with Burn. Inflicts Wounds.",
+  "description": "This Pokemon burns with rage when it sees it opponents getting what it wants. It channels this burning rage to burn said opponents right back.",
   "category": "Special"
 }

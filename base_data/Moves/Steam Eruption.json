@@ -1,0 +1,11 @@
+{
+    "name": "Steam Eruption",
+    "type": "Water",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. Roll 3 Chance Dice to Apply Burn to those affected. -1 Accuracy.",
+    "description": "In less than a second, the sound of steam boiling over a raging engine thunders through the ears of the foe before it is shot through the sky by a scalding geyser.",
+    "category": "Special"
+  }

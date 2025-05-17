@@ -1,0 +1,7 @@
+{
+    "name": "Burn",
+    "description": "A part of your body is in flames!",
+    "resist": "Cannot be resisted.",
+    "effect": "Inflict 1 point of damage at the end of each Round and reduce the subjects Strength by 1. Fire-type Pokémon are immune.",
+    "duration": "Until you recieve medical attention, use a Burn curing item or finish the quest/spar."
+}
