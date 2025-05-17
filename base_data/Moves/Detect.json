@@ -7,5 +7,5 @@
   "target": "Ally",
   "effect": "Reaction. Shield move. Redirect all moves targeting the target of this move to the user until the end of round. Treat the accuracy of this move as if it were the effect of the 'Dodge' action to the first redirected move. Accuracy cannot be re-rolled on the first attack blocked by this move.",
   "description": "The user focuses on the opponents intent and target, and makes a key dodge at the last moment.",
-  "category": "Support."
+  "category": "Support"
 }

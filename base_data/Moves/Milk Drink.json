@@ -2,7 +2,7 @@
     "name": "Milk Drink",
     "type": "Normal",
     "power": 0,
-    "damage": " ",
+    "damage": "",
     "accuracy": "Vitality",
     "target": "User",
     "effect": "Create a MooMoo Milk item, this item is a temporary item that loses it's potency at the end of the quest. The MooMoo Milk can heal 5 HP as a Bonus Action, when you create this Milk you also give it to an ally with the same action. Said ally can drink it right away, or at a later point in the quest. This move requires a Will to use. Only usable in combat.",
