@@ -9,9 +9,9 @@
   "special": "2/4",
   "insight": "2/5",
   "moves": {
-    "bronze": ["Submission", "Night Slash", "Switcheroo", "Pin Missle", "Baby-Doll Eyes", "Tackle", "Leer", "Sand Attack" "Lick", "Snarl"],
+    "bronze": ["Submission", "Night Slash", "Switcheroo", "Pin Missile", "Baby-Doll Eyes", "Tackle", "Leer", "Sand Attack", "Lick", "Snarl"],
     "silver": ["Take Down", "Rest", "Fury Swipes", "Hone Claws"],
-    "gold": ["Scary Face", "Counter", "Double Edge", "Taunt", "Obstruct" "Cross Chop"],
+    "gold": ["Scary Face", "Counter", "Double Edge", "Taunt", "Obstruct", "Cross Chop"],
     "platinum": ["Gunk Shot", "Iron Defense", "Hyper Voice"],
     "diamond": []
   }
