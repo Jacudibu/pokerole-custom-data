@@ -1,0 +1,17 @@
+ {
+  "number": 662,
+  "name": "Fletchinder",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Ember", "Growl", "Peck", "Quick Attack"],
+    "silver": ["Agility", "Flail", "Flame Charge", "Aerial Ace", "Roost"],
+    "gold": ["Acrobatics", "Fly", "Steel Wing", "Tailwind"],
+    "platinum": ["Air Cutter", "Quick Guard", "Snatch"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 651,
+  "name": "Quilladin",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Growl", "Rollout", "Vine Whip"],
+    "silver": ["Bite", "Leech Seed", "Mud Shot", "Pin Missile", "Seed Bomb", "Take Down"],
+    "gold": ["Bulk Up", "Body Slam", "Pain Split", "Wood Hammer"],
+    "platinum": ["Drain Punch", "Grass Pledge", "Iron Defense"],
+    "diamond": []
+  }
+}

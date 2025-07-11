@@ -1,4 +1,4 @@
-{
+ {
   "number": 700,
   "name": "Sylveon",
   "base_hp": 5,
@@ -8,10 +8,10 @@
   "special": "3/6",
   "insight": "3/7",
   "moves": {
-    "bronze": ["Fairy Wind", "Helping Hand", "Sand Attack", "Tackle", "Tail Whip"],
-    "silver": ["Disarming Voice", "Draining Kiss", "Light Screen", "Misty Terrain", "Quick Attack", "Skill Swap", "Swift"],
-    "gold": ["Last Resort", "Moonblast", "Psych Up"],
+    "bronze": ["Baton Pass", "Bite", "Charm", "Copycat", "Covet", "Double Edge", "Growl", "Helping Hand", "Tackle", "Take Down", "Tail Whip", "Sand Attack", "Quick Attack"],
+    "silver": ["Baby Doll Eyes", "Disarming Voice", "Draining Kiss", "Light Screen", "Swift"],
+    "gold": ["Last Resort", "Misty Terrain", "Moonblast", "Psych Up", "Skill Swap"],
     "platinum": ["Captivate", "Hyper Voice", "Wish"],
     "diamond": []
   }
-}
+} 

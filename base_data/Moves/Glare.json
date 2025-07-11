@@ -1,0 +1,11 @@
+{
+    "name": "Glare",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Paralyze the foe.",
+    "description": "The Pokemon uses its intimidating glare to paralyze the foe with sheer terror.",
+    "category": "Support"
+}

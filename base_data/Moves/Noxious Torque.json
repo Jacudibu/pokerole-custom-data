@@ -1,0 +1,11 @@
+{
+  "name": "Noxious Torque",
+  "type": "Poison",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to apply Poison!",
+  "description": "The user propels itself forward with poison.",
+  "category": "Physical"
+}

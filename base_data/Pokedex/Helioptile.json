@@ -1,0 +1,17 @@
+ {
+  "number": 694,
+  "name": "Helioptile",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/5",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Mud Slap", "Pound", "Tail Whip", "Thunder Shock"],
+    "silver": ["Bulldoze", "Charge", "Parabolic Charge", "Thunder Wave", "Quick Attack", "Volt Switch"],
+    "gold": ["Electrify", "Thunder", "Thunderbolt"],
+    "platinum": ["Agility", "Electroweb", "Magnet Rise"],
+    "diamond": []
+  }
+} 

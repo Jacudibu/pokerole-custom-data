@@ -1,0 +1,17 @@
+ {
+  "number": 653,
+  "name": "Fennekin",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Ember", "Howl", "Scratch", "Tail Whip"],
+    "silver": ["Fire Spin", "Flame Charge", "Flamethrower", "Light Screen", "Psybeam", "Psyshock", "Will-O-Wisp"],
+    "gold": ["Fire Blast", "Psychic", "Sunny Day"],
+    "platinum": ["Fire Pledge", "Hypnosis", "Wish"],
+    "diamond": []
+  }
+} 

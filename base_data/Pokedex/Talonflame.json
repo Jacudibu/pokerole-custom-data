@@ -1,0 +1,17 @@
+ {
+  "number": 663,
+  "name": "Talonflame",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Ember", "Growl", "Peck", "Quick Attack"],
+    "silver": ["Agility", "Flail", "Flame Charge", "Aerial Ace", "Roost"],
+    "gold": ["Acrobatics", "Brave Bird", "Flare Blitz", "Fly", "Steel Wing", "Tailwind"],
+    "platinum": ["Heat Wave", "Quick Guard", "Snatch"],
+    "diamond": []
+  }
+} 

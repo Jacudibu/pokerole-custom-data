@@ -1,0 +1,17 @@
+ {
+  "number": 657,
+  "name": "Frogadier",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Growl", "Lick", "Pound", "Quick Attack", "Water Gun"],
+    "silver": ["Fling", "Round", "Smack Down", "Smokescreen", "Substitute", "Water Pulse"],
+    "gold": ["Bounce", "Double Team", "Hydro Pump"],
+    "platinum": ["Mud Sport", "Toxic Spikes", "Water Pledge"],
+    "diamond": []
+  }
+}

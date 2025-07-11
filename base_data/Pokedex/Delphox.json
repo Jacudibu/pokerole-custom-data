@@ -1,0 +1,17 @@
+ {
+  "number": 655,
+  "name": "Delphox",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Ember", "Howl", "Scratch", "Tail Whip"],
+    "silver": ["Fire Spin", "Flame Charge", "Flamethrower", "Future Sight", "Light Screen", "Magic Room", "Mystical Fire", "Psybeam", "Psyshock", "Shadow Ball", "Will-O-Wisp"],
+    "gold": ["Fire Blast", "Psychic", "Role Play", "Sunny Day", "Switcheroo"],
+    "platinum": ["Blast Burn", "Dazzling Gleam", "Shock Wave"],
+    "diamond": []
+  }
+} 

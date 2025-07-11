@@ -1,0 +1,11 @@
+{
+  "name": "Magical Torque",
+  "type": "Fairy",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to apply Confuse!",
+  "description": "The Pokemon uses magic to propel itself forward into a strike.",
+  "category": "Physical"
+}

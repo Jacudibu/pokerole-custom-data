@@ -1,0 +1,5 @@
+{
+    "name": "Hunger Switch",
+    "description": "This Pokemon becomes really upset if it gets hungry, it will bite and act out unless you constantly give it snacks.",
+    "effect": "At the End of the Round, switch this Pokemon's form. While in Full Belly Mode, this Pokemon takes 1 less damage from attacks, this applies before defenses. While in Hangry Mode, this pokemon deals 1 additional flat damage. This ability cannot be copied or switched."
+}

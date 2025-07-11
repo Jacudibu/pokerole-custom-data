@@ -1,0 +1,17 @@
+ {
+  "number": 673,
+  "name": "Gogoat",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Growth", "Tackle", "Tail Whip", "Vine Whip", "Worry Seed"],
+    "silver": ["Bulk Up", "Bulldoze", "Leech Seed", "Razor Leaf", "Seed Bomb", "Synthesis", "Take Down"],
+    "gold": ["Aerial Ace", "Double-Edge", "Earthquake", "Horn Leech", "Leaf Blade", "Milk Drink"],
+    "platinum": ["Bounce", "Superpower", "Zen Headbutt"],
+    "diamond": []
+  }
+} 

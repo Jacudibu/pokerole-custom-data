@@ -1,0 +1,17 @@
+ {
+  "number": 704,
+  "name": "Goomy",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Dragon Breath", "Tackle", "Water Gun"],
+    "silver": ["Flail", "Protect", "Rain Dance", "Water Pulse"],
+    "gold": ["Body Slam", "Curse", "Dragon Pulse", "Muddy Water"],
+    "platinum": ["Acid Armor", "Counter", "Life Dew"],
+    "diamond": []
+  }
+} 

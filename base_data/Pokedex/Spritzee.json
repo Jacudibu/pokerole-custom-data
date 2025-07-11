@@ -1,0 +1,17 @@
+ {
+  "number": 682,
+  "name": "Spritzee",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Disarming Voice", "Echoed Voice", "Fairy Wind", "Sweet Kiss", "Sweet Scent"],
+    "silver": ["Attract", "Aromatherapy", "Charm", "Draining Kiss", "Flail", "Misty Terrain", "Psychic"],
+    "gold": ["Calm Mind", "Moonblast", "Skill Swap"],
+    "platinum": ["Captivate", "Covet", "Disable"],
+    "diamond": []
+  }
+} 

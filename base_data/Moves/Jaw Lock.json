@@ -1,0 +1,11 @@
+{
+    "name": "Jaw Lock",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Biting. Both User and Target are Blocked.",
+    "description": "The user will capture its foe in a crushing jaw grip. It won't let go no matter how much you try to separate them. The only way it will release its victim is by fainting.",
+    "category": "Physical"
+}

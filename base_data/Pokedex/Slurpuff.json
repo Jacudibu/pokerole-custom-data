@@ -1,0 +1,17 @@
+ {
+  "number": 685,
+  "name": "Slurpuff",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Aromatherapy", "Fairy Wind", "Play Nice", "Sweet Scent", "Tackle"],
+    "silver": ["Cotton Spore", "Draining Kiss", "Energy Ball", "Fake Tears", "Round", "String Shot", "Wish"],
+    "gold": ["Cotton Guard", "Endeavor", "Play Rough", "Sticky Web"],
+    "platinum": ["Belly Drum", "Copycat", "Drain Punch"],
+    "diamond": []
+  }
+} 

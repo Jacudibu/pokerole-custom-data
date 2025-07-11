@@ -1,0 +1,17 @@
+ {
+  "number": 701,
+  "name": "Hawlucha",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Detect", "Hone Claws", "Tackle", "Wing Attack"],
+    "silver": ["Aerial Ace", "Bounce", "Brick Break", "Encore", "Feather Dance", "Taunt"],
+    "gold": ["Endeavor", "Flying Press", "High Jump Kick", "Roost", "Sky Attack", "Swords Dance"],
+    "platinum": ["Dual Chop", "Tailwind", "Thunder Punch"],
+    "diamond": []
+  }
+} 

@@ -1,0 +1,17 @@
+{
+  "number": 802,
+  "name": "Marshadow",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Copycat", "Counter", "Feint", "Fire Punch", "Ice Punch", "Shadow Sneak", "Thunder Punch", "Role Play"],
+    "silver": ["Shadow Punch", "Force Palm"],
+    "gold": ["Assurance", "Sucker Punch", "Drain Punch", "Psych Up", "Spectral Thief", "Laser Focus", "Endeavor", "Close Combat"],
+    "platinum": ["Iron Head", "Bulk Up", "Poison Jab", "Drain Punch", "Zen Headbutt", "Stone Edge"],
+    "diamond": []
+  }
+}

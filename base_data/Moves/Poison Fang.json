@@ -1,0 +1,11 @@
+{
+    "name": "Poison Fang",
+    "type": "Poison",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Biting. Roll 5 Chance Dice to Badly Poison the Foe.",
+    "description": "The Pokemon bites the foe and injects its poison directly through its fangs. After that it just waits for the poison to slowly take care of its foe.",
+    "category": "Physical"
+}

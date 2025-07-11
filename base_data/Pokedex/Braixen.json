@@ -1,0 +1,17 @@
+ {
+  "number": 654,
+  "name": "Braixen",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Ember", "Howl", "Scratch", "Tail Whip"],
+    "silver": ["Fire Spin", "Flame Charge", "Flamethrower", "Light Screen", "Psybeam", "Psyshock", "Will-O-Wisp"],
+    "gold": ["Fire Blast", "Psychic", "Magic Room", "Sunny Day"],
+    "platinum": ["Fire Pledge", "Wish", "Wonder Room"],
+    "diamond": []
+  }
+} 

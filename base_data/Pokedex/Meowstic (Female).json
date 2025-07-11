@@ -1,4 +1,4 @@
-{
+ {
   "number": 678,
   "api_id": 10025,
   "name": "Meowstic (Female)",
@@ -9,10 +9,10 @@
   "special": "2/5",
   "insight": "2/5",
   "moves": {
-    "bronze": ["Confusion", "Disarming Voice", "Fake Out", "Leer", "Magical Leaf", "Mean Look", "Scratch"],
-    "silver": ["Charge Beam", "Charm", "Covet", "Extrasensory", "Helping Hand", "Light Screen", "Psybeam", "Psyshock", "Reflect", "Role Play", "Stored Power", "Sucker Punch"],
-    "gold": ["Imprison", "Future Sight", "Psychic", "Quick Guard", "Shadow Ball"],
+    "bronze": ["Confusion", "Disarming Voice", "Fake Out", "Leer", "Magical Leaf", "Scratch"],
+    "silver": ["Charge Beam", "Covet", "Extrasensory", "Light Screen", "Psybeam", "Psyshock", "Reflect", "Role Play", "Stored Power", "Sucker Punch"],
+    "gold": ["Future Sight",  "Psychic", "Shadow Ball"],
     "platinum": ["Shock Wave", "Tickle", "Yawn"],
     "diamond": []
   }
-}
+} 

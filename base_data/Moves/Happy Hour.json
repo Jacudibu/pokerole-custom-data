@@ -1,0 +1,11 @@
+{
+  "name": "Happy Hour",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User and Allies",
+  "effect": "Scatters 10 × Rank :poke_coin: around the arena for everyone. This effect can only be triggered when the user is under stress.",
+  "description": "The user tosses coins around the battlefield.",
+  "category": "Support"
+}

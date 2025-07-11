@@ -1,0 +1,11 @@
+{
+  "name": "Wicked Torque",
+  "type": "Dark",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 1 Chance Dice to apply Drowsy!",
+  "description": "The user propels itself forward with dark intent",
+  "category": "Physical"
+}

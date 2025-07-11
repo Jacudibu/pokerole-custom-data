@@ -1,0 +1,17 @@
+ {
+  "number": 675,
+  "name": "Pangoro",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Arm Thrust", "Leer", "Tackle", "Work Up"],
+    "silver": ["Body Slam", "Bullet Punch", "Circle Throw", "Crunch", "Slash", "Vital Throw"],
+    "gold": ["Entrainment", "Night Slash", "Parting Shot", "Taunt"],
+    "platinum": ["Drain Punch", "Focus Punch", "Outrage Punch"],
+    "diamond": []
+  }
+} 

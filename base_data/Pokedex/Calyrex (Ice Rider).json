@@ -1,0 +1,18 @@
+{
+  "number": 898,
+  "api_id": 10193,
+  "name": "Calyrex (Ice Rider)",
+  "base_hp": 6,
+  "strength": "4/9",
+  "dexterity": "2/4",
+  "vitality": "4/8",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Avalanche", "Confusion", "Double Kick", "Double Edge", "Glacial Lance", "Growth", "Icicle Crash", "Iron Defense", "Life Dew", "Mega Drain", "Mist", "Pound", "Stomp", "Swords Dance", "Tackle", "Tail Whip", "Take Down", "Taunt", "Thrash", "Torment"],
+    "silver": ["Giga Drain", "Helping Hand", "Psyshock"],
+    "gold": ["Energy Ball", "Future Sight", "Grassy Terrain", "Heal Pulse", "Leech Seed", "Psychic", "Psychic Terrain", "Solar Beam"],
+    "platinum": ["Heavy Slam", "High Horsepower", "Megahorn"],
+    "diamond": []
+  }
+}

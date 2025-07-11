@@ -1,0 +1,17 @@
+ {
+  "number": 692,
+  "name": "Clauncher",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Flail", "Splash", "Water Gun", "Vice Grip"],
+    "silver": ["Aqua Jet", "Hone Claws", "Smack down", "Water Pulse"],
+    "gold": ["Aura Sphere", "Bounce", "Crabhammer", "Muddy Water", "Swords Dance"],
+    "platinum": ["Endure", "Helping Hand", "Icy Wind"],
+    "diamond": []
+  }
+} 

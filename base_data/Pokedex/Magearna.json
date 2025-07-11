@@ -1,0 +1,18 @@
+{
+"number": 801,
+"name": "Magearna",
+"base_hp": 5,
+"strength": "3/6",
+"dexterity": "2/4",
+"vitality": "3/7",
+"special": "3/7",
+"insight": "3/7",
+"moves": {
+"bronze": ["Gyro Ball", "Helping Hand", "Defense Curl"],
+"silver": ["Rollout", "Iron Defense", "Magnetic Flux", "Psybeam"],
+"gold": ["Aurora Beam", "Lock-On", "Shift-Gear", "Trick", "Iron Head", "Aura Sphere", "Flash Cannon", "Pain Split", "Zap Cannon", "Fleur Cannon"],
+"platinum": ["Shadow Ball", "Calm Mind", "Misty Terrain", "Trick Room", "Steel Beam", "Dazzling Gleam"],
+"diamond": []
+    }
+}
+

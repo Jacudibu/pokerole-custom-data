@@ -1,0 +1,17 @@
+ {
+  "number": 661,
+  "name": "Fletchling",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Ember", "Growl", "Peck", "Quick Attack"],
+    "silver": ["Agility", "Flail", "Aerial Ace", "Roost"],
+    "gold": ["Acrobatics", "Fly", "Steel Wing", "Tailwind"],
+    "platinum": ["Air Cutter", "Quick Guard", "Snatch"],
+    "diamond": []
+  }
+} 

@@ -1,0 +1,11 @@
+{
+    "name": "Hyper Fang",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Biting. Roll 1 Chance Dice to Flinch.",
+    "description": "The Pokemon bites hard into the foe with its powerful fangs.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Blazing Torque",
+  "type": "Fire",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to apply Burn!",
+  "description": "The Pokemon uses its fire as propulsion to strike the foe.",
+  "category": "Physical"
+}
