@@ -1,0 +1,17 @@
+ {
+  "number": 671,
+  "name": "Florges",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Disarming Voice", "Flower Shield", "Grass Knot"],
+    "silver": ["Safeguard", "Grassy Terrain", "Magical Leaf", "Petal Blizzard", "Wish"],
+    "gold": ["Misty Terrain", "Moonblast", "Petal Dance", "Solar Beam"],
+    "platinum": ["Heal Bell", "Magic Coat", "Synthesis"],
+    "diamond": []
+  }
+} 

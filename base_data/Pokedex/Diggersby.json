@@ -1,0 +1,17 @@
+ {
+  "number": 660,
+  "name": "Diggersby",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Laser Focus", "Leer", "Mud Slap", "Quick Attack", "Tackle"],
+    "silver": ["Bulldoze", "Dig", "Double Kick", "Flail", "Mud Shot", "Take Down"],
+    "gold": ["Bounce", "Earthquake", "Hammer Arm", "Super Fang", "Swords Dance"],
+    "platinum": ["Fire Punch", "Last Resort", "Thunder Punch"],
+    "diamond": []
+  }
+} 

@@ -1,0 +1,11 @@
+{
+    "name": "Flower Shield",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User and Allies",
+    "effect": "Increase the Defense and Sp. Defense of the User and its Allies. This boost only applies to Grass, Fairy, or Bug-type targets.",
+    "description": "The Pokemon uses a mysterious power that causes flowers to bloom beneath every Grass Pokemon nearby. Flora in this field is more resilient and beautiful.",
+    "category": "Support"
+}

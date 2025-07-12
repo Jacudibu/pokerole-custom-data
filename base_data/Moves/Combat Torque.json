@@ -1,0 +1,11 @@
+{
+  "name": "Combat Torque",
+  "type": "Fighting",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to apply Paralyze!",
+  "description": "The Pokemon uses its fighting spirit to propel itself forward into a strike.",
+  "category": "Physical"
+}

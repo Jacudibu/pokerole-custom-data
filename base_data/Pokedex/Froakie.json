@@ -1,0 +1,17 @@
+ {
+  "number": 656,
+  "name": "Froakie",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Growl", "Lick", "Pound", "Quick Attack", "Water Gun"],
+    "silver": ["Fling", "Round", "Smack Down", "Smokescreen", "Substitute", "Water Pulse"],
+    "gold": ["Bounce", "Double Team", "Hydro Pump"],
+    "platinum": ["Mud Sport", "Toxic Spikes", "Water Pledge"],
+    "diamond": []
+  }
+} 

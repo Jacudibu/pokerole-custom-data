@@ -1,0 +1,11 @@
+{
+  "name": "Hold Back",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "The foe can't go below 1 HP when hit by this Move.",
+  "description": "The user holds back when it attacks.",
+  "category": "Physical"
+}

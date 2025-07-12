@@ -1,0 +1,17 @@
+ {
+  "number": 703,
+  "name": "Carbink",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Guard Split", "Harden", "Smack Down", "Tackle"],
+    "silver": ["Ancient Power", "Flail", "Light Screen", "Rock Polish"],
+    "gold": ["Moonblast", "Power Gem", "Rock Slide", "Skill Swap", "Stealth Rock", "Stone Edge"],
+    "platinum": ["Gravity", "Light Screen", "Safeguard"],
+    "diamond": []
+  }
+} 

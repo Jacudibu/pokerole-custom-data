@@ -1,0 +1,11 @@
+{
+    "name": "Psychic Fangs",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Biting. If a Barrier is in place on the foe's side (ie. Light Screen. Reflect) destroy it.",
+    "description": "The Pokemon bares its fangs to bite the foe, psychic energy begins piercing before the actual fangs make contact.",
+    "category": "Physical"
+}

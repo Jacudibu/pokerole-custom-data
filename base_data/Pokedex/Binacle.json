@@ -1,0 +1,17 @@
+ {
+  "number": 688,
+  "name": "Binacle",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Mud Slap", "Scratch", "Water Gun", "Withdraw"],
+    "silver": ["Ancient Power", "Fury Cutter", "Fury Swipes", "Hone Claws", "Slash", "Rock Polish"],
+    "gold": ["Cross Chop", "Shell Smash", "Razor Shell"],
+    "platinum": ["Helping Hand", "Stealth Rock", "Tickle"],
+    "diamond": []
+  }
+}

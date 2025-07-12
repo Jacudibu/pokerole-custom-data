@@ -1,0 +1,17 @@
+ {
+  "number": 670,
+  "name": "Floette",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Fairy Wind", "Tackle", "Vine Whip"],
+    "silver": ["Safeguard", "Grassy Terrain", "Magical Leaf", "Petal Blizzard", "Razor Leaf", "Wish"],
+    "gold": ["Misty Terrain", "Moonblast", "Petal Dance", "Solar Beam"],
+    "platinum": ["Camouflage", "Heal Bell", "Magic Coat"],
+    "diamond": []
+  }
+} 

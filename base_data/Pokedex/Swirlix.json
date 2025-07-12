@@ -1,0 +1,17 @@
+ {
+  "number": 684,
+  "name": "Swirlix",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Aromatherapy", "Fairy Wind", "Play Nice", "Sweet Scent", "Tackle"],
+    "silver": ["Cotton Spore", "Draining Kiss", "Energy Ball", "Fake Tears", "Round", "String Shot", "Wish"],
+    "gold": ["Cotton Guard", "Endeavor", "Play Rough"],
+    "platinum": ["Copycat", "Gastro Acid", "Helping Hand"],
+    "diamond": []
+  }
+} 

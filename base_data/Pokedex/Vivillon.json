@@ -1,0 +1,17 @@
+ {
+  "number": 666,
+  "name": "Vivillon",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Gust", "Poison Powder", "Powder", "Sleep Powder", "Stun Spore"],
+    "silver": ["Draining Kiss", "Light Screen", "Psybeam", "Struggle Bug", "Supersonic"],
+    "gold": ["Bug Buzz", "Hurricane", "Quiver Dance", "Safeguard"],
+    "platinum": ["Electroweb", "Giga Drain", "Tailwind"],
+    "diamond": []
+  }
+} 

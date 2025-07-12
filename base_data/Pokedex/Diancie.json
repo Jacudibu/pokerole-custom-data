@@ -1,0 +1,17 @@
+{
+"number": 719,
+"name": "Diancie",
+"base_hp": 4,
+"strength": "3/6",
+"dexterity": "2/4",
+"vitality": "4/8",
+"special": "3/6",
+"insight": "4/8",
+"moves": {
+"bronze": ["Harden", "Tackle", "Guard Split"],
+"silver": ["Smack Down", "Flail", "Ancient Power"],
+"gold": ["Diamond Storm", "Rock Polish", "Light Screen", "Rock Slide", "Skill Swap", "Power Gem", "Stealth Rock", "Moonblast", "Stone Edge"],
+"platinum": ["Earth Power", "Draining Kiss", "Sandstorm", "Reflect", "Body Press", "Iron Defense"],
+"diamond": []
+    }
+}

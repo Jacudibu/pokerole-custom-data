@@ -1,0 +1,17 @@
+ {
+  "number": 698,
+  "name": "Amaura",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Ancient Power", "Encore", "Growl", "Powder Snow"],
+    "silver": ["Aurora Beam", "Icy Wind", "Mist", "Nature Power", "Round", "Thunder Wave"],
+    "gold": ["Blizzard", "Freeze-Dry", "Hail", "Hyper Beam", "Ice Beam", "Light Screen"],
+    "platinum": ["Earth Power", "Stealth Rock", "Water Pulse"],
+    "diamond": []
+  }
+} 

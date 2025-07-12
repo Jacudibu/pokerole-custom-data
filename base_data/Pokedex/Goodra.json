@@ -1,0 +1,17 @@
+ {
+  "number": 706,
+  "name": "Goodra",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Absorb", "Acid Spray", "Aqua Tail", "Dragon Breath", "Feint", "Poison Tail", "Tackle", "Tearful Look", "Water Gun"],
+    "silver": ["Flail", "Protect", "Rain Dance", "Water Pulse"],
+    "gold": ["Body Slam", "Curse", "Dragon Pulse", "Muddy Water", "Power Whip"],
+    "platinum": ["Draco Meteor", "Shock Wave", "Superpower"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 652,
+  "name": "Chesnaught",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Growl", "Tackle", "Bulk Up", "Vine Whip"],
+    "silver": ["Bite", "Body Slam", "Leech Seed", "Mud Shot", "Pin Missile", "Rollout", "Spiky Shield", "Seed Bomb", "Take Down"],
+    "gold": ["Giga Impact", "Pain Split", "Wood Hammer"],
+    "platinum": ["Dual Chop", "Frenzy Plant", "Synthesis"],
+    "diamond": []
+  }
+} 

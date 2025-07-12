@@ -1,0 +1,17 @@
+ {
+  "number": 672,
+  "name": "Skiddo",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Growth", "Tackle", "Tail Whip", "Vine Whip", "Worry Seed"],
+    "silver": ["Bulk Up", "Bulldoze", "Leech Seed", "Razor Leaf", "Seed Bomb", "Synthesis", "Take Down"],
+    "gold": ["Double-Edge", "Horn Leech", "Leaf Blade"],
+    "platinum": ["Defense Curl", "Endure", "Zen Headbutt"],
+    "diamond": []
+  }
+} 

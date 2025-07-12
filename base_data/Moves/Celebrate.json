@@ -1,0 +1,11 @@
+{
+  "name": "Celebrate",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "HP",
+  "target": "Ally",
+  "effect": "The user congratulates you on your special day!",
+  "description": "A present box drops down from above and unfolds to reveal the contents inside.",
+  "category": "Support"
+}

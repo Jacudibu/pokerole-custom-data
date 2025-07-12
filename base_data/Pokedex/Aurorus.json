@@ -1,0 +1,17 @@
+ {
+  "number": 699,
+  "name": "Aurorus",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Ancient Power", "Encore", "Growl", "Powder Snow"],
+    "silver": ["Aurora Beam", "Icy Wind", "Mist", "Nature Power", "Round", "Thunder Wave"],
+    "gold": ["Blizzard", "Freeze-Dry", "Hail", "Hyper Beam", "Ice Beam", "Light Screen"],
+    "platinum": ["Discharge", "Iron Defense", "Outrage"],
+    "diamond": []
+  }
+} 

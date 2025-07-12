@@ -1,0 +1,17 @@
+ {
+  "number": 691,
+  "name": "Dragalge",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Acid", "Smokescreen", "Tackle", "Water Gun"],
+    "silver": ["Double Team", "Poison Tail", "Tail Whip", "Water Pulse"],
+    "gold": ["Aqua Tail", "Dragon Pulse", "Hydro Pump", "Outrage", "Toxic", "Sludge Bomb"],
+    "platinum": ["Acid Armor", "Draco Meteor", "Gunk Shot"],
+    "diamond": []
+  }
+} 

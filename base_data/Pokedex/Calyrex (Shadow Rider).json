@@ -1,0 +1,18 @@
+{
+  "number": 898,
+  "api_id": 10194,
+  "name": "Calyrex (Shadow Rider)",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "4/8",
+  "vitality": "2/5",
+  "special": "4/9",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Agility", "Astral Barrage", "Confuse Ray", "Confusion", "Disable", "Double Kick", "Double Edge", "Energy Ball", "Future Sight", "Giga Drain", "Growth", "Haze", "Heal Pulse", "Helping Hand", "Hex", "Leech Seed", "Life Dew", "Mega Drain", "Nasty Plot"],
+    "silver": ["Pound", "Psychic", "Psychic Terrain"],
+    "gold": ["Psyshock", "Shadow Ball", "Solar Beam", "Stomp", "Tackle", "Tail Whip", "Take Down", "Thrash"],
+    "platinum": ["Dark Pulse", "Stored Power", "Tri Attack"],
+    "diamond": []
+  }
+}

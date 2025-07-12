@@ -1,0 +1,17 @@
+{
+  "number": 891,
+  "name": "Kubfu",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Endure", "Focus Energy", "Leer", "Rock Smash"],
+    "silver": ["Aerial Ace", "Brick Break", "Bulk Up", "Detect", "Headbutt", "Scary Face"],
+    "gold": ["Close Combat", "Counter", "Dynamic Punch", "Focus Punch", "Iron Head"],
+    "platinum": ["Body Slam", "U-turn", "Zen Headbutt"],
+    "diamond": []
+  }
+}

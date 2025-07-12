@@ -1,0 +1,17 @@
+ {
+  "number": 659,
+  "name": "Bunnelby",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Laser Focus", "Leer", "Mud Slap", "Quick Attack", "Tackle"],
+    "silver": ["Bulldoze", "Dig", "Double Kick", "Flail", "Mud Shot", "Take Down"],
+    "gold": ["Bounce", "Earthquake", "Super Fang", "Swords Dance"],
+    "platinum": ["Defense Curl", "Last Resort", "Rollout"],
+    "diamond": []
+  }
+} 

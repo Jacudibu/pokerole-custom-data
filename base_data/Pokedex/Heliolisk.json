@@ -1,0 +1,17 @@
+ {
+  "number": 695,
+  "name": "Heliolisk",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Eerie Impulse", "Mud Slap", "Pound", "Tail Whip", "Thunder Shock"],
+    "silver": ["Bulldoze", "Charge", "Discharge", "Parabolic Charge", "Thunder Wave", "Quick Attack", "Volt Switch"],
+    "gold": ["Electrify", "Thunder", "Thunderbolt"],
+    "platinum": ["Agility", "Fire Punch", "Hyper Voice"],
+    "diamond": []
+  }
+} 

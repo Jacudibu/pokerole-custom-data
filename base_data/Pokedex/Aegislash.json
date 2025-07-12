@@ -1,0 +1,17 @@
+ {
+  "number": 681,
+  "name": "Aegislash",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "4/8",
+  "special": "2/4",
+  "insight": "4/8",
+  "moves": {
+    "bronze": ["Autonomize", "Fury Cutter", "Tackle", "Shadow Sneak"],
+    "silver": ["Aerial Ace", "Iron Defense", "King's Shield", "Metal Sound",  "Night Slash", "Retaliate", "Slash"],
+    "gold": ["Head Smash", "Iron Head", "Power Trick", "Swords Dance", "Sacred Sword"],
+    "platinum": ["Destiny Bond", "Magnet Rise", "Spite"],
+    "diamond": []
+  }
+} 

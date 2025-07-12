@@ -1,0 +1,17 @@
+ {
+  "number": 658,
+  "name": "Greninja",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Growl", "Lick", "Pound", "Quick Attack", "Water Gun"],
+    "silver": ["Extrasensory", "Haze", "Role Play", "Shadow Sneak", "Smokescreen", "Spikes", "Water Pulse", "Water Shuriken"],
+    "gold": ["Aerial Ace", "Double Team", "Hydro Pump", "Night Slash", "Substitute"],
+    "platinum": ["Gunk Shot", "Hydro Cannon", "Ice Punch"],
+    "diamond": []
+  }
+} 

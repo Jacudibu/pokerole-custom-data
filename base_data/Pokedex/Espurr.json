@@ -1,0 +1,18 @@
+
+ {
+  "number": 677,
+  "name": "Espurr",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Confusion", "Covet", "Leer", "Scratch"],
+    "silver": ["Fake Out", "Light Screen", "Psybeam", "Reflect"],
+    "gold": ["Disarming Voice", "Psyshock"],
+    "platinum": ["Barrier", "Signal Beam", "Yawn"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+ {
+  "number": 702,
+  "name": "Dedenne",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Charge", "Nuzzle", "Tackle", "Tail Whip"],
+    "silver": ["Charm", "Parabolic Charge", "Thunder Shock", "Volt Switch"],
+    "gold": ["Discharge", "Entrainment", "Play Rough", "Rest", "Snore", "Super Fang", "Thunder"],
+    "platinum": ["Dazzling Gleam", "Eerie Impulse", "Iron Tail"],
+    "diamond": []
+  }
+} 

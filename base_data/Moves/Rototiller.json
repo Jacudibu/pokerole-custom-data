@@ -1,0 +1,11 @@
+{
+    "name": "Rototiller",
+    "type": "Ground",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User and Allies",
+    "effect": "Increase the Strength and Special of the User and its Allies. This boost only applies to Grass, Ground, or Normal-type targets.",
+    "description": "The Pokemon digs around and moves the soil to make it ideal for plant growth.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Play Nice",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute",
+    "target": "Foe",
+    "effect": "Never Fail. Reduce the foe's Strength. This move ignores Redirection, Shield Moves and Substitute.",
+    "description": "The user starts playing with the foe in a friendly way. This makes the foe reconsider its aggressive demeanor.",
+    "category": "Support"
+}

@@ -1,0 +1,17 @@
+{
+"number": 773,
+"name": "Silvally",
+"base_hp": 5,
+"strength": "3/6",
+"dexterity": "3/6",
+"vitality": "3/6",
+"special": "3/6",
+"insight": "3/6",
+"moves": {
+"bronze": ["Pursuit", "Rage", "Tackle"],
+"silver": ["Aerial Ace", "Bite", "Crush Claw", "Double Hit", "Fire Fang", "Heal Block", "Ice Fang", "Imprison", "Iron Head", "Metal Sound", "Multi-Attack", "Poison Fang", "Scary Face", "Take Down", "Thunder Fang", "X-Scissor"],
+"gold": ["Air Slash", "Crunch", "Punishment", "Razor Wind"],
+"platinum": ["Double-Edge", "Parting Shot", "Tri-Attack"],
+"diamond": []
+    }
+}

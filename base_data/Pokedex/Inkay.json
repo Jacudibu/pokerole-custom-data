@@ -1,0 +1,17 @@
+ {
+  "number": 686,
+  "name": "Inkay",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Hypnosis", "Payback", "Peck", "Tackle", "Wrap"],
+    "silver": ["Night Slash", "Pluck", "Psybeam", "Psycho Cut", "Slash", "Swagger", "Switcheroo"],
+    "gold": ["Foul Play", "Topsy-Turvy", "Superpower"],
+    "platinum": ["Knock Off", "Power Split", "Simple Beam"],
+    "diamond": []
+  }
+} 

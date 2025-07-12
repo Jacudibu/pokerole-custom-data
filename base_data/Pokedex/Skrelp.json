@@ -1,0 +1,17 @@
+ {
+  "number": 690,
+  "name": "Skrelp",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Acid", "Smokescreen", "Tackle", "Water Gun"],
+    "silver": ["Double Team", "Poison Tail", "Tail Whip", "Water Pulse"],
+    "gold": ["Aqua Tail", "Dragon Pulse", "Hydro Pump", "Toxic", "Sludge Bomb"],
+    "platinum": ["Acid Armor", "Toxic Spikes", "Venom Drench"],
+    "diamond": []
+  }
+} 

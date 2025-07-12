@@ -1,0 +1,17 @@
+{
+"number": 772,
+"name": "Type Null",
+"base_hp": 5,
+"strength": "3/6",
+"dexterity": "2/4",
+"vitality": "3/6",
+"special": "3/6",
+"insight": "3/6",
+"moves": {
+"bronze": ["Pursuit", "Rage", "Tackle"],
+"silver": ["Aerial Ace", "Crush Claw", "Double Hit", "Imprison", "Iron Head", "Metal Sound", "Scary Face", "Take Down", "X-Scissor"],
+"gold": ["Air Slash", "Punishment", "Razor Wind"],
+"platinum": ["Double-Edge", "Heal Block", "Tri-Attack"],
+"diamond": []
+    }
+}
