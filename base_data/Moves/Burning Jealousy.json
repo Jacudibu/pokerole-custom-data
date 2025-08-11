@@ -1,11 +1,11 @@
 {
-  "name": "Burning Jealousy",
-  "type": "Fire",
-  "power": 3,
-  "damage": "Special",
-  "accuracy": "Will",
-  "target": "All Foes",
-  "effect": "If any foe had their stats increased between their last action, and this attack, inflict them with Burn. Inflicts Wounds.",
-  "description": "This Pokemon burns with rage when it sees it opponents getting what it wants. It channels this burning rage to burn said opponents right back.",
-  "category": "Special"
+    "name": "Burning Jealousy",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Will",
+    "target": "All Foes",
+    "effect": "Inflict Burn to affected foes that have received positive Stat Changes between their last action, and this attack. Inflicts Wounds.",
+    "description": "This Pok\u00e9mon burns with rage when it sees it opponents getting what it wants. It channels this burning rage to burn said opponents right back.",
+    "category": "Special"
 }

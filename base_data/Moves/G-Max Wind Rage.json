@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Wind Rage",
+    "type": "Flying",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Flying-type user can choose to use this instead of Max Airstream while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Remove all Barriers (ie. Light Screen, Reflect), Entry Hazards (Toxic Spikes, Stealth Rock, etc.), and Terrains (Misty Terrain, Electric Terrain, etc.) from the battlefield.",
+    "description": "The user creates a wind so strong it clears any fog and barriers from the entire battlefield.",
+    "category": "PhysicalOrSpecial"
+  }

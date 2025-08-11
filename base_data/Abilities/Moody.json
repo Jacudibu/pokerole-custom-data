@@ -1,0 +1,5 @@
+{
+    "name": "Moody",
+    "description": "This mon has some pretty crazy mood swings, from happy to angrybat the drop of a pin.",
+    "effect": "At the end of the round this pokemon receives a +2 boost to a random Stat and -1 boost to a different Stat amongst Strength, Special, Defense, Special Defense, and Dexterity. This ability's affect can stack between rounds, but is still restricted by the Stat Boost cap."
+}

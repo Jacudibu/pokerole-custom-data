@@ -1,0 +1,17 @@
+{
+"number": 257,
+"name": "Blaziken",
+"base_hp": 5,
+"strength": "3/7",
+"dexterity": "2/5",
+"vitality": "2/5",
+"special": "3/6",
+"insight": "2/5",
+"moves": {
+ "bronze": ["Double Kick", "Quick Attack", "Growl", "Scratch", "Flame Charge"],
+ "silver": ["Sand Attack", "Slash", "Bounce", "Detect", "Aerial Ace"],
+ "gold": ["Brave Bird", "Flare Blitz", "Sky Uppercut", "Focus Energy", "Bulk Up", "Reversal", "Blaze Kick", "Fire Punch", "Ember"],
+ "platinum": ["Blast Burn", "Dual Chop", "Night Slash", "Seismic Toss"],
+ "diamond": []
+  }
+}

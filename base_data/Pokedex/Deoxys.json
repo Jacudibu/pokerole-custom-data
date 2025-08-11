@@ -1,0 +1,17 @@
+{
+"number": 386,
+"name": "Deoxys",
+"base_hp": 4,
+"strength": "4/8",
+"dexterity": "4/8",
+"vitality": "2/4",
+"special": "4/8",
+"insight": "2/4",
+"moves": {
+"bronze": ["Leer", "Wrap", "Night Shade"],
+"silver": ["Teleport", "Knock Off", "Psyshock", "Psychic", "Taunt", "Spikes", "Double Team"],
+"gold": ["Gravity", "Skill Swap", "Zen Headbutt", "Cosmic Power", "Recover", "Psycho Boost", "Hyper Beam", "Superpower", "Zap Cannon", "Protect", "Amnesia", "Iron Defense", "Counter", "Mirror Coat", "Swift", "Agility", "Extreme Speed"],
+"platinum": ["Stored Power", "Drain Punch", "Calm Mind", "Psychic Terrain", "Light Screen", "Reflect"],
+"diamond": []
+    }
+}

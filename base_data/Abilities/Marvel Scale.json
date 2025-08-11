@@ -1,0 +1,5 @@
+{
+    "name": "Marvel Scale",
+    "description": "The beautiful scales of this Pokemon will harden when its body is under stress.",
+    "effect": "While affected by a Status Condition, Increase the User's base Defense by 2."
+}

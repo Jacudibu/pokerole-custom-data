@@ -1,11 +1,11 @@
 {
-  "name": "Sketch",
-  "type": "Normal",
-  "power": 0,
-  "damage": "Special",
-  "accuracy": "Dexterity",
-  "target": "Foe",
-  "effect": "Copy the last move the chosen target. This move is added to your learnset. Moves learned this way may be reverted back to Sketch by using a Respec Potion. Custom and signature moves cannot be copied this way.",
-  "description": "The Pokémon draws its foe performing a move, and learns how to perform it themselves in the process.",
-  "category": "Support"
+    "name": "Sketch",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Never Fail. Copy the last move the target used. This move is added to your learnset (replacing Sketch). Moves learned this way may be reverted back to Sketch by using a Respec Potion. Custom moves are instead copied until the end of the scene.",
+    "description": "The Pokemon draws its foe performing a move. It learns how to perform that move in the process.",
+    "category": "Support"
 }

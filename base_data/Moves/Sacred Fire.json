@@ -5,7 +5,7 @@
     "damage": "Strength",
     "accuracy": "Dexterity",
     "target": "Foe",
-    "effect": "Inflicts Wounds. Roll 5 Chance Dice to Apply Burn to the Foe.",
+    "effect": "Ranged. Inflicts Wounds. Roll 5 Chance Dice to Apply Burn to the Foe.",
     "description": "A blazing pillar of rainbow-colored flames crashes upon the foe, it burns and cleanses the evil from within. Those with a pure heart should not fear for they'll be unharmed.",
     "category": "Physical"
-  }
+}

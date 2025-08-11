@@ -1,0 +1,5 @@
+{
+    "name": "Minus",
+    "description": "This Pokemon has a natural Negative charge. It will attract Positive charge and repel other negative charge. They are prone to feel blue.",
+    "effect": "If an ally Pokemon has the ability \u201cMinus\u201d (besides the User) or the ability \"Plus\", Increase the User's base Special by 2."
+}

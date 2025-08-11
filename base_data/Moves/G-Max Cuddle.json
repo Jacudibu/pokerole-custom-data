@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Cuddle",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Normal-type user can choose to use this instead of Max Strike while Dynamaxed. Mutually exclusive with other G-Max moves. All of the opponents are now In Love.",
+    "description": "The user makes itself pretty and nuzzles up to the opponents, becoming irresistible to the foes. So cute!",
+    "category": "Support"
+  }

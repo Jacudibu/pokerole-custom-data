@@ -1,0 +1,5 @@
+{
+    "name": "Flower Gift",
+    "description": "This Pokemon's petals radiate full of energy when the sun shines bright. The energy irradiated makes those around feel stronger.",
+    "effect": "While Sunny weather is in effect, Increase the User and Allies base Strength and Sp.Defense by 2."
+}

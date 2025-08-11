@@ -1,0 +1,17 @@
+{
+  "number": 152,
+  "name": "Chikorita",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Tackle", "Growl", "Razor Leaf", "Poison Powder"],
+    "silver": ["Synthesis", "Reflect", "Magical Leaf", "Leech Seed", "Sweet Scent", "Light Screen"],
+    "gold": ["Aromatherapy", "Body Slam", "Safeguard", "Giga Drain", "Solar Beam"],
+    "platinum": ["Grass Pledge", "Grassy Terrain", "Heal Pulse"],
+    "diamond": []
+  }
+}

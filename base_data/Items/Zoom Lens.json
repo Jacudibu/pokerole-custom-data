@@ -1,0 +1,6 @@
+{
+    "name": "Zoom Lens",
+    "description": "Increases the User's base accuracy by 2 if the User is lower than the target in the initiative order.",
+    "category": "BattleItem",
+    "single_use": false
+}

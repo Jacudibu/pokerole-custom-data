@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Befuddle",
+    "type": "Bug",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Bug-type user can choose to use this instead of Max Flutterby while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 1 to a single enemy. Roll 5 Chance Dice to apply one of three random effects between Poison, Drowsy and Paralysis using the `/select_random` command. If 2 or more successes, apply the two remaining status effects using the `/select_random` command again.",
+    "description": "The user sends a thousand butterflies to fly at the opponent and swarm it by the numbers, inflicting it with all kinds of statuses.",
+    "category": "PhysicalOrSpecial"
+  }

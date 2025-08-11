@@ -1,0 +1,17 @@
+ {
+  "number": 715,
+  "name": "Noivern",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Dragon Pulse", "Gust", "Moonlight", "Supersonic", "Tackle"],
+    "silver": ["Air Cutter", "Double Team", "Super Fang", "Whirlwind", "Wing Attack"],
+    "gold": ["Air Slash", "Boomburst", "Hurricane", "Roost", "Screech", "Tailwind"],
+    "platinum": ["Draco Meteor", "Heat Wave", "Sky Attack"],
+    "diamond": []
+  }
+} 

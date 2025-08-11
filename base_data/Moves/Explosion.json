@@ -1,0 +1,11 @@
+{
+    "name": "Explosion",
+    "type": "Normal",
+    "power": 10,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Area",
+    "effect": "Ranged. After the damage is dealt the User faints. Inflicts Wounds.",
+    "description": "The user focuses on exploding its body, the explosion deals a massive wave of damage. A very dangerous move.",
+    "category": "Physical"
+}

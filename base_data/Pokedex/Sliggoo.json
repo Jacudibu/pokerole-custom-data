@@ -1,0 +1,17 @@
+ {
+  "number": 705,
+  "name": "Sliggoo",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Absorb", "Acid Armor", "Acid Spray", "Dragon Breath", "Tackle", "Water Gun"],
+    "silver": ["Flail", "Protect", "Rain Dance", "Water Pulse"],
+    "gold": ["Body Slam", "Curse", "Dragon Pulse", "Muddy Water"],
+    "platinum": ["Counter", "Life Dew"],
+    "diamond": []
+  }
+}

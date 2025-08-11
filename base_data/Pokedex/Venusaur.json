@@ -1,0 +1,17 @@
+{
+  "number": 3,
+  "name": "Venusaur",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Tackle", "Growl", "Vine Whip", "Growth", "Leech Seed"],
+    "silver": ["Razor Leaf", "Poison Powder", "Sleep Powder", "Seed Bomb", "Take Down", "Sweet Scent", "Synthesis", "Worry Seed"],
+    "gold": ["Power Whip", "Solar Beam", "Petal Dance", "Petal Blizzard"],
+    "platinum": ["Curse", "Frenzy Plant", "Outrage"],
+    "diamond": []
+  }
+}

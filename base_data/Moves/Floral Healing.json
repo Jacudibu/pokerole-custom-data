@@ -1,0 +1,11 @@
+{
+    "name": "Floral Healing",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Ally",
+    "effect": "Never Fail. Heal 5 HP. If Grassy Terrain is in effect, Heal 8 HP instead. If Pollen Storm or Fairy Dust Weather are in effect, cure one Status from the target (of the User's choice). If successful spend 1 Will to activate.",
+    "description": "The user emits a pulse of energy that heals the wounds of its allies.",
+    "category": "Support"
+}

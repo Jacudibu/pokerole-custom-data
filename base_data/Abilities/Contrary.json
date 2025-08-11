@@ -1,0 +1,5 @@
+{
+    "name": "Contrary",
+    "description": "Most of the time this pokemon will want to do the opposite of what you want. Sometimes it even contradicts itself.",
+    "effect": "Reverse the effects of Stat Changes on this pokemon (from all sources)."
+}

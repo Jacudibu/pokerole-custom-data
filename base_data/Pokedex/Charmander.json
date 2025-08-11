@@ -1,0 +1,17 @@
+{
+  "number": 4,
+  "name": "Charmander",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Scratch", "Growl", "Ember", "Smokescreen"],
+    "silver": ["Dragon Breath", "Fire Fang", "Slash", "Flamethrower", "Scary Face", "Fire Spin"],
+    "gold": ["Inferno", "Flare Blitz"],
+    "platinum": ["Dragon Dance", "Fire Pledge", "Metal Claw"],
+    "diamond": []
+  }
+}

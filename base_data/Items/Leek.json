@@ -1,0 +1,6 @@
+{
+    "name": "Leek",
+    "description": "This item only works when held by Farfetch'd or Sirfetch'd. All moves used by the holder have High Critical. If they already have high critical, they only require one '6' to be a Critical hit.",
+    "category": "HeldItem",
+    "single_use": false
+}

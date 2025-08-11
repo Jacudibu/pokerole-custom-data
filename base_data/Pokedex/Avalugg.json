@@ -1,0 +1,17 @@
+ {
+  "number": 713,
+  "name": "Avalugg",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "1/3",
+  "vitality": "4/9",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Body Slam", "Curse", "Harden", "Powder Snow", "Rapid Spin", "Tackle", "Wide Guard"],
+    "silver": ["Avalanche", "Bite", "Ice Fang", "Icy Wind", "Iron Defense", "Protect", "Recover"],
+    "gold": ["Blizzard", "Crunch", "Double Edge", "Icicle Crash", "Take Down"],
+    "platinum": ["Block", "Iron Head", "Superpower"],
+    "diamond": []
+  }
+} 

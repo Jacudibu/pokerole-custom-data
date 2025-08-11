@@ -1,0 +1,17 @@
+ {
+  "number": 711,
+  "name": "Gourgeist",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Astonish", "Confuse Ray", "Explosion", "Moonblast", "Shadow Sneak", "Trick Or Treat"],
+    "silver": ["Bullet Seed", "Leech Seed", "Razor Leaf", "Scary Face", "Seed Bomb", "Worry Seed"],
+    "gold": ["Pain Split", "Shadow Ball", "Trick"],
+    "platinum": ["Dark Pulse", "Foul Play", "Synthesis"],
+    "diamond": []
+  }
+} 

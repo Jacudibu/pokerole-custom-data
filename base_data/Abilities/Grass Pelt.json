@@ -1,0 +1,5 @@
+{
+    "name": "Grass Pelt",
+    "description": "This Pokemon has a lush coat of grass to protect its body, even if you cut it, it will regrow in a few days.",
+    "effect": "While Grassy Terrain is active, Increase the User's base Defense by 2."
+}

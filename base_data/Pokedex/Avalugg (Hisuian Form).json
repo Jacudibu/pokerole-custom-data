@@ -1,5 +1,6 @@
-{
-  "number": 713,
+ {
+  "number": 10243,
+  "api_id": 10243,
   "name": "Avalugg (Hisuian Form)",
   "base_hp": 5,
   "strength": "3/7",
@@ -8,10 +9,10 @@
   "special": "1/2",
   "insight": "1/3",
   "moves": {
-    "bronze": ["Wide Guard", "Rapid Spin", "Harden", "Tackle", "Powder Snow", "Rock Slide", "Curse"],
-    "silver": ["Icy Wind", "Protect", "Avalanche","Bite", "Ice Fang", "Iron Defense", "Recover", "Crunch", "Take Down"],
-    "gold": ["Blizzard", "Double-Edge", "Stone Edge", "Mountain Gale"],
-    "platinum": ["Aurora Veil", "Mist", "Mirror Coat"],
+    "bronze": ["Rock Slide", "Curse", "Harden", "Powder Snow", "Rapid Spin", "Tackle", "Wide Guard"],
+    "silver": ["Avalanche", "Bite", "Ice Fang", "Icy Wind", "Iron Defense", "Protect", "Recover"],
+    "gold": ["Blizzard", "Crunch", "Double Edge", "Mountain Gale", "Stone Edge", "Take Down"],
+    "platinum": ["Aurora Veil", "Mirror Coat", "Mist"],
     "diamond": []
   }
-}
+} 

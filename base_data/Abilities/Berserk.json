@@ -1,0 +1,5 @@
+{
+    "name": "Berserk",
+    "description": "This Pokemon is usually calm in demeanor, but when its life or someone it cares for is in danger, the adrenaline rush will transform it into an enranged beast.",
+    "effect": "The first time in Combat when this Pokemon's HP is reduced to half or less, Increase its base Special by 1. This increase persists even if the User's HP is raised above half."
+}

@@ -1,0 +1,17 @@
+{
+"number": 256,
+"name": "Combusken",
+"base_hp": 4,
+"strength": "2/5",
+"dexterity": "2/4",
+"vitality": "2/4",
+"special": "2/5",
+"insight": "2/4",
+"moves": {
+ "bronze": ["Ember", "Quick Attack", "Growl", "Scratch"],
+ "silver": ["Flame Charge", "Sand Attack", "Slash", "Bounce", "Detect"],
+ "gold": ["Flare Blitz", "Mirror Move", "Sky Uppercut", "Double Kick", "Bulk Up", "Focus Energy", "Blaze Kick", "Feather Dance"],
+ "platinum": ["Counter", "Seismic Toss", "Fire Pledge"],
+ "diamond": []
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Stench",
+    "description": "This Pokemon can emit a smell so unpleasant it repels other people and Pokemon." ,
+    "effect": "Reduces the chance of random Wild Pokemon encounters. Whenever this Pokemon hits with a Contact Attack, it Rolls 2 Chance Dice to Flinch the foe. "
+}

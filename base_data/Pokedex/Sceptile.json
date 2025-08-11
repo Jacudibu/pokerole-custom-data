@@ -1,0 +1,17 @@
+{
+"number": 254,
+"name": "Sceptile",
+"base_hp": 4,
+"strength": "2/5",
+"dexterity": "3/7",
+"vitality": "2/4",
+"special": "3/6",
+"insight": "2/5",
+  "moves": {
+    "bronze": ["Pound", "Leer", "Leafage", "Quick Attack", "Mega Drain", "Pursuit"],
+    "silver": ["Detect", "Quick Guard", "Assurance", "Giga Drain", "Slam"],
+    "gold": ["Double Team", "Leaf Blade", "Screech", "Endeavor", "Leaf Storm", "False Swipe", "Fury Cutter", "X-Scissor", "Energy Ball", "Shed Tail", "Dual Chop"],
+    "platinum": ["Bullet Seed", "Grass Pledge", "Iron Tail"],
+    "diamond": []
+  }
+}

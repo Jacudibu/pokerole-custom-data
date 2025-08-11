@@ -1,6 +1,6 @@
 {
     "name": "Rescue Hood",
-    "description": "The effect of HP recovery moves used on allies are increased by 2.",
+    "description": "The effect of HP recovery moves used on allies are increased by 2. This bonus only applies on the first Round of activation for moves which heal the character at the end of Round.",
     "category": "HeldItem",
     "single_use": false
 }

@@ -5,7 +5,7 @@
     "damage": "Strength / Special",
     "accuracy": "",
     "target": "Foe",
-    "effect": "The fire type user can choose to use this instead of Max Flare while Dynamaxed. Deals the base move's damage + 2 to a single enemy. Additionally, roll 2 Dice of Damage against all foes at the end of each Round. Lasts 4 turns.",
+    "effect": "The Fire-type user can choose to use this instead of Max Flare while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Additionally, deal 1 Damage against all foes at the end of each Round, fire-types are immune to this damage. Lasts 4 turns.",
     "description": "The user blasts out a flame that almost has a mind of its own, quickly swirling around the opposition.",
     "category": "PhysicalOrSpecial"
   }

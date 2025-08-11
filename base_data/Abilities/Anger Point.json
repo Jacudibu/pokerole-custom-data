@@ -1,0 +1,5 @@
+{
+    "name": "Anger Point",
+    "description": "The Pokemon will easily get aggressive. Little to no provocation is needed for it to start throwing a tantrum and ripping everything to shreds.",
+    "effect": "The first time a foe lands a Critical Hit on this Pokemon, increase the User's base Strength by 3."
+}

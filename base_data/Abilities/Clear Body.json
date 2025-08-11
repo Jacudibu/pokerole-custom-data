@@ -1,0 +1,5 @@
+{
+    "name": "Clear Body",
+    "description": "The Pokemon is completely aware of all its body surroundings, trying to sneak on it will be incredibly difficult.",
+    "effect": "The User is immune to negative Stat Changes inflicted by other pokemon. The User's Stat Changes may still be directly overwritten or transferred (the User is affected normally by effects such as ex: Haze, Baton Pass, Topsy-Turvy)."
+}

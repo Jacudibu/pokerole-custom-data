@@ -1,0 +1,5 @@
+{
+    "name": "Swift Swim",
+    "description": "The Pokemon will move faster in water than on land, even a puddle covered roadway will allow it to use its full speed.",
+    "effect": "While Rain Weather is in effect, Increase the User's base Dexterity by 2."
+}

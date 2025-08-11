@@ -1,0 +1,11 @@
+{
+    "name": "G-Max One Blow",
+    "type": "Dark",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Dark-type user can choose to use this instead of Max Darkness while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Same properties as Feint, hitting even through an opposing Max Guard.",
+    "description": "The user charges a nasty punch, feinting the strike and luring any guards before the actual, true attack reveals itself, going around all cover to hit its true target.",
+    "category": "PhysicalOrSpecial"
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "Teatime",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Battlefield",
+    "effect": "Those affected may immediately designate a berry from their inventory, gaining its effects (this does not consume their Bonus Action for the round or the Berry). This effect is not prevented by Unnerve. Once an individual berry has been designated it can't be selected for future uses of Teatime during the quest.",
+    "description": "The Pokemon gathers everyone for a cup of delicious tea. Not eating a snack along with it would be a waste.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Volcalith",
+    "type": "Rock",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Rock-type user can choose to use this instead of Max Rockfall while Dynamaxed. Mutually exclusive with other G-Max moves.  Deals the base move's damage + 2 to a single enemy. Additionally, deal 1 Damage against all foes at the end of each Round, rock-types are immune to this damage. Lasts 4 turns.",
+    "description": "The user summons a mighty pillar of rock that falls onto the foe. As it lands, rock fragments get scattered everywhere, making it hard to move around without getting cut.",
+    "category": "PhysicalOrSpecial"
+  }

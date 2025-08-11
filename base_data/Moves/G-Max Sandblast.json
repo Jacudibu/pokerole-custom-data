@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Sandblast",
+    "type": "Ground",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Ground-type user can choose to use this instead of Max Quake while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Additionally, roll 2 Dice of Damage against all foes at the end of each Round. Lasts 4 turns.",
+    "description": "The user attacks by engulfing the foe in a violent sandstorm that traps all of its foes in sandy vortexes.",
+    "category": "PhysicalOrSpecial"
+  }

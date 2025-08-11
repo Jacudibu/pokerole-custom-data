@@ -1,0 +1,5 @@
+{
+    "name": "Chlorophyll",
+    "description": "The Pokemon synthesizes sunlight to get energy, if it's kept in a sunny environment it will rarely need to eat.",
+    "effect": "While Sunny Weather is in effect, Increase the User's base Dexterity by 2."
+}
