@@ -3,7 +3,7 @@
     "type": "Ice",
     "power": 0,
     "damage": "Strength / Special",
-    "accuracy": " ",
+    "accuracy": "",
     "target": "Foe",
     "effect": "The Ice-type user can choose to use this instead of Max Hailstorm while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 1 to a single enemy. Activates Aurora Veil on the user's field for 4 turns, ignoring the weather requirement.",
     "description": "The user's voice forms and drops boulders of ice on top of the enemy. With ice everywhere, a veil that protects the team is formed.",

@@ -3,7 +3,7 @@
     "type": "Steel",
     "power": 0,
     "damage": "Strength / Special",
-    "accuracy": " ",
+    "accuracy": "",
     "target": "Foe",
     "effect": "The Steel-type user can choose to use this instead of Max Steelspike while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Additionally, set up Sharp Spikes on the foe's side of the battlefield.",
     "description": "The user throws huge spikes of steel at the foe, shattering on impact and leaving the ground a minefield of sharp steel spikes.",
