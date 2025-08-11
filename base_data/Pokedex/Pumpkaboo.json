@@ -1,0 +1,17 @@
+ {
+  "number": 710,
+  "name": "Pumpkaboo",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Astonish", "Confuse Ray", "Shadow Sneak", "Trick Or Treat"],
+    "silver": ["Bullet Seed", "Leech Seed", "Razor Leaf", "Scary Face", "Seed Bomb", "Worry Seed"],
+    "gold": ["Pain Split", "Shadow Ball", "Trick"],
+    "platinum": ["Dark Pulse", "Foul Play", "Synthesis"],
+    "diamond": []
+  }
+} 

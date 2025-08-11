@@ -1,11 +1,11 @@
 {
-  "name": "Wish",
-  "type": "Normal",
-  "power": 0,
-  "damage": "",
-  "accuracy": "Will",
-  "target": "Self or Ally",
-  "effect": "Full Heal. If successful, spend 1 Will point to activate. The target will be healed at the end of next round. When used in combat, enemies may or may not prioritize the target.",
-  "description": "The Pokemon makes a loud wish with all its might - if it gets heard by the right spirits, it might become true.",
-  "category": "Support"
+    "name": "Wish",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Self or Ally",
+    "effect": "Heal 8 HP. If successful, spend 1 Will point to activate. The target will be healed at the end of next round. On the target's turn, if they use an Alternative Move (Dodge, Struggle etc.) they may choose another valid target to receive the Wish instead. If the original target has left combat, instead heal another valid target at random.",
+    "description": "The Pokemon makes a loud wish with all its might - if it gets heard by the right spirits, it might become true.",
+    "category": "Support"
 }

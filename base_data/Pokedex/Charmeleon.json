@@ -1,0 +1,17 @@
+{
+  "number": 5,
+  "name": "Charmeleon",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Scratch", "Growl", "Ember", "Smokescreen"],
+    "silver": ["Dragon Breath", "Fire Fang", "Slash", "Flamethrower", "Scary Face", "Fire Spin"],
+    "gold": ["Inferno", "Flare Blitz"],
+    "platinum": ["Dragon Dance", "Fire Pledge", "Metal Claw"],
+    "diamond": []
+  }
+}

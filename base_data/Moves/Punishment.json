@@ -1,0 +1,11 @@
+{
+    "name": "Punishment",
+    "type": "Dark",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Add 1 Dice to the Damage Pool of this Move for each positive Stat Change the Target has. Up to 7 Dice may be added this way. (ie. Foe has 2 increases to Special Defense and 1 Dexterity, add 3 Damage dice).",
+    "description": "The user takes advantage of its foe's strengths to use them against it.",
+    "category": "Physical"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Endure",
+  "type": "Normal",
+  "accuracy": "Will",
+  "target": "Self",
+  "effect": "Reaction. Shield Move.  For the rest of the Round damaging moves can not reduce the user's HP to less then 1. Status Ailments, Weather Conditions, Recoil, Self inflicted damage can still deal damage.",
+  "description": "The user gets preprared to receive a fatal blow. It resists the pain despite being seriously hurt.",
+  "category": "Support"
+}

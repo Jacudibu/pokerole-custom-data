@@ -1,0 +1,11 @@
+{
+    "name": "Assist",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "One Ally",
+    "effect": "Choose one Move known by a random member of your party. You perform that Move using the Accuracy roll from Assist. If Overcast Weather is in effect or the User spends 1 Will during activation, choose the party member instead.",
+    "description": "The Pokemon hurriedly remembers one action performed by a partner. Some Pokemon can even do what a human does and assist him with any tasks.",
+    "category": "Support"
+}

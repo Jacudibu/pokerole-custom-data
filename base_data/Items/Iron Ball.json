@@ -1,0 +1,6 @@
+{
+    "name": "Iron Ball",
+    "description": "Reduces the holder's base Dexterity by 2 and makes them susceptible to Ground type moves. Also, remove their Flying Type Immunities if applicable (making them susceptible to Terrain and Hazard move effects).",
+    "category": "BattleItem",
+    "single_use": false
+}

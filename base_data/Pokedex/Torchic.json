@@ -1,0 +1,17 @@
+{
+"number": 255,
+"name": "Torchic",
+"base_hp": 3,
+"strength": "2/4",
+"dexterity": "2/4",
+"vitality": "1/3",
+"special": "2/5",
+"insight": "2/4",
+"moves": {
+ "bronze": ["Ember", "Quick Attack", "Growl", "Flame Charge", "Scratch"],
+ "silver": ["Focus Energy", "Fire Spin", "Flame Burst", "Sand Attack", "Aerial Ace", "Bounce", "Detect", "Flamethrower", "Slash"],
+ "gold": ["Mirror Move", "Feather Dance", "Reversal", "Flare Blitz"],
+ "platinum": ["Counter", "Seismic Toss", "Fire Pledge"],
+ "diamond": []
+  }
+}

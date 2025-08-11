@@ -1,0 +1,17 @@
+{
+  "number": 1,
+  "name": "Bulbasaur",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Tackle", "Growl", "Vine Whip", "Growth", "Leech Seed"],
+    "silver": ["Razor Leaf", "Poison Powder", "Sleep Powder", "Seed Bomb", "Take Down", "Sweet Scent", "Synthesis", "Worry Seed"],
+    "gold": ["Power Whip", "Solar Beam"],
+    "platinum": ["Amnesia", "Grass Pledge", "Grassy Terrain"],
+    "diamond": []
+  }
+}

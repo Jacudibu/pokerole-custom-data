@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Terror",
+    "type": "Ghost",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Ghost-type user can choose to use this instead of Max Phantasm while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Additionally, blocks the opponent.",
+    "description": "The user screams and starles the foe, taunting it at the same time with a mean look. The foe can't help but feel chilled to the bone.",
+    "category": "PhysicalOrSpecial"
+  }

@@ -1,0 +1,6 @@
+{
+    "name": "Assault Vest",
+    "description": "Increase the base Special Defense of the User by 2. The User cannot use Support moves.",
+    "category": "HeldItem",
+    "single_use": false
+}

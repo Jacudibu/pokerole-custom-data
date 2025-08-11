@@ -1,11 +1,11 @@
 {
-  "name": "Lash Out",
-  "type": "Dark",
-  "power": 3,
-  "damage": "Strength",
-  "accuracy": "Will",
-  "target": "Foe",
-  "effect": "If the user had their stats reduced between their last action and this attack, add 3 dice to the damage pool.",
-  "description": "This Pokémon hates feeling weak. If anyone makes them feel this way, they're sure to get a good beating.",
-  "category": "Physical"
+    "name": "Lash Out",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "If the User suffered a negative Stat Change between their last action and this attack, add 3 Dice to the Damage Pool.",
+    "description": "This Pok\u00e9mon hates feeling weak. If anyone makes them feel this way, they're sure to get a good beating.",
+    "category": "Physical"
 }

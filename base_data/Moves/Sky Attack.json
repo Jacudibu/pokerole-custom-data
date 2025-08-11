@@ -1,0 +1,11 @@
+{
+    "name": "Sky Attack",
+    "type": "Flying",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Ranged. Inflicts Wounds. High Critical. Charge Move. Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.",
+    "description": "The Pokemon darts from the sky with a graceful and lethal strike, propelling with the wind, crushing the foe to the ground.",
+    "category": "Physical"
+}

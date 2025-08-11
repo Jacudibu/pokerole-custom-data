@@ -1,0 +1,18 @@
+{
+"number": 386,
+"api_id": 10003,
+"name": "Deoxys (Speed Form)",
+"base_hp": 4,
+"strength": "3/6",
+"dexterity": "5/10",
+"vitality": "2/5",
+"special": "3/6",
+"insight": "2/5",
+"moves": {
+"bronze": ["Leer", "Wrap", "Night Shade"],
+"silver": ["Teleport", "Knock Off", "Psyshock", "Psychic", "Taunt", "Spikes", "Double Team"],
+"gold": ["Gravity", "Skill Swap", "Zen Headbutt", "Cosmic Power", "Recover", "Psycho Boost", "Hyper Beam", "Superpower", "Zap Cannon", "Protect", "Amnesia", "Iron Defense", "Counter", "Mirror Coat", "Swift", "Agility", "Extreme Speed"],
+"platinum": ["Stored Power", "Drain Punch", "Calm Mind", "Psychic Terrain", "Light Screen", "Reflect"],
+"diamond": []
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Volt Crash",
+    "type": "Electric",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Electric-type user can choose to use this instead of Max Lightning while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Apply paralysis to all foes.",
+    "description": "The user summons a cloud and calls forth a giant thunder, shocking the entire field with tremendous power.",
+    "category": "PhysicalOrSpecial"
+  }

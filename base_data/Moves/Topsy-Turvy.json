@@ -1,0 +1,11 @@
+{
+    "name": "Topsy-Turvy",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Reverse all of the target's Stat Changes.",
+    "description": "The user changes the nature of its target, bad things become good and good things become bad.",
+    "category": "Support"
+}

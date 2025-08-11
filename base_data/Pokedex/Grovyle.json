@@ -1,0 +1,17 @@
+{
+"number": 253,
+"name": "Grovyle",
+"base_hp": 4,
+"strength": "2/4",
+"dexterity": "3/6",
+"vitality": "2/4",
+"special": "2/5",
+"insight": "2/4",
+  "moves": {
+    "bronze": ["Pound", "Leer", "Leafage", "Quick Attack", "Mega Drain", "Pursuit"],
+    "silver": ["Detect", "Quick Guard", "Assurance", "Giga Drain", "Slam"],
+    "gold": ["Double Team", "Leaf Blade", "Screech", "Endeavor", "Leaf Storm", "False Swipe", "Fury Cutter", "X-Scissor", "Energy Ball"],
+    "platinum": ["Bullet Seed", "Grass Pledge", "Iron Tail"],
+    "diamond": []
+  }
+}

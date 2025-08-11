@@ -1,0 +1,6 @@
+{
+    "name": "Wide Lens",
+    "description": "Increase the User's base accuracy by 1.",
+    "category": "BattleItem",
+    "single_use": false
+}

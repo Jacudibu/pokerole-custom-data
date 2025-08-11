@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Smite",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Fairy-type user can choose to use this instead of Max Starfall while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Apply confusion to all foes.",
+    "description": "The foe conjures some giant stars that fall from the sky, exploding all around the foe and confusing the opponents.",
+    "category": "PhysicalOrSpecial"
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Depletion",
+    "type": "Dragon",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Dragon-type user can choose to use this instead of Max Wyrmwind while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Reduce the target's will by 2.",
+    "description": "The user channels its own dragon energy and attacks the foe, trapping it in a vortex that drains their will to fight.",
+    "category": "PhysicalOrSpecial"
+  }

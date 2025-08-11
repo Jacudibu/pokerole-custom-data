@@ -1,5 +1,6 @@
-{
-  "number": 705,
+ {
+  "number": 10241,
+  "api_id": 10241,
   "name": "Sliggoo (Hisuian Form)",
   "base_hp": 4,
   "strength": "2/5",
@@ -8,10 +9,10 @@
   "special": "2/5",
   "insight": "3/6",
   "moves": {
-    "bronze": ["Acid Armor", "Absorb", "Tackle", "Water Gun", "Dragon Breath", "Shelter"],
-    "silver": ["Protect", "Flail", "Water Pulse", "Rain Dance", "Dragon Pulse"],
-    "gold": ["Curse", "Iron Head", "Muddy Water"],
+    "bronze": ["Absorb", "Acid Armor", "Shelter", "Dragon Breath", "Tackle", "Water Gun"],
+    "silver": ["Flail", "Protect", "Rain Dance", "Water Pulse"],
+    "gold": ["Iron Head", "Curse", "Dragon Pulse", "Muddy Water"],
     "platinum": ["Counter", "Life Dew"],
     "diamond": []
   }
-}
+} 

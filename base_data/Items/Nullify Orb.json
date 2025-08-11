@@ -1,6 +1,6 @@
 {
-  "name": "Nullify Orb",
-  "description": "Nullifies all abilities of targets. Can target either all enemies or all allies.",
-  "category": "Orb",
-  "single_use": true
+    "name": "Nullify Orb",
+    "description": "Nullifies all abilities of one target. Can target either enemies or all allies.",
+    "category": "Orb",
+    "single_use": true
 }

@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Vine Lash",
+    "type": "Grass",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Grass-type user can choose to use this instead of Max Overgrowth while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Additionally, deal 1 Damage against all foes at the end of each Round, grass-types are immune to this damage. Lasts 4 turns.",
+    "description": "The user creates two giant vines to attack the opponent, trapping it in a field full of vines.",
+    "category": "PhysicalOrSpecial"
+  }

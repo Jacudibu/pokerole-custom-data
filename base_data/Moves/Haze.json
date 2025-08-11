@@ -1,0 +1,11 @@
+{
+    "name": "Haze",
+    "type": "Ice",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Battlefield",
+    "effect": "Remove all Stat Changes from everyone on the Battlefield.",
+    "description": "The user sends out a haze that disturbs all the Pokemon engaged in battle. It may conceal whoever is inside.",
+    "category": "Support"
+}

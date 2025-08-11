@@ -1,0 +1,17 @@
+{
+"number": 485,
+"name": "Heatran",
+"base_hp": 6,
+"strength": "3/6",
+"dexterity": "2/5",
+"vitality": "3/6",
+"special": "3/7",
+"insight": "3/6",
+"moves": {
+"bronze": ["Fire Spin", "Leer", "Metal Claw"],
+"silver": ["Ancient Power", "Fire Fang", "Scary Face", "Iron Head"],
+"gold": ["Crunch", "Lava Plume", "Metal Sound", "Earth Power", "Heat Wave", "Stone Edge", "Magma Storm"],
+"platinum": ["Flash Cannon", "Dark Pulse", "Dragon Pulse", "Solar Beam", "Iron Defense", "Rock Slide"],
+"diamond": []
+    }
+}

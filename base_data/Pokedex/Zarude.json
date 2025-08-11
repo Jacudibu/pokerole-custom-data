@@ -1,17 +1,17 @@
 {
-    "number": 893,
-    "name": "Zarude",
-    "base_hp": 6,
-    "strength": "7/7",
-    "dexterity": "6/6",
-    "vitality": "6/6",
-    "special": "4/4",
-    "insight": "6/6",
-    "moves": {
-      "bronze": [],
-      "silver": [],
-      "gold": [],
-      "platinum": [],
-      "diamond": ["Bind", "Scratch", "Leer", "Vine Whip", "Growth", "Fury Swipes", "Scary Face", "Grass Knot", "Bite", "U-Turn", "Swagger", "Energy Ball", "Synthesis", "Hammer Arm", "Thrash", "Power Whip", "Jungle Healing"]
-    }
+"number": 893,
+"name": "Zarude",
+"base_hp": 6,
+"strength": "3/7",
+"dexterity": "3/6",
+"vitality": "3/6",
+"special": "2/5",
+"insight": "3/6",
+"moves": {
+"bronze": ["Bind", "Scratch", "Leer"],
+"silver": ["Vine Whip", "Growth", "Fury Swipes", "Scary Face"],
+"gold": ["Grass Knot", "Bite", "U-Turn", "Swagger", "Energy Ball", "Synthesis", "Hammer Arm", "Thrash", "Power Whip", "Jungle Healing"],
+"platinum": ["Bulk Up", "Close Combat", "Lash Out", "Crunch", "Swords Dance", "Acrobatics"],
+"diamond": []
   }
+}

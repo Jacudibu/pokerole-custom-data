@@ -1,0 +1,11 @@
+{
+    "name": "Sharp Spikes",
+    "type": "Steel",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe's Battlefield",
+    "effect": "Sets up Sharp Spikes on the opponent's battlefield, which triggers every time a victim switches targets from the one they had on the previous turn. When triggered, they deal 2d6 dice of damage. Add or subtract 1d6 for every weakness or resistance the victim has to Steel type, respectively.",
+    "description": "The aftermath of steel spikes exploding onto the battlefield. Tiny little shrapnels that the foes can bump into, cutting themselves.",
+    "category": "Support"
+  }

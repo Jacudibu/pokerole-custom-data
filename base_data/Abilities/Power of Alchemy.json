@@ -1,0 +1,5 @@
+{
+    "name": "Power of Alchemy",
+    "description": "This Pokemon can absorb the essence of everything it touches, fusing with the chemical composition and even the genes of discarded trash",
+    "effect": "When another Pokemon faints the User may copy their Ability. Only one Ability may be active from this effect at a time, subsequent KOs may replace the User's currently active Ability. This Ability cannot be swapped or copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

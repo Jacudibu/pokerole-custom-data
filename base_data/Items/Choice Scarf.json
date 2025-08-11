@@ -1,0 +1,6 @@
+{
+    "name": "Choice Scarf",
+    "description": "Increases the holder's base Dexterity by 2, but the user cannot use Support moves.",
+    "category": "HeldItem",
+    "single_use": false
+}

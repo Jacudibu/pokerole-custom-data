@@ -1,0 +1,6 @@
+{
+    "name": "Choice Specs",
+    "description": "Increases the holder's base Special by 2, but the user cannot use Support moves.",
+    "category": "HeldItem",
+    "single_use": false
+}

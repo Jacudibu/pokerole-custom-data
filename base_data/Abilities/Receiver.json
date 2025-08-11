@@ -1,0 +1,5 @@
+{
+    "name": "Receiver",
+    "description": "This Pokemon is used to learning the tactic behavior of other Pokemon with which they have a bond.",
+    "effect": "When another Pokemon faints, the User may copy their Ability. Only one Ability may be active from this effect at a time. Subsequent KOs may replace the User's currently active Ability. This Ability cannot be swapped or copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

@@ -1,7 +1,7 @@
 {
     "name": "Lucky Egg",
     "price": 1000,
-    "description": "An item that increases the experience gained through quests. 1.5× on Moderately and Highly dangerous quests, 2× on Safe quests. This effect only works for your first character until their 5th level, so don't hoard it.",
-    "category": "HeldItem",
+    "description": "An item that increases the experience gained from all quests by 1.5×. This effect only works on your first characater up to their 5th level, so maybe don't hoard it.",
+    "category": "BattleItem",
     "single_use": false
 }

@@ -1,0 +1,17 @@
+ {
+  "number": 714,
+  "name": "Noibat",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Absorb", "Gust", "Supersonic", "Tackle"],
+    "silver": ["Air Cutter", "Double Team", "Super Fang", "Whirlwind", "Wing Attack"],
+    "gold": ["Air Slash", "Hurricane", "Roost", "Screech", "Tailwind"],
+    "platinum": ["Dark Pulse", "Outrage", "Uproar"],
+    "diamond": []
+  }
+} 

@@ -1,0 +1,11 @@
+{
+    "name": "Disable",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Disable the target's last used move (as the Disabled Status). Lasts 4 Rounds.",
+    "description": "The user hits a nerve on the foe, impeding it from performing its previous action for a short while.",
+    "category": "Support"
+}

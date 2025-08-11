@@ -1,0 +1,11 @@
+{
+    "name": "Reflect Type",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Never Fail. The User is now the same type combination as the target. Lasts for a Scene or until this move is used again.",
+    "description": "The Pokemon appears to change its own physiology. This effect changes the Type of the user to match another Pokemon in sight.",
+    "category": "Support"
+}

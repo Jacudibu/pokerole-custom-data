@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Gravitas",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Psychic-type user can choose to use this instead of Max Mindstorm while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Additionally, Gravity gets applies to both battlefields.",
+    "description": "The user channels a psychic beam and attacks with it, shifting the gravity within the battlefield to be more extreme.",
+    "category": "PhysicalOrSpecial"
+  }

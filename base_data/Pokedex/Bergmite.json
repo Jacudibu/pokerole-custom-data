@@ -1,0 +1,17 @@
+ {
+  "number": 712,
+  "name": "Bergmite",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/5",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Curse", "Harden", "Powder Snow", "Rapid Spin", "Tackle"],
+    "silver": ["Avalanche", "Bite", "Ice Fang", "Icy Wind", "Iron Defense", "Protect", "Recover"],
+    "gold": ["Blizzard", "Crunch", "Double Edge", "Take Down"],
+    "platinum": ["Endure", "Mirror Coat", "Water Pulse"],
+    "diamond": []
+  }
+} 

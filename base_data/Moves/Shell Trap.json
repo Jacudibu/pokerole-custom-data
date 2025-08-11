@@ -1,0 +1,11 @@
+{
+  "name": "Shell Trap",
+  "type": "Fire",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reaction. After taking damage from a move that makes contact, this move can deal damage.",
+  "description": "The user takes time to rig its sturdy shell to explode, and the first pokemon to touch it gets a nasty surprise.",
+  "category": "Special"
+}

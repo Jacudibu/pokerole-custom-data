@@ -1,0 +1,17 @@
+{
+  "number": 2,
+  "name": "Ivysaur",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Tackle", "Growl", "Vine Whip", "Growth", "Leech Seed"],
+    "silver": ["Razor Leaf", "Poison Powder", "Sleep Powder", "Seed Bomb", "Take Down", "Sweet Scent", "Synthesis", "Worry Seed"],
+    "gold": ["Power Whip", "Solar Beam"],
+    "platinum": ["Amnesia", "Grass Pledge", "Grassy Terrain"],
+    "diamond": []
+  }
+}

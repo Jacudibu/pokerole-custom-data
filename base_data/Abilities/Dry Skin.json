@@ -1,0 +1,5 @@
+{
+    "name": "Dry Skin",
+    "description": "The skin of this Pokemon will need special care, constant hydration and protection against heat.",
+    "effect": "If Rain Weather is in effect the User recovers 1 HP at the end of each Round. If Sunny Weather is in effect, the User receives 1 damage at the end the Round. Water attacks heal 1 HP to this Pokemon instead of dealing damage. Fire attacks will deal 1 additional Damage to this Pokemon."
+}

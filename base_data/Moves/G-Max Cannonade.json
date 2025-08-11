@@ -1,0 +1,11 @@
+{
+    "name": "G-Max Cannonade",
+    "type": "Water",
+    "power": 0,
+    "damage": "Strength / Special",
+    "accuracy": "",
+    "target": "Foe",
+    "effect": "The Water-type user can choose to use this instead of Max Geyser while Dynamaxed. Mutually exclusive with other G-Max moves. Deals the base move's damage + 2 to a single enemy. Additionally, deal 1 Damage against all foes at the end of each Round, water-types are immune to this damage. Lasts 4 turns.",
+    "description": "The user charges and shoots some higly-pressured constant streams of water like lasers. The never-ending water lingers as dangerous puddles to step in.",
+    "category": "PhysicalOrSpecial"
+  }

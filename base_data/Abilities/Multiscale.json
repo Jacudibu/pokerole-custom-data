@@ -1,5 +1,5 @@
 {
     "name": "Multiscale",
     "description": "This Pokemon is covered by two layers of hard scales, if one layer is damaged it will be shed and regrown later.",
-    "effect": "If this Pokemon is at their maximum HP, raise the Users Def and Spdef by 2, addtionally lower the minimum damage this Pokemon receives by 1 (to a minimum of 0)."
+    "effect": "If this Pokemon is at their maximum HP, raise the User's base Def and Spdef by 2, additionally lower the minimum damage this Pokemon receives by 1 (to a minimum of 0)."
 }
