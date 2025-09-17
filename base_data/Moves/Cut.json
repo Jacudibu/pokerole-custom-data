@@ -1,0 +1,11 @@
+{
+    "name": "Cut",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Slicing. This move deals Super Effective and Wounding damage to Grass-types.",
+    "description": "A slim but precise cut that may slice through anything (mostly to cut down trees and clear paths).",
+    "category": "Physical"
+}

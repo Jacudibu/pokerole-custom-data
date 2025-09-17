@@ -1,11 +1,11 @@
 {
-  "name": "Petal Blizzard",
-  "type": "Grass",
-  "power": 3,
-  "damage": "Strength",
-  "accuracy": "Dexterity",
-  "target": "Area",
-  "effect": "Ranged.",
-  "description": "The Pokemon showers the battlefield with a raging blizzard of petals and leaves, anyone close to the user will suffer the consequences.",
-  "category": "Physical"
+    "name": "Petal Blizzard",
+    "type": "Grass",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Area",
+    "effect": "Wind Based. Ranged.",
+    "description": "The Pokemon showers the battlefield with a raging blizzard of petals and leaves, anyone close to the user will suffer the consequences.",
+    "category": "Physical"
 }

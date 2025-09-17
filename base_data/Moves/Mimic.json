@@ -1,0 +1,11 @@
+{
+    "name": "Mimic",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Never Fail. Copies the last move the target used until the end of the scene. That move replaces Mimic.",
+    "description": "Making use of its acting talents, the Pokemon imitates what the target just did.",
+    "category": "Support"
+}

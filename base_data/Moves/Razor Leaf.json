@@ -1,0 +1,11 @@
+{
+    "name": "Razor Leaf",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Slicing. Ranged. High Critical.",
+    "description": "The Pokemon shoots one or more sharp leaves that cut through all targets as if they were razors.",
+    "category": "Physical"
+}

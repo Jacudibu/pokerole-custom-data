@@ -1,0 +1,11 @@
+{
+    "name": "Conversion 2",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Never Fail. Choose a Type resistant/immune to the Type of the target's last used move. The User becomes that Type until they use this Move again or until the end of scene.",
+    "description": "The Pokemon downloads the data of a move that was used against it. Change the code of the user to a type resistant to the that move.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Heal Pulse",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "One Ally",
+    "effect": "Never Fail. Heal 5 HP. If successful spend 1 Will to activate.",
+    "description": "The user emits a pulse of energy that heals the wounds of its allies.",
+    "category": "Support"
+}

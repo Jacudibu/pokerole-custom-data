@@ -1,11 +1,11 @@
 {
-  "name": "Sandsear Storm",
-  "type": "Ground",
-  "power": 4,
-  "damage": "Special",
-  "accuracy": "Dexterity",
-  "target": "All Foes",
-  "effect": "Inflicts Wounds. Roll 2 chance dice to inflict Burn on each target affected. -2 Accuracy.",
-  "description": "The user whips up burning hot winds to pelt the enemy with a tornado of sand. The searing wind and sand may burn those affected.",
-  "category": "Special"
+    "name": "Sandsear Storm",
+    "type": "Ground",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All foes",
+    "effect": "Wind Based. Inflicts Wounds. Roll 2 chance dice to Burn each affected target. If Sandstorm Weather is in effect, this move gains Never Fail. -2 accuracy",
+    "description": "The user whips up burning hot winds to pelt the enemy with a tornado of sand. The searing wind and sand may burn those affected.",
+    "category": "Special"
 }

@@ -1,11 +1,11 @@
 {
-  "name": "Yawn",
-  "type": "Normal",
-  "power": 0,
-  "damage": "",
-  "accuracy": "Special",
-  "target": "Foe",
-  "effect": "The target becomes Drowsy at the end of the next round.",
-  "description": "The user lets out an infectious yawn that would make anyone drowsy in no time",
-  "category": "Support"
+    "name": "Yawn",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Never Fail. The target becomes Drowsy at the end of next Round.",
+    "description": "The user lets out an infectious yawn that will make anyone drowsy enough to fall asleep pretty soon.",
+    "category": "Support"
 }

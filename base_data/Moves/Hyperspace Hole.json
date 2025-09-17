@@ -1,0 +1,11 @@
+{
+    "name": "Hyperspace Hole",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Ignore Defenses. Never Fail. This Move Bypasses the effects of any Shield Move on the foe.",
+    "description": "The user knows the laws of physics bind it from being in many places at once and forbid it from occupying the same space as other bodies. It just disregards their authority.",
+    "category": "Special"
+}

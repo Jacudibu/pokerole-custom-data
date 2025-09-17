@@ -1,0 +1,11 @@
+{
+    "name": "Heat Wave",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Wind Based. Roll 1 Chance Dice to Burn those affected. -1 Accuracy.",
+    "description": "The user breathes a giant wave of incandescent air that might set fire to whatever it touches.",
+    "category": "Special"
+}

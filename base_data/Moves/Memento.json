@@ -1,0 +1,11 @@
+{
+    "name": "Memento",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Never Fail. The User faints. Reduce foe's Strength. Dexterity. Special. Defense and Sp. Defense by 2. Lasts for a whole scene.",
+    "description": "The user unleashes all its remaining power to send a wave of hopeless thoughts to haunt the foe's mind and soul. The target will be left in grief.",
+    "category": "Support"
+}

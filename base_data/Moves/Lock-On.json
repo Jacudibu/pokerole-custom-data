@@ -1,0 +1,11 @@
+{
+    "name": "Lock-On",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User",
+    "effect": "Never Fail. The User's next attack has +2 Accuracy (this increase stacks with the standard +/-3 limit on Stat Changes). For the rest of the scene the User is able to target 'out of range' characters (from the moves ex:Fly, Dive, Dig).",
+    "description": "The Pokemon's eyes zoom at a moving target to ensure that the next attack will be dealt with precision.",
+    "category": "Support"
+}

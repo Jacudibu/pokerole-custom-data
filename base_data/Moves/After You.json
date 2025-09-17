@@ -1,0 +1,11 @@
+{
+    "name": "After You",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool",
+    "target": "One Ally",
+    "effect": "Never Fail. The Target will go first in the order of Initiative. Lasts for the rest of this Battle.",
+    "description": "The user bows and courteously lets an ally or foe use their action first.",
+    "category": "Support"
+}

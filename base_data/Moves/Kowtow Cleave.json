@@ -1,11 +1,11 @@
 {
-  "name": "Kowtow Cleave",
-  "type": "Dark",
-  "power": 3,
-  "damage": "Strength",
-  "accuracy": "Dexterity",
-  "target": "Foe",
-  "effect": "Never Fail. Inflicts Wounds.",
-  "description": "The Pokémon slashes at the target after kowtowing to make the target let down its guard. This trickery always succeeds, and the target is left with a nasty gash.",
-  "category": "Physical"
+    "name": "Kowtow Cleave",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Slicing. Never Fail. Inflicts Wounds.",
+    "description": "The Pokemon slashes at the target after kowtowing to make the target let down its guard. This trickery always succeeds, and the target is left with a nasty gash.",
+    "category": "Physical"
 }

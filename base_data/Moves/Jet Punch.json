@@ -1,11 +1,11 @@
 {
-  "name": "Jet Punch",
-  "type": "Water",
-  "power": 2,
-  "damage": "Strength",
-  "accuracy": "Dexterity",
-  "target": "Foe",
-  "effect": "Priority 1.",
-  "description": "The Pokémon summons a torrent around its fist and punches at blinding speed. It moves so quick it often acts before all other Pokémon on the field.",
-  "category": "Physical"
+    "name": "Jet Punch",
+    "type": "Water",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Fist Based. Priority 1.",
+    "description": "The Pokemon summons a torrent around its fist and punches at blinding speed. It moves so quick it often acts before all other Pok\u00e9mon on the field.",
+    "category": "Physical"
 }

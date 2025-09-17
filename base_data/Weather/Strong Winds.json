@@ -1,5 +1,5 @@
 {
-  "name": "Strong Winds",
-  "description": "Strong wind currents lift and swirl everything in the air, from a tiny pebble to a giant truck. You are either being swept around or falling straight to the floor at a great speed.",
-  "effect": "- Flying-Types can Roost without having to Land.\n- Electric, Ice and Rock Type Moves deal neutral damage to Flying-Type Pokémon.\n- Hazards are cleared on set and cannot be set during the duration."
+    "name": "Strong Winds",
+    "description": "Strong wind currents lift and swirl everything in the air, from a tiny pebble to a giant truck. You are either being swept around or falling straight to the floor at great speed.",
+    "effect": "-Electric, Ice and Rock Type Moves deal neutral damage to Flying-Type Pokémon.\n-Hazards are cleared and cannot be set during the duration.\n-Flying type and Wind Based moves may be used with +1 Priority."
 }

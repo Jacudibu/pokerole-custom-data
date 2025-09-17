@@ -1,11 +1,11 @@
 {
-  "name": "Spicy Extract",
-  "type": "Grass",
-  "power": 0,
-  "damage": "",
-  "accuracy": "Special",
-  "target": "Foe",
-  "effect": "Increases the targets Strength by 2, but lowers their Defense by 2.",
-  "description": "The user douses a foe in a spicy sauce that throws them into a rage.",
-  "category": "Support"
+    "name": "Spicy Extract",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Never Fail. Increase the target's Strength by 2, and Reduce their Defense by 2.",
+    "description": "The user douses a foe in a spicy sauce that throws them into a rage.",
+    "category": "Support"
 }

@@ -1,11 +1,11 @@
 {
-  "name": "Wildbolt Storm",
-  "type": "Electric",
-  "power": 4,
-  "damage": "Special",
-  "accuracy": "Dexterity",
-  "target": "All foes",
-  "effect": "Inflicts Wounds. Roll 2 chance dice to Paralyze each foe hit. -2 accuracy.",
-  "description": "The user summons forth a massive thunderstorm, which impacts each enemy with a bolt of lightning.",
-  "category": "Special"
+    "name": "Wildbolt Storm",
+    "type": "Electric",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All foes",
+    "effect": "Wind Based. Inflicts Wounds. Roll 2 chance dice to Paralyze each affected target. If Rain Weather is in effect, this move gains Never Fail. -2 accuracy.",
+    "description": "The user summons forth a massive thunderstorm, which impacts each enemy with a bolt of lightning.",
+    "category": "Special"
 }

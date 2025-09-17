@@ -1,0 +1,11 @@
+{
+    "name": "Fairy Wind",
+    "type": "Fairy",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Wind Based.",
+    "description": "The Pokemon strikes with a wind covered in fairy dust. It causes itching.",
+    "category": "Special"
+}

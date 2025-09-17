@@ -5,7 +5,7 @@
     "damage": "Special",
     "accuracy": "Dexterity",
     "target": "All Foes",
-    "effect": "Slicing. High Critical.",
+    "effect": "Wind Based. Slicing. High Critical.",
     "description": "The user will send out a wave of sharp wind that will harm anything it touches.",
     "category": "Special"
-  }
+}

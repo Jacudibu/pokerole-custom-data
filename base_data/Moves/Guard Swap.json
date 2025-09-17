@@ -1,0 +1,11 @@
+{
+    "name": "Guard Swap",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Never Fail. Swap the User's Defense and Sp. Defense with the target.",
+    "description": "The Pokemon employs its psychic power to make the opponent feel like its got your frailty and make the user feel like it got the target's resilience.",
+    "category": "Support"
+}

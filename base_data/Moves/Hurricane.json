@@ -1,0 +1,11 @@
+{
+    "name": "Hurricane",
+    "type": "Flying",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Wind Based. Inflicts Wounds. Can hit Aerial targets using Fly, Bounce or Sky Drop. Roll 3 Chance Dice to Confuse the Foe. If performed under Rain or Strong Winds Weather this move gains Never Fail. -2 Accuracy.",
+    "description": "The user attacks by wrapping the opponent in a fierce wind that carries the target up into the sky.",
+    "category": "Special"
+}
