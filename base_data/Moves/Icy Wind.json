@@ -1,0 +1,11 @@
+{
+    "name": "Icy Wind",
+    "type": "Ice",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Wind Based. Reduce Dexterity of those affected.",
+    "description": "A breeze so cold that it chills you to the bone, making it harder to move.",
+    "category": "Special"
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Wind Rider",
-  "description": "Flowing with the wind, riding wherever it takes them.",
-  "effect": "This pokemon is immune to all wind moves aside from Sandstorm. When hit by a Wind move besides Sandstorm or when Tailwind is activated, this pokemon's Strength is raised by 1. Wind moves include:\n- Air Cutter\n- Bleakwind Storm\n- Blizzard\n- Fairy Wind\n- Gust\n- Heat Wave\n- Hurricane\n- Icy Wind\n- Petal Blizzard\n- Sandsear Storm\n- Sandstorm\n- Springtide Storm\n- Tailwind\n- Twister\n- Whirlwind\n- Wildbolt Storm"
+    "name": "Wind Rider",
+    "description": "Flowing with the wind, riding wherever it takes them.",
+    "effect": "The User is immune to Foe's Wind Based moves. When targeted by a Wind Based move or when Tailwind is activated (on the either side of the battlefield), Increase the User's Strength."
 }

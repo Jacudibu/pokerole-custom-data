@@ -1,0 +1,5 @@
+{
+    "name": "Zen Mode (Galarian)",
+    "description": "Under extreme stress, this pokemon's rage will literally flare up, bringing them to a Zen like state ready to cause mayhem!",
+    "effect": "Only Galarian Darmanitan may use this Ability. When at half or less of its HP, change to Zen Mode Form at the end of the Round. While in Zen Mode, this pokemon becomes Ice/Fire gains +2 Dexterity and +1 Strength. These changes do not count towards the maximum boost or reduction rule. When this pokemon is brought above half HP or this ability is removed/disabled, this pokemon returns to base form."
+}

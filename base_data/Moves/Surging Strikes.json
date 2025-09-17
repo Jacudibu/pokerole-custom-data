@@ -1,11 +1,11 @@
 {
-  "name": "Surging Strikes",
-  "type": "Water",
-  "power": 1,
-  "damage": "Strength",
-  "accuracy": "Dexterity",
-  "target": "Foe",
-  "effect": "Triple Action. Every successful hit is a critical hit.",
-  "description": "The Pokémon allows their fists to flow like water, and surge through its opponent like a stream.",
-  "category": "Physical"
+    "name": "Surging Strikes",
+    "type": "Water",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Fist Based. Triple Action. The first hit is a Critical Strike.",
+    "description": "The Pokemon allows their fists to flow like water, and surge through its opponent like a stream.",
+    "category": "Physical"
 }

@@ -1,0 +1,6 @@
+{
+    "name": "Punching Glove",
+    "description": "The user gains +1 power to all Fist Based moves. Fist Based move do not make contact while this item is held.",
+    "category": "HeldItem",
+    "single_use": false
+}

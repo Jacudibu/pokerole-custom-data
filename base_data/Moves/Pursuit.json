@@ -1,11 +1,11 @@
 {
-  "name": "Pursuit",
-  "type": "Dark",
-  "power": 2,
-  "damage": "Strength",
-  "accuracy": "Dexterity",
-  "target": "Foe",
-  "effect": "Reaction. If the foe is using a Switcher Move, Dodging or an attack is being redirected away from it's original target, Add 2 Dice to the Damage Pool, Never Miss and ignore Redirection.",
-  "description": "The Pokemon is adamant to strike the foe no matter their maneuver.",
-  "category": "Physical"
+    "name": "Pursuit",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Reaction. If the foe is using a Switcher Move, Dodging or an attack is being redirected away from it's original target, Add 2 Dice to the Damage Pool, Never Fail and ignore Redirection.",
+    "description": "The Pokemon chases the foe to deliver a final blow before it escapes.",
+    "category": "Physical"
 }

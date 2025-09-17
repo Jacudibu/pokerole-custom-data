@@ -1,11 +1,11 @@
 {
-     "name": "Foresight",
-     "type": "Normal",
-     "power": 0,
-     "damage": "",
-     "accuracy": "Insight",
-     "target": "Foe",
-     "effect": "Never Fails. Attacking moves used by the user against the target cannot be Dodged. If the target is Ghost Type, it loses its immunities (Treat its immunities as if they are neutral to Ghost, and apply resistances or weakness based on secondary typing appropriately.)",
-     "description": "The pokemon uses its mental facilities to track the future. This also allows it to harm ghosts.",
-     "category": "Support"
-    }
+    "name": "Foresight",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Never Fail. Attacking moves used by the user against the target cannot be Dodged. If the target is Ghost Type, it loses its immunities (Treat its immunities as if they are neutral to Ghost, and apply resistances or weakness based on secondary typing appropriately.)",
+    "description": "The Pokemon uses its developed senses and mental ability to foresee the immediate future.",
+    "category": "Support"
+}

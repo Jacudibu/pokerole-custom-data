@@ -1,0 +1,17 @@
+{
+"number": 381,
+"name": "Latios",
+"base_hp": 5,
+"strength": "3/6",
+"dexterity": "3/7",
+"vitality": "2/5",
+"special": "3/7",
+"insight": "3/6",
+"moves": {
+"bronze": ["Dragon Dance", "Stored Power", "Helping Hand", "Recover"],
+"silver": ["Confusion", "Tailwind", "Dragon Breath", "Ally Switch"],
+"gold": ["Luster Purge", "Zen Headbutt", "Dragon Pulse", "Heal Pulse", "Simple Beam", "Psychic", "Power Split", "Memento", "Psycho Shift"],
+"platinum": ["Dual Wingbeat", "Scale Shot", "Shadow Ball", "Thunder", "Energy Ball", "Ice Beam"],
+"diamond": []
+    }
+}

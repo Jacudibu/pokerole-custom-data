@@ -6,6 +6,6 @@
   "accuracy": "Dexterity",
   "target": "Foe",
   "effect": "This Move's type will always match the User's first Type.",
-  "description": "*A weird-looking Pokemon charged against its foes, the same attack releases different kinds of energy depending on the disk it was holding.*",
+  "description": "A weird-looking Pokemon charged against its foes, the same attack releases different kinds of energy depending on the disk it was holding.",
   "category": "Physical"
 }

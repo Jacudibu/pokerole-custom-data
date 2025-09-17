@@ -1,0 +1,5 @@
+{
+    "name": "Download",
+    "description": "When this Pokemon enters battle it will scan its foes and provide information about them, adapting accordingly",
+    "effect": "At the start of battle select 1 foe at random and reveal their Defense and Special Defense. The User then chooses and receives a base Increase of 1 to either Strength or Special."
+}

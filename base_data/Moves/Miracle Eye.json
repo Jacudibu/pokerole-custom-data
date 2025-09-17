@@ -1,0 +1,11 @@
+{
+    "name": "Miracle Eye",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User",
+    "effect": "Never Fail. The User may hit Dark Type Pokemon with Psychic Moves. The Pokemon ignores Evasion modifiers. Opponents can't reduce the User's Accuracy.",
+    "description": "The user's sight transcends the flesh and can look directly into the innermost mental pressence of everyone around. Hidden enemies can be detected.",
+    "category": "Support"
+}

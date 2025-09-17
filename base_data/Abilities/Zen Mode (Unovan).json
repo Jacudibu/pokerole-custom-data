@@ -1,0 +1,5 @@
+{
+    "name": "Zen Mode (Unovan)",
+    "description": "Under extreme stress, this Pokemon will unlock its hidden psychic abilities through the power of meditation.",
+    "effect": "Only Unovan Darmanitan may use this Ability. When at half or less of its HP, change to Zen Mode Form at the end of the Round. In Zen Mode, Darmanitan becomes Fire/Psychic type, gains +1 Defense and Special Defense, -1 Dexterity and swaps their Strength and Special stats. These changes do not count towards the maximum boost or reduction rule. All active Physical moves also swap to Special moves set beforehand. When this pokemon is brought above half HP or this ability is removed/disabled, this pokemon returns to base form."
+}

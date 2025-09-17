@@ -1,0 +1,11 @@
+{
+    "name": "Telekinesis",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Never Fail. All attacks against the target have \"Never Fail\". The target is immune to Ground Moves. Lasts 2 Rounds.",
+    "description": "The user can manipulate objects and creatures with his mind. Pokemon and humans become easier to hit because their movements are restrained.",
+    "category": "Support"
+}

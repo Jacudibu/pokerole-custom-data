@@ -5,8 +5,7 @@
     "damage": "",
     "accuracy": "Beauty",
     "target": "All Foes",
-    "effect": "All affected targets have their Special reduced by 2",
-    "description": "The use shows off its attractiveness and flirts with its opposition, causing mass distraction.",
+    "effect": "Reduce affected targets Special by 1.",
+    "description": "The Pokemon shows off its attractiveness and even flirts with the opponents, those who fall for its charms can't focus on the battle.",
     "category": "Support"
-  }
-  
+}

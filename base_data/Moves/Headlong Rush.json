@@ -1,11 +1,11 @@
 {
-  "name": "Headlong Rush",
-  "type": "Ground",
-  "power": 5,
-  "damage": "Strength",
-  "accuracy": "Strength",
-  "target": "Foe",
-  "effect": "The user lowers their Defense and Sp. Defense by 1.",
-  "description": "The user overwhelms the target with their size, aiming to crash into them with their forehead. The brutal attack leaves the user open afterward.",
-  "category": "Physical"
+    "name": "Headlong Rush",
+    "type": "Ground",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Fist Based. The User lowers their Defense and Sp. Defense by 1.",
+    "description": "The user overwhelms the target with their size, aiming to crash into them with their forehead. The brutal attack leaves the user open afterward.",
+    "category": "Physical"
 }

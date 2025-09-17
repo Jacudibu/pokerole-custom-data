@@ -1,0 +1,11 @@
+{
+    "name": "Teleport",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Ally",
+    "effect": "Switcher Move. During the following Round, swap the User and an Ally's initiative.",
+    "description": "Teleport the user and one more creature to a place of tranquility and high psychic resonance such as Pokemon Centers. Ceilings and walls block this move from working.",
+    "category": "Support"
+}

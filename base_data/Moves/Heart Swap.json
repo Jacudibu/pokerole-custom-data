@@ -1,0 +1,11 @@
+{
+    "name": "Heart Swap",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Never Fail. Swap Stat Changes with the target.",
+    "description": "The user and the target swap their feelings of power and weakness, insecurity and courage, love and hate. Boosts are also swapped.",
+    "category": "Support"
+}

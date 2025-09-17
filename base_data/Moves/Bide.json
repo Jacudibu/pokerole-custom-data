@@ -5,7 +5,7 @@
     "damage": "Strength",
     "accuracy": "Dexterity",
     "target": "Foe",
-    "effect": "Priority 1, Multi-Turn. The user increases the likelyhood of getting targeted. Take note of all damage the user has received during this turn. In the next round, the user may use this move again in order to attack with a base power equal to the amount of damage taken. (Maximum 10)",
+    "effect": "Never Fail. Priority 1, Multi-Turn. The User increases the likelihood of getting targeted. Take note of all damage the user has received during this turn. In the next round, the user may use this move again in order to attack with a base power equal to the amount of damage taken. (Maximum 10)",
     "description": "The user endures the hits, then unleashes an attack even greater.",
     "category": "Physical"
 }

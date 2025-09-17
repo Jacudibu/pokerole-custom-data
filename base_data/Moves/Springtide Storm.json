@@ -1,11 +1,11 @@
 {
-  "name": "Springtide Storm",
-  "type": "Fairy",
-  "power": 4,
-  "damage": "Special",
-  "accuracy": "Dexterity",
-  "target": "All foes",
-  "effect": "Inflicts Wounds. Roll 3 chance dice to lower each affected foe's Strength by 1. -2 accuracy.",
-  "description": "A gentle breeze suddenly turned into a maelstrom of love. It hurts a lot, but it hurts in a good way~",
-  "category": "Special"
+    "name": "Springtide Storm",
+    "type": "Fairy",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All foes",
+    "effect": "Wind Based. Inflicts Wounds. Roll 3 chance dice to lower each affected foe's Strength by 1. If Fairy Dust Weather is in effect, this move gains Never Fail. -2 accuracy.",
+    "description": "A gentle breeze suddenly turned into a maelstrom of love. It hurts a lot, but it hurts in a good way~",
+    "category": "Special"
 }

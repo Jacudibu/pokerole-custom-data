@@ -1,0 +1,11 @@
+{
+    "name": "Spider Web",
+    "type": "Bug",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Battlefield",
+    "effect": "Never Fail. Blocks.",
+    "description": "The User quietly releases a web on the field. All foes will be trapped.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Mind Reader",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Never Fail. The User's next attack has +2 Accuracy (this increase stacks with the standard +/-3 limit on Stat Changes). For the rest of the scene the User is able to target 'out of range' characters (from the moves ex:Fly, Dive, Dig).",
+    "description": "The user reads the foe's mind. It knows exactly what to do next.",
+    "category": "Support"
+}

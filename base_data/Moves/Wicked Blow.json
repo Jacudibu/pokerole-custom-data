@@ -1,11 +1,11 @@
 {
-  "name": "Wicked Blow",
-  "type": "Dark",
-  "power": 3,
-  "damage": "Strength",
-  "accuracy": "Strength",
-  "target": "Foe",
-  "effect": "Always crits on a success.",
-  "description": "The Pokémon delivers a crippling sucker punch to the foe. No one would ever expect such a thing before it happens.",
-  "category": "Physical"
+    "name": "Wicked Blow",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Fist Based. Always crits on a success.",
+    "description": "The Pokemon delivers a crippling sucker punch to the foe. No one would ever expect such a thing before it happens.",
+    "category": "Physical"
 }

@@ -1,0 +1,11 @@
+{
+    "name": "Behemoth Blade",
+    "type": "Steel",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Slicing. If the Foe is under the effects of Dynamax, This Move Inflicts Wounds and you add 4 Extra Dice to the Damage Pool.",
+    "description": "The Pokemon becomes a giant sword with a razor-sharp blade. If the foe is under the effects of the Dynamax phenomenon all its energy will be slashed to bits.",
+    "category": "Physical"
+}
