@@ -1,0 +1,11 @@
+{
+    "name": "Admin Smite",
+    "type": "Stellar",
+    "power": 10,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Ranged. This move ignores defenses, and is not able to be blocked by Reaction moves or Alternate Moves. This move fails if not cast by an Administrator.",
+    "description": "The user of this move is done listening to complaints. Begone, mortal! ",
+    "category": "Special"
+}
