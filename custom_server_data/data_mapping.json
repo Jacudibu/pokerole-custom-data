@@ -10,5 +10,11 @@
     "path": "project_chimera",
     "server_id": 1278200775960694815,
     "fallback_id": 0
+  },
+  {
+    "name": "Chronicles of Creation",
+    "path": "chronicles_of_creation",
+    "server_id": 1435427927800938609,
+    "fallback_id": 0
   }
 ]
