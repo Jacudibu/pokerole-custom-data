@@ -1,0 +1,5 @@
+{
+    "name": "Day of Reckoning",
+    "description": "After each life comes death, and the promise of new life that must be nurtured.",
+    "effect": "Followers of Yveltal may call upon 'Day of Reckoning' once per quest as a bonus action during their combat turn, allowing them to apply up to +5 flat damage to their next damage roll (before defense calculations, but after critical hits). For each tick of additional damage, the user of this boon sacrifices 2 HP (up to 10 HP total). At each rank beyond Initiate, gain the ability to sacrifice 2 more HP for 1 more damage."
+}

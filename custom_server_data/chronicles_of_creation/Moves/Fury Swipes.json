@@ -1,0 +1,11 @@
+{
+  "name": "Fury Swipes",
+  "type": "Normal",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Successive Actions.",
+  "description": "The user swiftly uses its claws to strike the foe multiple times.",
+  "category": "Physical"
+}

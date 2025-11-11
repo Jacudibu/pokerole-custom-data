@@ -1,0 +1,11 @@
+{
+  "name": "Triple Axel",
+  "type": "Ice",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Triple Action. For each success hit, add 1 die to the damage pool.",
+  "description": "The Pokémon uses the icy terrain of its native lands to spin around and deliver three swift kicks in a row, each hitting harder than the last.",
+  "category": "Physical"
+}

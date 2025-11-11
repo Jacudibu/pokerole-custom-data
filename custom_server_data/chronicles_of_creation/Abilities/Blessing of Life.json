@@ -1,0 +1,5 @@
+{
+    "name": "Blessing of Life",
+    "description": "Life burns like a wildfire and as violent as the raging sea.",
+    "effect": "Devotees of the Guardians of Sky and Sea may call upon 'Blessing of Life' once per quest as a bonus action during their combat turn, allowing them to sacrifice their own HP to heal an ally an amount equal to their own HP. To revive a fallen Ally, you must faint yourself. HP is increased by one per rank."
+}
