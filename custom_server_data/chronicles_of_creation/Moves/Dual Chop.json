@@ -1,0 +1,11 @@
+{
+  "name": "Dual Chop",
+  "type": "Dragon",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Double Action.",
+  "description": "The Pokemon strikes the foe with brutal blows.",
+  "category": "Physical"
+}
