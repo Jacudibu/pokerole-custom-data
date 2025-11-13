@@ -1,0 +1,11 @@
+{
+  "name": "Dual Wingbeat",
+  "type": "Wing",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Double Action.",
+  "description": "A dexterous blow made with the attackers wings",
+  "category": "Physical"
+}

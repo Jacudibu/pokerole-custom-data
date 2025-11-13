@@ -1,0 +1,11 @@
+{
+  "name": "Double Hit",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Double Action.",
+  "description": "The Pokemon uses the classic 'One-Two' to attack the foe.",
+  "category": "Physical"
+}

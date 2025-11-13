@@ -1,0 +1,11 @@
+{
+  "name": "Barrage",
+  "type": "Normal",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Successive Actions.",
+  "description": "The Pokemon Throws many round objects at the target, one after the other.",
+  "category": "Physical"
+}

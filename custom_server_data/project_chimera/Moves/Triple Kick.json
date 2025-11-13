@@ -1,0 +1,11 @@
+{
+  "name": "Triple Kick",
+  "type": "Fighting",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Triple Action. For each success hit, add 1 die to the damage pool.",
+  "description": "The user throws three kicks, ramping up the force with each one.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rock Blast",
+  "type": "Rock",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Successive Actions.",
+  "description": "The Pokemon shoots and throws small rock pebbles that burst into tiny pieces as they touch the foe.",
+  "category": "Physical"
+}

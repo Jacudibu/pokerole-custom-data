@@ -1,0 +1,11 @@
+{
+  "name": "Bestow",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Cool",
+  "target": "Ally",
+  "effect": "You pass an item from your inventory to an ally, your ally can choose to equip this item as their held item or consume it upon passing it, if the item is consumed the item also heals 1 HP to that Ally in addition to it's standard effects.",
+  "description": "The Pokemon respectfully offers an item, the target will take it and keep it to be polite.",
+  "category": "Support"
+}
