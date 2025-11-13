@@ -1,0 +1,11 @@
+{
+  "name": "Double Slap",
+  "type": "Normal",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Successive Actions.",
+  "description": "The user attacks its foe with two or more slaps in the face.",
+  "category": "Physical"
+}

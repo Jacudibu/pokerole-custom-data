@@ -1,0 +1,11 @@
+{
+  "name": "Bonemerang",
+  "type": "Ground",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Double Action.",
+  "description": "The Pokemon throws a bone to hit the foe. The bone returns like a boomerang, striking a second time.",
+  "category": "Physical"
+}
