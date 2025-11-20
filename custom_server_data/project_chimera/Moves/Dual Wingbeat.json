@@ -1,6 +1,6 @@
 {
   "name": "Dual Wingbeat",
-  "type": "Wing",
+  "type": "Flying",
   "power": 2,
   "damage": "Strength",
   "accuracy": "Dexterity",
