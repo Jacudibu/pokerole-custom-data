@@ -1,0 +1,7 @@
+{
+    "name": "Electric Seed",
+    "price": 30,
+    "description": "If Electric Terrain is active, increase Defense by 1",
+    "category": "Seed",
+    "single_use": true
+}

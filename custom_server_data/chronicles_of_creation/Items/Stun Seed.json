@@ -1,0 +1,7 @@
+{
+    "name": "Stun Seed",
+    "price": 30,
+    "description": "Inflict the Paralysis condition.",
+    "category": "Seed",
+    "single_use": true
+}

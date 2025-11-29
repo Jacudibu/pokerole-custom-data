@@ -1,0 +1,7 @@
+{
+    "name": "Quick Seed",
+    "price": 30,
+    "description": "User gains 2 extra dice on their next Accuracy roll.",
+    "category": "Seed",
+    "single_use": true
+}
