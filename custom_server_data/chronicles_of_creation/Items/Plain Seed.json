@@ -1,0 +1,7 @@
+{
+    "name": "Plain Seed",
+    "price": 10,
+    "description": "An ordinary seed that seemingly does nothing.",
+    "category": "Seed",
+    "single_use": true
+}

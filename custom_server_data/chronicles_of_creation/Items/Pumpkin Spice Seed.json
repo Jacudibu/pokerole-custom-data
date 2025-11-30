@@ -1,0 +1,7 @@
+{
+    "name": "Pumpkin Spice Seed",
+    "price": 50,
+    "description": "Whoever eats this seed shoots a powerful blast of Pumpkin Spiced Energy, which deals 3 flat typeless damage to a chosen foe, ignoring defenses. Shield Moves will still apply their damage reduction. After use, a nice smell is also let out from the blast.",
+    "category": "Seed",
+    "single_use": true
+}
