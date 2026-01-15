@@ -1,0 +1,7 @@
+{
+    "name": "Ban Seed",
+    "price": 70,
+    "description": "The last move the target used is Disabled.",
+    "category": "Seed",
+    "single_use": true,
+}
