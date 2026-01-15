@@ -1,6 +1,7 @@
 {
     "name": "Sleep Seed",
-    "description": "Inflict the Drowsy Condition.",
-    "category": "HeldItem",
-    "single_use": true
+    "price": 40,
+    "description": "Inflicts the Drowsy condition.",
+    "category": "Seed",
+    "single_use": true,
 }
