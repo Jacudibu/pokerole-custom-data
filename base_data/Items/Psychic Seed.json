@@ -1,0 +1,7 @@
+{
+    "name": "Psychic Seed",
+    "price": 30,
+    "description": "If Psychic Terrain is active, increase Special Defense by 1.",
+    "category": "Seed",
+    "single_use": true,
+}
