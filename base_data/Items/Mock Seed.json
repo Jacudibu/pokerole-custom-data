@@ -1,0 +1,7 @@
+{
+    "name": "Mock Seed",
+    "price": 30,
+    "description": "The target can only perform moves that affect foes. Lasts 1 Round",
+    "category": "Seed",
+    "single_use": true,
+}
