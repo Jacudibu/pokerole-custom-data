@@ -3,5 +3,5 @@
     "price": 100,
     "description": "User gains +1 Evasion.",
     "category": "Seed",
-    "single_use": true,
+    "single_use": true
 }

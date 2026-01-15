@@ -3,5 +3,5 @@
     "price": 30,
     "description": "Inflicts the Flinch condition.",
     "category": "Seed",
-    "single_use": true,
+    "single_use": true
 }

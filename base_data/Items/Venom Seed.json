@@ -3,5 +3,5 @@
     "price": 30,
     "description": "Inflicts the Poisoned condition.",
     "category": "Seed",
-    "single_use": true,
+    "single_use": true
 }
