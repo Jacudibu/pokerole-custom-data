@@ -3,5 +3,5 @@
     "price": 200,
     "description": "Heals 3 HP and cures a chosen Status Condition.",
     "category": "Seed",
-    "single_use": true,
+    "single_use": true
 }
