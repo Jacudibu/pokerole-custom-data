@@ -1,0 +1,7 @@
+{
+    "name": "Doom Seed",
+    "price": 40,
+    "description": "Reduce two random stats by 1.",
+    "category": "Seed",
+    "single_use": true,
+}
