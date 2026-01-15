@@ -1,0 +1,7 @@
+{
+    "name": "Slip Seed",
+    "price": 40,
+    "description": "User's next move has -1 Priority. ",
+    "category": "Seed",
+    "single_use": true
+}

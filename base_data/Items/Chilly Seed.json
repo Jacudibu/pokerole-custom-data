@@ -1,0 +1,7 @@
+{
+    "name": "Chilly Seed",
+    "price": 30,
+    "description": "Inflicts the Frostbite condition.",
+    "category": "Seed",
+    "single_use": true
+}

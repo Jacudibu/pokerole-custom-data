@@ -1,6 +1,7 @@
 {
     "name": "Sleep Seed",
-    "description": "Make a Dexterity + Rank roll to shoot these seeds into your foe's mouth. Inflict the Drowsy Condition.",
-    "category": "HeldItem",
+    "price": 40,
+    "description": "Inflicts the Drowsy condition.",
+    "category": "Seed",
     "single_use": true
 }

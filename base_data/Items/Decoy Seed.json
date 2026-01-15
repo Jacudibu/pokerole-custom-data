@@ -1,0 +1,7 @@
+{
+    "name": "Decoy Seed",
+    "price": 40,
+    "description": "Inflicts the In Love condition.",
+    "category": "Seed",
+    "single_use": true
+}

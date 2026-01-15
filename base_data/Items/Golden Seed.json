@@ -1,0 +1,7 @@
+{
+    "name": "Golden Seed",
+    "price": 30,
+    "description": "Takes a Main Action to use. Roll d6 equal to Rank. If succesful, boost all stats by 1.",
+    "category": "Seed",
+    "single_use": true
+}

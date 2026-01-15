@@ -1,0 +1,7 @@
+{
+    "name": "Warm Seed",
+    "price": 30,
+    "description": "Inflicts the Burn condition.",
+    "category": "Seed",
+    "single_use": true
+}
