@@ -1,0 +1,11 @@
+{
+  "name": "Spiky Shield",
+  "type": "Grass",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage the user takes by their Rank. If the User would be hit by a Contact move, roll damage dice equal to Vitality+2 reduced by foe's defense.",
+  "description": "The Pokemon covers itself with a thorn filled shell, the foe will be damaged if it hits directly into it.",
+  "category": "Support"
+}

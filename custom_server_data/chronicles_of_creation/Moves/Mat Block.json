@@ -1,0 +1,11 @@
+{
+  "name": "Mat Block",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User and Allies",
+  "effect": "Reaction. Shield Move. Reduce the damage the user and allies take by the User's Rank + 1. This Move only works the first Round the User has been in combat, if the User leaves the combat and rejoins they may use it again.",
+  "description": "The Pokemon uses a mat or something similar as a shield.",
+  "category": "Support"
+}

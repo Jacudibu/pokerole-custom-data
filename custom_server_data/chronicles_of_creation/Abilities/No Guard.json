@@ -1,0 +1,5 @@
+{
+    "name": "No Guard",
+    "description": "This Pokemon can focus on attacking perfectly but will be open to the attacks of its foes as it won't focus on anything but its precision.",
+    "effect": "At the start of each round of Initiative, you may declare you are using No Guard. For the duration of the Round, all moves against you have Never Fail, and any moves you use also have Never Fail. Shield Move Penalties still apply as normal. This Abililty has no effect on OHKO moves."
+}

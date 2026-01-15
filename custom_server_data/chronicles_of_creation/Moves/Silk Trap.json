@@ -1,0 +1,11 @@
+{
+  "name": "Silk Trap",
+  "type": "Bug",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage the user takes by their Rank. If the User would be hit by a Contact move, lower the Dexterity of the attacker by 2. ",
+  "description": "The user sets up a shield of webbing in front of themself; a sneaky trap made to inhibit their foes.",
+  "category": "Support"
+}

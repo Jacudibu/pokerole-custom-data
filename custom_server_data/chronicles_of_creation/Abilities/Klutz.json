@@ -1,0 +1,5 @@
+{
+    "name": "Klutz",
+    "description": "This Pokemon does not understand how to use tools correctly, usually using them in unexpected ways.",
+    "effect": "This Pokemon can choose to not be affected by Held Items."
+}
