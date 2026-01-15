@@ -1,0 +1,7 @@
+{
+    "name": "Joy Seed",
+    "price": 40,
+    "description": "Increase two random stats by 1.",
+    "category": "Seed",
+    "single_use": true,
+}
