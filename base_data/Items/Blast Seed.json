@@ -1,7 +1,7 @@
 {
     "name": "Blast Seed",
-    "price": 30,
-    "description": "If you eat this seed you'll suddenly sneeze a blast of fire. Foes do not have time to react. Deal 3 flat damage to a foe, ignoring defense. Shield Moves will still apply their damage reduction.",
-    "category": "BattleItem",
-    "single_use": true
+    "price": 50,
+    "description": "Whoever eats this seed shoots a powerful blast of energy, which deals 3 flat typeless damage to a chosen foe, ignoring defenses. Shield Moves will still apply their damage reduction.",
+    "category": "Seed",
+    "single_use": true,
 }
