@@ -3,5 +3,5 @@
     "price": 30,
     "description": "If Grassy Terrain is active, increase Defense by 1.",
     "category": "Seed",
-    "single_use": true,
+    "single_use": true
 }
