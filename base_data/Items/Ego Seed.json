@@ -1,0 +1,7 @@
+{
+    "name": "Ego Seed",
+    "price": 30,
+    "description": "The target cannot perform the same moved it used in the previous Round. Lasts 1 Round",
+    "category": "Seed",
+    "single_use": true,
+}
