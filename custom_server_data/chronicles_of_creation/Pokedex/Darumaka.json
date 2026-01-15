@@ -1,0 +1,17 @@
+{
+  "number": 554,
+  "name": "Darumaka",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/2",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Fire Fang", "Incinerate", "Rage", "Rollout", "Tackle"],
+    "silver": ["Belly Drum", "Facade", "Fire Punch", "Headbutt", "Taunt", "Uproar", "Work Up"],
+    "gold": ["Flare Blitz", "Overheat", "Superpower", "Thrash"],
+    "platinum": ["Focus Energy", "Heat Wave", "Yawn"],
+    "diamond": []
+  }
+}

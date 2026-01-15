@@ -1,0 +1,17 @@
+{
+  "number": 555,
+  "name": "Darmanitan (Galarian Form)",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bite", "Fire Fang", "Incinerate", "Powder Snow", "Rage", "Rollout", "Tackle", "Taunt"],
+    "silver": ["Avalanche", "Facade", "Fire Punch", "Headbutt", "Ice Fang", "Ice Punch", "Uproar", "Work Up"],
+    "gold": ["Belly Drum", "Blizzard", "Flare Blitz", "Icicle Crash", "Overheat", "Superpower", "Thrash"],
+    "platinum": ["Bulldoze", "Focus Energy", "Freeze Dry", "Heat Wave", "Thief", "Yawn"],
+    "diamond": []
+  }
+}

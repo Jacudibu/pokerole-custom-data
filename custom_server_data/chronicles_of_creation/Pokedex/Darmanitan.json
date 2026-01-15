@@ -1,0 +1,17 @@
+{
+  "number": 555,
+  "name": "Darmanitan",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Fire Fang", "Incinerate", "Rage", "Rollout", "Tackle"],
+    "silver": ["Belly Drum", "Facade", "Fire Punch", "Headbutt", "Swagger", "Taunt", "Uproar", "Work Up"],
+    "gold": ["Flare Blitz", "Hammer Arm", "Overheat", "Superpower", "Thrash"],
+    "platinum": ["Focus Energy", "Heat Wave", "Psychic", "Yawn", "Zen Headbutt"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ally Switch",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "One Ally and Self",
+  "effect": "Reaction. Switcher Move. When one target is about to be hit by a move, the user swaps places with their ally. The user chooses which target needs to be attacked to activate. When used to take damage for an ally, it is subject to Shield Move rules.",
+  "description": "The user teleports, switching it's place with someone.",
+  "category": "Support"
+}

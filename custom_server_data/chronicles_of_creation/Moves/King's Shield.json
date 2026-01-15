@@ -1,0 +1,11 @@
+{
+  "name": "King's Shield",
+  "type": "Steel",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage the User suffers by their Rank. If the move that strikes the user is a Contact move, the foe's Strength is lowered by 2. This move always uses the user's Base Vitality.",
+  "description": "The pokemon uses a ghostly shield to protect itself. If the foe managed to touch it, the user will drain some of it's life force.",
+  "category": "Support"
+}

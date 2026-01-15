@@ -1,0 +1,11 @@
+{
+  "name": "Wide Guard",
+  "type": "Rock",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User and Allies",
+  "effect": "Reaction. Shield Move. Reduce the damage the User and Allies would take from 'All Foes' or 'Area' moves by user's Rank. Prevent all secondary effects that would trigger on the User and Allies by guarded moves.",
+  "description": "The user provides shelter for its allies, spreading itself out to protect from spread attacks.",
+  "category": "Support"
+}

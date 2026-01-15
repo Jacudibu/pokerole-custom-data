@@ -1,0 +1,11 @@
+{
+  "name": "Perish Song",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Beauty",
+  "target": "Foe",
+  "effect": "At the end of each round, Roll Damage Dice equal to a Quarter of the foe's total max HP (rounded down, up to 5 Dice). Inflicts Wounds. Lasts 4 Rounds. If successful, spend 1 Will point to activate. -2 Accuracy. Sound Based.",
+  "description": "A song of mourning and despair that resonates on the minds of anyone who listens. Makes you feel like you are on your death bed.",
+  "category": "Support"
+}
