@@ -6,6 +6,12 @@
     "fallback_id": 0
   },
   {
+    "name": "Explorers of the Sea",
+    "path": "explorers_of_the_sea",
+    "server_id": "1113123066059436093",
+    "fallback_id": 0
+  },
+  {
     "name": "Project Chimera",
     "path": "project_chimera",
     "server_id": 1278200775960694815,
