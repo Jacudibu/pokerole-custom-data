@@ -1,0 +1,11 @@
+{
+    "name": "Roar",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Never Fail. Low Priority 6. The target is forced to the bottom of the turn order and cannot call for the use of Priority or Reaction moves for the next two Rounds (but may still use attacking moves on their turn as if they did not have Priority). Sound Based.",
+    "description": "A mighty roar that scares the foe.",
+    "category": "Support"
+}

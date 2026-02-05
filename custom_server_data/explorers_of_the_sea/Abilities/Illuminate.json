@@ -1,0 +1,5 @@
+{
+    "name": "Illuminate",
+    "description": "The Pokemon naturally produces light through its body. Other Pokemon approach curiously when they see this light.",
+    "effect": "The User and their allies are unaffected by negative Accuracy Stat Changes. When the User performs a move remove 1 Success from targets taking the Dodge action, if the User is Gold Rank or Higher, remove 2 Successes instead."
+}

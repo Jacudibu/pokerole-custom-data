@@ -1,0 +1,6 @@
+{
+    "name": "Air Balloon",
+    "description": "The User is immune to Ground type moves and is unaffected by Terrain and Hazard moves (such as Spikes and Sticky Web) except for Stealth Rock. This item bursts once the User is hit.",
+    "category": "HeldItems",
+    "single_use": true
+}

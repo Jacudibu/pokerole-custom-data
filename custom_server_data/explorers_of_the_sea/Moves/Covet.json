@@ -1,0 +1,11 @@
+{
+    "name": "Covet",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "If successful the User may steal the foe's Held Item (adding it to their Backpack), and immediately swap their currently 'Held' item with any in their Backpack.",
+    "description": "The User approaches with caution, deals a quick strike and takes the chance to steal the target's item.",
+    "category": "Physical"
+}

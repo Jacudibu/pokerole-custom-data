@@ -1,0 +1,6 @@
+{
+    "name": "Toxic Orb",
+    "description": "The User is inflicted with Badly Poisoned at the end of their Turn.",
+    "category": "Helditems",
+    "single_use": false
+}

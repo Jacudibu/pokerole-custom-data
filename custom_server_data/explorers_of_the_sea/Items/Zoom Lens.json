@@ -1,0 +1,6 @@
+{
+    "name": "Zoom Lens",
+    "description": "Moves gain +2 Accuracy Dice if the User goes after the Target in the Initiative Order.",
+    "category": "Helditems",
+    "single_use": false
+}

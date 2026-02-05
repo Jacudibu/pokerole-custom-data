@@ -1,0 +1,5 @@
+{
+    "name": "Quark Drive",
+    "description": "Even just a faint trace of energy nearby can overcharge this mechanical mon!",
+    "effect": "If Electric Terrain is active or this pokemon is holding Booster Energy, their highest base stat is increased by 1 unless it's Dexterity in which case, it increases by 2 (if the User's highest base stat is Vitality or Insight increase Defense or Special Defense respectively). This Ability cannot be swapped, copied, replaced or nullified (ignoring the effects of Skill Swap, Worry Seed, Gastro Acid, Trace etc.)"
+}

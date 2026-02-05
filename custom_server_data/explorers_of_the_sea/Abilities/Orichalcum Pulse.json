@@ -1,0 +1,5 @@
+{
+    "name": "Orichalcum Pulse",
+    "description": "Even this pokemon's very presence can bring about the weather it's most comfortable with.",
+    "effect": "Once entering battle, this pokemon starts Sunny Weather. Increase the User's base Strength by 2 while Sunny Weather is in effect. This Ability cannot be swapped or copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

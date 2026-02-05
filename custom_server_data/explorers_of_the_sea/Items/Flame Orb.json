@@ -1,0 +1,6 @@
+{
+    "name": "Flame Orb",
+    "description": "The User is inflicted with Burn at the end of their Turn.",
+    "category": "Helditems",
+    "single_use": false
+}

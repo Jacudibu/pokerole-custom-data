@@ -1,0 +1,11 @@
+{
+    "name": "Thief",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If successful the User may steal the foe's Held Item (adding it to their Backpack), and immediately swap their currently 'Held' item with any in their Backpack.",
+    "description": "The Pokemon strikes its foe and takes the opportunity to steal whatever the target was holding.",
+    "category": "Physical"
+}

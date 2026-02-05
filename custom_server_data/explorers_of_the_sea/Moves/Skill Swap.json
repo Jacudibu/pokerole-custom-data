@@ -1,0 +1,11 @@
+{
+    "name": "Skill Swap",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Switch Abilities with the foe.",
+    "description": "The user swaps its identity with the target, making both feel like they are from each other's species.",
+    "category": "Support"
+}

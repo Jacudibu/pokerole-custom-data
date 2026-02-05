@@ -1,0 +1,11 @@
+{
+    "name": "Trick",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "The User steals the Target's Held Item (adding it to their Backpack). The User then chooses an item from their Backpack to give to the Target, that Item is immediately 'Held'. If the target is an enemy they become unable to swap their Held Item, lasts 2 Rounds.",
+    "description": "Control the target's mind to perform a simple non-hostile action, such as walking or handling an item.",
+    "category": "Support"
+}

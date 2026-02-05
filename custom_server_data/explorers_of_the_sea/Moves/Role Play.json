@@ -1,0 +1,11 @@
+{
+    "name": "Role Play",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Copy the target's Ability.",
+    "description": "The user mimics the target and takes on the most basic features from that character.",
+    "category": "Support"
+}

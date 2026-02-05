@@ -1,0 +1,6 @@
+{
+    "name": "Covert Cloak",
+    "description": "User is immune to secondary effects of attacking moves used by others (except for Clear Smog and Knock Off which resolve normally).",
+    "category": "HeldItem",
+    "single_use": false
+}

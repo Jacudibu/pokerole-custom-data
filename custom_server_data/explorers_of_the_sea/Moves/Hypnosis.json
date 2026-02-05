@@ -1,0 +1,11 @@
+{
+    "name": "Hypnosis",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Make the target Drowsy. -2 Accuracy.",
+    "description": "Employ a hypnotic suggestion to make the target feel drowsy and fall into a deep slumber. Works better on a target that is not in danger.",
+    "category": "Support"
+}

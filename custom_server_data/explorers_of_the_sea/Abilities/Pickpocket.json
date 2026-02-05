@@ -1,0 +1,5 @@
+{
+    "name": "Pickpocket",
+    "description": "The Pokemon will instinctively steal from others. It takes whatever it can when people are not looking.",
+    "effect": "If a foe makes Contact with this Pokemon with an attack, roll 4 Chance Dice to steal their Held Item (adding it to the User's Backpack, this ability only activates if the User has an open Backpack slot)."
+}

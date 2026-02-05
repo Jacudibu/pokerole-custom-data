@@ -1,0 +1,11 @@
+{
+    "name": "Bide",
+    "type": "Normal",
+    "power": 0,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Never Fail. Priority 1, Multi-Turn. Take note of all damage the User receives this Round. Next Round (with Priority 1), the User selects a target and attacks with Extra Dice added to the Damage Pool equal to the damage received (Maximum 10).",
+    "description": "The user endures the hits, then unleashes an attack even greater.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Chatter",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Confuse the target. Sound Based.",
+    "description": "The user starts talking and giving orders in human language. It may be extremely confusing for the foes.",
+    "category": "Special"
+}

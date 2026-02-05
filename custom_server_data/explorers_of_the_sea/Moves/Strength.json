@@ -1,0 +1,11 @@
+{
+    "name": "Strength",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "If the Target's weight is 100kgs or greater, Increase the User's Strength.",
+    "description": "The Pokemon strains its muscles to go beyond their own limits, allowing them to lift double the normal weight it should be able to.",
+    "category": "Physical"
+}

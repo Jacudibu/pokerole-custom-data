@@ -1,0 +1,5 @@
+{
+    "name": "Keen Eye",
+    "description": "This Pokemon has an exceptional sight, locating small or far away objects will be a lot easier.",
+    "effect": "The User is unaffected by negative Accuracy Stat Changes and ignores Evasion increases on their targets. Remove Successes from targets taking the Dodge action equal to the User's Rank Bonus (to a maximum of 3)."
+}

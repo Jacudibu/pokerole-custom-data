@@ -1,0 +1,11 @@
+{
+    "name": "Magnet Rise",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User",
+    "effect": "For the Next 4 Rounds the User gains immunity against Ground Type Moves and is unaffected by Terrain and Hazard moves (such as Spikes and Sticky Web) except for Stealth Rock.",
+    "description": "The Pokemon uses the magnetic field of the earth to repel itself from the ground, allowing it to float for a short period of time.",
+    "category": "Support"
+}
