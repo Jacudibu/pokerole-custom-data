@@ -1,0 +1,11 @@
+{
+  "name": "Burning Bulwark",
+  "type": "Fire",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage the user takes by the User's Rank. If the move that strikes the User is a Contact move, the foe is now Burned.",
+  "description": "The Pokemon uses a mat or something similar as a shield.",
+  "category": "Support"
+}

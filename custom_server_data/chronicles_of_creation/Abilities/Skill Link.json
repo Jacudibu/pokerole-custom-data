@@ -1,0 +1,5 @@
+{
+    "name": "Skill Link",
+    "description": "This Pokemon can proficiently chain a flurry of attacks. It also enjoys repitition and sequences.",
+    "effect": "If this Pokemon lands the first hit in a Successive Action chain, the next two attacks atuomatically hit. The Successive Action Penalty for Attack 4 in the chain starts at -2, with the 5th attack being at a -4."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Defeatist",
+    "description": "This Pokemon is a pessimist by nature. When things get difficult, it will be the first to give up.",
+    "effect": "While this Pokemon is at or above half its Max HP, it has 2 additional points of Base Strength and Special. But while below half or less it's Max HP, it has 2 less Base Strength and Special."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Perish Body",
+    "description": "This Pokemon silently curses those who cross it. Condemning their souls to suffer as it has suffered. Avoid this Pokemon, lest you suffer its grudge.",
+    "effect": "If a foe makes Contact with this Pokemon, both the foe and the User receive damage equal to the User's Rank Bonus (Damage dealt to the foe inflicts Wounds)."
+}

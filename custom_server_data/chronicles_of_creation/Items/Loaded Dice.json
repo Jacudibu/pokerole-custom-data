@@ -1,0 +1,7 @@
+{
+    "name": "Loaded Dice",
+    "price": 50,
+    "description": "If this Pokemon lands the first hit in a Successive Action chain, the next two attacks atuomatically hit. The Successive Action Penalty for Attack 4 in the chain starts at -2, with the 5th attack being at a -4. If used with Skill Link, this Pokemon can attempt to hit a 6th and 7th successive Action hit.",
+    "category": "HeldItem",
+    "single_use": false
+}

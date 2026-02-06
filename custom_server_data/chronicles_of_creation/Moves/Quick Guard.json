@@ -1,0 +1,11 @@
+{
+  "name": "Quick Guard",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User and Allies",
+  "effect": "Reaction. Shield Move. Priority Damage Moves used against the User and their Allies will have their damage reduced by the User's Rank. Status Moves used with Priority that target the User or their side will fail. ",
+  "description": "The user reacts instinctively and defends itself and its teammates, nullifying the effects of the fastest attacks.",
+  "category": "Support"
+}

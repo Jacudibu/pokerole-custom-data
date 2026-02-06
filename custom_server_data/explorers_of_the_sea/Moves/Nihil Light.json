@@ -1,0 +1,11 @@
+{
+  "name": "Nihil Light",
+  "type": "Dragon",
+  "power": 8,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "This move replaces Core Enforcer when used by a Zygarde that has mega evolved. Ignore all of the target's Stat Changes, and immunities to this attack.",
+  "description": "The user unleashes a primordial attack that disobeys all known laws of nature. Rumor has it that this move being seen means that life and death are out of balance.",
+  "category": "Special"
+}
