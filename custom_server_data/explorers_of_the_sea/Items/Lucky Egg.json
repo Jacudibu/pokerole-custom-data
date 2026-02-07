@@ -3,5 +3,5 @@
     "price": 1000,
     "description": "An item that increases the experience gained from all quests by 1.5×. This effect only works on your first character up to their 5th level, so maybe don't hoard it.",
     "category": "HeldItem",
-    "single_use": False,
+    "single_use": False
 }
