@@ -1,0 +1,5 @@
+{
+    "name": "Flash Fire",
+    "description": "This Pokemon is capable of consuming other fire sources and adding them to its own. Walking through embers, fire, lava and hell feel like a breeze to it.",
+    "effect": "The first time this Pokemon is hit by a Fire-Type move, deal 1 Extra Damage with Fire-Type Moves this Pokemon uses until the end of the scene. The User is unaffected by Fire-Type Attacks. Will-O-Wisp activates this ability and the User is unaffected."
+}

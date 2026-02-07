@@ -1,5 +1,5 @@
 {
     "name": "Sutur's Hand",
     "description": "When shadows fall upon the world, there shall be only one true King.",
-    "effect": "Devotees of the Darkest Day may call upon 'Sutur's Hand' once per quest as a bonus action during their combat turn, allowing them to encase the battlefield in darkness for four turns, reducing opponents accuracy by 1."
+    "effect": "Devotees of the Darkest Day may call upon 'Sutur's Hand' once per quest as a bonus action during their combat turn, allowing them to encase the battlefield in darkness for four turns, reducing opponents accuracy by 1. At Luminary the darkness lasts six turns and reduces oppenents accuracy by 2. And at High Priest(ess) it lasts eight turns and reduces oppenents accuracy by 3."
 }

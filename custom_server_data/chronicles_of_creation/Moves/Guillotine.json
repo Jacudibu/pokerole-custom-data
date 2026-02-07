@@ -1,0 +1,11 @@
+{
+  "name": "Guillotine",
+  "type": "Normal",
+  "power": 10,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Deals 1 Additional Damage for each 20% of the Foe's HP they are missing. Ignore Defenses. Applies all Damage as Wounds. Can only be used Once per Battle. -5 Accuracy.",
+  "description": "The Pokemon uses the sharpest part of its body to almost snap the neck of its foe. It is a devastating attack. The foe must be lucky to get out of it alive.",
+  "category": "Physical"
+}

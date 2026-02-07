@@ -1,0 +1,11 @@
+{
+  "name": "Kinesis",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "All Foes",
+  "effect": "Reduce the Target's Accuracy by 1.",
+  "description": "A basic psychic power to exert force on objects. You can touch, move, press, and affect simple objects to create distractions.",
+  "category": "Support"
+}

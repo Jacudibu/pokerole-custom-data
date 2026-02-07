@@ -1,0 +1,11 @@
+{
+    "name": "Submission",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Cool",
+    "target": "Foe",
+    "effect": "Recoil. -2 Accuracy. If the User successfully faints their target (or destroys an active Decoy), they take no Recoil damage from this attack and the next Recoil move they perform.",
+    "description": "The user recklessly struggles with the foe to pin it to the ground.",
+    "category": "Physical"
+}
