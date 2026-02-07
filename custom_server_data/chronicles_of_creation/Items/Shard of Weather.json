@@ -1,0 +1,6 @@
+{
+    "name": "Shard of Weather",
+    "description": "While holding this item if the Pokemon has an ability that is only active with a Weather or Terrain active, their ability is active even when the Weather or Terrain isn't active.",
+    "category": "HeldItem",
+    "single_use": false
+}

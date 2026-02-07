@@ -1,0 +1,11 @@
+{
+  "name": "Chloroblast",
+  "type": "Grass",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Recoil.",
+  "description": "The user unleashes a blast made up of its own chlorophyll energy. The User is left feeling exhausted afterward; some extra time in the sun is reccomended.",
+  "category": "Special"
+}

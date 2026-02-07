@@ -1,0 +1,5 @@
+{
+    "name": "Water Absorb",
+    "description": "The Pokemon's body is mostly made of water, it stores water inside itself and uses it for nourishment.",
+    "effect": "The first time each Round this Pokemon is hit by a Water-Type Attack, they may Heal 3 HP. The User is unaffected by Water-Type attacks and Support Moves that target the User, performed by Foes."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Illusion",
+    "description": "The Pokemon casts an illusion on itself to look like another creature it has seen. The illusion is indistinguishable from the real one.",
+    "effect": "When this Pokemon enters combat they create an illusory disguise of an ally. Once per round, the User may redirect one attack that targets themselves to their designated ally or vice versa. The Illusion fades after the User receives damage from an Attacking Move (and can no longer redirect attacks). The User may create a new Illusion by expending a Bonus Action and 1 Will while above half HP. This Ability cannot be swapped or copied (ignoring the effects of Skill Swap, Trace etc.)"
+}
