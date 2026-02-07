@@ -1,0 +1,11 @@
+{
+  "name": "Shed Tail",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Ally",
+  "effect": "Switcher Move. The User deals 6 damage to themself and sets up a decoy with 4 HP in front of an Ally. The decoy has the same defenses as the User. All moves targeting the Ally are automatically redirected to the decoy (Including All Foes and Area moves). If the decoy is attacked the Ally may Dodge to negate the attack as if they were the target. The decoy is unaffected by Support moves, Status conditions, Weather, and Stat Changes.",
+  "description": "The user sheds its tail off, and crafts it into a makeshift dummy to protect an ally.",
+  "category": "Support"
+}

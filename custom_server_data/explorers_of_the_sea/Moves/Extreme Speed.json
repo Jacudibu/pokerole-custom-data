@@ -1,0 +1,11 @@
+{
+    "name": "Extreme Speed",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Priority 2.",
+    "description": "This Pokémon is able to move at blinding speeds, and can use that to catch enemies off guard.",
+    "category": "Physical"
+}

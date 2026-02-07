@@ -1,0 +1,6 @@
+{
+    "name": "Focus Sash",
+    "description": "The first time this Pokemon would faint from a damaging move, reduce its hp to 1 instead. Upon activation this item breaks until the end of the quest (and is no longer treated as 'Held').",
+    "category": "Helditems",
+    "single_use": false
+}

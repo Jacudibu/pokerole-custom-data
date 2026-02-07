@@ -1,0 +1,6 @@
+{
+    "name": "Razor Fang",
+    "description": "Add +1 Chance Dice to attacks to Flinch Foes, if a move already has Chance Dice, this is additive.",
+    "category": "Helditems",
+    "single_use": false
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Flower Gift",
+    "description": "This Pokemon's petals radiate full of energy when the sun shines bright. The energy irradiated makes those around feel stronger.",
+    "effect": "While Sunny weather is in effect, Increase 2 Points to the base Strength and base Sp.Defense stats of the User and its Allies. This Ability cannot be swapped or copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

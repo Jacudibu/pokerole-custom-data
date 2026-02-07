@@ -1,0 +1,11 @@
+{
+  "name": "U-Turn",
+  "type": "Bug",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Switcher Move.",
+  "description": "The user strikes its foe, then quickly goes back to safety while another party Pokemon takes its place.",
+  "category": "Physical"
+}

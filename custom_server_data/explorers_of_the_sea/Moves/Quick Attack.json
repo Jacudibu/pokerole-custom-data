@@ -1,0 +1,11 @@
+{
+    "name": "Quick Attack",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Priority 1.",
+    "description": "This Pokémon is able to zip by for an attack that's faster than a blink.",
+    "category": "Physical"
+}

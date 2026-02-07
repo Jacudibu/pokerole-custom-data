@@ -1,0 +1,6 @@
+{
+    "name": "Mirror Herb",
+    "description": "Used as a reaction when a Foe or Ally receives positive Stat Changes. Copies the latest stat increases of the target. Consumed on use.",
+    "category": "Herb",
+    "single_use": true
+}

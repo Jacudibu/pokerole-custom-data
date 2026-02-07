@@ -1,0 +1,5 @@
+{
+    "name": "Forecast",
+    "description": "This Pokemon can absorb the elements around to adapt and survive even under extreme conditions.",
+    "effect": "The Type of this Pokemon will change depending on the active weather. Fire under Sun, Water under Rain, Ice under Hail and Rock under Sand etc. This Ability cannot be swapped or copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Gravity",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Battlefield",
+    "effect": "Flying and Levitating Pokemon can be hit by Ground Type Moves and lose their Flying Type Immunities (making them susceptible to Terrain and Hazard move effects). Can hit Aerial targets using Fly, Bounce or Sky Drop and will cancel those moves if they are in effect. Fly, Bounce, Sky Drop, High Jump Kick, Jump Kick, Flying Press, Magnet Rise, Telekinesis and Splash are incapable of being used while Gravity is in effect. Lasts 4 Rounds.",
+    "description": "The gravity is intensified, bringing everyone to their knees. Flying pokemon are slammed to the ground.",
+    "category": "Support"
+}

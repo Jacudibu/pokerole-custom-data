@@ -1,0 +1,11 @@
+{
+    "name": "Pluck",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "The Target can't consume berries for 2 Rounds. The User may spend their Bonus Action to gain the effects of a berry from the target's Inventory. The User can't select an individual berry more than once. Berries used in this way can't be consumed until the end of combat.",
+    "description": "The user gives a hard peck and may get something tasty out of the foe.",
+    "category": "Physical"
+}

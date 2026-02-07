@@ -1,0 +1,5 @@
+{
+    "name": "Schooling",
+    "description": "When this Pokemon is threatened, it calls thousands of allies to create an uncontrollable monster. The closer to the sea, the faster they arrive.",
+    "effect": "At the start of combat, this pokemon enters its 'Schooling' form. In this form, it gets a bonus to Strength, Special, Vitality, and Insight equal to its rank, but loses 1 point in Dexterity. These bonuses effect Max HP, Equipped Moves cap, and Defenses. If this pokemon falls below 25% of its max HP, it loses these bonuses (the moves at the bottom of the Equipped moves list are lost first), and returns back to solo form. It can re-enter this form upon regaining HP over 25% of its max. It will not regain bonuses to Max HP or Equipped Moves. This Ability cannot be swapped, copied, replaced or nullified (ignoring the effects of Skill Swap, Worry Seed, Gastro Acid, Trace etc.)"
+}

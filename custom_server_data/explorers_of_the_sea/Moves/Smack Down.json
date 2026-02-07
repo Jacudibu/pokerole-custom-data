@@ -1,0 +1,11 @@
+{
+    "name": "Smack Down",
+    "type": "Rock",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ranged. Remove the target's Immunity to Ground-Type Attacks and Flying Type Immunities they may have for the rest of the scene (making them susceptible to Terrain and Hazard move effects). If hitting a pokemon in the invulnerable Aerial turn of Fly or Bounce, cancel the move (putting the target back in range of combat), and the target does not lose any Immunities from Smack Down.",
+    "description": "The user hurls a projectile, usually a heavy rock that sends the foe down to the ground, leaving it unable to take off the ground afterwards.",
+    "category": "Physical"
+}

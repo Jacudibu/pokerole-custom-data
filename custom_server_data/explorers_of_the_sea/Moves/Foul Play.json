@@ -1,0 +1,11 @@
+{
+  "name": "Foul Play",
+  "type": "Dark",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "S.T.A.B of the user and Strength of the foe apply for this move's damage.",
+  "description": "The user uses a dirty move to trick the foe into hurting itself.",
+  "category": "Physical"
+}

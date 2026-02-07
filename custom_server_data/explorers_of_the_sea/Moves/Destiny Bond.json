@@ -1,0 +1,11 @@
+{
+    "name": "Destiny Bond",
+    "type": "Ghost",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "If successful spend 1 Will point to activate. Combat damage taken by the User is dealt to the target as well (wound damage is treated as normal damage for the foe). A Foe can receive no more than a Quarter of its max HP (rounded down) in damage from Destiny bond in a single round. Lasts 4 Rounds. This effect ends immediately when the User's HP is restored. The User can only bond with one Foe at a time (subsequent uses Swap target and reset duration).",
+    "description": "The Pokemon creates a mystical bond with anyone that causes it harm. Whatever ill falls on the user, it falls on the perpetrator too.",
+    "category": "Support"
+}

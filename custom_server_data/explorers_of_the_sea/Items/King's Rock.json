@@ -1,0 +1,6 @@
+{
+    "name": "King's Rock",
+    "description": "Any time an opponent successfully attacks the User, roll 1 Chance Dice, on a success the foe is Flinched until the end of their Next Turn.",
+    "category": "Helditems",
+    "single_use": false
+}

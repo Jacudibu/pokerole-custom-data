@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Rage",
+    "type": "Dragon",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "This moves inflicts 2 Damage. Ignores Defense, (this move is able to Critical Strike for 3 Damage bypassing the normal rule for Ignores Defense attacks).",
+    "description": "A dual colored flame that always leaves the same burn marks on everything it touches.",
+    "category": "Special"
+}

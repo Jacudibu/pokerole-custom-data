@@ -1,0 +1,11 @@
+{
+    "name": "Mist Ball",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Roll 5 Chance Dice to Reduce the foe's Special. This Effect can be repeated up to 3 times per Target.",
+    "description": "The user engulfs its foe with a cloud of mist. This soothing mist keeps evil intents from surfacing into the foe's mind.",
+    "category": "Special"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Hadron Engine",
+    "description": "This pokemon's engine is overflowing with energy!",
+    "effect": "Once entering battle, this pokemon starts Electric Terrain. Increase the User's base Special by 2 while Electric Terrain is active. This Ability cannot be swapped or copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

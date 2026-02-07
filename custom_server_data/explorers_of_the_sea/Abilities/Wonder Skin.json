@@ -1,0 +1,5 @@
+{
+    "name": "Wonder Skin",
+    "description": "The skin of this Pokemon is covered by a thin protective veil that allows it to weaken dangerous hazards.",
+    "effect": "Foe's Attacks roll 2 fewer Chance Dice against the User. Support moves that would always inflict a Status condition against the User instead roll 4 Chance Dice for the Status to take effect (additional targets are affected normally)."
+}

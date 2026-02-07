@@ -1,0 +1,5 @@
+{
+    "name": "Symbiosis",
+    "description": "This Pokemon enjoys forming a beneficial relationship with any ally it teams up with.",
+    "effect": "The User's allies can swap their actively 'Held' Item without expending their Bonus Action once per Round. Allies may also use Items from the User's backpack as if they were in their own (the action cost for using Items this way is unchanged)."
+}

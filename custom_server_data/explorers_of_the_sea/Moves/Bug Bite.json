@@ -1,0 +1,11 @@
+{
+    "name": "Bug Bite",
+    "type": "Bug",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "The Target can't consume berries for 2 Rounds. The User may spend their Bonus Action to gain the effects of a berry from the target's Inventory. The User can't select an individual berry more than once. Berries used in this way can't be consumed until the end of combat.",
+    "description": "The Pokemon nibbles its foe, if it finds something tasty it will eat it in an instant. It may try to eat almost anything.",
+    "category": "Physical"
+}
