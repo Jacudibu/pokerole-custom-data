@@ -1,0 +1,6 @@
+{
+    "name": "Fainting Policy",
+    "description": "If the holder faints, the Attacker's Positive stat increases are removed.",
+    "category": "HeldItem",
+    "single_use": false
+}

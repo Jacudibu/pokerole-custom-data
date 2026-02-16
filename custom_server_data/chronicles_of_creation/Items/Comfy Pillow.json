@@ -1,0 +1,6 @@
+{
+    "name": "Comfy Pillow",
+    "description": "The Holder heals 2 HP at the start of the Round if they are Drowsy.",
+    "category": "HeldItem",
+    "single_use": false
+}

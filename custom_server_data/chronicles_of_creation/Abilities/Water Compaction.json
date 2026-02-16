@@ -1,0 +1,5 @@
+{
+    "name": "Water Compaction",
+    "description": "The body of the Pokemon can absorb water at an astounding rate. Its body hardens as it quickly dries.",
+    "effect": "The first time this Pokemon is hit by a Water-Type Move, Increase its Base Defense by 2. Water-Type Moves do not deal damage to this Pokemon."
+}

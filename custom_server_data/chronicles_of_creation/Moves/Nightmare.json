@@ -1,0 +1,11 @@
+{
+    "name": "Nightmare",
+    "type": "Ghost",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "This move only deals damage if the target is Drowsy. Deal 1 Damage to the foe. Until the end of the scene, deal 1 Damage at the beginning of each Round if the target is afflicted with Drowsy. If the target is not Drowsy this move gains -3 Accuracy and is instead treated as a Support move which inflicts the target with Drowsy.",
+    "description": "The user enters the target's dream to torment it.",
+    "category": "Special"
+}

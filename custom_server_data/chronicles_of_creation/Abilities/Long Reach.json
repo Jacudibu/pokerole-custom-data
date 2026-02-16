@@ -1,0 +1,5 @@
+{
+    "name": "Long Reach",
+    "description": "The Pokemon is able to attack through the shadows of objects and foes meanwhile the real targets suffer the damage.",
+    "effect": "All Attacks made by this Pokemon are considered Ranged attacks. All Ranged attacks gain +1 Damage Dice. Any attacks that had Ranged previously gain an additional damage die."
+}

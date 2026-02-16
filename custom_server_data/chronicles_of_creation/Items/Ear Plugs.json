@@ -1,0 +1,6 @@
+{
+    "name": "Ear Plugs",
+    "description": "The User is protected from Sound-based Moves.",
+    "category": "HeldItem",
+    "single_use": false
+}

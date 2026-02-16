@@ -1,0 +1,5 @@
+{
+    "name": "Toxic Boost",
+    "description": "The blood of this Pokemon boils and goes into a powerful rampage whenever it is afflicted by poison.",
+    "effect": "While this Pokemon has the Poison or Badly Poisoned Status, Increase the User's Base Strength by 2."
+}

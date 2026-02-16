@@ -1,0 +1,5 @@
+{
+    "name": "Honey Gather",
+    "description": "This Pokémon produces it's own honey. The quality improves as the Pokémon gets stronger, and there are those that would pay nicely for it.",
+    "effect": "After this Pokémon completes a mission, they gain extra Poke equal to 50 × their Rank. Once per quest, this Pokemon may consume some of its Honey, healing HP equal to its Rank Bonus as a Bonus Action."
+}

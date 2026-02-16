@@ -1,0 +1,5 @@
+{
+    "name": "Power of Alchemy",
+    "description": "This Pokemon can absorb the essence of everything it touches, fusing with the chemical composition and even the genes of discarded trash",
+    "effect": "If a foe faints the same round that you dealt direct damage to them, copy their Ability. Multiple Abilities may be copied this way, but only one may be active during combat. It may store a number of Abities up to their Rank Bonus. The User's currently active ability can be changed in combat to match the most recently acquired ability, or by expending an action to swap to a previously copied ability. This Ability cannot be copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

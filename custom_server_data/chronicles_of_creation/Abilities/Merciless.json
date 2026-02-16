@@ -1,0 +1,5 @@
+{
+    "name": "Merciless",
+    "description": "Once this Pokemon senses weakness, it begins acting according to their brutal nature. They can be cruel if not put in their place..",
+    "effect": "If the Foe is affected by the Poison Status Condition all damage from this Pokemon Inflicts Wounds. If the foe is Badly Poisoned, all Physical and Special attacks from this Pokemon are considered Critical Strikes and Inflicts Wounds."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Electric Surge",
+    "description": "The Pokemon can surround itself with an electric field that fills the air with tension and keeps everyone on edge.",
+    "effect": "This pokemon can start Electric Terrain as a Free Action on their turn, once per battle (as if they had used a Move to do so)."
+}

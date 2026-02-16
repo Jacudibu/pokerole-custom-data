@@ -1,0 +1,11 @@
+{
+    "name": "Mist",
+    "type": "Ice",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User's Battlefield",
+    "effect": "Screen Move. The User and Allies are Immune to Stat Reductions. Lasts 4 Rounds.",
+    "description": "The user cloaks itself and it's allies within cold mist with mystic properties. It may conceal whoever is nearby.",
+    "category": "Support"
+}

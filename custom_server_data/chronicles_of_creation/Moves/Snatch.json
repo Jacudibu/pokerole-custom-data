@@ -1,0 +1,11 @@
+{
+    "name": "Snatch",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Remove all of the Target's Stat Changes and apply them to the User (adhering to the standard +/- 3 limit on Stat Changes).",
+    "description": "The user analyzes the advantages of the foe then makes them their own.",
+    "category": "Support"
+}

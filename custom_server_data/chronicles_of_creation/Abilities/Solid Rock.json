@@ -1,0 +1,5 @@
+{
+    "name": "Solid Rock",
+    "description": "This Pokemon's body is composed of extremely hard rock, protecting it from everything, even its own weaknesses.",
+    "effect": "If this Pokemon is hit by a move dealing Super-Effective Damage (+1 or +2 on the Type Efficiency), reduce 1 Damage dealt to it."
+}

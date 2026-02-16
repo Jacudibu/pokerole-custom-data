@@ -1,0 +1,11 @@
+{
+    "name": "Mimic",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Never Fail. Adds the last move the target performed to the User's Active Move list until the end of the scene (the added move does not count towards their Active Move limit).",
+    "description": "Making use of its acting talents, the Pokemon imitates what the target just did.",
+    "category": "Support"
+}

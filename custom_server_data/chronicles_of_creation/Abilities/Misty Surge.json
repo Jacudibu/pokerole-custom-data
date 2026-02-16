@@ -1,0 +1,5 @@
+{
+    "name": "Misty Surge",
+    "description": "The Pokemon can surround itself with a misty field that is eerily quiet. It feels peaceful and soothing but also lonesome and isolated.",
+    "effect": "This pokemon can start Misty Terrain as a Free Action on their turn, once per battle (as if they had used a Move to do so)"
+}

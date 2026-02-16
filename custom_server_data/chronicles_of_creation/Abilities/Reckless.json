@@ -1,0 +1,5 @@
+{
+    "name": "Reckless",
+    "description": "The Pokemon will often get into risky situations in order to get what it wants. They are prone to risk their lives without thinking of the consequences.",
+    "effect": "When this Pokemon performs a move with Recoil or that incurs damage to the User when unsuccessful, add 2 Extra Dice to the Damage Pool of that move."
+}

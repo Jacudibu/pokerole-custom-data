@@ -1,0 +1,5 @@
+{
+    "name": "Shadow Tag",
+    "description": "The Pokemon steps on the opponent's shadow, preventing them from moving too far.",
+    "effect": "All foes become Blocked. Pokemon with Shadow Tag are immune to this effect. A Pokemon suffering from this ability may spend 1 Will to Dodge while under the effects of this ability."
+}

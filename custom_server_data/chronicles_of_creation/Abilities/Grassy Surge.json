@@ -1,0 +1,5 @@
+{
+    "name": "Grassy Surge",
+    "description": "The Pokemon can surround itself with a grass field that makes it easy to relax and laze around in the sun.",
+    "effect": "This Pokemon can start Grassy Terrain as a Free Action on their turn, once per battle (as if they had used a Move to do so)."
+}

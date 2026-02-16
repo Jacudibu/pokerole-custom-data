@@ -1,0 +1,5 @@
+{
+    "name": "Healer",
+    "description": "The Pokemon has healing powers, and will use them without hesitation to aid others.",
+    "effect": "At the end of each Round this Pokemon rolls 3 Chance Dice for each Ally with a Status Condition. On a success, cure the subject of a Status (of the User's choice)."
+}

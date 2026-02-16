@@ -1,0 +1,5 @@
+{
+    "name": "Cheek Pouch",
+    "description": "The Pokemon is able to store food and objects inside its stretchy cheeks for later consumption.",
+    "effect": "This Pokemon restores 2 HP whenever it eats a consumable with no HP healing effect. (Pecha Berry, Lum Berry, Seeds, Apples)"
+}

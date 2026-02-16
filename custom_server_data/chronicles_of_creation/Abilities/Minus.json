@@ -1,0 +1,5 @@
+{
+    "name": "Minus",
+    "description": "This Pokemon has a natural Negative charge. It will attract Positive charge and repel other negative charge. They are prone to feel blue.",
+    "effect": "If an ally Pokemon has the ability “Minus” (besides the User) or the ability ”Plus”, Increase the User's base Special by 2. If no ally has Minus or Plus, this Pokemon gains +1 Dexterity at the start of the First Round."
+}

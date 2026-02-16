@@ -1,0 +1,5 @@
+{
+    "name": "Tangling Hair",
+    "description": "This Pokemon's hair is thick and tough, it easily tangles anyone who comes close to it. Brush it twice a day to keep it silky and shiny.",
+    "effect": "The first times a foe makes Contact with this Pokemon, reduce their Dexterity by 1. On subsequent hits, the User rolls 2d6 Chance Dice to affect any foe with this ability again, they may reduce a foe's Dexterity by a max of 3."
+}

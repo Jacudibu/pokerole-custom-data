@@ -1,0 +1,6 @@
+{
+    "name": "Strong Band",
+    "description": "The User's first attack deals 2 additional damage, but the user has -3 Init until this item is used up. This item is consumed for the quest on use.",
+    "category": "HeldItem",
+    "single_use": false
+}
