@@ -1,0 +1,5 @@
+{
+    "name": "Gluttony",
+    "description": "This Pokemon eats all day long, it has no problem to find food sources since it's not a picky eater at all.",
+    "effect": "This Pokemon can eat an additional berry each round equal to their Half their Rank (Round Up). Additionally, they can eat berries on their allies turns."
+}

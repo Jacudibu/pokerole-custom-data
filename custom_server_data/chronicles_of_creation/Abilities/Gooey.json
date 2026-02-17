@@ -1,0 +1,5 @@
+{
+    "name": "Gooey",
+    "description": "This Pokemon's sticky ooze will rub into anyone that touches it. This may become quite a burden. On the bright side, it is a natural and organic glue.",
+    "effect": "The first times a foe makes Contact with this Pokemon, reduce their Dexterity by 1. On subsequent hits, the User rolls 2d6 Chance Dice to affect any foe with this ability again. They may reduce a foe's dexterity by a max of 3."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Water Bubble",
+    "description": "The Pokemon is shielded by water bubble. Stragely, the bubble has clear water inside instead of air.",
+    "effect": "Fire-Type Moves deal 1 less damage to this Pokemon. This Pokemon is immune to the Burn Status. Add 2 Extra Dice to the Damage Pool of this Pokemon's Water-Type Moves."
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Inner Tube",
+    "description": "Holder is immune to Water Type attacks, it is destroayed after the user is hit with an attack.",
+    "category": "HeldItem",
+    "single_use": false
+}

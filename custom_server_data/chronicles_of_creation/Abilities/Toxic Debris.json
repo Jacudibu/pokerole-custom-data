@@ -1,0 +1,5 @@
+{
+    "name": "Toxic Debris",
+    "description": "The venomous bits on this pokemon are easily flaked off.",
+    "effect": "When attacked with a Physical move, One Layer of Toxic Spikes are set on the opposing side. This ability can activate a number of times equal to this Pokemon's Rank."
+}

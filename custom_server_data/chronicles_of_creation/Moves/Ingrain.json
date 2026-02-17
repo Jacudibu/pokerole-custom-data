@@ -1,0 +1,11 @@
+{
+  "name": "Ingrain",
+  "type": "Grass",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Self",
+  "effect": "User Heals 2 HP at the end of every Round, on success this Move costs 1 Will to activate. While this move is active the User is now Blocked. If the User is hit with a move or ability that forcibly changes their Initiative, they lose Ingrain.",
+  "description": "The Pokemon roots itself to the ground, absorbing the nutrients and recovering health.",
+  "category": "Support"
+}

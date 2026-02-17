@@ -1,0 +1,5 @@
+{
+    "name": "Sap Sipper",
+    "description": "This Pokemon's diet consists strickly of plants. It is particularly fond of sweet sap for nourishment.",
+    "effect": "The first time this Pokemon is hit by a Grass-Type attack, Increase 1 Point to its Base Strength. Grass-Type moves do not deal damage to this Pokemon."
+}

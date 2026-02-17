@@ -1,0 +1,6 @@
+{
+    "name": "Heavy Duty Heels",
+    "description": "If the User is Blocked they gain 2 Dexterity.",
+    "category": "HeldItem",
+    "single_use": false
+}

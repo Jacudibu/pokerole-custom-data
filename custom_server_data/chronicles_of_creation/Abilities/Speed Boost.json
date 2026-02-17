@@ -1,0 +1,5 @@
+{
+    "name": "Speed Boost",
+    "description": "This Pokemon will start maneuvering at an accelerated rate. It will move as if it blinked from place to place.",
+    "effect": "At the end of the Round, Increase 1 Point to this Pokemon's Base Dexterity Attribute. Up to 3 Points might be added this way."
+}

@@ -1,5 +1,5 @@
 {
   "name": "Well-Baked Body",
   "description": "One good thing about burnt bread? It's as hard as a rock! What do you mean that isn't good?...",
-  "effect": "The first time this Pokemon is hit with a Fire Type Move, Increase the User's Defense by 2. The User is unaffected by Fire-Type attacks and Support Moves that target the User, performed by Foes."
+  "effect": "The first time this Pokemon is hit with a Fire-Type Move, Increase the User's Base Defense by 2. The User is unaffected by Fire-Type attacks and Support Moves that target the User, performed by Foes."
 }

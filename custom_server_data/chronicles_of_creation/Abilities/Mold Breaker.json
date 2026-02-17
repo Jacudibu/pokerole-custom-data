@@ -1,0 +1,5 @@
+{
+    "name": "Mold Breaker",
+    "description": "This pokemon will find unusual ways to achieve it's goals. They are inventive and go around problems.",
+    "effect": "If the Target's ability would prevent the action of this Pokemon or reduce it's damage in anyway, Ignore it (ex: The User's Earthquake attacks can damage targets with the Levitate ability and can Screech targets with Soundproof)."
+}

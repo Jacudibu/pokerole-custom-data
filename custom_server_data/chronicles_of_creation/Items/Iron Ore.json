@@ -1,0 +1,6 @@
+{
+    "name": "Iron Ore",
+    "description": "Ore mined from the earth that has Iron in it!",
+    "category": "Consumable",
+    "single_use": true
+}

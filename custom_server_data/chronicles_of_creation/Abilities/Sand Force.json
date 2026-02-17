@@ -1,0 +1,5 @@
+{
+    "name": "Sand Force",
+    "description": "The Pokemon controls the particles of sand around the battlefield to give boosts to its attacks.",
+    "effect": "If Sandstorm Weather is in effect when this Pokemon deals damage using Ground, Steel or Rock-Type attacks, deal 1 extra Damage. The Pokemon is immune to damage from Sandstorm Weather."
+}

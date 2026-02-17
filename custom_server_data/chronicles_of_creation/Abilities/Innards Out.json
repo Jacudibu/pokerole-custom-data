@@ -1,0 +1,5 @@
+{
+    "name": "Innards Out",
+    "description": "Pyukumuku, this is not what we meant when we asked you to 'Spill your guts'!",
+    "effect": "If an attack would faint this Pokemon, it inflicts damage to the foe that fainted them equal to the remaining HP they had, as if they had attacked the foe."
+}

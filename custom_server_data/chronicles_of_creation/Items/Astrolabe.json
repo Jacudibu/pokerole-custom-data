@@ -1,0 +1,6 @@
+{
+    "name": "Astrolabe",
+    "description": "Holder ingores moves, abilities and items that cause redirection.",
+    "category": "HeldItem",
+    "single_use": false
+}

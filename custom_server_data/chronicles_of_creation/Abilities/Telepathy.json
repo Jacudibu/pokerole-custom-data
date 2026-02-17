@@ -1,0 +1,5 @@
+{
+    "name": "Telepathy",
+    "description": "This Pokemon can communicate using telepathy. It can send messages to other minds but it cannot receive messages back.",
+    "effect": "This Pokemon won't receive damage from moves performed by its allies nor will it do damage to it's allies unless it chooses to."
+}

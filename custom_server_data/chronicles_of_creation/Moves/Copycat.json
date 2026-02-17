@@ -1,0 +1,11 @@
+{
+    "name": "Copycat",
+    "type": "Normal",
+    "power": 0,
+    "damage": "Copy",
+    "accuracy": "Copied",
+    "target": "Self",
+    "effect": "Copies the last move that was performed before the User's turn (with the User's own Stats during accuracy and damage calculation if applicable).",
+    "description": "The user will closely watch the movements of the other combatants and will imitate them to perfection.",
+    "category": "Support"
+}

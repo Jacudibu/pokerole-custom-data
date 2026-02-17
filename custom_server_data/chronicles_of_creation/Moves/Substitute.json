@@ -1,0 +1,11 @@
+{
+  "name": "Substitute",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "The User deals 4 damage to themself and sets up a decoy with 4 HP. The decoy has the same defenses as the User, and all Moves targeting the User used by Foes are automatically redirected to the decoy (including All Foes and Area moves). If the decoy is attacked the User may Dodge to negate the attack as if they were the target. The decoy is unaffected by Support moves, Status conditions, Weather and Stat Changes.",
+  "description": "The Pokemon disappears in a poof of smoke. When the smoke vanishes, an object identical to the user remains in its place to shield it from harm. It looks amazingly real.",
+  "category": "Support"
+}

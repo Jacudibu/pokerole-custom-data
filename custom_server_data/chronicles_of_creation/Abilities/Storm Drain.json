@@ -1,0 +1,5 @@
+{
+    "name": "Storm Drain",
+    "description": "The Pokemon absorbs moisture and liquids like a sponge, then uses them to increase its power and last more time outside of water.",
+    "effect": "If anyone uses an Water-Type move with a Single target, this Pokemon may redirect it to themself; it is immune to damage from Water-Type attacks. The first time this Pokemon is hit by an Water-Type move, Increase 1 Point to this Pokemon's Base Special."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Thermal Exchange",
+    "description": "Perfect control over it's own internal temperature let's this mon convert heat into power!",
+    "effect": "After this Pokemon is hit with a Fire-Type Move, Increase the User's Strength by 1. This pokemon is immune to the Burn Status."
+}

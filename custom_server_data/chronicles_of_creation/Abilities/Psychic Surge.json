@@ -1,0 +1,5 @@
+{
+    "name": "Psychic Surge",
+    "description": "The Pokemon can surround itself with a psychic field that makes everyone pause, hearing things that are not there.",
+    "effect": "This Pokemon can start Psychic Terrain as a Free Action on their turn, once per battle (as if they had used a Move to do so)"
+}

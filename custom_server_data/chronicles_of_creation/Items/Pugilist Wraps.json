@@ -1,0 +1,6 @@
+{
+    "name": "Pugilist Wraps",
+    "description": "All the User's Physical Attacks gain Fist Based.",
+    "category": "HeldItem",
+    "single_use": false
+}
