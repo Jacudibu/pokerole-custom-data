@@ -1,0 +1,11 @@
+{
+    "name": "Burning Bulwark",
+    "type": "Fire",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "Reaction. Shield Move. Reduce incoming damage by 3 against the instigating attack. If the move that strikes the User is a Contact move, the Foe is Burned.",
+    "description": "The user superheats their own body to prevent incoming attacks from dealing damage. Touching their burning body may hurt.",
+    "category": "Support"
+}
