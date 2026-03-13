@@ -2,5 +2,5 @@
     "name": "Griseous Shard",
     "description": "A glowing shard, said to resonate with **Giratina**'s powers. Harvested from a geode in the Distorted World.",
     "category": "Artifact",
-    "single_use": False,
+    "single_use": false
 }
