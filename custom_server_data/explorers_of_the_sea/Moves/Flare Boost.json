@@ -1,0 +1,5 @@
+{
+    "name": "Flare Boost",
+    "description": "Pokemon with this ability benefit from the extreme heat produced by fire. It might be somewhat of a pyromaniac.",
+    "effect": "While this Pokemon has the Burn Status, Increase the User's base Special by 2."
+}
