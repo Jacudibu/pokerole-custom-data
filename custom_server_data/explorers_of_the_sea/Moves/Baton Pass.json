@@ -5,7 +5,7 @@
     "damage": "",
     "accuracy": "Special",
     "target": "Ally",
-    "effect": "The User removes all of their current Stat Changes and applies them to an ally Pokemon. Switcher Move.",
-    "description": "The user stores part of its power on a twig or a stick, anyone who touch the item will receive its might.",
+    "effect": "The User removes all of their current Stat Changes and applies them to an Ally Pokemon (Stat Changes transferred this way are treated as if they were applied by their original source). Switcher Move.",
+    "description": "The user stores part of its power on a twig or a stick. Anyone who touches the item will receive its might.",
     "category": "Support"
 }

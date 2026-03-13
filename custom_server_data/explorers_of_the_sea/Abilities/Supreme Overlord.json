@@ -1,0 +1,5 @@
+{
+    "name": "Supreme Overlord",
+    "description": "Every soldier counts, no matter how little they've done for a fight.",
+    "effect": "For each ally that has fainted during the scene, Increase the User's Base Strength by 1, to a maximum of +3 (allies that fainted and then revived still count towards this total. Each ally is only counted once)."
+}

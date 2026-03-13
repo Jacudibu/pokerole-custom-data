@@ -1,0 +1,5 @@
+{
+    "name": "Thermal Exchange",
+    "description": "Perfect control over it's own internal temperature let's this mon convert heat into power!",
+    "effect": "After this Pokemon is hit with a Fire Move, Increase the User's Strength by 1. This pokemon is immune to the Burn Status. This ability is able to stack with itself up to three times (but still subject the standard +/-3 limit for Stat Changes)."
+}
