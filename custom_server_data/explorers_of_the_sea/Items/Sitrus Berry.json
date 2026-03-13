@@ -2,5 +2,5 @@
     "name": "Sitrus Berry",
     "description": "Eating this Berry will heal 3 HP or 1 Wounds Damage.",
     "category": "Berry",
-    "single_use": true
+    "single_use": true,
 }
