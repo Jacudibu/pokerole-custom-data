@@ -1,6 +1,6 @@
 {
     "name": "Sitrus Age",
-    "flavor": "The golden age of sitruses!"
+    "flavor": "The golden age of sitruses!",
     "description": "Artisan item. A small pouch containing a full Sitrus, grinded down into a powder-like substance.",
     "category": "Medicine",
     "single_use": false
