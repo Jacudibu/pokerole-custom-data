@@ -1,0 +1,5 @@
+{
+    "name": "Opportunist",
+    "description": "This Pokemon can leech off their enemies success! A true corporate ladder climber...",
+    "effect": "Once Per Round, when a Foe uses a Move to increase their Stats, this Pokemon may choose to copy one of those Stat Increases."
+}

@@ -1,5 +1,5 @@
 {
     "name": "Earthshaker's Fury",
     "description": "From the fire in the world's heart came the land, forever sacred and eternal.",
-    "effect": "Followers of Groudon may call upon 'Earthshaker's Fury' once per quest as a bonus action during their combat turn, allowing them to deal 4d6 Ground-type damage to all enemies. This damage can benefit from STAB bonuses and type-effectiveness, and scales with rank bonus."
+    "effect": "Followers of Groudon may call upon 'Earthshaker's Fury' once per quest as a bonus action during their combat turn, allowing them to deal 4d6 Ground-type damage to all enemies. This damage can benefit from STAB bonuses and type-effectiveness, and deals 1 additional damage in Duststorm Weather. This gains 1 additional damage die per rank bonus."
 }

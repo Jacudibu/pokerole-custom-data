@@ -1,0 +1,6 @@
+{
+    "name": "Agile Band",
+    "description": "Increase the user's Init by 3 until they use their first attack, but they suffer -2 Damage on their first attack. This item is consumed for the quest on use.",
+    "category": "HeldItem",
+    "single_use": false
+}

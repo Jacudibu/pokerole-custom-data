@@ -1,0 +1,11 @@
+{
+  "name": "Sheer Cold",
+  "type": "Ice",
+  "power": 10,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Deals 1 Additional Damage for each 20% of the Foe's HP they are missing. Ignore Defenses. Applies all Damage as Wounds. Can only be used Once per Battle. -5 Accuracy.",
+  "description": "The user freezes the foe from the inside out. Victims of this attack will need urgent medical attention.",
+  "category": "Special"
+}

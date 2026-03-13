@@ -1,0 +1,5 @@
+{
+    "name": "Stall",
+    "description": "This Pokemon is indecisive and always lets others act first before making its mind on what action to take.",
+    "effect": "This Pokemon always goes last in the the initiative order (Before low Priority). All moves this Pokemon uses gain additional Accuracy as long as they go last; +1 at Initiate and Acolyte, +2 at Luminary and Paragon, +3 at High Priest(ess)."
+}

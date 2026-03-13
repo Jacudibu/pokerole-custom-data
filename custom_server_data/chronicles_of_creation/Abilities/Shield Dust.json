@@ -1,0 +1,5 @@
+{
+    "name": "Shield Dust",
+    "description": "This Pokemon constantly generates specs of dust to shield and protect itself.",
+    "effect": "The User is immune to secondary effects of attacking moves used by others (including those granted by Abilities and Held Items ex: Poison Touch, and King's Rock). With the exception of Clear Smog and Knock Off which resolve normally."
+}

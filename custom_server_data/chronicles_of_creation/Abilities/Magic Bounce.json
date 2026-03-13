@@ -1,0 +1,5 @@
+{
+    "name": "Magic Bounce",
+    "description": "The Pokemon will use psychic control on its foe to make it indirectly harm itself, making it look like magic",
+    "effect": "All Support Moves used by Foes that target this Pokemon will have their effects redirected into the foe's instead. All Support moves used by foe's that target this Pokemon's allies roll their Rank as Chance Dice to see if they take Effect. Upon failure, the moves are redirected as if targeted this Pokemon. On success, the support move takes effect as normal."
+}

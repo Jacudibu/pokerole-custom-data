@@ -1,0 +1,5 @@
+{
+    "name": "Cotton Down",
+    "description": "The cotton fluff on this Pokemon's body is constantly being shed. It can be used to make beautiful clothes but it's also bothersome to walk on.",
+    "effect": "When this Pokemon is hit with a Contact move, reduce the Dexterity of all Pokemon on the field. Upon activation the User may spend 1 Will to have it only afflict the Foe that attacked them. This ability is able to stack with itself up to three times (but still subject to the standard +/-3 limit for Stat Changes)."
+}

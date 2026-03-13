@@ -1,0 +1,5 @@
+{
+    "name": "Grim Neigh",
+    "description": "This pokemon utters a terrifying neigh whenever it defeats an opponent, seeming to grow stronger with each one...",
+    "effect": "If a foe faints the same Round that they were dealt direct damage by the User, Increase the User's Special. This ability is able to stack with itself up to three times (but still subject to the standard +/-3 limit for Stat Changes)."
+}

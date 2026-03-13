@@ -1,0 +1,7 @@
+{
+    "name": "Blocked",
+    "description": "You're blocked in, movement is getting harder!",
+    "resist": "Cannot be resisted.",
+    "effect": "Cannot use the Run Away or Dodge Moves, cannot expend Evasion.",
+    "duration": "1 scene or until the Move that inflicted it says otherwise. Can not be removed by Lum Berry. This does not count as a traditional status with regards to items, moves and abilities."
+}

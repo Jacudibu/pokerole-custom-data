@@ -1,0 +1,11 @@
+{
+  "name": "Power Swap",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Never Fail. Swap the User's Base Strength and Special with the target. If this would lower the Foe's Base Stats by greater than three, it only lower the Stats by three. If this would raise the User's Base stats by greater than three, it only raises them by three. Swap the User's Strength and Special Stat Changes with the Foe.",
+  "description": "The Pokemon employs its psychic power to make the opponent feel like it's got your weaknesses and make the user feel like it's got the target's strength.",
+  "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hail",
+  "type": "Ice",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality / Insight",
+  "target": "Battlefield",
+  "effect": "Hail Weather is activated for the next 4 Rounds.",
+  "description": "The user summons a hailstorm that will stay on the battlefield for some time.",
+  "category": "Support"
+}

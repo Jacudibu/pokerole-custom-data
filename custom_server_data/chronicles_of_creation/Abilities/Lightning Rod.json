@@ -1,0 +1,5 @@
+{
+    "name": "Lightning Rod",
+    "description": "This Pokemon will attract lightning and electricity to itself to charge its power.",
+    "effect": "If anyone uses an Electric-Type move with a Single target, this pokemon may redirect it to themself; it is immune to damage from electric type attacks. The first time this Pokemon is hit by an Electric-Type move, Increase 1 Point to this Pokemon's Base Special."
+}

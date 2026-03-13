@@ -1,0 +1,5 @@
+{
+    "name": "Ripen",
+    "description": "The Pokemon can Riped fruits and berries in no time to make them extra sweet and delicious, healing berries will have their effects boosted.",
+    "effect": "Berries this Pokemon have an additional effect based on the Rarity.\n- Common: Heal 1 HP\n- Uncommon: Randomly Increase 1 Stat.\n- Rare: Reduce Damage from the next attack that hits the User by 2.\n- Very Rare: Heal the User 2 HP and 2 Wounds."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Stuff Cheeks",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Clever",
+  "target": "User",
+  "effect": "User eats a Berry and gains its effects, afterwards, increase user's Defense by 2. If the User's Berry was a Held Berry, they additionally heal 2 HP.",
+  "description": "The Pokemon munches its berry but keeps part of it on its cheeks. Looks adorable but it is actually a survival tactic to survive harsh winters.",
+  "category": "Support"
+}

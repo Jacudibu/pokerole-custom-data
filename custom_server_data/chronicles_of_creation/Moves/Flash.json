@@ -1,0 +1,11 @@
+{
+  "name": "Flash",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "All Foes",
+  "effect": "Reduce the Target's Accuracy by 1.",
+  "description": "The user suddenly emits a blinding light around its body, dazing its opponent in the process.",
+  "category": "Support"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Spike Sachet",
+    "description": "Upon getting hit with a Contact Move, the Holder drops one layer of Spikes on the Attacker's side. This item is consumed for the quest on use.",
+    "category": "HeldItem",
+    "single_use": false
+}

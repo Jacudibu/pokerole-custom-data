@@ -1,0 +1,5 @@
+{
+    "name": "Heatproof",
+    "description": "This Pokemon can resist very high temperatures without trouble.",
+    "effect": "This Pokemon is immune to Burn. If this Pokemon is hit by a Fire-Type Attack, reduce the damage dealt by 2."
+}

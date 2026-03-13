@@ -1,0 +1,5 @@
+{
+    "name": "Wimp Out",
+    "description": "The Pokemon goes into a lot of stress whenever its exoskeleton is weakened, it can escape from any situation out of sheer cowardice.",
+    "effect": "The first time the User's HP is brought to half or less by an attack, it is forced to use Dodge as its action on the following Round. When this ability activates, add 2 successes to the User's Dodge actions for the rest of the scene."
+}

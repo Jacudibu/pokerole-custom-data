@@ -1,0 +1,5 @@
+{
+    "name": "Stamina",
+    "description": "This pokemon cannot get tired. It regains its fortitude when it feels weak, even when it barely eats or sleeps.",
+    "effect": "The first time this Pokemon receives Damage in combat, increase 1 point to its Base Defense and Special Defense."
+}

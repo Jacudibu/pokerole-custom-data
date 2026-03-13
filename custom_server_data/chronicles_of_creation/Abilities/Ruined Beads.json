@@ -1,5 +1,5 @@
 {
     "name": "Ruined Beads",
     "description": "We rule with Hate/Fear/Envy/an eternal Grudge.",
-    "effect": "Devotees of the Treasures of Ruin may call upon 'Ruined Beads' once per quest as a bonus action during their combat turn, allowing them to reduce one of the following stats of all opposing Pokemon by 1: Attack, Defense, Special Attack, Special Defense."
+    "effect": "Devotees of the Treasures of Ruin may call upon 'Ruined Beads' once per quest as a bonus action during their combat turn, allowing them to reduce one of the following stats of all opposing Pokemon by 1: Strength, Defense, Special, or Special Defense. At Luminary, they can reduce an additional Stat. At Paragon, they can reduce another additional stat. And at High Priest(ess), they can reduce all four stats."
 }

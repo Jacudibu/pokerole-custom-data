@@ -1,0 +1,11 @@
+{
+    "name": "Mirror Move",
+    "type": "Flying",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Copies the last Damaging Move the foe has performed, using the Accuracy roll from Mirror Move.",
+    "description": "The user concentrates and manages to imitate the last move used by the foe.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Spit Up",
+    "type": "Normal",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Must have used the move \"Stockpile\" prior to this move, otherwise it will fail. Lose all Stockpile modifiers. For each use of Stockpile expended beyond the first, add 4 Extra Dice to the Damage Pool and afflict the target with a status chosen randomly between Poison, Flinched, and Confused.",
+    "description": "After storing power, the Pokemon spits that energy at the foe. The user returns to its original size.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Smokescreen",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "All Foes",
+  "effect": "Reduce the Target's Accuracy by 1.",
+  "description": "The user convers its foe with a cloud of smoke. Some Pokemon hide inside this screen while others use it as a cover to escape.",
+  "category": "Support"
+}

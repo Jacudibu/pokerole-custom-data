@@ -1,0 +1,5 @@
+{
+    "name": "Emergency Exit",
+    "description": "The Pokemon makes tactical escapes when the situation escalates out of control. You may force him to fight despite this but it won't like it.",
+    "effect": "Whenever the User's HP is brought to half or less by an attack, increase the User's Evasion by 1 (this effect may only activate once each Round, subsequent increases don't stack). The User may use Vitality in place of Dexterity when taking the Dodge action."
+}

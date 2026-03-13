@@ -1,0 +1,5 @@
+{
+    "name": "Arena Trap",
+    "description": "The gound around this Pokemon becomes really soft and hard to walk in. When in danger, it will sink the ground around itself creating a shifting sand pit.",
+    "effect": "Foe Pokemon on the ground are Blocked. They can spend 1 Will to overcome this for a Dodge Action once per round."
+}

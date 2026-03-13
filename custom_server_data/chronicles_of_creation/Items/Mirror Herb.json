@@ -1,0 +1,6 @@
+{
+    "name": "Mirror Herb",
+    "description": "User copies the most recent stat changes of a pokemon on the field. Can be used as a reaction, consuming your bonus action for the turn.",
+    "category": "Herb",
+    "single_use": true
+}

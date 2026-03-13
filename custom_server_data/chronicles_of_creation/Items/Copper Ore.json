@@ -1,0 +1,6 @@
+{
+    "name": "Copper Ore",
+    "description": "Ore mined from the earth that has Copper in it! Slightly more rare than Iron Ore.",
+    "category": "Consumable",
+    "single_use": true
+}

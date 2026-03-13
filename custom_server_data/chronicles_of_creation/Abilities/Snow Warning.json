@@ -1,0 +1,5 @@
+{
+    "name": "Snow Warning",
+    "description": "The Pokemon is able to call a terrible hailstorm or a chilling snowstorm at will. Truly a master of tundra climates.",
+    "effect": "This Pokemon can start either Hail or Snow weather as a Free Action on any of their turns, once per battle as if they had used a Move to do so."
+}

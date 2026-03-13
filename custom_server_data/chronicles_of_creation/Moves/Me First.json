@@ -1,0 +1,11 @@
+{
+    "name": "Me First",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Reaction. Never Fail. The User performs the Move the target was intending to use, using the Accuracy roll from Me First. It must be a damaging Move.",
+    "description": "The user anticipates the next attack so it can hit the target with an astounding speed.",
+    "category": "Support"
+}

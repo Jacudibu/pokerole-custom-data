@@ -1,5 +1,5 @@
 {
     "name": "Stoneform",
     "description": "The bindings of our world pull us together.",
-    "effect": "Devotees of the Last Titan may call upon 'Stoneform' once per quest as a bonus action during their combat turn, allowing them to cleanse themselves of a single status condition. Usage of this boon increases by 1 with each rank."
+    "effect": "Devotees of the Last Titan may call upon 'Stoneform' once per quest as a bonus action during their combat turn, allowing them to cleanse themselves of a single status condition, including those inflicted by other Boons. Usage of this boon increases by 1 with each rank. At Luminary, you may also remove a single stat debuff and are immune to the source of that Stat Debuff for the Combat."
 }
