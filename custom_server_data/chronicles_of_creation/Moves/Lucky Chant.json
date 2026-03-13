@@ -1,0 +1,11 @@
+{
+    "name": "Lucky Chant",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User's Battlefield",
+    "effect": "Screen Move. The User and Allies instead take regular damage from Critical Hits. If 2 or more Critical Hits are prevented by Lucky Chant, reduce the remaining duration of Lucky Chant by 1 (this effect only triggers once per Round). Lasts 4 Rounds.",
+    "description": "The user chants an incantation to the skies. The beautiful performance grants this pokemon and it's allies divine protection. Sometimes good things happen~",
+    "category": "Support"
+}

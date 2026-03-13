@@ -1,0 +1,6 @@
+{
+    "name": "Iron Rod",
+    "description": "When the user is hit with a Fairy-Type attack, they gain +1 Damage Dice for the remainder of the combat. This item may only be used once during battle, and restores its charge at the end of the quest.",
+    "category": "Helditems",
+    "single_use": false
+}

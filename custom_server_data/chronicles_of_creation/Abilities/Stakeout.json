@@ -1,0 +1,5 @@
+{
+    "name": "Stakeout",
+    "description": "The Pokemon is constantly surveilling its environment, looking out for possible prey, attacking them when they are most vulnerable.",
+    "effect": "Whenever a Foe uses a Dodge or Reaction move, this Pokemon will deal 2 Additional Damage to the next successful attack against that target. This attack ignores 2 points of reduced accuracy."
+}

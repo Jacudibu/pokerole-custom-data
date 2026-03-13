@@ -1,0 +1,11 @@
+{
+  "name": "Parting Shot",
+  "type": "Dark",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "Foe",
+  "effect": "Sound Based. Switcher Move. Reduce the foe's Strength and Special.",
+  "description": "The user threatens the foe, leaving it too scared to pursuit the user or overwhelm the ally that just switched in the battlefield.",
+  "category": "Support"
+}

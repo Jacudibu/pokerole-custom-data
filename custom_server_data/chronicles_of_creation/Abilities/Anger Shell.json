@@ -1,0 +1,5 @@
+{
+    "name": "Anger Shell",
+    "description": "When this pokemon's shell breaks, its anger is almost palpable!",
+    "effect": "The first time in Combat when this Pokemon's HP is reduced to half or less, Defense and Special Defense Reduced by 1 while Strength, Special and Dexterity Increased by 1 (These are Stat Changes and subject to the standard +/-3 limit)."
+}

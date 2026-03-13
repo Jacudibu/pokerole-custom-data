@@ -1,0 +1,11 @@
+{
+  "name": "Heal Bell",
+  "type": "Normal",
+  "power": 9,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User and Allies",
+  "effect": "Sound Based. Cure 1 Status Ailment from User and all Allies.",
+  "description": "The Pokemon chimes a magical bell. Legend says the soothing sound has healing properties.",
+  "category": "Support"
+}

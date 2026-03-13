@@ -1,0 +1,5 @@
+{
+    "name": "Volt Absorb",
+    "description": "This Pokemon's body is practically a battery that is always happy to become charged to full capacity.",
+    "effect": "The first time each Round this Pokemon is hit by an Electric-Type Attack, they may Heal 3 HP. The User is unaffected by Electric-Type attacks and Support Moves that target the User, performed by Foes."
+}

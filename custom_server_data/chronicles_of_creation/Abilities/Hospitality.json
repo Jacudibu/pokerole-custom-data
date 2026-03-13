@@ -1,0 +1,5 @@
+{
+    "name": "Hospitality",
+    "description": "This Pokemon is incredibly kind and generous. It always has some tea ready for its closest friends.",
+    "effect": "This Pokemon may heal an ally 2 HP once per Round. They may use this ability a number of times equal to their Rank Bonus."
+}

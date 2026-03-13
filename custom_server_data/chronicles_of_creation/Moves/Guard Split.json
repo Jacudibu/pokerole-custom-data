@@ -1,0 +1,11 @@
+{
+    "name": "Guard Split",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Never Fail. Average the User's Defense and Sp Defense with the target (rounded up if the target is an Ally, rounded down if they're a Foe).",
+    "description": "The user employs its psychic power to average its resilience with the foe. They both feel like they're equals in terms of toughness.",
+    "category": "Support"
+}

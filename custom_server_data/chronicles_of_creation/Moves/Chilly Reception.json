@@ -1,0 +1,11 @@
+{
+  "name": "Chilly Reception",
+  "type": "Ice",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Battlefield",
+  "effect": "Switcher Move. Snow Weather is activated for the next 4 rounds.",
+  "description": "The pokemon tells a chillingly bad joke. Foes struggle to hit them due to the cringe.",
+  "category": "Support"
+}

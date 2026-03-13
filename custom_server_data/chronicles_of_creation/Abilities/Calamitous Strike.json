@@ -1,5 +1,5 @@
 {
     "name": "Calamitous Strike",
     "description": "The lands were forged through storm, frost, and flame, which all must be kept in harmony to avoid calamity.",
-    "effect": "Devotees of the Keepers of the Elements may call upon 'Calamitous Strike' once per quest as a bonus action during their combat turn, allowing them to change the typing of their move to Ice, Electric, or Fire, and applying a STAB bonus as if the move matched the user's typing. At Luminary, gain +1 STAB bonus. At Paragon, gain +2."
+    "effect": "Devotees of the Keepers of the Elements may call upon 'Calamitous Strike' once per quest as a bonus action during their combat turn, allowing them to change the typing of their move to Ice, Electric, or Fire, and applying a STAB bonus as if the move matched the user's typing. At Luminary, gain +1 STAB bonus. At Paragon, gain +2. When using Multi-Hit or AoE moves, lose one of your Additional Damage for each hit beyond the first. Once you run out of additional damage, continue to resolve the attack as normal."
 }

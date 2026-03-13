@@ -1,0 +1,11 @@
+{
+  "name": "Double Team",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Self",
+  "effect": "Adds +2 Evasion to the User. This effect can only be used once per combat. If this move Crit's gain +1 Dex instead of another Evasion.",
+  "description": "The user moves rapidly around the foe, creating illusory copies of itself.",
+  "category": "Support"
+}

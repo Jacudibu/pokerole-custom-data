@@ -1,0 +1,5 @@
+{
+    "name": "Truant",
+    "description": "This Pokemon is extremely lazy. It won't make even the tiniest effort and often loafs off even in the heat of battle.",
+    "effect": "After making a successful action this Pokemon will loaf off and fully skip it's next turn. After a turn loafing off, this Pokemon can take their turn as normal until the cycle repeats. This Pokemon ignores Charge and Recharge. In addition, all the attacking moves this Pokemon uses add 1.5x their attacking stat."
+}

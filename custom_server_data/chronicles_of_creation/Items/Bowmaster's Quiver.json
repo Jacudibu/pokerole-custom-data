@@ -1,0 +1,6 @@
+{
+    "name": "Bowmaster's Quiver",
+    "description": "All the User's Physical Attacks gain Ranged.",
+    "category": "HeldItem",
+    "single_use": false
+}

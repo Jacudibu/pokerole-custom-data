@@ -1,0 +1,5 @@
+{
+    "name": "Hydration",
+    "description": "The body of the Pokemon absorbs water and uses its moisture to maintain a healthy state.",
+    "effect": "When Rain Weather is in effect, this Pokemon will cure a number of its Status Conditions up to its Rank Bonus at the end of each Round."
+}

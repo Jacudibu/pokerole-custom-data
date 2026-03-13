@@ -1,0 +1,5 @@
+{
+    "name": "Beast Boost",
+    "description": "A wicked satisfaction grows as this creature brings out destruction, for it becomes more savage with every foe that falls to its power.",
+    "effect": "If a foe faints the same Round that they were dealt direct damage by the User, Increase the User's highest Stat by 1 (In case of ties, select randomly between the mon's highest stats. If the User's highest stat is Vitality or Insight increase the User's Defense or Special Defense respectively). Up to 3 points can be increased this way. This Ability cannot be swapped or copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

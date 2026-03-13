@@ -1,0 +1,5 @@
+{
+    "name": "Forewarn",
+    "description": "When this Pokemon feels bad intentions or disaster approaching, it will mentally warn its allies.",
+    "effect": "The first time this Pokemon is hit by a Super Effective (+1 or +2 on the Type Efficiency) attack during a scene, resolve damage (including minimum damage) as if the attack was Ineffective. As a bonus action on the User's turn, they may designate an opponent and reveal the move that has the greatest number of Damage Dice (if applicable, as chosen by the GM)."
+}

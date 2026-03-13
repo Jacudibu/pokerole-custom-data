@@ -1,0 +1,6 @@
+{
+    "name": "Voice Trumpet",
+    "description": "Sound based attacks ignore redirection.",
+    "category": "HeldItem",
+    "single_use": false
+}

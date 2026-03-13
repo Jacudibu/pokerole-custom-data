@@ -1,0 +1,5 @@
+{
+    "name": "Rock Head",
+    "description": "The head and body of the Pokemon are so resistant that they barely feel anything. Careful as they bump into things without even noticing.",
+    "effect": "This Pokemon will not receive damage from Recoil or moves that incur damage to the User when unsuccessful."
+}

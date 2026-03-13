@@ -1,0 +1,11 @@
+{
+    "name": "Raging Bull",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Destroy all active Screens Moves on the target's side of the battlefield. If any are removed add 2 Extra Dice to the Damage Pool. If the User has more than one type, this move matches their secondary type.",
+    "description": "The Pok\u00e9mon performs a tackle like a raging bull, smashing anything in its way to the target.",
+    "category": "Physical"
+}

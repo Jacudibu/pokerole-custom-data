@@ -1,0 +1,5 @@
+{
+    "name": "Regenerator",
+    "description": "The body of this Pokemon will regenerate from damage really quick, wounds that would take days to heal will get better in a few hours.",
+    "effect": "This Pokemon can heal 1 HP at the start of each Round if damaged. They may use their Bonus Action to heal an additional 1 HP (this Bonus Action may cure Wound Damage). This ability has 10 charges which are restored at the end of the quest. Each point of HP recovered consumes 1 charge, curing Wound Damage consumes 2 charges. At any point they may expend the rest of their Charges as a Free Action to heal half that value in HP. These Charges at the end of a Quest."
+}

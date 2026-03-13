@@ -1,0 +1,5 @@
+{
+    "name": "Harvest",
+    "description": "This Pokémon will naturally produce edible fruits in a short period of time. If fed berries, it will start growing them too.",
+    "effect": "At the start of each Round, this Pokemon rolls 3 Chance Die. On a success, they get their latest used Berry back for the Combat. If Sunny Weather is active, ignore the die roll and receive the Berry. (All berries returned by this ability are lost at the end of combat.)"
+}

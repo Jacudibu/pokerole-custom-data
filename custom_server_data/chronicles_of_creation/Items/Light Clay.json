@@ -1,0 +1,6 @@
+{
+    "name": "Light Clay",
+    "description": "Increase the duration of Screen Moves activated by the User by 3 rounds (except for Aurora Veil).",
+    "category": "HeldItem",
+    "single_use": false
+}

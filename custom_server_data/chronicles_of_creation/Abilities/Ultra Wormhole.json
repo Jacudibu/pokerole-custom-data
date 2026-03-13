@@ -1,5 +1,5 @@
 {
     "name": "Ultra Wormhole",
     "description": "The world is bigger than we could have ever imagined.",
-    "effect": "Devotees of the Ultra Beasts may call upon 'Ultra Wormhole' once per quest as a bonus action during their combat turn, allowing them to freely dodge any attack headed their way."
+    "effect": "Devotees of the Ultra Beasts may call upon 'Ultra Wormhole' once per quest as a reaction, allowing them to freely dodge any attack headed their way. They do not need to roll for this, as they automatically dodge. At Paragon they gain an additional use of this, and at High Priest(ess) they may use it once per round."
 }

@@ -1,0 +1,6 @@
+{
+    "name": "Safety Blanket",
+    "description": "Holder is immune to Dark and Ghost Type attacks, it is destroyed after the user is hit with an attack.",
+    "category": "HeldItem",
+    "single_use": false
+}

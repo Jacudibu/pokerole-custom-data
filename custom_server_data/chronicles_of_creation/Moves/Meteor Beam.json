@@ -1,0 +1,11 @@
+{
+  "name": "Meteor Beam",
+  "type": "Rock",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Charge move. On the first round, the user raises their Special by one stage. -1 Accuracy",
+  "description": "The user gathers space power to unleash it in a massive beam",
+  "category": "Special"
+}

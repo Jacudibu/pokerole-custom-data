@@ -1,0 +1,5 @@
+{
+    "name": "Aftermath",
+    "description": "When hurt or upset, the Pokemon will prepare to burst. If hit hard enough, it will explode on contact.",
+    "effect": "When this Pokemon faints due to an attack from the foe, they deal damage equal to their Rank to their Foe, ignoring Defenses."
+}

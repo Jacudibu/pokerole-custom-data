@@ -1,0 +1,5 @@
+{
+    "name": "Pressure",
+    "description": "Being around this Pokemon will be very stressing and demanding, even the bravest will feel themselves faltering.",
+    "effect": "While this Pokemon is out, reduce the total Will Points of all foes by half, rounded down. If the Target has no remaining Will they reduce their accuracy on their next move by -2."
+}

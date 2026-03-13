@@ -1,0 +1,5 @@
+{
+    "name": "Seed Sower",
+    "description": "So many seeds. So, so many seeds...",
+    "effect": "If this Pokemon is hit with an attack, it starts the effects of Grassy Terrain. This ability can activate a number of times equal to half this Pokemon's Rank Bonus (rounded up)."
+}

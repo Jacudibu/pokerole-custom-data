@@ -1,0 +1,5 @@
+{
+    "name": "Justified",
+    "description": "This Pokemon has an innate sense of justice, and wrongdoings will make them really angry.",
+    "effect": "The first time this Pokemon is hit by a Dark-Type Attack, increase their Base Strength by 1."
+}

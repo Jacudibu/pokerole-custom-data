@@ -1,0 +1,5 @@
+{
+    "name": "Motor Drive",
+    "description": "This Pokemon absorbs electricity and stores it as energy to run faster.",
+    "effect": "The first time this Pokemon is hit by an Electric-Type move, increase their Base Dexterity by 1. This Pokemon takes no damage from Electric-Type Attacks."
+}

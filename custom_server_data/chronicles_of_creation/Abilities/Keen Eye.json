@@ -1,0 +1,5 @@
+{
+    "name": "Keen Eye",
+    "description": "This Pokemon has an exceptional sight, locating small or far away objects will be a lot easier.",
+    "effect": "The User is unaffected by negative Accuracy Stat Changes (They still suffer from Multi-Hit Move Accuracy Penalites as well as Shield Move Penalties) and ignores Evasion increases on their targets. When the User performs a move, remove 3 Successes from targets taking the Dodge action."
+}

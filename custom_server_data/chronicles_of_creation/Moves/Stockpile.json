@@ -1,0 +1,11 @@
+{
+    "name": "Stockpile",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User",
+    "effect": "Increase the User's Defense and Sp. Defense. The User may Stockpile up to three times. On subsequent uses the User may choose to raise either Defense or Sp. Defense. If the Stat Changes from Stockpile are removed/overwritten (ex: Haze, Clear Smog, Topsy-Turvy) their Stockpile counter is set to zero and the moves Spit Up and Swallow cannot be used.",
+    "description": "The Pokemon swells up by storing power with its mouth, this makes the user a little more resistant to damage.",
+    "category": "Support"
+}
