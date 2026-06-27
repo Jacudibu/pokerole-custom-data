@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Striking. Double Action.",
+  "effect": "Striking. Double Action. The second hit of this move has +3 Bonus Damage Dice.",
   "description": "A dexterous blow made with the attackers wings.",
   "category": "Physical"
 }

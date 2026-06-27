@@ -1,0 +1,17 @@
+{
+  "number": 441,
+  "name": "Chatot",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Confide", "Growl", "Mirror Move", "Peck", "Taunt"],
+    "silver": ["Chatter", "Echoed Voice", "Fury Attack", "Hyper Voice", "Mimic", "Round", "Sing"],
+    "gold": ["Feather Dance", "Roost", "Synchronoise", "Uproar"],
+    "platinum": ["Agility", "Boomburst", "Nasty Plot"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 235,
+  "name": "Smeargle",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Sketch", "Sketch", "Sketch", "Sketch"],
+    "silver": ["Sketch", "Sketch"],
+    "gold": ["Sketch", "Sketch"],
+    "platinum": ["Sketch", "Sketch"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 212,
+  "name": "Scizor",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["False Swipe", "Feint", "Focus Energy", "Leer", "Pursuit", "Quick Attack", "Vacuum Wave"],
+    "silver": ["Agility", "Double Hit", "Double Team", "Fury Cutter", "Metal Claw", "Night Slash", "Razor Wind", "Slash", "Wing Attack", "X-Scissor"],
+    "gold": ["Air Slash", "Bullet Punch", "Iron Defense", "Iron Head", "Swords Dance"],
+    "platinum": ["Knock Off", "Steel Wing", "Superpower", "Tailwind"],
+    "diamond": []
+  }
+}

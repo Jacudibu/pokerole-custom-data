@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Striking. Double Action.",
+  "effect": "Striking. Double Action. The second hit of this move has +3 Bonus Damage Dice.",
   "description": "The Pokemon strikes the foe with brutal blows.",
   "category": "Physical"
 }

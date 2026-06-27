@@ -1,0 +1,11 @@
+{
+    "name": "Crabhammer",
+    "type": "Water",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Fist Based. High Critical.",
+    "description": "A large pincer strikes with the power of a hammer. The demolition power is incredible.",
+    "category": "Physical"
+}

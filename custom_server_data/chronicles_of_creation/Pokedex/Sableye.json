@@ -1,0 +1,17 @@
+{
+  "number": 302,
+  "name": "Sableye",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Foresight", "Leer", "Mean Look", "Night Shade", "Scratch", "Zen Headbutt"],
+    "silver": ["Astonish", "Detect", "Fake Out", "Feint Attack", "Fury Swipes", "Knock Off", "Power Gem", "Shadow Sneak"],
+    "gold": ["Confuse Ray", "Foul Play", "Nasty Plot", "Punishment"],
+    "platinum": ["Moonlight", "Shadow Ball", "Dazzling Gleam"],
+    "diamond": []
+  }
+}

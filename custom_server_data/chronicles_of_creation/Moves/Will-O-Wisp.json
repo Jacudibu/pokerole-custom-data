@@ -1,0 +1,11 @@
+{
+  "name": "Will-O-Wisp",
+  "type": "Fire",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Enemy",
+  "effect": "Inflict Burn. -1 Accuracy",
+  "description": "The user calls a floating ember to consume the foe.",
+  "category": "Support"
+}

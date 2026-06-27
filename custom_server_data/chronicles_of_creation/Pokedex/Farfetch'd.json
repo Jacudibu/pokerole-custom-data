@@ -1,0 +1,17 @@
+{
+  "number": 83,
+  "name": "Farfetch'd",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Fury Cutter", "Leer", "Peck", "Sand Attack"],
+    "silver": ["Acrobatics", "Agility", "Air Cutter", "Fury Attack", "Knock Off", "Poison Jab", "Slash", "Swords Dance"],
+    "gold": ["Air Slash", "False Swipe", "Feint", "Night Slash"],
+    "platinum": ["Brave Bird", "Feather Dance", "Leaf Blade", "Roost"],
+    "diamond": []
+  }
+}

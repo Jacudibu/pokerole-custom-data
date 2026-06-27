@@ -1,0 +1,17 @@
+{
+  "number": 452,
+  "name": "Drapion",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Knock Off", "Leer", "Pin Missile", "Poison Sting"],
+    "silver": ["Acupressure", "Bug Bite", "Fire Fang", "Hone Claws", "Ice Fang", "Poison Fang", "Pursuit", "Thunder Fang", "Toxic Spikes", "Venoshock"],
+    "gold": ["Cross Poison", "Crunch", "Fell Stinger", "Night Slash", "Scary Face"],
+    "platinum": ["Agility", "Aqua Tail", "Poison Tail"],
+    "diamond": []
+  }
+}

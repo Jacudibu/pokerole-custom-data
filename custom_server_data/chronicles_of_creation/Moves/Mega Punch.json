@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Fist Based. Charge. -3 Accuracy.",
+  "effect": "Fist Based. Charge. High Critical. -2 Accuracy.",
   "description": "The Pokemon throws a mega potent hook towards the foe's face.",
   "category": "Physical"
 }

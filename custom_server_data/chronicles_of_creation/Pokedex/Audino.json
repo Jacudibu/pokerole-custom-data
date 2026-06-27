@@ -1,0 +1,17 @@
+{
+  "number": 531,
+  "name": "Audino",
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Baby-Doll Eyes", "Double Slap", "Growl", "Helping Hand", "Hyper Voice", "Misty Terrain", "Play Nice", "Pound", "Refresh"],
+    "silver": ["Attract", "Disarming Voice", "Entrainment", "Heal Pulse", "Secret Power", "Take Down"],
+    "gold": ["After You", "Double-Edge", "Last Resort", "Simple Beam"],
+    "platinum": ["Draining Kiss", "Heal Bell", "Wish"],
+    "diamond": []
+  }
+}

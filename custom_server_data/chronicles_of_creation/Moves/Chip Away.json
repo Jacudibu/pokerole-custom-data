@@ -1,0 +1,11 @@
+{
+    "name": "Chip Away",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "This attack ignores the target's Defense Increases and the User's Accuracy Reductions.",
+    "description": "The user looks for an opening and strikes directly there. It nibbles bit by bit even the toughest of surfaces.",
+    "category": "Physical"
+}

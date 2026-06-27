@@ -1,0 +1,17 @@
+{
+  "number": 738,
+  "name": "Vikavolt",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "4/8",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Bug Bite", "Mud Slap", "String Shot", "Vice Grip"],
+    "silver": ["Acrobatics", "Air Slash", "Charge", "Crunch", "Dig", "Spark", "Thunderbolt"],
+    "gold": ["Agility", "Bug Buzz", "Discharge", "Guillotine", "Iron Defense", "X-Scissor", "Zap Cannon"],
+    "platinum": ["Charge Beam", "Electroweb", "Endure", "Harden", "Mud Shot"],
+    "diamond": []
+  }
+}

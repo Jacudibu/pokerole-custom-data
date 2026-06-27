@@ -1,11 +1,11 @@
 {
-  "name": "Pluck",
-  "type": "Flying",
-  "power": 2,
-  "damage": "Strength",
-  "accuracy": "Dexterity",
-  "target": "Foe",
-  "effect": "Biting. If the Target Pokemon is holding a berry, the user eats it and gains its effect.",
-  "description": "The user gives a hard peck and may get something tasty out of the foe.",
-  "category": "Physical"
+    "name": "Pluck",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Biting. Randomly gain the effects of a Berry from the target's inventory. If the berry would have no immediate effect on the User it remains 'active' until its activation conditions are met (only one berry can be active at a time). The individual selected berry cannot be consumed by the Foe until after the end of their next turn and is removed from selection for subsequent Plucks.",
+    "description": "The user gives a hard peck and may get something tasty out of the foe.",
+    "category": "Physical"
 }

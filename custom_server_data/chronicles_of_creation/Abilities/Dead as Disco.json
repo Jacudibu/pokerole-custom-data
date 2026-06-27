@@ -1,0 +1,5 @@
+{
+    "name": "Dead as Disco",
+    "description": "When a Pokemon with the maximum dancing potential reaches their apex.",
+    "effect": "When another Pokemon uses a Move with the 'Dancing' effect, the User may perform the same Move immediately after as a Free Action. The first Free Action dancing move this Pokemon uses each round can deal Critical Damage and utilize the full dice of the user's attacking stats. Any additional Free Action moves copied by this ability do not deal Critical Damage and utilize half tthe User's damage stat (Rounded up). Dancing Moves performed as a free action do not activate True Dancer."
+}

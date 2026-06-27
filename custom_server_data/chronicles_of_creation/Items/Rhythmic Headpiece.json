@@ -1,0 +1,6 @@
+{
+    "name": "Rhythmic Headpiece",
+    "description": "All the User's Special Attacks gain __Sound Based__.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,17 @@
+{
+  "number": 303,
+  "name": "Mawile",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Astonish", "Fairy Wind", "Fake Tears", "Growl", "Snatch", "Taunt"],
+    "silver": ["Baton Pass", "Bite", "Crunch", "Feint Attack", "Iron Defense", "Stockpile", "Sweet Scent", "Vice Grip"],
+    "gold": ["Iron Head", "Play Rough", "Spit Up", "Sucker Punch", "Swallow"],
+    "platinum": ["Fire Fang", "Poison Fang", "Super Fang"],
+    "diamond": []
+  }
+}

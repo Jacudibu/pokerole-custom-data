@@ -1,0 +1,17 @@
+{
+  "number": 537,
+  "name": "Seismitoad",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bubble", "Growl", "Round", "Supersonic"],
+    "silver": ["Acid", "Aqua Ring", "Bubble Beam", "Echoed Voice", "Mud Shot", "Muddy Water", "Uproar"],
+    "gold": ["Drain Punch", "Flail", "Hydro Pump", "Hyper Voice", "Rain Dance"],
+    "platinum": ["Bounce", "Earth Power", "Icy Wind", "Knock Off", "Refresh"],
+    "diamond": []
+  }
+}

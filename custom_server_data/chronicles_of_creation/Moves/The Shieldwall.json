@@ -5,7 +5,7 @@
     "damage": "",
     "accuracy": "Vitality",
     "target": "User",
-    "effect": "Priority 6. Redirect all Moves to the User. Reduce incoming damage by the User's Rank Bonus. The User may not use this move again, until they use another move.",
+    "effect": "Priority 6. During this Round, all damaging moves by foes must target the User. If a Foe uses a move with All Foes or Area targeting, the User becomes the primary target for damage calculation. Reduce incoming damage by the User's Rank Bonus. The User may not use this move again, until they use another move.",
     "description": "You create your own shieldwall, standing as a barrier between doom and your allies.",
     "category": "Support"
 }

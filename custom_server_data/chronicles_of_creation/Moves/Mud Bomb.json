@@ -1,0 +1,11 @@
+{
+  "name": "Mud Bomb",
+  "type": "Ground",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Reduce the Foe's Accuracy. -1 Accuracy",
+  "description": "The Pokemon shoots a ball made of mud that bursts on the target, some mud may get on its eyes.",
+  "category": "Special"
+}

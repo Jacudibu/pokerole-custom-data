@@ -1,0 +1,17 @@
+{
+  "number": 542,
+  "name": "Leavanny",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bug Bite", "False Swipe", "Razor Leaf", "String Shot", "Tackle"],
+    "silver": ["Endure", "Fell Stinger", "Grass Whistle", "Helping Hand", "Leaf Blade", "Slash", "Sticky Web", "Struggle Bug"],
+    "gold": ["Bug Buzz", "Entrainment", "Flail", "Leaf Storm", "Protect", "Swords Dance", "X-Scissor"],
+    "platinum": ["Agility", "Baton Pass", "Camouflage", "Iron Defense", "Screech", "Seed Bomb", "Silver Wind", "Synthesis"],
+    "diamond": []
+  }
+}

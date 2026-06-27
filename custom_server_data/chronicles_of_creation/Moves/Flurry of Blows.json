@@ -1,11 +1,11 @@
 {
-    "name": "Flurry of Blows",
-    "type": "Typeless",
-    "power": 1,
-    "damage": "Strength/Special",
-    "accuracy": "Dexterity",
-    "target": "Foe",
-    "effect": "Triple Action. Fist. Kicking. Gain +1 Damage Dice on each hit.",
-    "description": "You unleash a flurry of blows!",
-    "category": "Physical"
+  "name": "Flurry of Blows",
+  "type": "Typeless",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Triple Action. Fist. Kicking. Gain +2 Damage Dice on Each Hit.",
+  "description": "You unleash a flurry of blows!",
+  "category": "Physical"
 }

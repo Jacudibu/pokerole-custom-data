@@ -2,10 +2,10 @@
     "name": "Energy Surge",
     "type": "Typeless",
     "power": 5,
-    "damage": "Will",
+    "damage": "",
     "accuracy": "Special",
     "target": "Foe",
-    "effect": "Expend ALL your Will. Add additional Damage Dice equal to Will spent. Regain 1 Will at the start of your subsequent turns until you've restored 5 Will.",
+    "effect": "Expend ALL your Will. Add additional Damage Dice equal to Will spent, in addition to your current Will prior to the move's use. Regain 1 Will at the start of your subsequent turns until you've restored 5 Will.",
     "description": "Power overflowing! Sure you'll be weak for a while, but what does it matter when you can tear your foe's atoms apart with just a thought!",
     "category": "Special"
 }

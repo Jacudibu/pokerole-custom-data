@@ -1,0 +1,17 @@
+{
+  "number": 225,
+  "name": "Delibird",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Fake Out", "Icy Wind", "Peck", "Present"],
+    "silver": ["Aerial Ace", "Air Slash", "Drill Peck", "Feather Dance", "Freeze Dry", "Ice Ball", "Spikes"],
+    "gold": ["Blizzard", "Future Sight", "Ice Punch"],
+    "platinum": ["Aurora Veil", "Ice Shard", "Sky Attack"],
+    "diamond": []
+  }
+}

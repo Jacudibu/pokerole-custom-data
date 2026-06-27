@@ -1,0 +1,11 @@
+{
+  "name": "Twin Beam",
+  "type": "Psychic",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Double Action. The second hit of this move has +3 Bonus Damage Dice.",
+  "description": "Psychic energies are shot from the user's eyes to inflict damage.",
+  "category": "Special"
+}

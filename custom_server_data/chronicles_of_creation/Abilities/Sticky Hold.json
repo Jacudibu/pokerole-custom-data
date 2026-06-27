@@ -1,0 +1,5 @@
+{
+    "name": "Sticky Hold",
+    "description": "This Pokemon's body is always oozing adhesive substances. If something gets glued, it will be very difficult to remove.",
+    "effect": "This Pokemon's Held Item cannot be removed, stolen or swapped by Moves or Abilities. The User's Weapons and Armor cannot be disabled. The User is unaffected by the secondary effects of Bug Bite, Pluck and Incinerate."
+}

@@ -3,9 +3,9 @@
     "type": "Typeless",
     "power": 0,
     "damage": "",
-    "accuracy": "Social Stat",
+    "accuracy": "Cool",
     "target": "Battlefield",
-    "effect": "Sound Based. Heals the User and All Allies for HP equal to the User's Rank Bonus. Deals damage to All Foes equal to Rank Bonus reduced by their Sp. Defense. Your allies gain +2 Dice on their next Accuracy and Damage Checks, while all Foes suffer -2 Dice on their next Accuracy and Damage Checks. Costs 2 Will to use.",
+    "effect": "Sound Based. Heals the User and All Allies for HP equal to the User's Rank Bonus. Deals damage to All Foes equal to Rank Bonus reduced by their Sp. Defense. Your allies gain +2 Dice on their next Accuracy and Damage Checks, while all Foes suffer -2 Dice on their next Accuracy and Damage Checks. Costs 2 Will to use. You may use any Social Stat for this move's accuracy roll.",
     "description": "You do more than inspire, you revitalize broken wills and shattered hearts.Your songs can even mend wounds~",
     "category": "Support"
 }

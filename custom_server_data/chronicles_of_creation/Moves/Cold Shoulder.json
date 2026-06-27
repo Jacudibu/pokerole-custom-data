@@ -1,0 +1,11 @@
+{
+  "name": "Cold Shoulder",
+  "type": "Ice",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity + Rank",
+  "target": "Enemy",
+  "effect": "Inflict Frostbite on the enemy. -1 Accuracy",
+  "description": "A look so strong you send a chill down throughout the targets body… literally",
+  "category": "Support"
+}

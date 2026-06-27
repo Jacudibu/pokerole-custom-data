@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Double Action.",
+  "effect": "Double Action. The second hit of this move has +3 Bonus Damage Dice.",
   "description": "The user traps the foe between its gears and crushes it with two painful grinds.",
   "category": "Physical"
 }

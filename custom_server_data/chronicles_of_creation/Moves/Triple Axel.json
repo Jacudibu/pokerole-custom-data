@@ -1,7 +1,7 @@
 {
   "name": "Triple Axel",
   "type": "Ice",
-  "power": 1,
+  "power": 2,
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",

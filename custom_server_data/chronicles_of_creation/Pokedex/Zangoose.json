@@ -1,0 +1,17 @@
+{
+  "number": 335,
+  "name": "Zangoose",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Fury Cutter", "Leer", "Quick Attack", "Scratch"],
+    "silver": ["Crush Claw", "Detect", "Embargo", "False Swipe", "Hone Claws", "Pursuit", "Revenge", "Slash"],
+    "gold": ["Close Combat", "Swords Dance", "Taunt", "X-Scissor"],
+    "platinum": ["Fury Swipes", "Metal Claw", "Night Slash"],
+    "diamond": []
+  }
+}

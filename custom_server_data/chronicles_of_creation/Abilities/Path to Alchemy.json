@@ -1,0 +1,5 @@
+{
+    "name": "Path to Alchemy",
+    "description": "Mix, mix, mix and swirl. That is how we create the perfect concotion.",
+    "effect": "Devotees of the Grand Alchemist may call upon 'Path to Alchemy' once per quest as a bonus action, combining two consumable items into one. The first item is lost, while the second item is Boosted. A Boosted Item still retains the effect of the second item's normal effect. However, it also gains one of the following benefits:\nHeal for an additional amount equal to Rank Bonus + 1.\nGrant (Rank Bonus / 2) buffs, rounded down, to (Rank Bonus - 3) stats. (Min. 1)\nClear a number of Status Ailments equal to (Rank Bonus / 2), rounded up.\nAll Items created with this boon decay at the end of Combat and lose their effect. At Paragon, the sacrificed item instead combines with the second item, merging their effects. This is in addition to the above effects."
+}

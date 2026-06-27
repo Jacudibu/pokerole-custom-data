@@ -1,0 +1,17 @@
+{
+  "number": 214,
+  "name": "Heracross",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Aerial Ace", "Endure", "Fury Attack", "Horn Attack", "Leer", "Night Slash", "Tackle"],
+    "silver": ["Arm Thrust", "Brick Break", "Bullet Seed", "Chip Away", "Counter", "Pin Missile", "Take Down"],
+    "gold": ["Close Combat", "Feint", "Megahorn", "Reversal"],
+    "platinum": ["Iron Defense", "Rock Blast", "Vacuum Wave"],
+    "diamond": []
+  }
+}

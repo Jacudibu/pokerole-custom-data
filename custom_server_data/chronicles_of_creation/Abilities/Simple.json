@@ -1,0 +1,5 @@
+{
+    "name": "Simple",
+    "description": "This Pokemon's ingenious mind is easily swayed by not only its own, but also outside influences. It often finds ways to simplify things.",
+    "effect": "When this pokemon receives a Stat Change, raise/lower each affected stat by 1 more. The User's Stat Changes may stack to +/- 4, (superseding the standard +/-3 limit on Stat Changes)."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Recycle",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "Activate the effect of any regular consumable item that you've used this scene (Berries, Seeds, Type Gems and Wonder Orbs). Items that are normally consumed immediately or as a reaction remain 'active' on the User until their activation conditions are met (ex: Type Gems, Damage Reduction Berries). An Item may not be recycled more than 5 times.",
+    "description": "One Pokemon's trash is another one's treasure.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rock Climb",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 2 Chance Dice to Confuse the foe.",
+  "description": "The user climbs on top of the foe. This may be confusing for some Pokemon.",
+  "category": "Physical"
+}

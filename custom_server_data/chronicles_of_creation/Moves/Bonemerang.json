@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Ranged. Double Action.",
+  "effect": "Ranged. Double Action. The second hit of this move has +3 Bonus Damage Dice.",
   "description": "The Pokemon throws a bone to hit the foe. The bone returns like a boomerang, striking a second time.",
   "category": "Physical"
 }

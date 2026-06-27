@@ -1,0 +1,5 @@
+{
+    "name": "Dancer",
+    "description": "When someone begins to dance, this Pokemon dances too. It expresses its feelings and communicates through little jigs.",
+    "effect": "When another Pokemon uses a Move with the 'Dancing' effect, the User may perform the same Move immediately after as a Free Action, once per Round. Free Action attacks from non-Oricorio characters cannot deal Critical Damage and utilize half of the User's damage stat (rounded up). Dancing moves performed as a free action do not activate Dancer."
+}

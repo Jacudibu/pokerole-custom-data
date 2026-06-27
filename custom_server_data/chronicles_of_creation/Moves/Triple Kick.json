@@ -1,7 +1,7 @@
 {
   "name": "Triple Kick",
   "type": "Fighting",
-  "power": 1,
+  "power": 2,
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",

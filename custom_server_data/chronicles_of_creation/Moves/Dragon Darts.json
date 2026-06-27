@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Darts",
+  "type": "Dragon",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Double Action. The user may have the second attack of this move attack a seperate target than the first. The second hit of this move has +3 Bonus Damage Dice.",
+  "description": "The Pokemon's head is a nest for its less evolved forms, the younglings will sometimes be used as projectiles.",
+  "category": "Physical"
+}

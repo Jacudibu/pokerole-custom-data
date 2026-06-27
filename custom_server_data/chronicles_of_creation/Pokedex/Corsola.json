@@ -1,0 +1,17 @@
+{
+  "number": 222,
+  "name": "Corsola",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Bubble", "Harden", "Recover", "Tackle"],
+    "silver": ["Ancient Power", "Brine", "Bubble Beam", "Endure", "Iron Defense", "Lucky Chant", "Power Gem", "Refresh", "Rock Blast", "Spike Cannon"],
+    "gold": ["Aqua Ring", "Earth Power", "Flail", "Mirror Coat"],
+    "platinum": ["Head Smash", "Screech", "Whirlpool"],
+    "diamond": []
+  }
+}

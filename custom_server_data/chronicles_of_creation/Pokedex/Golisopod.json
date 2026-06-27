@@ -1,0 +1,17 @@
+{
+  "number": 768,
+  "name": "Golisopod",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "1/3",
+  "vitality": "4/8",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Bug Bite", "Fury Cutter", "Rock Smash", "Sand Attack", "Struggle Bug"],
+    "silver": ["First Impression", "Pin Missile", "Razor Shell", "Slash", "Spite", "Sucker Punch", "Swords Dance"],
+    "gold": ["Harden", "Iron Defense", "Liquidation"],
+    "platinum": ["Aqua Jet", "Metal Claw", "Spikes", "Wide Guard"],
+    "diamond": []
+  }
+}

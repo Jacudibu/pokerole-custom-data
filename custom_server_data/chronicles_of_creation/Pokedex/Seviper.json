@@ -1,0 +1,17 @@
+{
+  "number": 336,
+  "name": "Seviper",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bite", "Feint", "Lick", "Poison Tail", "Swagger", "Wrap"],
+    "silver": ["Belch", "Gastro Acid", "Glare", "Haze", "Night Slash", "Poison Fang", "Screech", "Venom Drench", "Venoshock"],
+    "gold": ["Coil", "Crunch", "Poison Jab", "Swords Dance", "Wring Out"],
+    "platinum": ["Aqua Tail", "Giga Drain", "Iron Tail"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Spotlight",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool",
+    "target": "Ally",
+    "effect": "Priority 3. During this Round, all damaging moves by foes must target the spotlit Ally. If a Foe uses a move with All Foes or Area targeting, the Ally becomes the primary target for damage calculation.",
+    "description": "The user points a focused light onto one of its allies as if it were on a stage. The ally can't help but catch everyone's attention onto itself.",
+    "category": "Support"
+}

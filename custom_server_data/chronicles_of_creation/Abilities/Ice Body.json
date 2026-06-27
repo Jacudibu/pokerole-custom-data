@@ -1,0 +1,5 @@
+{
+    "name": "Ice Body",
+    "description": "The Pokemon's body is almost frozen, it feels at home when temperatures are below zero.",
+    "effect": "If either Hail or Snow Weather are in effect you may restore 1 HP to this Pokemon at the end of the Round. If the User is Gold Rank or higher restore 2 HP instead. This Pokemon is immune to damage from Hail Weather."
+}

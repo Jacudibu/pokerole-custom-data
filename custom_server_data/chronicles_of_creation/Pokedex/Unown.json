@@ -1,0 +1,17 @@
+{
+  "number": 201,
+  "name": "Unown",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Hidden Power"],
+    "silver": [],
+    "gold": [],
+    "platinum": [],
+    "diamond": []
+  }
+}

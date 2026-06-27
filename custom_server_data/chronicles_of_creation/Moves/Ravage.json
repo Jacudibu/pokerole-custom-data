@@ -1,11 +1,11 @@
 {
-    "name": "Ravage",
-    "type": "Typeless",
-    "power": 1,
-    "damage": "Strength/Special",
-    "accuracy": "Dexterity",
-    "target": "Foe",
-    "effect": "Triple Action. Bite Based. Striking. Gain +1 Damage Dice on each hit.",
-    "description": "You claw and bite and claw and bite!",
-    "category": "Physical"
+  "name": "Ravage",
+  "type": "Typeless",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Triple Action. Bite Based. Striking. Gain +2 Damage Dice on Each Hit.",
+  "description": "You claw and bite and claw and bite!",
+  "category": "Physical"
 }

@@ -1,0 +1,17 @@
+{
+  "number": 127,
+  "name": "Pinsir",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bind", "Focus Energy", "Harden", "Seismic Toss", "Vice Grip"],
+    "silver": ["Brick Break", "Double Hit", "Revenge", "Storm Throw", "Submission", "Vital Throw", "X-Scissor"],
+    "gold": ["Guillotine", "Superpower", "Swords Dance", "Thrash"],
+    "platinum": ["Feint Attack", "Iron Defense", "Stealth Rock"],
+    "diamond": []
+  }
+}
