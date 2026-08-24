@@ -1,0 +1,11 @@
+{
+  "name": "Reign of Primal Majesty",
+  "type": "Dragon",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Lowers the User's Dexterity by 2 After using this move. Increases the user's Special by 1. If performed under Arcane Domain, this move may be changed to match the STAB of the User.",
+  "description": "A Dragon's Might can shift and sway with the power that they hold, ever the powerful tacticians.",
+  "category": "Special"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Billowing Cloak",
+    "description": "Your All Foes moves roll their full offensive stat for their attacks. Subsequent targets receive 1 fewer Damage Dice, to a minimum number of dice equal to half the User's offensive stat plus the move's power.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,17 @@
+{
+  "number": 171,
+  "name": "Lanturn",
+  "base_hp": 7,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bubble", "Confuse Ray", "Flail", "Supersonic", "Thunder Wave", "Water Gun"],
+    "silver": ["Bubble Beam", "Charge", "Eerie Impulse", "Electro Ball", "Signal Beam", "Spark", "Spit Up", "Stockpile", "Swallow", "Take Down"],
+    "gold": ["Aqua Ring", "Discharge", "Hydro Pump", "Ion Deluge"],
+    "platinum": ["Agility", "Psybeam", "Soak"],
+    "diamond": []
+  }
+}

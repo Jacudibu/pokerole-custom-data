@@ -1,0 +1,17 @@
+{
+  "number": 430,
+  "name": "Honchkrow",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Astonish", "Haze", "Peck", "Pursuit", "Wing Attack"],
+    "silver": ["Assurance", "Dark Pulse", "Feint Attack", "Foul Play", "Mean Look", "Nasty Plot", "Night Shade", "Night Slash", "Swagger", "Taunt"],
+    "gold": ["Quash", "Sucker Punch", "Tailwind", "Torment"],
+    "platinum": ["Air Cutter", "Drill Peck", "Heat Wave", "Perish Song", "Roost"],
+    "diamond": []
+  }
+}

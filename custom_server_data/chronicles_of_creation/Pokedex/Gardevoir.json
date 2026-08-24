@@ -1,0 +1,17 @@
+{
+  "number": 282,
+  "name": "Gardevoir",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Confusion", "Disarming Voice", "Double Team", "Growl", "Teleport"],
+    "silver": ["Calm Mind", "Captivate", "Charm", "Draining Kiss", "Heal Pulse", "Imprison", "Lucky Chant", "Magical Leaf", "Misty Terrain", "Psychic", "Wish"],
+    "gold": ["Dream Eater", "Future Sight", "Hypnosis", "Stored Power"],
+    "platinum": ["Grudge", "Helping Hand", "Magic Room", "Mean Look", "Skill Swap", "Telekinesis", "Wonder Room"],
+    "diamond": []
+  }
+}

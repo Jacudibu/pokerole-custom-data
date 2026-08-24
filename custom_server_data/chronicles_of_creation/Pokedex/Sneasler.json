@@ -1,0 +1,17 @@
+{
+  "number": 903,
+  "name": "Sneasler",
+  "base_hp": 5,
+  "strength": "4/8",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Fling", "Leer", "Rock Smash", "Scratch", "Taunt"],
+    "silver": ["Brick Break", "Hone Claws", "Metal Claw", "Poison Jab", "Quick Attack"],
+    "gold": ["Agility", "Close Combat", "Dire Claw", "Screech", "Slash"],
+    "platinum": ["Fake Out", "Night Slash", "Quick Guard"],
+    "diamond": []
+  }
+}

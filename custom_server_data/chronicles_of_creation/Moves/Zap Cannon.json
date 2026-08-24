@@ -1,0 +1,11 @@
+{
+  "name": "Zap Cannon",
+  "type": "Electric",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Paralyze the Foe. -2 Accuracy.",
+  "description": "The user hurls a dreadful bombardment of electric explosions. Anyone hit won't be able to move for a very long time.",
+  "category": "Physical"
+}

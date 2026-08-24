@@ -1,0 +1,11 @@
+{
+  "name": "Slam",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Stength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "If the User is heavier than the Foe, add +2 Damage Dice to the Damage Pool.",
+  "description": "The user slams the foe with its tail, vines, etc. to deal a decent amount of damage.",
+  "category": "Physical"
+}

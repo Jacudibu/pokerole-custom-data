@@ -1,0 +1,17 @@
+{
+  "number": 460,
+  "name": "Abomasnow",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Ice Punch", "Icy Wind", "Leer", "Powder Snow", "Razor Leaf"],
+    "silver": ["Grass Whistle", "Ice Shard", "Ingrain", "Mist", "Swagger"],
+    "gold": ["Blizzard", "Sheer Cold", "Wood Hammer"],
+    "platinum": ["Avalanche", "Growth", "Outrage", "Seed Bomb", "Water Pulse"],
+    "diamond": []
+  }
+}

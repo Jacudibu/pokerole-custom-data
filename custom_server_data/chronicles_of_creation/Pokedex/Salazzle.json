@@ -1,0 +1,17 @@
+{
+  "number": 758,
+  "name": "Salazzle",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Dragon Rage", "Ember", "Poison Gas", "Pound", "Scratch", "Smog", "Sweet Scent"],
+    "silver": ["Captivate", "Double Slap", "Flame Burst", "Nasty Plot", "Swagger", "Torment", "Toxic", "Venoshock"],
+    "gold": ["Disable", "Dragon Pulse", "Encore", "Flamethrower", "Venom Drench"],
+    "platinum": ["Attact", "Dragon Tail", "Fake Out", "Overheat", "Will-O-Wisp"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Flower Veil",
+    "description": "This Pokemon makes flowers grow in gardens and near other Pokemon to protect them from harm.",
+    "effect": "The User and Allies are unaffected by the first negative Stat Change they receive from an opponent each Round. If multiple stats are reduced by the same source, the character chooses one stat to be protected while the others are reduced. The User and Allies' stats and Initiative are not reduced by Status Ailments (ex: Drowsy, Frostbite), but any end of Round damage or other effects apply normally."
+}

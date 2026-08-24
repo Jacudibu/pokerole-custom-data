@@ -1,0 +1,17 @@
+{
+  "number": 415,
+  "name": "Combee",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/5",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Gust", "Sweet Scent", "Struggle Bug", "Poison Sting"],
+    "silver": ["Bug Bite", "Bug Buzz"],
+    "gold": ["Endeavor", "Swift", "Tailwind"],
+    "platinum": [],
+    "diamond": []
+  }
+}

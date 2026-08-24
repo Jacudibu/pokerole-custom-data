@@ -1,0 +1,17 @@
+{
+  "number": 979,
+  "name": "Crobat",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "4/8",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Astonish", "Bite", "Screech", "Supersonic", "Wing Attack"],
+    "silver": ["Acrobatics", "Air Cutter", "Confuse Ray", "Leech Life", "Mean Look", "Poison Fang", "Swift"],
+    "gold": ["Air Slash", "Cross Poison", "Haze", "Quick Guard", "Venoshock"],
+    "platinum": ["Brave Bird", "Heat Wave", "Nasty Plot", "Super Fang", "Venom Drench"],
+    "diamond": []
+  }
+}

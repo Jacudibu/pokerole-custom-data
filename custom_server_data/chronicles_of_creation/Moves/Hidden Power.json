@@ -1,0 +1,11 @@
+{
+  "name": "Hidden Power",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "The type of this move is chosen at the start of each Quest. If you are an Unown, you may choose it's typing before each attack.",
+  "description": "Every Pokemon has an unknown power that can be released with surprising results.",
+  "category": "Physical / Special"
+}

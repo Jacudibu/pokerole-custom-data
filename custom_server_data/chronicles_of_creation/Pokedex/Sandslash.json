@@ -1,0 +1,17 @@
+{
+  "number": 28,
+  "name": "Sandslash",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Defense Curl", "Poison Sting", "Rollout", "Sand Attack", "Scratch"],
+    "silver": ["Crush Claw", "Dig", "Fury Cutter", "Fury Swipes", "Magnitude", "Rapid Spin", "Sand Tomb", "Swift"],
+    "gold": ["Earthquake", "Gyro Ball", "Night Slash", "Sandstorm", "Slash", "Swords Dance"],
+    "platinum": ["Bulldoze", "Counter", "Metal Claw", "Stealth Rock"],
+    "diamond": []
+  }
+}

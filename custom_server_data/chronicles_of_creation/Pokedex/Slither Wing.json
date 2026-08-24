@@ -1,0 +1,17 @@
+{
+  "number": 988,
+  "name": "Slither Wing",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Bug Bite", "Ember", "Gust", "Poison Powder", "Rock Smash", "Stun Spore"],
+    "silver": ["Flame Charge", "Stomp", "Low Sweep"],
+    "gold": ["Bulk Up", "Lunge", "Morning Sun", "Superpower"],
+    "platinum": ["Dual Wingbeat", "First Impression", "Leech life", "Whirlwind"],
+    "diamond": []
+  }
+}

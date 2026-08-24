@@ -1,0 +1,17 @@
+{
+  "number": 930,
+  "name": "Arboliva",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Absorb", "Growth", "Mirror Coat", "Razor Leaf", "Safeguard", "Sweet Scent", "Tackle"],
+    "silver": ["Energy Ball", "Flail", "Grassy Terrain", "Helping Hand", "Mega Drain", "Seed Bomb"],
+    "gold": ["Leech Seed", "Petal Blizzard", "Petal Dance", "Terrain Pulse"],
+    "platinum": ["Memento", "Strength Sap", "Synthesis", "Weather Ball"],
+    "diamond": []
+  }
+}

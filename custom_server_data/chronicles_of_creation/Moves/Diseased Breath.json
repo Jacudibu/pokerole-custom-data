@@ -1,0 +1,11 @@
+{
+  "name": "Diaseased Breath",
+  "type": "Poison",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Charge. Inflicts Badly Poisoned. Roll 2 Chance Dice to inflict Flinch, if the foe is already Badly Poisoned, this move has High Critical against the target.",
+  "description": "Unleashing a breath of toxins that leaves the target ill!",
+  "category": "Special"
+}

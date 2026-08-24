@@ -1,0 +1,11 @@
+{
+    "name": "Draconic Majesty",
+    "type": "Dragon",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality / Insight",
+    "target": "User or Ally",
+    "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Special move, increase the Special of the Target by 1.",
+    "description": "The Pokemon's presence alone is enough to weaken the blow, the sheer audacity to attack it empowers itself or its ally.",
+    "category": "Support"
+}

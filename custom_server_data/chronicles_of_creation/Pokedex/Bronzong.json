@@ -1,0 +1,17 @@
+{
+  "number": 437,
+  "name": "Bronzong",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "1/3",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Confuse Ray", "Confusion", "Hypnosis", "Imprison", "Rain Dance", "Sunny Day", "Tackle"],
+    "silver": ["Block", "Feint Attack", "Future Sight", "Gyro Ball", "Iron Defense", "Metal Sound", "Psywave", "Safeguard"],
+    "gold": ["Extrasensory", "Heal Block", "Heavy Slam", "Payback"],
+    "platinum": ["Ancient Power", "Iron Head", "Signal Beam", "Skill Swap", "Stealth Rock"],
+    "diamond": []
+  }
+}

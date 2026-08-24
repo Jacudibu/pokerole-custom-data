@@ -1,6 +1,6 @@
 {
-    "name": "Chef's Dress-Shoe",
-    "description": "All the User's Special Attacks gain __Kicking__.",
+    "name": "Chef’s Dress-Shoe",
+    "description": "All the User's Special Attacks gain __Kicking__. Moves that were already __Kicking__ instead gain an additional Damage Die",
     "category": "HeldItem",
     "single_use": false
 }

@@ -5,7 +5,7 @@
     "damage": "Special",
     "accuracy": "Dexterity",
     "target": "Foe",
-    "effect": "Dancing. Blocks. Deal 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds. -2 Accuracy.",
+    "effect": "Dancing. Blocks. Deal 2 Dice of Damage to the target at the end of each Round. Lasts 4 Rounds. -1 Accuracy.",
     "description": "The user creates a vortex of fire that remains spinning in the battlefield, trapping the foe within.",
     "category": "Special"
 }

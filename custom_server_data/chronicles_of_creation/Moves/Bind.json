@@ -1,0 +1,11 @@
+{
+    "name": "Bind",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Blocks. Deal 2 Dice of Damage to the target at the end of each Round. Lasts 4 Rounds. -1 Accuracy.",
+    "description": "The Pokemon uses its body to bind the foe, restraining and squeezing it.",
+    "category": "Physical"
+}

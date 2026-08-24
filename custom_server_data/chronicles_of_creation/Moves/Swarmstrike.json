@@ -1,0 +1,11 @@
+{
+  "name": "Swarmstrike",
+  "type": "Bug",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Recoil. Striking. If performed under Locust Swarm Weather, the user may use their Dexterity for the Damage Dice instead of Strength.",
+  "description": "A powerful strike with a swarm of insects to sting and harass the foe!",
+  "category": "Physical"
+}

@@ -1,0 +1,17 @@
+{
+  "number": 956,
+  "name": "Espathra",
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Baby-Doll Eyes", "Confusion", "Drill Peck", "Feather Dance", "Growl", "Lumina Crash", "Peck"],
+    "silver": ["Agility", "Disarming Voice", "Pluck", "Psybeam", "Quick Attack", "Uproar"],
+    "gold": ["Dazzling Gleam", "Last Resort", "Psychic"],
+    "platinum": ["Ally Switch", "Hypnosis", "Roost"],
+    "diamond": []
+  }
+}

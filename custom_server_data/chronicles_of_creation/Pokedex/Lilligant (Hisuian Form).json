@@ -1,0 +1,18 @@
+{
+  "number": 10237,
+  "api_id": 10237,
+  "name": "Lilligant (Hisuian Form)",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Axe Kick", "Growth", "Leech Seed", "Sleep Powder", "Victory Dance"],
+    "silver": ["Aromatherapy", "Energy Ball", "Helping Hand", "Magical Leaf", "Mega Drain", "Mega Kick", "Petal Dance", "Stun Spore", "Synthesis", "Teeter Dance"],
+    "gold": ["After You", "Entrainment", "Giga Drain", "Leaf Storm", "Petal Blizzard", "Sunny Day"],
+    "platinum": ["Charm", "Grass Whistle", "Heal Bell", "Healing Wish", "Ingrain", "Sweet Scent"],
+    "diamond": []
+  }
+}

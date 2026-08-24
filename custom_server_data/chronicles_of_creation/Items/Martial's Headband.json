@@ -1,6 +1,6 @@
 {
-    "name": "Martial's Headband",
-    "description": "All the User's Physical Attacks gain __Striking__.",
+    "name": "Martial’s Headband",
+    "description": "All the User's Physical Attacks gain __Striking __. Moves that were already __Striking__ instead gain an additional Damage Die",
     "category": "HeldItem",
     "single_use": false
 }

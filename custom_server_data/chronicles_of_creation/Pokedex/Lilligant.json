@@ -1,0 +1,17 @@
+{
+  "number": 549,
+  "name": "Lilligant",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Growth", "Leech Seed", "Sleep Powder"],
+    "silver": ["Aromatherapy", "Energy Ball", "Helping Hand", "Magical Leaf", "Mega Drain", "Petal Dance", "Stun Spore", "Synthesis", "Teeter Dance"],
+    "gold": ["After You", "Entrainment", "Giga Drain", "Leaf Storm", "Petal Blizzard", "Quiver Dance", "Sunny Day"],
+    "platinum": ["Charm", "Grass Whistle", "Heal Bell", "Healing Wish", "Ingrain", "Sweet Scent"],
+    "diamond": []
+  }
+}

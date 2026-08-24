@@ -1,0 +1,11 @@
+{
+  "name": "Psychic",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Roll 1 Chance Dice to Reduce the Foe's Sp. Defense.",
+  "description": "the user's telekentic force is enoguh to cause severe harm to their target. This telekenisis is not subtle.",
+  "category": "Special"
+}

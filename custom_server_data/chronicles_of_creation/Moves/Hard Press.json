@@ -1,0 +1,11 @@
+{
+    "name": "Hard Press",
+    "type": "Steel",
+    "power": 5,
+    "damage": "Vitality",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Remove 1 Dice from the Damage Roll for every 20% of missing HP the target has, rounded up. You can use `/calculate_hp_damage_modifier` to calculate this for you. Destroy all active Screens Moves on the target's side of the battlefield.",
+    "description": "The user aims to crush their foe, using their own weight against them.",
+    "category": "Physical"
+}

@@ -1,0 +1,17 @@
+{
+  "number": 593,
+  "name": "Jellicent",
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Absorb", "Bubble", "Bubble Beam", "Night Shade", "Water Sport"],
+    "silver": ["Brine", "Ominous Wind", "Rain Dance", "Recover", "Water Pulse"],
+    "gold": ["Hex", "Hydro Pump", "Water Spout", "Wring Out"],
+    "platinum": ["Acid Armor", "Confuse Ray", "Giga Drain", "Spite"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 266,
+  "name": "Silcoon",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Absorb", "Harden", "Poison Sting", "String Shot", "Tackle"],
+    "silver": ["Air Cutter", "Bug Bite", "Electroweb", "Iron Defense", "Mega Drain", "Silver Wind"],
+    "gold": ["Bug Buzz", "Giga Drain", "Quiver Dance"],
+    "platinum": [],
+    "diamond": []
+  }
+}

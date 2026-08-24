@@ -1,0 +1,17 @@
+{
+  "number": 435,
+  "name": "Skuntank",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Focus Energy", "Fury Swipes", "Poison Gas", "Scratch", "Screech"],
+    "silver": ["Acid Spray", "Bite", "Feint", "Flamethrower", "Slash", "Smokescreen", "Toxic", "Venom Drench"],
+    "gold": ["Belch", "Explosion", "Memento", "Night Slash"],
+    "platinum": ["Flame Burst", "Play Rough", "Scary Face", "Sucker Punch"],
+    "diamond": []
+  }
+}

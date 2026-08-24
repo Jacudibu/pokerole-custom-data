@@ -1,5 +1,5 @@
 {
     "name": "Heavy Metal",
     "description": "The metal covering the body of the Pokemon is so thick it easily doubles the normal weight of the Pokemon.",
-    "effect": "This Pokemon weighs twice as much as it's supposed to. In addition, it deals +2 Damage Dice with Physical Attacks."
+    "effect": "Double the User's weight for Weight Calculations. Reduce damage the User receives from Fire-Type Attacks by 1. While Ferromagnetic Storm Weather is in effect, Increase the User's base Strength by 1."
 }

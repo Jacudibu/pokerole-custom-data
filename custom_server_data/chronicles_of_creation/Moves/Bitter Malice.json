@@ -1,0 +1,11 @@
+{
+    "name": "Bitter Malice",
+    "type": "Ghost",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Roll 3 Chance Dice to inflict Frostbite. If the target has a Status Ailment, add 2 Extra Dice to the Damage Pool.",
+    "description": "The user harnesses all of it's anger and hatred upon the enemy, causing mental damage and forcing them into a sheepish state.",
+    "category": "Special"
+}

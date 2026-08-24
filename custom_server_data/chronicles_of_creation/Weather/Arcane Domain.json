@@ -1,0 +1,5 @@
+{
+    "name": "Arcane Domain",
+    "description": "The pure energy coursing through this area leaves battles yielding unexpected effects.",
+    "effect": "- Dragon-Type attacks gain 2 Chance Dice to apply either Burn, Frostbite or Paralysis on their first hit, Which status is applied is random amongst those three. Dragon-Type pokemon may choose instead. In the case of an All Foes moves, Only roll Chance Dice against the primary target.\n- Dragon-Type Pokemon gain STAB on Fire, Ice or Electric type moves, chosen at the start of their turn.\n- Electric, Fire, and Ice-Type Pokemon gain STAB on Dragon-Type Moves.\n- Fairy Types are now only Resistant to Dragon Type attacks rather than Immune."
+}

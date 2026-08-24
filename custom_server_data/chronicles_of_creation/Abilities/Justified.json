@@ -1,5 +1,5 @@
 {
     "name": "Justified",
-    "description": "This Pokemon has an innate sense of justice, and wrongdoings will make them really angry.",
-    "effect": "The first time this Pokemon is hit by a Dark-Type Attack, increase their Base Strength by 1."
+    "description": "This Pokemon has an innate sense of justice, wrongdoings will make them really angry.",
+    "effect": "When the User is hit by a Dark-Type move or one of their allies is damaged by a Critical Strike, increase the User's base Strength by 1. This ability is able to stack with itself once (to a maximum of +2 base Strength)."
 }

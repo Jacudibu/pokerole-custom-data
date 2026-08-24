@@ -1,0 +1,17 @@
+{
+  "number": 553,
+  "name": "Krookodile",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Leer", "Rage", "Sand Attack", "Torment"],
+    "silver": ["Assurance", "Crunch", "Dig", "Embargo", "Mud Slap", "Power Trip", "Sand Tomb", "Scary Face", "Swagger"],
+    "gold": ["Earthquake", "Foul Play", "Outrage", "Sandstorm", "Thrash"],
+    "platinum": ["Aqua Tail", "Beat Up", "Fire Fang", "Iron Tail", "Superpower", "Thunder Fang"],
+    "diamond": []
+  }
+}

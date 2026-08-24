@@ -1,0 +1,17 @@
+{
+  "number": 604,
+  "name": "Eelektross",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Acid", "Bind", "Charge Beam", "Crush Claw", "Headbutt", "Ion Deluge", "Spark", "Tackle", "Thunder Wave"],
+    "silver": ["Acid Spray", "Coil", "Crunch", "Discharge", "Thunderbolt"],
+    "gold": ["Gastro Acid", "Thrash", "Wild Charge", "Zap Cannon"],
+    "platinum": ["Aqua Tail", "Drain Punch", "Fire Punch", "Giga Drain", "Iron Tail", "Super Fang"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 185,
+  "name": "Sudowoodo",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "1/3",
+  "vitality": "3/7",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Fake Tears", "Flail", "Low Kick", "Mimic", "Rock Throw"],
+    "silver": ["Block", "Copycat", "Counter", "Feint Attack", "Rock Tomb", "Slam", "Tearful Look", "Wood Hammer"],
+    "gold": ["Double-Edge", "Hammer Arm", "Head Smash", "Rock Slide", "Stone Edge", "Sucker Punch"],
+    "platinum": ["Fire Punch", "Foul Play", "Rest", "Sand Tomb", "Self Destruct", "Stealth Rock"],
+    "diamond": []
+  }
+}

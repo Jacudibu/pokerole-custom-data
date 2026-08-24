@@ -1,0 +1,17 @@
+{
+  "number": 992,
+  "name": "Iron Hands",
+  "base_hp": 9,
+  "strength": "4/8",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Arm Thrust", "Fake Out", "Focus Energy", "Sand Attack", "Tackle", "Spark"],
+    "silver": ["Force Palm", "Seismic Toss", "Slam", "Thunder Punch", "Whirlwind"],
+    "gold": ["Charge", "Close Combat", "Detect"],
+    "platinum": ["Belly Drum", "Focus Punch", "Heavy Slam"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 569,
+  "name": "Garbodor",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Poison Gas", "Pound", "Recycle", "Toxic Spikes"],
+    "silver": ["Acid Spray", "Body Slam", "Clear Smog", "Double Slap", "Sludge", "Sludge Bomb", "Stockpile", "Swallow", "Take Down", "Toxic"],
+    "gold": ["Amnesia", "Belch", "Explosion", "Gunk Shot"],
+    "platinum": ["Drain Punch", "Rollout", "Spikes"],
+    "diamond": []
+  }
+}

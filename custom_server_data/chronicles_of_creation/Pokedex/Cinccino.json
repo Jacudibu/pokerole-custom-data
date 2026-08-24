@@ -1,0 +1,17 @@
+{
+  "number": 573,
+  "name": "Cinccino",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Baby-Doll Eyes", "Helping Hand", "Pound", "Tickle"],
+    "silver": ["Bullet Seed", "Captivate", "Charm", "Double Slap", "Echoed Voice", "Encore", "Rock Blast", "Sing", "Swift", "Tail Slap", "Wake-Up Slap"],
+    "gold": ["After You", "Hyper Voice", "Last Resort", "Slam"],
+    "platinum": ["Aqua Tail", "Fake Tears", "Iron Tail", "Seed Bomb"],
+    "diamond": []
+  }
+}

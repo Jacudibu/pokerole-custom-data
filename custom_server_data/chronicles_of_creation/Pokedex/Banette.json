@@ -1,0 +1,17 @@
+{
+  "number": 354,
+  "name": "Banette",
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Knock Off", "Night Shade", "Screech", "Spite"],
+    "silver": ["Curse", "Embargo", "Feint Attack", "Hex", "Shadow Ball", "Shadow Sneak", "Snatch", "Will-O-Wisp"],
+    "gold": ["Grudge", "Phantom Force", "Sucker Punch", "Trick"],
+    "platinum": ["Destiny Bond", "Icy Wind", "Role Play"],
+    "diamond": []
+  }
+}

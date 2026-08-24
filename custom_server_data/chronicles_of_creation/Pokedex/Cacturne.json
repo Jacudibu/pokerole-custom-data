@@ -1,0 +1,17 @@
+{
+  "number": 332,
+  "name": "Cacturne",
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Absorb", "Growth", "Leer", "Poison Sting"],
+    "silver": ["Energy Ball", "Geint Attack", "Ingrain", "Leech Seed", "Payback", "Pin Missile", "Sand Attack", "Spikes", "Spiky Shield"],
+    "gold": ["Cotton Spore", "Destiny Bond", "Needle Arm", "Revenge", "Sandstorm", "Sucker Punch"],
+    "platinum": ["Acid", "Drain Punch", "Seed Bomb", "Spite", "Switcheroo"],
+    "diamond": []
+  }
+}

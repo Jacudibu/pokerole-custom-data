@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Tendril",
+  "type": "Dark",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce the duration of Screens on the targets side of the battlefield by 2 Rounds. On a Critical Strike, reduce the duration by 3 Rounds instead.",
+  "description": "The user manipulates the shadows to lash their foe!",
+  "category": "Special"
+}

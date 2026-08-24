@@ -1,0 +1,17 @@
+{
+  "number": 284,
+  "name": "Masquerain",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bubble", "Quick Attack", "Sweet Scent"],
+    "silver": ["Agility", "Air Cutter", "Aqua Jet", "Bubble Beam", "Gust", "Haze", "Ominous Wind", "Quiver Dance", "Scary Face", "Stun Spore", "Water Sport", "Whirlwind"],
+    "gold": ["Air Slash", "Baton Pass", "Bug Buzz", "Mist", "Silver Wind", "Sticky Web"],
+    "platinum": ["Fell Stinger", "Giga Drain", "Hydro Pump", "Mud Shot", "Psybeam", "Signal Beam"],
+    "diamond": []
+  }
+}

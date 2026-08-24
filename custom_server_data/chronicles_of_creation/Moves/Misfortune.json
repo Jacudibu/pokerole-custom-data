@@ -1,0 +1,11 @@
+{
+  "name": "Misfortune",
+  "type": "Ghost",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality / Insight",
+  "target": "User or Ally",
+  "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Special move, the foe's Special is lowered by 1.",
+  "description": "The Pokemon inflicts a wicked hex on the attacker as recompense for the damage done.",
+  "category": "Support"
+}

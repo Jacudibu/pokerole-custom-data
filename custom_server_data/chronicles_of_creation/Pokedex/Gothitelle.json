@@ -1,0 +1,17 @@
+{
+  "number": 576,
+  "name": "Gothitelle",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Confusion", "Fake Tears", "Play Nice", "Pound", "Tickle"],
+    "silver": ["Double Slap", "Embargo", "Feint Attack", "Flatter", "Future Sight", "Heal Block", "Psybeam", "Psyshock"],
+    "gold": ["Charm", "Magic Room", "Psychic", "Telekinesis"],
+    "platinum": ["Dark Pulse", "Heal Pulse", "Helping Hand", "Role Play", "Signal Beam", "Snatch"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 232,
+  "name": "Donphan",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Defense Curl", "Fire Fang", "Flail", "Growl", "Horn Attack", "Odor Sleuth", "Rapid Spin", "Tackle", "Take Down", "Thunder Fang"],
+    "silver": ["Assurance", "Bulldoze", "Charm", "Fury Attack", "Knock Off", "Magnitude", "Natural Gift", "Rollout", "Slam"],
+    "gold": ["Double-Edge", "Earthquake", "Endure", "Giga Impact", "Last Resort", "Scary Face"],
+    "platinum": ["Counter", "Fissure", "Ice Shard", "Mud Slap", "Play Rough"],
+    "diamond": []
+  }
+}

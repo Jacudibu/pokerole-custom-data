@@ -1,0 +1,5 @@
+{
+  "name": "Unnatural Darkness",
+  "description": "A creeping darkness has covered the battlefield. During the daytime it almost seems as if night had fallen, the sun resembling more a full moon then a star.",
+  "effect": "- Dark-Types may use their Moves with +1 Priority (chosen at the start of each Round).\n- Critical Strikes from Dark, Bug, Fire, and Poison Types gain Rank+1 Damage Dice before the Crit multiplier is applied. These Damage Dice also apply to Offensive Support Moves but then do not receive a Crit multiplier (added damage matches the Type of the move Used/can benefit from STAB, is inflicted upon one target resisted by their Sp.Def and subject to minimum damage)."
+}

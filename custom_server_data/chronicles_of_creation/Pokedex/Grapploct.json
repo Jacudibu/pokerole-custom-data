@@ -1,0 +1,17 @@
+{
+  "number": 853,
+  "name": "Grapploct",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "1/3",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bind", "Feint", "Leer", "Rock Smash"],
+    "silver": ["Brick Break", "Bulk Up", "Detect", "Octazooka", "Octolock", "Submission", "Taunt"],
+    "gold": ["Reversal", "Superpower", "Topsy-Turvy"],
+    "platinum": ["Brutal Swing", "Circle Throw", "Close Combat", "Liquidation", "Seismic Toss", "Soak"],
+    "diamond": []
+  }
+}

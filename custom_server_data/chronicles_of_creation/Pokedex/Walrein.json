@@ -1,0 +1,17 @@
+{
+  "number": 365,
+  "name": "Walrein",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Defense Curl", "Encore", "Growl", "Powder Snow", "Water Gun"],
+    "silver": ["Aurora Beam", "Body Slam", "Brine", "Crunch", "Hail", "Ice Ball", "Ice Fang", "Swagger"],
+    "gold": ["Blizzard", "Rest", "Sheer Cold", "Snore"],
+    "platinum": ["Aqua Ring", "Aqua Tail", "Belly Drum", "Dive", "Endure", "Fissure", "Rollout", "Super Fang", "Water Pulse"],
+    "diamond": []
+  }
+}

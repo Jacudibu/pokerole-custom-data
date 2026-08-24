@@ -1,11 +1,11 @@
 {
-    "name": "Psychic Fangs",
-    "type": "Psychic",
-    "power": 3,
-    "damage": "Strength",
-    "accuracy": "Dexterity",
-    "target": "Foe",
-    "effect": "Biting. Destroy all active Screens Moves on the target's side of the battlefield. If any are removed add 2 Extra Dice to the Damage Pool.",
-    "description": "The Pokemon bares its fangs to bite the foe, psychic energy begins piercing before the actual fangs make contact.",
-    "category": "Physical"
+  "name": "Psychic Fangs",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Biting. Ignores Screens. Reduce the duration of Screens on the target's side of the battlefield by 2 Rounds. On a Critical Strike, reduce the duration by 3 Rounds instead. If the target is behind any active Screens when performed, add 2 Extra Dice to the Damage Pool.",
+  "description": "The Pokemon bares its fangs to bite the foe, psychic energy begins piercing before the actual fangs make contact.",
+  "category": "Physical"
 }

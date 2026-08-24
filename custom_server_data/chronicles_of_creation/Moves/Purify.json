@@ -1,0 +1,11 @@
+{
+    "name": "Purify",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Heal up to 3 of the Target's Status Ailments. For each Status cured, the User recovers 3 HP. If more than one Status is cured, spend 1 Will point to activate.",
+    "description": "The Pokemon is covered by a gelatinous goo that can be used to treat several ailments. The Pokemon also uses it as a source of nourishment.",
+    "category": "Support"
+}

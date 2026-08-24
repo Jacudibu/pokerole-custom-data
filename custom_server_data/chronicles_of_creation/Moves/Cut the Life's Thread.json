@@ -1,0 +1,11 @@
+{
+  "name": "Cut the Life's Thread",
+  "type": "Ghost",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Slicing. Inflicts Wounds. If performed in Eerie Fog, this move gains High Critical.",
+  "description": "A quick slash that almost seems to cut the very soul of the foe.",
+  "category": "Physical"
+}

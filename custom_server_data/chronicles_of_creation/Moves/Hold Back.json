@@ -1,0 +1,11 @@
+{
+    "name": "Hold Back",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Striking. High Crititcal. The target's HP can't be reduced below 1 by this attack.",
+    "description": "The user holds back when it attacks.",
+    "category": "Physical"
+}

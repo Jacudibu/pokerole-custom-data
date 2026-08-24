@@ -1,0 +1,11 @@
+{
+  "name": "Telekinetic Assault",
+  "type": "Psychic",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Recharge. Inflicts Flinch on the Foe. While within the Cosmic Rays weather, you may skip the Recharge.",
+  "description": "The user rushes and unleashes a powerful flurry of psychic strikes with their own strikes mixed in!",
+  "category": "Physical"
+}

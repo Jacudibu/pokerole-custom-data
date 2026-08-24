@@ -1,0 +1,11 @@
+{
+  "name": "Smoldering Shield",
+  "type": "Fire",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality / Insight",
+  "target": "User or Ally",
+  "effect": "Reaction. Shield Move. Reduce the damage the User takes by the User's Rank. If the move that strikes the User is a Physical move, the foe is now Burned.",
+  "description": "The Pokemon places itself in the way of harm, burning foes on its searing hot body.",
+  "category": "Support"
+}

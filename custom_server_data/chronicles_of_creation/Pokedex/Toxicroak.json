@@ -1,0 +1,17 @@
+{
+  "number": 454,
+  "name": "Toxicroak",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Astonish", "Mud Slap", "Poison Sting", "Taunt"],
+    "silver": ["Feint Attack", "Mud Bomb", "Nasty Plot", "Pursuit", "Revenge", "Sucker Punch", "Swagger", "Venoshock"],
+    "gold": ["Belch", "Flatter", "Poison Jab", "Sludge Bomb"],
+    "platinum": ["Drain Punch", "Dual Chop", "Fake Out", "Quick Guard"],
+    "diamond": []
+  }
+}

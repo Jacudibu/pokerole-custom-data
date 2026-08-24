@@ -1,0 +1,6 @@
+{
+    "name": "Boomerang",
+    "description": "If this item is ever removed from its holder, it returns back to their Held Item slot immediately after. When Thrown with Fling, give Fling +1 Damage Dice ontop of the Rarity Dice",
+    "category": "HeldItem",
+    "single_use": false
+}

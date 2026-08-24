@@ -1,0 +1,17 @@
+{
+  "number": 13,
+  "name": "Weedle",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Bug Bite", "Fury Attack", "Poison Sting", "String Shot"],
+    "silver": ["Electroweb", "Rage", "Twineedle"],
+    "gold": [],
+    "platinum": [],
+    "diamond": []
+  }
+}

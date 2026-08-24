@@ -1,0 +1,17 @@
+{
+  "number": 73,
+  "name": "Tentacruel",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Acid", "Constrict", "Poison Sting", "Supersonic"],
+    "silver": ["Acid Spray", "Barrier", "Brine", "Bubble Beam", "Poison Jab", "Toxic Spikes", "Water Pulse", "Wrap"],
+    "gold": ["Hex", "Hydro Pump", "Reflect Type", "Screech", "Sludge Wave", "Wring Out"],
+    "platinum": ["Aqua Ring", "Aurora Beam", "Confuse Ray", "Giga Drain", "Magic Coat", "Mirror Coat"],
+    "diamond": []
+  }
+}

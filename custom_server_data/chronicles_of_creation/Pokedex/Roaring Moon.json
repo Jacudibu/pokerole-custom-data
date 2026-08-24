@@ -1,0 +1,17 @@
+{
+  "number": 1005,
+  "name": "Roaring Moon",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Bite", "Dragon Breath", "Focus Energy", "Headbutt", "Incinerate", "Leer"],
+    "silver": ["Dragon Claw", "Flamethrower", "Payback", "Zen Headbutt"],
+    "gold": ["Dragon Dance", "Dragon Rush", "Fly", "Night Slash"],
+    "platinum": ["Double-Edge", "Roost", "Throat Chop"],
+    "diamond": []
+  }
+}

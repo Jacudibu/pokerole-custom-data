@@ -1,0 +1,5 @@
+{
+    "name": "Meteor Shower",
+    "description": "Harnessing their connection to the stones of space, meteors streak across the sky emboldening their earthbound kin.",
+    "effect": "- Counts as active Sandstorm Weather for moves and abilities.\n- Rock-types gain +1 Base Special Defense.\n- Water and Grass-type attacks deal neutral damage to Rock-Type Pokemon (additional types apply resistance/effectiveness normally)."
+}

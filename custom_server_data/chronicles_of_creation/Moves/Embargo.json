@@ -1,0 +1,11 @@
+{
+  "name": "Embargo",
+  "type": "Dark",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "Foe",
+  "effect": "The target cannot use a held item, weapons, armor and consumables till the end of the target's next turn.",
+  "description": "The user quickly takes out the held item of a Pokemon. It also empties the bag of the trainer and forces everyone to stay away from their own properties. Evildoers master this Move.",
+  "category": "Support"
+}

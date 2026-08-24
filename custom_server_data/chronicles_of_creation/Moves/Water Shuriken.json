@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Slicing. Ranged. Priority 1. Successive Actions.",
+  "effect": "Slicing. Priority 1. Successive Actions.",
   "description": "The Pokemon quickly throws sharp jets of water in the shape of a shuriken.",
   "category": "Special"
 }

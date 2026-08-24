@@ -1,0 +1,17 @@
+{
+  "number": 402,
+  "name": "Kricketune",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bide", "Fury Cutter", "Growl", "Struggle Bug"],
+    "silver": ["Absorb", "Bug Bite", "Fell Stinger", "Focus Energy", "Screech", "Sing", "Slash", "Taunt", "X-Scissor"],
+    "gold": ["Bug Buzz", "Night Slash", "Perish Song", "Sticky Web"],
+    "platinum": ["Hyper Voice", "Mud Slap", "Silver Wind", "String Shot", "Uproar"],
+    "diamond": []
+  }
+}

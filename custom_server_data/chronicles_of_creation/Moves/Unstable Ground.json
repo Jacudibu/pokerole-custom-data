@@ -1,0 +1,10 @@
+{
+  "name": "Unstable Ground",
+  "type": "Ground",
+  "power": 0,
+  "accuracy": "Vitality / Insight",
+  "target": "User or Ally",
+  "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. The foe is now Blocked. Lasts 4 Rounds.",
+  "description": "The Pokemon leaves fissures in the earth in its haste to protect its allies. Watch your step!",
+  "category": "Support"
+}

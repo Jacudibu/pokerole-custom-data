@@ -1,0 +1,11 @@
+{
+  "name": "Feint Attack",
+  "type": "Dark",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Never Fail. Reduce the duration of Screens on the target's side of the battlefield by 2 Rounds. On a Critical Strike, reduce the duration by 3 Rounds instead.",
+  "description": "The Pokemon approaches the foe disarmingly then attacks suddenly without giving any time to react.",
+  "category": "Physical"
+}

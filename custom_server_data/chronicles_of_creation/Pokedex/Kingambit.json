@@ -1,0 +1,17 @@
+{
+  "number": 983,
+  "name": "Kingambit",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Fury Cutter", "Leer", "Metal Burst", "Metal Claw", "Scratch"],
+    "silver": ["Assurance", "Embargo", "Feint Attack", "Metal Sound", "Scary Face", "Slash", "Torment"],
+    "gold": ["Guillotine", "Iron Defense", "Iron Head", "Kowtow Cleave", "Night Slash", "Retaliate", "Swords Dance"],
+    "platinum": ["Dual Chop", "Low Kick", "Mean Look", "Psycho Cut", "Quick Guard", "Stealth Rock", "Sucker Punch"],
+    "diamond": []
+  }
+}

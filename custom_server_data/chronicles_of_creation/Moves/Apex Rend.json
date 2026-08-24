@@ -1,0 +1,11 @@
+{
+  "name": "Apex Rend",
+  "type": "Dragon",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Biting. Striking. Recoil. When performed under the Arcane Domain, this move has Priority 1.",
+  "description": "The user rips and tears their foe, unleashing a powerful assault to make it clear they are the Apex.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Smother in Fear",
+  "type": "Ghost",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Recharge. Roll 3 Chance Dice, if successful, the target foe is now suffering from Drowsy and the effects of the move Nightmare.",
+  "description": "The user smothers the foe in a daydream of their own twisted nightmares.",
+  "category": "Special"
+}

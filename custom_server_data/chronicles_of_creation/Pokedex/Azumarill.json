@@ -1,0 +1,17 @@
+{
+  "number": 184,
+  "name": "Azumarill",
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bubble", "Charm", "Splash", "Tackle", "Tail Whip", "Water Gun", "Water Sport"],
+    "silver": ["Aqua Tail", "Bubble Beam", "Defense Curl", "Helping Hand", "Play Rough", "Rain Dance", "Rollout", "Slam"],
+    "gold": ["Aqua Ring", "Bounce", "Double-Edge", "Hydro Pump", "Superpower"],
+    "platinum": ["Aqua Jet", "Belly Drum", "Fake Tears", "Ice Punch", "Sing", "Tickle"],
+    "diamond": []
+  }
+}

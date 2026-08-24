@@ -1,0 +1,18 @@
+{
+  "number": 10272,
+  "api_id": 10272,
+  "name": "Ursaluna (Bloodmoon)",
+  "base_hp": 7,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "4/8",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Baby-Doll Eyes", "Covet", "Fake Tears", "Fling", "Fury Swipes", "Headlong Rush", "Leer", "Lick", "Moonlight", "Scratch"],
+    "silver": ["Charm", "Feint Attack", "Harden", "Payback", "Play Nice", "Scary Face", "Slash", "Sweet Scent"],
+    "gold": ["Blood Moon", "Earth Power", "Hammer Arm", "Moonblast", "Rest", "Snore", "Thrash"],
+    "platinum": ["Belly Drum", "Defense Curl", "Gunk Shot", "Night Slash", "Play Rough", "Swords Dance", "Yawn"],
+    "diamond": []
+  }
+}

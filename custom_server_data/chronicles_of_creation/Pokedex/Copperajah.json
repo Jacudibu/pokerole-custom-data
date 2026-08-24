@@ -1,0 +1,17 @@
+{
+  "number": 879,
+  "name": "Copperajah",
+  "base_hp": 7,
+  "strength": "4/8",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Growl", "Rock Smash", "Rollout", "Tackle"],
+    "silver": ["Bulldoze", "Dig", "Iron Defense", "Iron Head", "Play Rough", "Stomp", "Strength"],
+    "gold": ["Heavy Slam", "High Horsepower", "Superpower"],
+    "platinum": ["Fissure", "Outrage", "Power Whip", "Stealth Rock", "Zen Headbutt"],
+    "diamond": []
+  }
+}

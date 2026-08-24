@@ -1,0 +1,17 @@
+{
+  "number": 327,
+  "name": "Spinda",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Copycat", "Tackle", "Uproar"],
+    "silver": ["Dizzy Punch", "Feint Attack", "Hypnosis", "Psybeam", "Sucker Punch", "Teeter Dance"],
+    "gold": ["Double-Edge", "Flail", "Psych Up", "Thrash"],
+    "platinum": ["Encore", "Fake Out", "Helping Hand"],
+    "diamond": []
+  }
+}

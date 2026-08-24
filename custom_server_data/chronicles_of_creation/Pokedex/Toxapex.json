@@ -1,0 +1,17 @@
+{
+  "number": 748,
+  "name": "Toxapex",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "4/9",
+  "special": "2/4",
+  "insight": "4/8",
+  "moves": {
+    "bronze": ["Bite", "Peck", "Poison Sting", "Toxic Spikes", "Wide Guard"],
+    "silver": ["Baneful Bunker", "Pin Missile", "Poison Jab", "Spike Cannon", "Toxic", "Venoshock"],
+    "gold": ["Liquidation", "Recover", "Venom Drench"],
+    "platinum": ["Protect", "Sludge Bomb", "Spit Up", "Stockpile", "Swallow"],
+    "diamond": []
+  }
+}

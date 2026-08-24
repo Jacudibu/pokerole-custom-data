@@ -1,0 +1,17 @@
+{
+  "number": 756,
+  "name": "Shiinotic",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Absorb", "Astonish", "Flash", "Mega Drain", "Moonlight", "Sleep Powder"],
+    "silver": ["Confuse Ray", "Dream Eater", "Giga Drain", "Ingrain", "Spotlight", "Strength Sap"],
+    "gold": ["Moonblast", "Spore"],
+    "platinum": ["Amnesia", "Growth", "Leech Seed", "Light Screen"],
+    "diamond": []
+  }
+}

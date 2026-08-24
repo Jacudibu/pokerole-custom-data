@@ -1,0 +1,17 @@
+{
+  "number": 12,
+  "name": "Butterfree",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bug Bite", "Confusion", "Gust", "Harden", "Poison Powder", "Sleep Powder", "String Shot", "Stun Spore", "Tackle"],
+    "silver": ["Captivate", "Electroweb", "Iron Defense", "Psybeam", "Rage Powder", "Silver Wind", "Supersonic", "Tailwind", "Whirlwind"],
+    "gold": ["Air Slash", "Bug Buzz", "Quiver Dance", "Safeguard"],
+    "platinum": ["Nightmare", "Psychic", "Signal Beam"],
+    "diamond": []
+  }
+}

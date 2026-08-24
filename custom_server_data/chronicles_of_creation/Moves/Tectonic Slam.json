@@ -1,0 +1,11 @@
+{
+  "name": "Tectonic Slam",
+  "type": "Ground",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Kicking. Recharge. High Critical.",
+  "description": "A powerful kick that causes the very earth to rumble.",
+  "category": "Physical"
+}

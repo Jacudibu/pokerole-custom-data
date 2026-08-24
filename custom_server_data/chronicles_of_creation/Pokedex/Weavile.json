@@ -1,0 +1,17 @@
+{
+  "number": 461,
+  "name": "Weavile",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "4/8",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Embargo", "Feint Attack", "Leer", "Quick Attack", "Scratch", "Taunt"],
+    "silver": ["Agility", "Assurance", "Beat Up", "Fling", "Fury Swipes", "Hone Claws", "Icy Wind", "Metal Claw", "Nasty Plot", "Night Slash", "Revenge", "Screech"],
+    "gold": ["Dark Pulse", "Ice Shard", "Punishment", "Slash", "Snatch"],
+    "platinum": ["Crush Claw", "Fake Out", "Ice Punch", "Icicle Crash", "Low Kick"],
+    "diamond": []
+  }
+}

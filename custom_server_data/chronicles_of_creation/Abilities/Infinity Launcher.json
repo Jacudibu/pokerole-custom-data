@@ -1,5 +1,5 @@
 {
     "name": "Infinity Launcher",
-    "description": "Ka-boom.",
-    "effect": "Attacks with the keyword 'Pulse' and 'Aura' used by this Pokemon deal 1 extra damage. Heal Pulse moves used by this pokemon Heal 2 additional HP. In addition, they gain +1 Power and Accuracy."
+    "description": "Ka-Boom",
+    "effect": "Attacks with the keyword __Pulse Based__ used by this Pokemon deal 1 extra damage. Heal Pulse moves used by this Pokemon Heal 2 additional HP. Support Pulse Moves Gain +1 Accuracy. In addition all __Pulse Based__ Moves Gain +1 Power and Accuracy."
 }

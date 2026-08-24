@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "All Foes",
-  "effect": "Slicing. Wind Based. High Critical. Charge.",
+  "effect": "Slicing. Wind Based. High Critical. Charge. This move ignores the dice pool reduction from All Foes Moves. Ignores Screens. Reduce the duration of Screens on the targets side of the battlefield by 2 Rounds. On a Critical Strike, reduce the duration by 3 Rounds instead. If the targets are behind any active Screens when performed, add 2 Extra Dice to the Damage Pool.",
   "description": "A sharp wind current is unleased against anyone standing against this Pokemon.",
   "category": "Special"
 }

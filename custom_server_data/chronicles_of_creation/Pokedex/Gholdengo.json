@@ -1,0 +1,17 @@
+{
+  "number": 1000,
+  "name": "Gholdengo",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "4/8",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Astonish", "Night Shade", "Tackle"],
+    "silver": ["Confuse Ray", "Metal Sound", "Shadow Ball", "Substitute"],
+    "gold": ["Make It Rain", "Memento", "Nasty Plot", "Power Gem", "Recover"],
+    "platinum": ["Metronome", "Shadow Punch", "Flash Cannon"],
+    "diamond": []
+  }
+}

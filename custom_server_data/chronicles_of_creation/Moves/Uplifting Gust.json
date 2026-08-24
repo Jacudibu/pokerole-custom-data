@@ -1,0 +1,11 @@
+{
+    "name": "Uplifting Gust",
+    "type": "Flying",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality / Insight",
+    "target": "User or Ally",
+    "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Contact move, increase the Dexterity of the Target by 1.",
+    "description": "The Pokemon diverts the blow with a powerful gust of wind, speeding up itself or its ally.",
+    "category": "Support"
+}

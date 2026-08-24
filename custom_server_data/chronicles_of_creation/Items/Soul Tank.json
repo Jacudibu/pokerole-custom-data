@@ -1,0 +1,6 @@
+{
+    "name": "Soul Tank",
+    "description": "When using a __Draining__ Move store up to 5 HP in this Held Item. You do not heal that HP at time of Drain if so. As a free action you may heal all stored HP at once.",
+    "category": "HeldItem",
+    "single_use": false
+}

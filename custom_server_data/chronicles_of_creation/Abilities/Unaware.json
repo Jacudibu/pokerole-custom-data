@@ -1,5 +1,5 @@
 {
     "name": "Unaware",
     "description": "The Pokemon is oblivious to many details in its surroundings. It will rarely take notice of things going on.",
-    "effect": "This Pokemon ignores any of the opponent's Stat Changes. Both when attacking and receiving damage."
+    "effect": "This Pokemon ignores any of the opponent's Stat Changes when attacking or receiving damage (this does not include effects that modify the opponent's base Stat)."
 }

@@ -1,0 +1,17 @@
+{
+  "number": 465,
+  "name": "Tangrowth",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Absorb", "Block", "Constrict", "Ingrain", "Sleep Powder", "Vine Whip"],
+    "silver": ["Ancient Power", "Bind", "Growth", "Knock Off", "Mega Drain", "Natural Gift", "Poison Powder", "Slam", "Stun Spore"],
+    "gold": ["Giga Drain", "Grassy Terrain", "Power Whip", "Tickle", "Wring Out"],
+    "platinum": ["Amnesia", "Confusion", "Nature Power", "Substitute"],
+    "diamond": []
+  }
+}

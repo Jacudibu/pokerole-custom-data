@@ -1,11 +1,11 @@
 {
-    "name": "Defog",
-    "type": "Flying",
-    "power": 0,
-    "damage": "",
-    "accuracy": "Insight",
-    "target": "Battlefield",
-    "effect": "Never Fail. Remove all active Screens Moves (ie. Light Screen, Reflect), Hazards (Toxic Spikes, Stealth Rock, etc.), and Terrains (Misty Terrain, Electric Terrain, etc.) from the battlefield.",
-    "description": "A strong current of wind that blows away any fog and even invisible barriers.",
-    "category": "Support"
+  "name": "Defog",
+  "type": "Flying",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Battlefield",
+  "effect": "Never Fail. Reduce the duration of all active Screens on the the battlefield by 2 Rounds. On a Critical Strike, reduce the duration by 3 Rounds instead. Remove all Hazards and Terrain from the battlefield.",
+  "description": "A strong current of wind that blows away any fog and even invisible barriers.",
+  "category": "Support"
 }

@@ -1,0 +1,17 @@
+{
+  "number": 949,
+  "name": "Toedscruel",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Absorb", "Mud Slap", "Poison Powder", "Reflect Type", "Stun Spore", "Wrap"],
+    "silver": ["Hex", "Mega Drain", "Mud Shot", "Screech", "Seed Bomb", "Spore", "Supersonic", "Tackle"],
+    "gold": ["Earth Power", "Giga Drain", "Growth", "Power Whip"],
+    "platinum": ["Leech Seed", "Rage Powder", "Toxic"],
+    "diamond": []
+  }
+}

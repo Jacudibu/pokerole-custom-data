@@ -1,0 +1,11 @@
+{
+  "name": "Cold Coat",
+  "type": "Ice",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality / Insight",
+  "target": "User or Ally",
+  "effect": "Reaction. Shield Move. Reduce the damage the User takes by the User's Rank. If the move that strikes the User is a Special move, the foe is inflicted with Frostbite.",
+  "description": "The Pokemon deflects a blow with a freezing cold blast, leaving the foe with a nasty chill.",
+  "category": "Support"
+}

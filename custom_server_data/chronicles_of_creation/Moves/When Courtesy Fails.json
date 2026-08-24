@@ -1,0 +1,11 @@
+{
+  "name": "When Courtesy Fails",
+  "type": "Fairy",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "The User's Defense and Special Defense goes down by 1 after this move. Inflicts Wounds. When performed under Fairy Dust Weather, ignore the resistances of the foe.",
+  "description": "When being polite is no longer an option, one must have methods to defend oneself...",
+  "category": "Special"
+}

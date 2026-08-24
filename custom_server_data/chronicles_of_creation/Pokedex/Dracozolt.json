@@ -6,7 +6,7 @@
   "dexterity": "2/5",
   "vitality": "3/6",
   "special": "2/5",
-  "insight": "2/4",
+  "insight": "2/5",
   "moves": {
     "bronze": ["Aerial Ace", "Charge", "Tackle", "Thunder Shock"],
     "silver": ["Ancient Power", "Discharge", "Dragon Tail", "Pluck", "Slam", "Stomp"],

@@ -3,9 +3,9 @@
   "type": "Dark",
   "power": 0,
   "damage": "",
-  "accuracy": "Vitality",
-  "target": "User",
-  "effect": "Reaction. Shield Move. Reduce the damage the User suffers by their Rank. If the move that strikes the user is a Contact move, the foe's Defense is lowered by 2.",
-  "description": "In a reckless action, the user charges against the foe to stop it's momentum and block an incoming attack. Being so close allows the user to reach for weak spots.",
+  "accuracy": "Vitality / Insight",
+  "target": "User or Ally",
+  "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Physical move, decrease the Defense of the Attacker by 1.",
+  "description": "In a reckless action, the user charges against the foe to stop its momentum and block an incoming attack. Being so close allows the user to reach for weak spots.",
   "category": "Support"
 }

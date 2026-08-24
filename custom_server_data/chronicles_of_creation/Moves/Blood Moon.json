@@ -1,0 +1,11 @@
+{
+    "name": "Blood Moon",
+    "type": "Normal",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. The User may not use this move again until they use another move.",
+    "description": "The user unleashes their raw spiritual power, which manifests as a haunting blood moon.",
+    "category": "Special"
+}

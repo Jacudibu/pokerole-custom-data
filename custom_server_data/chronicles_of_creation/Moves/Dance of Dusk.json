@@ -1,0 +1,11 @@
+{
+  "name": "Dance of Dusk",
+  "type": "Dark",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "High Critical. Recoil. Dancing.",
+  "description": "A morbid dance that sends waves of darkness out against one's foe.",
+  "category": "Special"
+}

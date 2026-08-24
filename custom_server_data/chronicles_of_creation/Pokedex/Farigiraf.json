@@ -1,0 +1,17 @@
+{
+  "number": 981,
+  "name": "Farigiraf",
+  "base_hp": 7,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Assurance", "Astonish", "Confusion", "Growl", "Guard Swap", "Odor Sleuth", "Power Swap", "Tackle"],
+    "silver": ["Agility", "Double Hit", "Psybeam", "Stomp", "Twin Beam"],
+    "gold": ["Baton Pass", "Crunch", "Nasty Plot", "Psychic", "Zen Headbutt"],
+    "platinum": ["Ally Switch", "Future Sight", "Hyper Voice", "Mirror Coat", "Sucker Punch", "Wish"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 861,
+  "name": "Grimmsnarl",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Confide", "Fake Out", "Flatter"],
+    "silver": ["Assurance", "Bulk Up", "Dark Pulse", "Fake Tears", "False Surrender", "Power-Up Punch", "Spirit Break", "Sucker Punch", "Swagger", "Torment"],
+    "gold": ["Foul Play", "Hammer Arm", "Nasty Plot", "Play Rough"],
+    "platinum": ["Draining Kiss", "Leech Life", "Metronome", "Protect", "Reflect", "Taunt", "Trick"],
+    "diamond": []
+  }
+}

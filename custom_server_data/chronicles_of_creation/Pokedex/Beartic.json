@@ -1,0 +1,17 @@
+{
+  "number": 614,
+  "name": "Beartic",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bide", "Growl", "Powder Snow"],
+    "silver": ["Aqua Jet", "Brine", "Charm", "Endure", "Flail", "Fury Swipes", "Icicle Crash", "Icy Wind", "Play Nice", "Slash"],
+    "gold": ["Blizzard", "Hail", "Rest", "Sheer Cold", "Superpower", "Thrash"],
+    "platinum": ["Avalanche", "Ice Punch", "Night Slash", "Play Rough", "Yawn"],
+    "diamond": []
+  }
+}

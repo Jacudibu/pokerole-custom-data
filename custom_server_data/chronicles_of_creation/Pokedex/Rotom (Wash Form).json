@@ -1,0 +1,18 @@
+{
+  "number": 10009,
+  "api_id": 10009,
+  "name": "Rotom (Wash Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Astonish", "Confuse Ray", "Thunder Shock", "Thunder Wave", "Uproar"],
+    "silver": ["Double Team", "Electro Ball", "Ominous Wind", "Shock Wave", "Substitute", "Trick"],
+    "gold": ["Charge", "Discharge", "Hex"],
+    "platinum": ["Hydro Pump"],
+    "diamond": []
+  }
+}

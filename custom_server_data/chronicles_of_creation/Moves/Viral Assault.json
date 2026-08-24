@@ -1,0 +1,11 @@
+{
+  "name": "Viral Assault",
+  "type": "Poison",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Recoil. Inflicts Poison on the Foe and User, this move can Poison Pokemon normally immune to Poison Status.",
+  "description": "When the user unleash a poisonous assualt that harms the user as much as the foe!",
+  "category": "Physical"
+}

@@ -1,0 +1,17 @@
+{
+  "number": 825,
+  "name": "Dottler",
+  "base_hp": 4,
+  "strength": "1/3",
+  "dexterity": "1/2",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Confusion", "Light Screen", "Reflect", "Struggle Bug"],
+    "silver": ["Infestation", "Mirror Coat", "Sticky Web", "Supersonic"],
+    "gold": ["After You", "Calm Mind", "Psychic"],
+    "platinum": [],
+    "diamond": []
+  }
+}

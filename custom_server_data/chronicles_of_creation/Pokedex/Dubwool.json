@@ -1,0 +1,17 @@
+{
+  "number": 832,
+  "name": "Dubwool",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Defense Curl", "Growl", "Tackle"],
+    "silver": ["Copycat", "Double Kick", "Guard Split", "Headbutt", "Take Down"],
+    "gold": ["Cotton Guard", "Double-Edge", "Guard Swap", "Last Resort", "Reversal"],
+    "platinum": ["Agility", "Bounce", "Protect", "Rest", "Sleep Talk", "Substitute"],
+    "diamond": []
+  }
+}

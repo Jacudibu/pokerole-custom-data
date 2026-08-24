@@ -3,15 +3,15 @@
   "name": "Hydrapple",
   "base_hp": 6,
   "strength": "2/5",
-  "dexterity": "1/3",
-  "vitality": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/7",
   "special": "3/7",
-  "insight": "2/5",
+  "insight": "3/5",
   "moves": {
     "bronze": ["Astonish", "Double Hit", "Dragon Tail", "Fickle Beam", "Growth", "Infestation", "Recycle", "Sweet Scent", "Withdraw", "Yawn"],
     "silver": ["Bullet Seed", "Dragon Breath", "Dragon Pulse", "Protect", "Recover", "Syrup Bomb"],
     "gold": ["Energy Ball", "Power Whip", "Substitute"],
-    "platinum": ["Defense Curl", "Recycle", "Rollout"],
+    "platinum": ["Defense Curl", "Pollen Puff", "Rollout"],
     "diamond": []
   }
 }

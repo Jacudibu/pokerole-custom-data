@@ -1,0 +1,11 @@
+{
+  "name": "Whiteout Rush",
+  "type": "Ice",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "The user's Defense and Special Defense goes down by 1 after using this move. Roll 2 Chance Dice to inflict Frostbite on the foe.",
+  "description": "The user lets the winds rush past them, leaving themself open as they freeze their foe!",
+  "category": "Special"
+}

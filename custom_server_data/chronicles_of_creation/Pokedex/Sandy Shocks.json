@@ -1,0 +1,17 @@
+{
+  "number": 989,
+  "name": "Sandy Shocks",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Electric Terrain", "Mud Slap", "Spark", "Supersonic", "Thunder Shock", "Thunder Wave"],
+    "silver": ["Bulldoze", "Charge Beam", "Screech", "Tri Attack"],
+    "gold": ["Earth Power", "Discharge", "Heavy Slam", "Metal Sound"],
+    "platinum": ["Gravity", "Magnetic Flux", "Mirror Coat", "Zap Cannon"],
+    "diamond": []
+  }
+}

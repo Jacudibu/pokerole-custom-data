@@ -1,0 +1,11 @@
+{
+  "name": "Dire Claw",
+  "type": "Poison",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Roll 3 Chance Dice to apply one of three random effects between Poison, Drowsy and Paralysis using the `/select_random` command.",
+  "description": "The user launches a brutal attack with their claws which always aims to debilitate their opposition in some way.",
+  "category": "Physical"
+}

@@ -1,0 +1,17 @@
+{
+  "number": 626,
+  "name": "Bouffalant",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Fury Attack", "Leer", "Pursuit", "Rage"],
+    "silver": ["Focus Energy", "Head Charge", "Horn Attack", "Revenge", "Reversal", "Scary Face"],
+    "gold": ["Giga Impact", "Megahorn", "Swords Dance", "Thrash"],
+    "platinum": ["Outrage", "Skull Bash", "Zen Headbutt"],
+    "diamond": []
+  }
+}

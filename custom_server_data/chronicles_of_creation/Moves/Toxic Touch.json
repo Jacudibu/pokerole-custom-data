@@ -1,0 +1,10 @@
+{
+  "name": "Toxic Touch",
+  "type": "Poison",
+  "power": 0,
+  "accuracy": "Vitality / Insight",
+  "target": "User or Ally",
+  "effect": "Reaction. Shield Move. Reduce the damage the User takes by the User's Rank. If the move that strikes the User is a Contact move, the foe is now Poisoned.",
+  "description": "The Pokemon's skin excretes a dangerous toxin, poisoning the foe on contact.",
+  "category": "Support"
+}

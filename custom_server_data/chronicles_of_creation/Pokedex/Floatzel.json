@@ -1,0 +1,17 @@
+{
+  "number": 419,
+  "name": "Floatzel",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Growl", "Ice Fang", "Quick Attack", "Sonic Boom", "Water Sport"],
+    "silver": ["Aqua Jet", "Double Hit", "Pursuit", "Razor Wind", "Swift", "Water Gun", "Whirlpool"],
+    "gold": ["Agility", "Aqua Tail", "Crunch", "Hydro Pump"],
+    "platinum": ["Aqua Ring", "Ice Punch", "Iron Tail", "Tail Slap"],
+    "diamond": []
+  }
+}

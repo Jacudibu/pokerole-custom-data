@@ -1,5 +1,5 @@
 {
     "name": "Sand Spit",
-    "description": "The Pokemon slithers through the desert sand, eating some of it in the process. If it gets hot (or sneezes) a sandstorm will blow up.",
-    "effect": "If this Pokemon is hit with a Contact Move, it starts the effects of Sandstorm Weather. This ability can activate a number of times equal to half this Pokemon's Rank Bonus (rounded up)."
+    "description": "The Pokemon slithers through the desert sand, eating some of it in the process, if it gets hot (or sneezes) a sandstorm will blow up.",
+    "effect": "Whenever a foe makes Contact with this Pokemon, the User initiates Sandstorm or Duststorm Weather (as if they had used a Move to do so). This ability may activate a number of times equal to half the User's Rank Bonus (rounded up)."
 }

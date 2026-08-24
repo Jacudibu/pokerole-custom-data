@@ -1,0 +1,17 @@
+{
+  "number": 275,
+  "name": "Shiftry",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bide", "Feint Attack", "Growth", "Harden", "Pound", "Razor Leaf"],
+    "silver": ["Fake Out", "Leaf Blade", "Leaf Tornado", "Nasty Plot", "Nature Power", "Synthesis", "Torment", "Whirlwind"],
+    "gold": ["Explosion", "Extrasensory", "Hurricane", "Leaf Storm", "Razor Wind", "Sunny Day", "Swagger"],
+    "platinum": ["Bullet Seed", "Foul Play", "Grassy Terrain", "Leech Seed", "Seed Bomb", "Self Destruct", "Worry Seed"],
+    "diamond": []
+  }
+}

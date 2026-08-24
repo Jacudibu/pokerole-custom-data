@@ -1,0 +1,17 @@
+{
+  "number": 505,
+  "name": "Watchog",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bide", "Bite", "Detect", "Leer", "Low Kick", "Tackle"],
+    "silver": ["After You", "Confuse Ray", "Crunch", "Focus Energy", "Hypnosis", "Mean Look", "Psych Up", "Rototiller", "Sand Attack", "Super Fang", "Work Up"],
+    "gold": ["Baton Pass", "Hyper Fang", "Nasty Plot", "Slam"],
+    "platinum": ["Aqua Tail", "Fire Punch", "Revenge", "Screech", "Seed Bomb", "Thunder Punch"],
+    "diamond": []
+  }
+}

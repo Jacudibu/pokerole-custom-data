@@ -1,0 +1,5 @@
+{
+    "name": "Schooling",
+    "description": "When this Pokemon is threatened, it calls thousands of allies to create an uncontrollable monster. The closer to the sea, the faster they arrive.",
+    "effect": "Only Wishiwashi can use this Ability. This ability only takes effect if the User is level 6 or higher (if the User is below level 6 their ability becomes Torrent). The User is able to use Wishiwashi (Swarm Form) for determining their Stats. When the User's HP is reduced to 25% or less of their maximum, Reduce the User's base Strength and Special by 2, as well as their base Defense and Special Defense by 1, and Increase their base Dexterity by 1. If at the start of Round the User is above the 25% HP threshold, remove the Base Stat effects of Schooling. If the User is level 12 or higher, this Ability is treated as always active (and does not consume their Active Ability Slot). This Ability cannot be swapped, copied, replaced or nullified (ignoring the effects of Skill Swap, Worry Seed, Gastro Acid, Trace etc.)"
+}

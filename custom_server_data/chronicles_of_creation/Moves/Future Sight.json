@@ -1,0 +1,11 @@
+{
+    "name": "Future Sight",
+    "type": "Psychic",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Strikes at the end of next Round, damage dice are rolled when this move is first performed. Ignores Shield Moves and redirection. If the original target has left combat, instead damage another valid target at random.",
+    "description": "The Pokemon foresses something terrible happening to the target. It may see images from its own future without any risk.",
+    "category": "Special"
+}
