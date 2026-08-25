@@ -2,5 +2,5 @@
     "name": "Balance Scroll",
     "description": "The User adds half their total Strength Stat to their Special Stat or vice versa (including Stat Changes). The increased Stat cannot be raised above its counterpart (ex: A character with 6 Strength and 4 Special will only confer a bonus of +2 Base Special).",
     "category": "HeldItem",
-    "single_use": "false"
+    "single_use": false
 }

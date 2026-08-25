@@ -2,7 +2,7 @@
   "name": "Take Down",
   "type": "Normal",
   "power": 3,
-  "damage": "Stength",
+  "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
   "effect": "Recoil. Roll 2 Chance Dice to Flinch the Foe.",

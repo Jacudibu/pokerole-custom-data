@@ -2,5 +2,5 @@
     "name": "Telescope",
     "description": "The User's All Foes and Area moves may instead be performed with Foe targeting.",
     "category": "HeldItem",
-    "single_use": "false"
+    "single_use": false
 }
