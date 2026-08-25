@@ -1,0 +1,6 @@
+{
+    "name": "Titan Guard",
+    "description": "The user cannot have use of their Armor or this item blocked by any effect.",
+    "category": "HeldItem",
+    "single_use": false
+}

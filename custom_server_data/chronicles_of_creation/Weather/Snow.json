@@ -1,0 +1,5 @@
+{
+  "name": "Snow Weather",
+  "description": "A snowstorm is blowing a chilling wind throughout the battlefield and coating it snow.",
+  "effect": "- Ice-types gain +1 Base Defense.\n- Fire and Fighting-type attacks deal neutral damage to Ice-Type Pokemon (additional types apply resistance/effectiveness normally)."
+}

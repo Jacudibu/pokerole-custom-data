@@ -1,6 +1,6 @@
 {
     "name": "Rhythmic Cleaver",
-    "description": "All the User's Physical Attacks gain __Sound Based__.",
+    "description": "All the User's Physical Attacks gain __Sound Based__. Moves that were already __Sound Based__ instead gain an additional Damage Die",
     "category": "HeldItem",
     "single_use": false
 }

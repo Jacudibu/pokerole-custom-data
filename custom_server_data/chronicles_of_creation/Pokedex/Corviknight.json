@@ -1,0 +1,17 @@
+{
+  "number": 823,
+  "name": "Corviknight",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Leer", "Peck"],
+    "silver": ["Fury Attack", "Hone Claws", "Iron Defense", "Metal Sound", "Pluck", "Power Trip", "Steel Wing"],
+    "gold": ["Brave Bird", "Drill Peck", "Scary Face", "Swagger", "Taunt"],
+    "platinum": ["Defog", "Rock Smash", "Roost", "Sand Attack", "Sky Attack", "Spite", "Steel Beam", "Tailwind"],
+    "diamond": []
+  }
+}

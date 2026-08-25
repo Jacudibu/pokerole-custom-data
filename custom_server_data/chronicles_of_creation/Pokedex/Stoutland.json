@@ -1,0 +1,17 @@
+{
+  "number": 508,
+  "name": "Stoutland",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Baby-Doll Eyes", "Bite", "Leer", "Odor Sleuth", "Tackle"],
+    "silver": ["Crunch", "Fire Fang", "Helping Hand", "Ice Fang", "Retaliate", "Roar", "Take Down", "Thunder Fang", "Work Up"],
+    "gold": ["Giga Impact", "Last Resort", "Play Rough", "Reversal"],
+    "platinum": ["Endure", "Iron Head", "Lick", "Psychic Fangs", "Superpower", "Yawn"],
+    "diamond": []
+  }
+}

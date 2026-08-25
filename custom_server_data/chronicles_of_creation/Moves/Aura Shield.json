@@ -1,0 +1,11 @@
+{
+    "name": "Aura Shield",
+    "type": "Fighting",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality / Insight",
+    "target": "User or Ally",
+    "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Physical move, increase the Strength of the Target by 1.",
+    "description": "The Pokemon channels its aura to protect itself or its ally from harm.",
+    "category": "Support"
+}

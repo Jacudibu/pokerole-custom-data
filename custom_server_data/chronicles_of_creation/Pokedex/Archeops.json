@@ -1,0 +1,17 @@
+{
+  "number": 567,
+  "name": "Archeops",
+  "base_hp": 5,
+  "strength": "4/8",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Double Team", "Leer", "Quick Attack", "Rock Throw", "Scary Face", "Wing Attack"],
+    "silver": ["Acrobatics", "Agility", "Ancient Power", "Crunch", "Dragon Breath", "Endeavor", "Pluck", "Quick Guard", "U-Turn"],
+    "gold": ["Dragon Claw", "Rock Slide", "Thrash"],
+    "platinum": ["Bounce", "Head Smash", "Iron Defense", "Knock Off", "Sky Attack", "Steel Wing"],
+    "diamond": []
+  }
+}

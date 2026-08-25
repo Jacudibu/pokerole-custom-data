@@ -1,0 +1,11 @@
+{
+  "name": "Role Play",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Clever",
+  "target": "Foe",
+  "effect": "Never Fail. Copy the target's Ability, overwriting your own. Some abilities cannot be copied. You may suppress this effect on yourself by using a Mental Herb for rounds equal to your rank.",
+  "description": "The user mimics the target and takes on the most basic features from that character.",
+  "category": "Support"
+}

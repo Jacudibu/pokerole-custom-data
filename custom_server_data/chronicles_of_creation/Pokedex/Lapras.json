@@ -1,0 +1,17 @@
+{
+  "number": 131,
+  "name": "Lapras",
+  "base_hp": 8,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Growl", "Mist", "Sing", "Water Gun"],
+    "silver": ["Body Slam", "Brine", "Confuse Ray", "Ice Beam", "Ice Shard", "Rain Dance", "Water Pulse"],
+    "gold": ["Hydro Pump", "Perish Song", "Safeguard", "Sheer Cold"],
+    "platinum": ["Dragon Dance", "Freeze Dry", "Outrage"],
+    "diamond": []
+  }
+}

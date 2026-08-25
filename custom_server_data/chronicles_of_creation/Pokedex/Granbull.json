@@ -1,0 +1,17 @@
+{
+  "number": 210,
+  "name": "Granbull",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Charm", "Scary Face", "Tackle", "Tail Whip"],
+    "silver": ["Bite", "Fire Fang", "Headbutt", "Ice Fang", "Lick", "Rage", "Thunder Fang"],
+    "gold": ["Crunch", "Outrage", "Payback", "Play Rough", "Roar"],
+    "platinum": ["Close Combat", "Fake Tears", "Heal Bell", "Present", "Super Fang", "Water Pulse"],
+    "diamond": []
+  }
+}

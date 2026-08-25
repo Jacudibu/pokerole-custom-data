@@ -1,0 +1,6 @@
+{
+    "name": "Ability Shield",
+    "description": "The User's ability cannot be swapped, replaced or nullified by others (except by Mold Breaker which resolves normally).",
+    "category": "HeldItem",
+    "single_use": "false"
+}

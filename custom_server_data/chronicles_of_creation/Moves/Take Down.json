@@ -1,0 +1,11 @@
+{
+  "name": "Take Down",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Stength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Recoil. Roll 2 Chance Dice to Flinch the Foe.",
+  "description": "The user charges against the foe using its body to knock it down, leaving the target stunned.",
+  "category": "Physical"
+}

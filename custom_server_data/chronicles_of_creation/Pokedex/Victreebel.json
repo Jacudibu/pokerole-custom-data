@@ -1,0 +1,17 @@
+{
+  "number": 71,
+  "name": "Victreebel",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Growth", "Poison Powder", "Spit Up", "Stockpile", "Swallow", "Vine Whip", "Wrap"],
+    "silver": ["Acid", "Gastro Acid", "Knock Off", "Leaf Tornado", "Razor Leaf", "Sleep Powder", "Stun Spore", "Sweet Scent"],
+    "gold": ["Leaf Blade", "Leaf Storm", "Poison Jab", "Slam", "Wring Out"],
+    "platinum": ["Belch", "Ingrain", "Power Whip", "Synthesis", "Tickle", "Weather Ball"],
+    "diamond": []
+  }
+}

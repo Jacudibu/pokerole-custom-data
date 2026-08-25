@@ -1,0 +1,18 @@
+{
+  "number": 10127,
+  "api_id": 10127,
+  "name": "Wishiwashi (Swarm Form)",
+  "base_hp": 4,
+  "strength": "4/8",
+  "dexterity": "1/3",
+  "vitality": "3/7",
+  "special": "4/8",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Brine", "Feint Attack", "Growl", "Helping Hand", "Water Gun"],
+    "silver": ["Aqua Ring", "Aqua Tail", "Beat Up", "Dive", "Soak", "Take Down", "Tearful Look"],
+    "gold": ["Double-Edge", "Endeavor", "Hydro Pump"],
+    "platinum": ["Mist", "Muddy Water", "Water Pulse"],
+    "diamond": []
+  }
+}

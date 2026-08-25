@@ -1,0 +1,6 @@
+{
+    "name": "Whetstone",
+    "description": "The User can use this item instead of using the durability charge of an Active Weapon they have equipped.",
+    "category": "Consumable",
+    "single_use": true
+}

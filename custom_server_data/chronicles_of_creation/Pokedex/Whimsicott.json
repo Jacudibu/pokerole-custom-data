@@ -1,0 +1,17 @@
+{
+  "number": 547,
+  "name": "Whimsicott",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Cotton Spore", "Fairy Wind", "Growth", "Leech Seed", "Mega Drain", "Stun Spore"],
+    "silver": ["Charm", "Energy Ball", "Gust", "Helping Hand", "Moonblast", "Poison Powder", "Razor Leaf", "Tailwind"],
+    "gold": ["Cotton Guard", "Endeavor", "Giga Drain", "Hurricane", "Solar Beam", "Sunny Day"],
+    "platinum": ["Beat Up", "Encore", "Fake Tears", "Memento"],
+    "diamond": []
+  }
+}

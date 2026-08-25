@@ -1,0 +1,11 @@
+{
+  "name": "Hone Steel",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Repairs each of your equipped weapons by 1. All Charges of your Weapons that are repaired this way are lost at the end of Combat. Additionally, the next attack you do with a weapon has +2 Damage Dice.",
+  "description": "Your an expert in doing a quick repair on your weapons!",
+  "category": "Support"
+}

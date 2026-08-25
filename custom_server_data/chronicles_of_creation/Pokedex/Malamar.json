@@ -1,0 +1,17 @@
+{
+  "number": 687,
+  "name": "Malamar",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Hypnosis", "Payback", "Peck", "Reversal", "Tackle", "Wrap"],
+    "silver": ["Night Slash", "Pluck", "Psybeam", "Psycho Cut", "Slash", "Swagger"],
+    "gold": ["Foul Play", "Superpower", "Switcheroo", "Topsy-Turvy"],
+    "platinum": ["Knock Off", "Power Split", "Simple Beam"],
+    "diamond": []
+  }
+}

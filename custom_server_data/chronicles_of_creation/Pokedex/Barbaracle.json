@@ -1,0 +1,17 @@
+{
+  "number": 689,
+  "name": "Barbaracle",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Mud Slap", "Scratch", "Skull Bash", "Water Gun", "Withdraw"],
+    "silver": ["Ancient Power", "Fury Cutter", "Fury Swipes", "Hone Claws", "Rock Polish", "Slash"],
+    "gold": ["Cross Chop", "Razor Shell", "Shell Smash", "Stone Edge"],
+    "platinum": ["Dual Chop", "Helping Hand", "Iron Defense", "Stealth Rock", "Tickle"],
+    "diamond": []
+  }
+}

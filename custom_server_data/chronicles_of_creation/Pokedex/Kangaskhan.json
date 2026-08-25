@@ -1,0 +1,17 @@
+{
+  "number": 115,
+  "name": "Kangaskhan",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Comet Punch", "Fake Out", "Leer", "Tail Whip"],
+    "silver": ["Chip Away", "Crunch", "Dizzy Punch", "Double Hit", "Mega Punch", "Rage"],
+    "gold": ["Endure", "Outrage", "Reversal", "Sucker Punch"],
+    "platinum": ["Aqua Tail", "Captivate", "Counter"],
+    "diamond": []
+  }
+}

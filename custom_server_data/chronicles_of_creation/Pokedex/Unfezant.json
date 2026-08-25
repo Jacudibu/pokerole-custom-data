@@ -1,0 +1,17 @@
+{
+  "number": 521,
+  "name": "Unfezant",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Growl", "Gust", "Leer", "Quick Attack"],
+    "silver": ["Air Cutter", "Air Slash", "Detect", "Feather Dance", "Razor Wind", "Roost", "Taunt"],
+    "gold": ["Facade", "Sky Attack", "Swagger", "Tailwind"],
+    "platinum": ["Heat Wave", "Hypnosis", "Lucky Chant", "Night Slash", "Steel Wing"],
+    "diamond": []
+  }
+}

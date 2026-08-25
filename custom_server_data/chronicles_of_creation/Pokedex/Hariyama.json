@@ -1,0 +1,17 @@
+{
+  "number": 297,
+  "name": "Hariyama",
+  "base_hp": 7,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "1/3",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Arm Thrust", "Focus Energy", "Sand Attack", "Tackle", "Vital Throw"],
+    "silver": ["Belly Drum", "Brine", "Fake Out", "Force Palm", "Knock Off", "Seismic Toss", "Smelling Salts", "Wake-Up Slap", "Whirlwind"],
+    "gold": ["Close Combat", "Endure", "Heavy Slam", "Reversal"],
+    "platinum": ["Bullet Punch", "Detect", "Fire Punch", "Ice Punch", "Thunder Punch", "Wide Guard"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 475,
+  "name": "Gallade",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Confusion", "Disarming Voice", "Double Team", "Growl", "Leer", "Quick Guard", "Teleport"],
+    "silver": ["Calm Mind", "Charm", "Draining Kiss", "False Swipe", "Feint", "Fury Cutter", "Heal Pulse", "Helping Hand", "Imprison", "Lucky Chant", "Magical Leaf", "Psychic", "Psycho Cut", "Slash", "Swords Dance", "Wide Guard"],
+    "gold": ["Close Combat", "Dream Eater", "Future Sight", "Hypnosis", "Leaf Blade", "Night Slash", "Protect", "Stored Power"],
+    "platinum": ["Drain Punch", "Magic Room", "Mean Look", "Shadow Sneak", "Telekinesis", "Thunder Punch"],
+    "diamond": []
+  }
+}

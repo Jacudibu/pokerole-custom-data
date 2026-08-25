@@ -1,0 +1,17 @@
+{
+  "number": 416,
+  "name": "Vespiquen",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Confuse Ray", "Fury Cutter", "Gust", "Poison Sting", "Pursuit", "Sweet Scent"],
+    "silver": ["Aromatic Mist", "Attack Order", "Bug Bite", "Bug Buzz", "Defend Order", "Fell Stinger", "Fury Swipes", "Heal Order", "Power Gem", "Slash", "Toxic"],
+    "gold": ["Air Slash", "Aromatherapy", "Captivate", "Destiny Bond", "Endeavor", "Swagger", "Swift", "Tailwind"],
+    "platinum": ["Endure", "Ominous Wind", "Signal Beam"],
+    "diamond": []
+  }
+}

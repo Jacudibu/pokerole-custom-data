@@ -1,11 +1,11 @@
 {
-    "name": "Monkey Grip",
-    "type": "Typeless",
-    "power": 0,
-    "damage": "",
-    "accuracy": "Vitality",
-    "target": "User",
-    "effect": "On your following turn, you gain the ability to use two of your weapons in one action. Gaining Bonus Dice to Accuracy and Damage equal to half your rank (Round Down)",
-    "description": "You take a moment to prepare to use two of your weapons at once!",
-    "category": "Support"
+  "name": "Monkey Grip",
+  "type": "Tyepless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "On your following turn, you gain the ability to use two of your weapons in one action, gaining Bonus Dice to Accuracy and Damage equal to half your rank (Round Down). You may target the same Pokemon with both attacks or two separate ones. Each attack is considered its own separate attack and it is not considered a Dual Action.",
+  "description": "You take a moment to prepare to use two of your weapons at once!",
+  "category": "Support"
 }

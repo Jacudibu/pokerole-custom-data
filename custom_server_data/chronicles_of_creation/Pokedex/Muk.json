@@ -1,0 +1,17 @@
+{
+  "number": 89,
+  "name": "Muk",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Disable", "Harden", "Mud Slap", "Poison Gas", "Pound"],
+    "silver": ["Fling", "Minimize", "Mud Bomb", "Screech", "Sludge", "Sludge Bomb", "Venom Drench"],
+    "gold": ["Acid Armor", "Belch", "Gunk Shot", "Memento", "Sludge Wave"],
+    "platinum": ["Giga Drain", "Scary Face", "Self Destruct", "Shadow Sneak"],
+    "diamond": []
+  }
+}

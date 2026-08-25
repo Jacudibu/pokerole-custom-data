@@ -1,11 +1,11 @@
 {
-    "name": "Brick Break",
-    "type": "Fighting",
-    "power": 3,
-    "damage": "Strength",
-    "accuracy": "Dexterity",
-    "target": "Foe",
-    "effect": "Striking. Destroy all active Screens Moves on the target's side of the battlefield. If any are removed, add 2 Extra Dice to the Damage Pool.",
-    "description": "The Pokemon uses its palm or claws to perform a one-armed chop that shatters even invisible barriers.",
-    "category": "Physical"
+  "name": "Brick Break",
+  "type": "Fighting",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Striking. Ignores Screens. Reduce the duration of Screens on the target's side of the battlefield by 2 Rounds. On a Critical Strike, reduce the duration by 3 Rounds instead. If the target is behind any active Screens when performed, add 2 Extra Dice to the Damage Pool.",
+  "description": "The Pokemon uses its palm or claws to perform a one-armed chop that shatters even invisible barriers.",
+  "category": "Physical"
 }

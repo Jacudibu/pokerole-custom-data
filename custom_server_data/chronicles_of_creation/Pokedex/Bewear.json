@@ -1,0 +1,17 @@
+{
+  "number": 760,
+  "name": "Bewear",
+  "base_hp": 7,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Baby-Doll Eyes", "Bide", "Brutal Swing", "Leer", "Tackle", "Take Down"],
+    "silver": ["Bind", "Flail", "Hammer Arm", "Pain Split", "Payback"],
+    "gold": ["Double-Edge", "Superpower", "Thrash"],
+    "platinum": ["Dragon Claw", "Giga Impact", "Ice Punch", "Stomping Tantrum", "Thunder Punch", "Wide Guard"],
+    "diamond": []
+  }
+}

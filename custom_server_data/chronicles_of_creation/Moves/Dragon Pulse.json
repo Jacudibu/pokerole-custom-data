@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Pulse Move.",
+  "effect": "Pulse Move. Reduce the duration of Screens on the target's side of the battlefield by 2 Rounds. On a Critical Strike, reduce the duration by 3 Rounds instead.",
   "description": "The user opens its mouth and sends a powerful wave of energy.",
   "category": "Special"
 }

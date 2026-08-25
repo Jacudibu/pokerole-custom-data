@@ -1,0 +1,17 @@
+{
+  "number": 326,
+  "name": "Grumpig",
+  "base_hp": 5,
+  "strength": "1/3",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Belch", "Odor Sleuth", "Psywave", "Splash"],
+    "silver": ["Confuse Ray", "Magic Coat", "Power Gem", "Psybeam", "Psych Up", "Rest", "Snore", "Teeter Dance", "Zen Headbutt"],
+    "gold": ["Bounce", "Payback", "Psychic", "Psyshock"],
+    "platinum": ["Drain Punch", "Extrasensory", "Future Sight", "Role Play", "Signal Beam", "Trick"],
+    "diamond": []
+  }
+}

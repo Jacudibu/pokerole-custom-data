@@ -1,0 +1,11 @@
+{
+    "name": "Jungle Healing",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User and Allies",
+    "effect": "If successful, spend 1 Will point to activate. User and Allies in Range heal 1 HP at the end of each Round. Lasts 4 Rounds. When first activated, Cure the User and Allies of Status Ailments.",
+    "description": "The user absorbs energy from nature, empowering it and its allies with nature energy.",
+    "category": "Support"
+}

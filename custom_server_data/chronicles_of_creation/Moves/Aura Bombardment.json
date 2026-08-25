@@ -1,0 +1,11 @@
+{
+  "name": "Aura Bombardment",
+  "type": "Fighting",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Recoil. -2 Accuracy. When performed within Aura Field, this move loses Recoil and is instead a Draining Move.",
+  "description": "When the user overcharges their Aura to unleash a bombardment of attacks on their foe!",
+  "category": "Special"
+}

@@ -1,6 +1,6 @@
 {
     "name": "Pugilist Wraps",
-    "description": "All the User's Physical Attacks gain Fist Based.",
+    "description": "All the User's Physical Attacks gain __Fist Based__. Moves that were already __Fist Based__ instead gain an additional Damage Die.",
     "category": "HeldItem",
     "single_use": false
 }

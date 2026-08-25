@@ -1,0 +1,17 @@
+{
+  "number": 400,
+  "name": "Bibarel",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Defense Curl", "Growl", "Tackle", "Take Down"],
+    "silver": ["Amnesia", "Crunch", "Headbutt", "Hyper Fang", "Rollout", "Rototiller", "Water Gun", "Yawn"],
+    "gold": ["Curse", "Super Fang", "Superpower", "Swords Dance"],
+    "platinum": ["Aqua Tail", "Focus Punch", "Last Resort", "Mud Slap", "Stealth Rock", "Water Sport"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mind Crush",
+  "type": "Psychic",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Inflict one of three Status Ailments, rolling randomly to pick which one: Confused, In Love, Drowsy. -2 Accuracy. If performed under Cosmic Rays Weather, this inflicts two Status Ailments instead of 1.",
+  "description": "An overwhelming presence of the user's Will in their foes mind, crushing their will to fight.",
+  "category": "Special"
+}

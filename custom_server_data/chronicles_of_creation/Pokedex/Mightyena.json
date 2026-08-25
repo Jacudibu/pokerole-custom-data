@@ -1,0 +1,17 @@
+{
+  "number": 262,
+  "name": "Mightyena",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bite", "Howl", "Sand Attack", "Tackle"],
+    "silver": ["Assurance", "Fire Fang", "Ice Fang", "Odor Sleuth", "Roar", "Scary Face", "Swagger", "Take Down", "Taunt", "Thief", "Thunder Fang", "Yawn"],
+    "gold": ["Crunch", "Embargo", "Play Rough", "Snarl", "Sucker Punch"],
+    "platinum": ["Counter", "Dig", "Endure", "Iron Tail", "Poison Fang", "Snatch"],
+    "diamond": []
+  }
+}

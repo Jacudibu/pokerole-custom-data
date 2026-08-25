@@ -1,0 +1,17 @@
+{
+  "number": 110,
+  "name": "Weezing",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Clear Smog", "Poison Gas", "Smog", "Smokescreen", "Tackle"],
+    "silver": ["Assurance", "Double Hit", "Gyro Ball", "Haze", "Self Destruct", "Sludge", "Sludge Bomb"],
+    "gold": ["Belch", "Destiny Bond", "Explosion", "Memento"],
+    "platinum": ["Pain Split", "Psybeam", "Rollout", "Toxic Spikes"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 269,
+  "name": "Dustox",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Confusion", "Gust", "Harden", "Poison Sting", "String Shot", "Tackle"],
+    "silver": ["Bug Bite", "Electroweb", "Iron Defense", "Light Screen", "Mega Drain", "Moonlight", "Protect", "Psybeam", "Silver Wind", "Venoshock", "Whirlwind"],
+    "gold": ["Bug Buzz", "Quiver Dance", "Toxic"],
+    "platinum": ["Air Cutter", "Extrasensory", "Swift", "Twister"],
+    "diamond": []
+  }
+}

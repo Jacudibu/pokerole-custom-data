@@ -1,11 +1,11 @@
 {
-    "name": "Sharpen",
-    "type": "Typeless",
-    "power": 0,
-    "damage": "",
-    "accuracy": "Dexterity",
-    "target": "User",
-    "effect": "Repairs each of your equipped weapons by 1, all Charges of your Weapons that are repaired this way are lost at the end of Combat.",
-    "description": "Your an expert in doing a quick repair on your weapons!",
-    "category": "Support"
+  "name": "Sharpen",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "Increase the User's Strength by 1. While they have this Strength Increase, the User's Slicing moves gain +1 Damage Dice.",
+  "description": "The user cuts down the rough edges of its body to make it as sharp as a razor.",
+  "category": "Support"
 }

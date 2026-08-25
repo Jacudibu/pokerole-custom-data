@@ -1,0 +1,17 @@
+{
+  "number": 68,
+  "name": "Machamp",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Focus Energy", "Foresight", "Karate Chop", "Leer", "Low Kick", "Strength"],
+    "silver": ["Dual Chop", "Knock Off", "Low Sweep", "Revenge", "Seismic Toss", "Submission", "Vital Throw", "Wake-Up Slap", "Wide Guard"],
+    "gold": ["Bulk Up", "Cross Chop", "Dynamic Punch", "Scary Face"],
+    "platinum": ["Bullet Punch", "Close Combat", "Fire Punch", "Ice Punch", "Meditate", "Thunder Punch", "Tickle"],
+    "diamond": []
+  }
+}

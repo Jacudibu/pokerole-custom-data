@@ -1,0 +1,17 @@
+{
+  "number": 620,
+  "name": "Mienshao",
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Detect", "Meditate", "Pound"],
+    "silver": ["Calm Mind", "Double Slap", "Drain Punch", "Fake Out", "Force Palm", "Jump Kick", "Swift", "U-Turn"],
+    "gold": ["Aura Sphere", "Bounce", "High Jump Kick", "Quick Guard", "Reversal", "Wide Guard"],
+    "platinum": ["Ally Switch", "Dual Chop", "Endure", "Feint", "Helping Hand"],
+    "diamond": []
+  }
+}

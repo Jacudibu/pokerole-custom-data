@@ -1,0 +1,17 @@
+{
+  "number": 984,
+  "name": "Great Tusk",
+  "base_hp": 7,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "4/8",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bulldoze", "Defense Curl", "Horn Attack", "Rollout", "Low Kick"],
+    "silver": ["Brick Break", "Taunt", "Rapid Spin", "Stomping Tantrum"],
+    "gold": ["Giga Impact", "Headlong Rush", "Knock Off"],
+    "platinum": ["Close Combat", "Earthquake", "Head Smash", "Megahorn"],
+    "diamond": []
+  }
+}

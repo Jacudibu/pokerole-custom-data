@@ -1,0 +1,17 @@
+{
+  "number": 972,
+  "name": "Houndstone",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Bite", "Growl", "Last Respects", "Lick", "Roar", "Tackle", "Tail Whip"],
+    "silver": ["Crunch", "Dig", "Headbutt", "Play Rought", "Rest"],
+    "gold": ["Charm", "Double-Edge", "Helping Hand", "Phantom Force"],
+    "platinum": ["Destiny Bond", "Howl", "Yawn"],
+    "diamond": []
+  }
+}

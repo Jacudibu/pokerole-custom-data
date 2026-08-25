@@ -1,0 +1,17 @@
+{
+  "number": 306,
+  "name": "Aggron",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "4/9",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Harden", "Metal Claw", "Mud Slap", "Tackle", "Take Down"],
+    "silver": ["Headbutt", "Iron Defense", "Iron Head", "Iron Tail", "Metal Sound", "Protect", "Roar", "Rock Slide", "Rock Tomb"],
+    "gold": ["Autotomize", "Double-Edge", "Heavy Slam", "Metal Burst", "Rollout"],
+    "platinum": ["Dragon Rush", "Endeavor", "Head Smash", "Screech", "Superpower"],
+    "diamond": []
+  }
+}

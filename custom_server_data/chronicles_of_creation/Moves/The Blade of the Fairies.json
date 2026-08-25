@@ -1,0 +1,11 @@
+{
+  "name": "The Blade of the Fairies",
+  "type": "Fairy",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Charge. Inflicts Wounds. Slicing. When performed under Fairy Dust Weather, you may skip the Charge phase.",
+  "description": "A powerful attack, supposedly taught to the first Knight by a Queen of Faries...",
+  "category": "Physical"
+}

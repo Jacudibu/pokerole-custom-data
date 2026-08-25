@@ -1,0 +1,17 @@
+{
+  "number": 836,
+  "name": "Boltund",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Electrify", "Nuzzle", "Tackle", "Tail Whip"],
+    "silver": ["Bite", "Charm", "Crunch", "Roar", "Spark"],
+    "gold": ["Charge", "Play Rough", "Wild Charge"],
+    "platinum": ["Dig", "Electric Terrain", "Flame Charge", "Howl", "Psychic Fangs", "Sand Attack", "Thunder Fang"],
+    "diamond": []
+  }
+}

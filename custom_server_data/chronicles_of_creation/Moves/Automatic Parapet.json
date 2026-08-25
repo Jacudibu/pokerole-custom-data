@@ -1,0 +1,11 @@
+{
+  "name": "Automatic Parapet",
+  "type": "Electric",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality / Insight",
+  "target": "User or Ally",
+  "effect": "Reaction. Shield Move. Reduce the damage the User takes by the User's Rank. If the move that strikes the User is a Contact move, the foe is now Paralyzed.",
+  "description": "The Pokemon creates an electrified barrier, shocking anyone that touches it.",
+  "category": "Support"
+}

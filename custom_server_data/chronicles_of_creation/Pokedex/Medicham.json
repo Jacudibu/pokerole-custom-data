@@ -1,0 +1,17 @@
+{
+  "number": 308,
+  "name": "Medicham",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bide", "Confusion", "Detect", "Endure", "Meditate"],
+    "silver": ["Calm Mind", "Feint", "Fire Punch", "Force Palm", "Hidden Power", "High Jump Kick", "Ice Punch", "Mind Reader", "Thunder Punch", "Zen Headbutt"],
+    "gold": ["Acupressure", "Counter", "Power Trick", "Psych Up", "Recover", "Reversal"],
+    "platinum": ["Baton Pass", "Drain Punch", "Foresight", "Gravity", "Guard Swap", "Power Swap"],
+    "diamond": []
+  }
+}

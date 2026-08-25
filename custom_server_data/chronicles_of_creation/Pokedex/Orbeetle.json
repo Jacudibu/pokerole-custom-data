@@ -1,0 +1,17 @@
+{
+  "number": 826,
+  "name": "Orbeetle",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Confusion", "Light Screen", "Reflect", "Struggle Bug"],
+    "silver": ["Agility", "Bug Buzz", "Confuse Ray", "Infestation", "Mirror Coat", "Sticky Web", "Supersonic", "Psybeam"],
+    "gold": ["After You", "Calm Mind", "Psychic", "Psychic Terrain"],
+    "platinum": ["Ally Switch", "Future Sight", "Hypnosis", "Magic Coat", "Recover"],
+    "diamond": []
+  }
+}

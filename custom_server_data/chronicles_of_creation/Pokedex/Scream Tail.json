@@ -1,0 +1,17 @@
+{
+  "number": 985,
+  "name": "Scream Tail",
+  "base_hp": 7,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Confusion", "Disable", "Fairy Wind", "Howl", "Pound", "Sing"],
+    "silver": ["Bite", "Body Slam", "Disarming Voice", "Noble Roar", "Play Rough", "Rest"],
+    "gold": ["Crunch", "Hyper Voice", "Psychic Fangs"],
+    "platinum": ["Boomburst", "Gyro Ball", "Perish Song", "Wish"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 615,
+  "name": "Cryogonal",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "4/8",
+  "moves": {
+    "bronze": ["Bind", "Haze", "Ice Shard", "Mist", "Sharpen"],
+    "silver": ["Acid Armor", "Aurora Beam", "Freeze Dry", "Ice Beam", "Icy Wind", "Light Screen", "Rapid Spin", "Recover", "Reflect", "Slash"],
+    "gold": ["Confuse Ray", "Night Slash", "Sheer Cold", "Solar Beam"],
+    "platinum": ["Knock Off", "Magic Coat", "Signal Beam"],
+    "diamond": []
+  }
+}

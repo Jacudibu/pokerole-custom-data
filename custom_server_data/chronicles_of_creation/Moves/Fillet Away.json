@@ -1,0 +1,11 @@
+{
+  "name": "Fillet Away",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "User",
+  "effect": "User deals Damage to itself equal to Half of its maximum HP rounded down. Increase the User's Strength, Dexterity, Special by 2. These Stat Increases cannot be stolen or removed unless allowed by the User. These Stat Increases also may not be copied. If these stat changes are removed by a Foe they immediately recover their spent HP.",
+  "description": "The Pokémon sloughs off its own flesh to reveal the sharp bone underneath. This not only increases its ability to harm, but also increases it's speed. It's quite the horrific sight for a foe.",
+  "category": "Support"
+}

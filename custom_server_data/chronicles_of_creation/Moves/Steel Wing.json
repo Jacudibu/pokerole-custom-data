@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Striking. Roll 1 Chance Dice to Increase the User's Defense. -1 Accuracy.",
+  "effect": "Striking. Roll 2 Chance Dice to Increase the User's Defense. -1 Accuracy.",
   "description": "The Pokemon uses its sharp feathers as if they were razors.",
   "category": "Physical"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Piercing Feather Storm",
+  "type": "Flying",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Slicing. High Critical. Lowers the User's Defense and Special Defense by 1.",
+  "description": "Summoning winds that slice through the air and cut the foe to ribbons!",
+  "category": "Special"
+}

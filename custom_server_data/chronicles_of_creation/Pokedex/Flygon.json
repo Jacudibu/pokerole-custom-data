@@ -1,0 +1,17 @@
+{
+  "number": 330,
+  "name": "Flygon",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Feint Attack", "Sand Attack", "Sonic Boom"],
+    "silver": ["Bide", "Bug Buzz", "Bulldoze", "Crunch", "Dig", "Dragon Breath", "Dragon Tail", "Earth Power", "Mud Slap", "Rock Slide", "Sand Tomb", "Screech", "Supersonic", "Uproar"],
+    "gold": ["Boomburst", "Dragon Claw", "Dragon Dance", "Dragon Rush", "Earthquake", "Feint", "Fissure", "Hyper Beam", "Sandstorm", "Superpower"],
+    "platinum": ["Bug Bite", "Draco Meteor", "Dragon Pulse", "Giga Drain", "Headbutt", "Heat Wave", "Outrage", "Tailwind", "Toxic"],
+    "diamond": []
+  }
+}

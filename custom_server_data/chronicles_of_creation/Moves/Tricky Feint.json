@@ -1,0 +1,10 @@
+{
+  "name": "Tricky Feint",
+  "type": "Fairy",
+  "power": 0,
+  "accuracy": "Vitality / Insight",
+  "target": "User or Ally",
+  "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Special move, the foe's Special Defense is lowered by 1.",
+  "description": "The Pokemon deflects the blow with a bit of mischievous flair, leaving the foe off balance.",
+  "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Crackling Might",
+  "type": "Ground",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Lowers the User's Special Defense and Defense by 1 after using the move.",
+  "description": "Unleashing an earthen strike that shakes the ground underneath a foe!",
+  "category": "Special"
+}

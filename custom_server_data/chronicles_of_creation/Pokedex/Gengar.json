@@ -1,0 +1,17 @@
+{
+  "number": 94,
+  "name": "Gengar",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "4/8",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Curse", "Lick", "Mean Look", "Night Shade", "Spite"],
+    "silver": ["Confuse Ray", "Dark Pulse", "Hypnosis", "Payback", "Shadow Ball", "Shadow Punch", "Sucker Punch"],
+    "gold": ["Destiny Bond", "Dream Eater", "Hex", "Nightmare"],
+    "platinum": ["Clear Smog", "Giga Drain", "Grudge", "Icy Wind", "Perish Song", "Trick"],
+    "diamond": []
+  }
+}

@@ -5,7 +5,7 @@
     "damage": "",
     "accuracy": "Insight",
     "target": "User",
-    "effect": "Restore Health Equal to Rank. Randomly select a foe to inflict with a Status Condition chosen randomly between Burn, Paralysis, Frostbite and Badly Poisoned (remove any Status Conditions the foe already has or is unaffected by from selection). Cost's 1 Will to use.",
+    "effect": "Restore Health Equal to Rank. Randomly select a foe to inflict with a Status Ailment chosen randomly between Burn, Paralysis, Frostbite and Badly Poisoned (remove any Status Ailments the foe already has or is unaffected by from selection). Cost's 1 Will to use.",
     "description": "With all this subtlety, you'll need to take a breather.",
     "category": "Support"
 }

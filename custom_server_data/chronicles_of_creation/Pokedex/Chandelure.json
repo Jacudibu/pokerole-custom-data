@@ -1,0 +1,17 @@
+{
+  "number": 609,
+  "name": "Chandelure",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "4/8",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Astonish", "Confuse Ray", "Ember", "Fire Spin", "Minimize", "Smog"],
+    "silver": ["Flame Burst", "Hex", "Imprison", "Memento", "Night Shade", "Pain Split", "Will-O-Wisp"],
+    "gold": ["Curse", "Inferno", "Overheat", "Shadow Ball"],
+    "platinum": ["Acid Armor", "Clear Smog", "Haze", "Power Split", "Trick"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 268,
+  "name": "Cascoon",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/5",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Absorb", "Harden", "Poison Sting", "String Shot", "Tackle"],
+    "silver": ["Bug Bite", "Electroweb", "Iron Defense", "Mega Drain", "Moonlight", "Silver Wind"],
+    "gold": ["Bug Buzz", "Quiver Dance", "Toxic"],
+    "platinum": [],
+    "diamond": []
+  }
+}

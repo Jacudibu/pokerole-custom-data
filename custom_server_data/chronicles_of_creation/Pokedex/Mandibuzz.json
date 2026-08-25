@@ -1,0 +1,17 @@
+{
+  "number": 630,
+  "name": "Mandibuzz",
+  "base_hp": 7,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Fury Attack", "Gust", "Leer", "Pluck"],
+    "silver": ["Air Slash", "Bone Rush", "Dark Pulse", "Defog", "Feint Attack", "Flatter", "Nasty Plot", "Punishment", "Tailwind"],
+    "gold": ["Brave Bird", "Embargo", "Mirror Move", "Whirlwind"],
+    "platinum": ["Fake Tears", "Iron Defense", "Scary Face"],
+    "diamond": []
+  }
+}

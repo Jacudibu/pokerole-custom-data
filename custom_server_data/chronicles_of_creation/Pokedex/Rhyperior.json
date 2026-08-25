@@ -1,0 +1,17 @@
+{
+  "number": 464,
+  "name": "Rhyperior",
+  "base_hp": 7,
+  "strength": "4/8",
+  "dexterity": "1/3",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Horn Attack", "Smack Down", "Stomp", "Tail Whip"],
+    "silver": ["Bulldoze", "Chip Away", "Drill Run", "Fury Attack", "Hammer Arm", "Poison Jab", "Rock Blast", "Scary Face", "Take Down"],
+    "gold": ["Earthquake", "Horn Drill", "Megahorn", "Rock Wrecker", "Stone Edge"],
+    "platinum": ["Dragon Rush", "Fire Fang", "Guard Split", "Ice Fang", "Skull Bash", "Smart Strike", "Thunder Fang"],
+    "diamond": []
+  }
+}

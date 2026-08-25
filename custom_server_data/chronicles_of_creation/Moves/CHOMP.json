@@ -2,10 +2,10 @@
     "name": "CHOMP",
     "type": "Typeless",
     "power": 5,
-    "damage": "Strength/Special",
+    "damage": "Strength / Special",
     "accuracy": "Dexterity",
     "target": "Foe",
-    "effect": "Roll 2 Chance Dice. On a success inflict the target with a Status Condition chosen randomly between Burn, Frostbite, Confused, and Badly Poisoned (remove any Status Conditions the foe already has or is unaffected by from selection).",
-    "description": "You take a big bite out of crime!",
+    "effect": "Roll 2 Chance Dice. On a success inflict the target with a Status Ailment chosen randomly between Burn, Frostbite, Confused, and Badly Poisoned (remove any Status Ailments the foe already has or is unaffected by from selection).",
+    "description": "The user lifts its own spirits, revitalizing itself and repreparing for the fight.",
     "category": "Physical"
 }

@@ -1,0 +1,17 @@
+{
+  "number": 865,
+  "name": "Sirfetch'd",
+  "base_hp": 4,
+  "strength": "4/8",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Fury Cutter", "Leer", "Peck", "Sand Attack"],
+    "silver": ["Acrobatics", "Agility", "Air Cutter", "Brick Break", "Brutal Swing", "Defog", "Detect", "Fury Attack", "Knock Off", "Poison Jab", "Rock Smash", "Slam", "Slash"],
+    "gold": ["Air Slash", "Brave Bird", "False Swipe", "Feint", "Final Gambit", "First Impression", "Iron Defense", "Leaf Blade", "Night Slash", "Swords Dance"],
+    "platinum": ["Endure", "Feather Dance", "Focus Energy", "Meteor Assault", "Roost", "Simple Beam"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 49,
+  "name": "Venomoth",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/6",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Confusion", "Disable", "Foresight", "Supersonic", "Tackle"],
+    "silver": ["Leech Life", "Poison Fang", "Poison Powder", "Psybeam", "Quiver Dance", "Silver Wind", "Stun Spore"],
+    "gold": ["Bug Buzz", "Psychic", "Signal Beam", "Sleep Powder", "Zen Headbutt"],
+    "platinum": ["Agility", "Baton Pass", "Defog", "Giga Drain", "Morning Sun"],
+    "diamond": []
+  }
+}

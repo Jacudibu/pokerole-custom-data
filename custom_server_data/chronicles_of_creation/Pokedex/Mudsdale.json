@@ -1,0 +1,17 @@
+{
+  "number": 750,
+  "name": "Mudsdale",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "1/3",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Bulldoze", "Double Kick", "Mud Slap", "Mud Sport", "Rototiller"],
+    "silver": ["Bide", "Counter", "Heavy Slam", "High Horsepower", "Iron Defense", "Stomp"],
+    "gold": ["Earthquake", "Mega Kick", "Superpower"],
+    "platinum": ["Close Combat", "Giga Impact", "Magnitude", "Mud Bomb", "Rock Slide", "Strength"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 904,
+  "name": "Overqwil",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bite", "Harden", "Poison Sting", "Supersonic", "Tackle", "Water Gun"],
+    "silver": ["Barb Barrage", "Brine", "Bubble", "Fell Stinger", "Minimize", "Pin Missile", "Revenge", "Rollout", "Spikes", "Take Down", "Toxic Spikes"],
+    "gold": ["Acupressure", "Crunch", "Destiny Bond", "Hydro Pump", "Poison Jab", "Spit Up", "Stockpile", "Toxic"],
+    "platinum": ["Acid Spray", "Aqua Jet", "Aqua Tail", "Self Destruct", "Swords Dance"],
+    "diamond": []
+  }
+}

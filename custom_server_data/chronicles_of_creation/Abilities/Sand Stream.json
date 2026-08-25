@@ -1,0 +1,5 @@
+{
+    "name": "Sand Stream",
+    "description": "The Pokemon can activate a raging sandstorm around itself that will last for as long as it wants.",
+    "effect": "This Pokemon can start either Sandstorm or Meteor Shower Weather as a Free Action on their turn, once per battle (as if they had used a Move to do so). If the User is Ground-Type, they instead can start either Sandstorm or Duststorm Weather."
+}

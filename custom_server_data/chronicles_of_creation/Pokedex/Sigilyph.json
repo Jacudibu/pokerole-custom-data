@@ -1,0 +1,17 @@
+{
+  "number": 561,
+  "name": "Sigilyph",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Gust", "Hypnosis", "Miracle Eye", "Psywave", "Tailwind"],
+    "silver": ["Air Cutter", "Gravity", "Light Screen", "Mirror Move", "Psybeam", "Psychic", "Reflect", "Whirlwind"],
+    "gold": ["Air Slash", "Cosmic Power", "Sky Attack", "Synchronoise"],
+    "platinum": ["Psycho Shift", "Stored Power", "Telekinesis"],
+    "diamond": []
+  }
+}

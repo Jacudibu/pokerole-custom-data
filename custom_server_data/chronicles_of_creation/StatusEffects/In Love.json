@@ -1,0 +1,7 @@
+{
+    "name": "In Love",
+    "description": "You'll protect your beloved! ...what was her name again? This can also be reflavored to be distracted, sympathetic, or aroused.",
+    "resist": "Roll Insight + Rank dice at the start of your turn. If you roll more Successes than the instigating mon's Rank, you ignore In Love until next round.",
+    "effect": "The subject either must or cannot target the instigating mon with their next 'Foe' targeting move (of the instigating mon's choice). If the subject performs an All Foes targeting attack, they instead must put them at the top or bottom of the target order respectively. Moves with other targeting are unimpeded, but the subject's In Love failure will carry over to subsequent rounds until it procs. When this Status is used in a One on One battle, the one suffering from this Status must roll 1d6 at the start of each of their turns, on a 3 and below, they do half damage before the defenses of their foe.",
+    "duration": "Until end of scene, or until the source of the status is removed from the battle."
+}

@@ -1,0 +1,17 @@
+{
+  "number": 22,
+  "name": "Fearow",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Fury Attack", "Growl", "Leer", "Peck"],
+    "silver": ["Aerial Ace", "Agility", "Assurance", "Focus Energy", "Mirror Move", "Pursuit"],
+    "gold": ["Drill Peck", "Drill Run", "Pluck", "Roost"],
+    "platinum": ["Curse", "Feather Dance", "Scary Face", "Sky Attack", "Tailwind"],
+    "diamond": []
+  }
+}

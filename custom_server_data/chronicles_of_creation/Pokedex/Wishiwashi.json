@@ -1,0 +1,17 @@
+{
+  "number": 746,
+  "name": "Wishiwashi",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Brine", "Feint Attack", "Growl", "Helping Hand", "Water Gun"],
+    "silver": ["Aqua Ring", "Aqua Tail", "Beat Up", "Dive", "Soak", "Take Down", "Tearful Look"],
+    "gold": ["Double-Edge", "Endeavor", "Hydro Pump"],
+    "platinum": ["Mist", "Muddy Water", "Water Pulse"],
+    "diamond": []
+  }
+}

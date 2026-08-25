@@ -1,6 +1,6 @@
 {
-    "name": "Pulsar's Band",
-    "description": "All the User's Physical Attacks gain __Pulse Move__.",
+    "name": "Pulsar’s Band",
+    "description": "All the User's Physical Attacks gain __Pulse Based__. Moves that were already __Pulse Based__ instead gain an additional Damage Die",
     "category": "HeldItem",
     "single_use": false
 }

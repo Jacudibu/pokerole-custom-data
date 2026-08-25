@@ -1,0 +1,11 @@
+{
+  "name": "Mythril Lacerate",
+  "type": "Steel",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Slicing. Inflicts Wounds. -2 Accuracy. If performed under Ferromagnetic Storm, the user may use their Vitality Stat in place of their Strength, adding any Defense boosts to the power of this attack.",
+  "description": "A powerful slash of a blade or the user's body meant to cut through even the heaviest mountain.",
+  "category": "Physical"
+}

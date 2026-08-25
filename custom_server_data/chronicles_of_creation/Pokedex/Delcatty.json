@@ -1,0 +1,17 @@
+{
+  "number": 301,
+  "name": "Delcatty",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Attract", "Fake Out", "Foresight", "Growl", "Tackle", "Tail Whip"],
+    "silver": ["Assist", "Charm", "Copycat", "Covet", "Disarming Voice", "Double Slap", "Feint Attack", "Heal Bell", "Sing", "Wake-Up Slap"],
+    "gold": ["Captivate", "Double-Edge", "Play Rough"],
+    "platinum": ["Baton Pass", "Cosmic Power", "Fake Tears", "Tickle", "Wish"],
+    "diamond": []
+  }
+}

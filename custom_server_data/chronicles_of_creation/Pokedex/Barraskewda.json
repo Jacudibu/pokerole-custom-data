@@ -1,0 +1,17 @@
+{
+  "number": 847,
+  "name": "Barraskewda",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "4/8",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Aqua Jet", "Peck"],
+    "silver": ["Agility", "Bite", "Dive", "Fury Attack", "Laser Focus", "Throat Chop"],
+    "gold": ["Crunch", "Double-Edge", "Liquidation"],
+    "platinum": ["Drill Run", "Giga Impact", "Ice Fang", "Night Slash", "Poison Jab", "Slash"],
+    "diamond": []
+  }
+}

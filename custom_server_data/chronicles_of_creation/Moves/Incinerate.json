@@ -1,0 +1,11 @@
+{
+  "name": "Incinerate",
+  "type": "Fire",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Damaged foes can't consume berries till the end of the next round.",
+  "description": "The Pokemon releases a blast of fire that instantly consumes small flammable objects.",
+  "category": "Special"
+}

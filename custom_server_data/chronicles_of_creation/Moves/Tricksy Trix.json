@@ -1,0 +1,11 @@
+{
+  "name": "Tricksy Trix",
+  "type": "Fairy",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce the duration of Screens on the targets side of the battlefield by 2 Rounds. On a Critical Strike, reduce the duration by 3 Rounds instead.",
+  "description": "With a quick flurry of moves, the user tricks the foe and hits them from behind their shield!",
+  "category": "Physical"
+}

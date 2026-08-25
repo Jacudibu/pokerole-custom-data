@@ -1,0 +1,17 @@
+{
+  "number": 526,
+  "name": "Gigalith",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "1/3",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Harden", "Headbutt", "Sand Attack", "Tackle"],
+    "silver": ["Iron Defense", "Mud Slap", "Power Gem", "Rock Blast", "Rock Slide", "Smack Down", "Stealth Rock"],
+    "gold": ["Explosion", "Sandstorm", "Stone Edge"],
+    "platinum": ["Autotomize", "Heavy Slam", "Lock-On", "Magnitude", "Superpower", "Wide Guard"],
+    "diamond": []
+  }
+}

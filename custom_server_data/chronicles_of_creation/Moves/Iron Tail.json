@@ -1,0 +1,11 @@
+{
+    "name": "Iron Tail",
+    "type": "Steel",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Striking. Roll 3 Chance Dice to Reduce the foe's Defense. -2 Accuracy.",
+    "description": "The user hits the foe with its hardened tail. The target is left vulnerable against subsequent attacks.",
+    "category": "Physical"
+}

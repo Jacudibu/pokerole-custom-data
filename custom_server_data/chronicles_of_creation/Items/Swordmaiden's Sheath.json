@@ -1,6 +1,6 @@
 {
-    "name": "Swordmaiden's Sheath",
-    "description": "All the User's Special Attacks gain Slicing.",
+    "name": "Swordmaiden’s Sheath",
+    "description": "All the User's Special Attacks gain __Slicing__. Moves that were already __Slicing__ instead gain an additional Damage Die",
     "category": "HeldItem",
     "single_use": false
 }

@@ -1,0 +1,17 @@
+{
+  "number": 862,
+  "name": "Obstagoon",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Baby-Doll Eyes", "Leer", "Lick", "Night Slash", "Pin Missile", "Sand Attack", "Snarl", "Submission", "Switcheroo", "Tackle"],
+    "silver": ["Fury Swipes", "Headbutt", "Hone Claws", "Rest", "Take Down"],
+    "gold": ["Counter", "Cross Chop", "Double-Edge", "Obstruct", "Scary Face", "Taunt"],
+    "platinum": ["Gunk Shot", "Hyper Voice", "Payback", "Shadow Claw", "Stomping Tantrum"],
+    "diamond": []
+  }
+}

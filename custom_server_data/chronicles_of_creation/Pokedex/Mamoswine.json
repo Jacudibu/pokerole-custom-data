@@ -1,0 +1,17 @@
+{
+  "number": 473,
+  "name": "Mamoswine",
+  "base_hp": 7,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Mud Slap", "Mud Sport", "Odor Sleuth", "Peck", "Powder Snow", "Scary Face", "Tackle"],
+    "silver": ["Ancient Power", "Double Hit", "Endure", "Fury Attack", "Hail", "Ice Fang", "Ice Shard", "Icy Wind", "Mud Bomb", "Take Down"],
+    "gold": ["Amnesia", "Blizzard", "Earthquake", "Flail", "Mist", "Thrash"],
+    "platinum": ["Avalanche", "Body Slam", "Fissure", "Freeze Dry", "Icicle Crash", "Stealth Rock"],
+    "diamond": []
+  }
+}

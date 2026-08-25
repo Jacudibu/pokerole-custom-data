@@ -1,0 +1,11 @@
+{
+  "name": "Mythril Ray",
+  "type": "Steel",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Pulse. Inflicts Wounds. -2 Accuracy. If performed under Ferromagnetic Storm, the user may use their Insight Stat in place of their Special, adding any Special Defense boosts to the power of this attack.",
+  "description": "A massive beam of energy meant to rend the bodies of the foes!",
+  "category": "Special"
+}

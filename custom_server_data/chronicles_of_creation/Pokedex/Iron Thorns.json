@@ -1,0 +1,17 @@
+{
+  "number": 995,
+  "name": "Iron Thorns",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Fire Fang", "Ice Fang", "Iron Defense", "Rock Throw", "Thunder Fang", "Screech"],
+    "silver": ["Bite", "Charge", "Rock Slide", "Rock Tomb"],
+    "gold": ["Pin Missile", "Sandstorm", "Wild Charge"],
+    "platinum": ["Earthquake", "Giga Impact", "Stealth Rock", "Stone Edge"],
+    "diamond": []
+  }
+}

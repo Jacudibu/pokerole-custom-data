@@ -1,0 +1,18 @@
+{
+  "number": 10167,
+  "api_id": 10167,
+  "name": "Weezing (Galarian Form)",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Aromatic Mist", "Clear Smog", "Fairy Wind", "Poison Gas", "Smog", "Smokescreen", "Tackle"],
+    "silver": ["Aromatherapy", "Assurance", "Belch", "Defog", "Double Hit", "Gyro Ball", "Haze", "Self Destruct", "Sludge", "Sludge Bomb", "Toxic"],
+    "gold": ["Destiny Bond", "Explosion", "Memento", "Misty Terrain", "Strange Steam"],
+    "platinum": ["Flamethrower", "Pain Split", "Rollout", "Stockpile", "Swallow", "Toxic Spikes"],
+    "diamond": []
+  }
+}

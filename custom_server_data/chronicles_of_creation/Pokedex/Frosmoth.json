@@ -1,0 +1,17 @@
+{
+  "number": 873,
+  "name": "Frosmoth",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Helping Hand", "Icy Wind", "Powder Snow", "Struggle Bug"],
+    "silver": ["Attract", "Aurora Beam", "Aurora Veil", "Bug Buzz", "Defog", "Feather Dance", "Hail", "Infestation", "Mist", "Stun Spore"],
+    "gold": ["Blizzard", "Quiver Dance", "Tailwind", "Wide Guard"],
+    "platinum": ["Bug Bite", "Dazzling Gleam", "Hurricane", "Mirror Coat", "Rest", "Snore"],
+    "diamond": []
+  }
+}

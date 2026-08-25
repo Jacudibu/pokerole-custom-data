@@ -1,0 +1,11 @@
+{
+  "name": "Call of the Swarm",
+  "type": "Bug",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Charge. Wind Based. Sound Based. While within Locust Swarm Weather, you may skip the Charge.",
+  "description": "Unleashing a powerful sound that calls forth a swarm of insects to attack your foe!",
+  "category": "Special"
+}

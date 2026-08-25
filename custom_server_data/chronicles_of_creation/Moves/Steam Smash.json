@@ -1,0 +1,11 @@
+{
+  "name": "Steam Smash",
+  "type": "Water",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Striking. Roll 2 Chance Dice to Burn the foe. This Move benefits from the Sun as if it was a Fire Type Move.",
+  "description": "By releasing a powerful steam around oneself, as the Pokemon slams the palm into the foe!",
+  "category": "Physical"
+}

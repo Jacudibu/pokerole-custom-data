@@ -1,0 +1,6 @@
+{
+    "name": "Life Chain",
+    "description": "HP the User would heal instead can be transferred to a ally.",
+    "category": "HeldItem",
+    "single_use": false
+}

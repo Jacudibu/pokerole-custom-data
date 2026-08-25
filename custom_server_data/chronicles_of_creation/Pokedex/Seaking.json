@@ -1,0 +1,17 @@
+{
+  "number": 119,
+  "name": "Seaking",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Horn Attack", "Peck", "Supersonic", "Tail Whip", "Water Sport"],
+    "silver": ["Aqua Ring", "Flail", "Fury Attack", "Poison Jab", "Water Pulse", "Waterfall"],
+    "gold": ["Agility", "Horn Drill", "Megahorn", "Soak"],
+    "platinum": ["Bounce", "Drill Run", "Mud Sport"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 523,
+  "name": "Zebstrika",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Charge", "Quick Attack", "Shock Wave", "Tail Whip"],
+    "silver": ["Flame Charge", "Ion Deluge", "Pursuit", "Spark", "Stomp", "Thunder Wave", "Wild Charge"],
+    "gold": ["Agility", "Discharge", "Thrash"],
+    "platinum": ["Bounce", "Double Kick", "Me First", "Screech"],
+    "diamond": []
+  }
+}

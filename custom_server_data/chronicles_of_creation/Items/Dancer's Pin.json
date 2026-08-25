@@ -1,6 +1,6 @@
 {
-    "name": "Dancer's Pin",
-    "description": "All the User's Physical Attacks gain __Dancing__.",
+    "name": "Dancer’s Pin",
+    "description": "All the User's Physical Attacks gain __Dancing__. Moves that were already __Dancing__ instead gain an additional Damage Die",
     "category": "HeldItem",
     "single_use": false
 }

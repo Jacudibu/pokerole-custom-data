@@ -1,0 +1,17 @@
+{
+  "number": 601,
+  "name": "Klinklang",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Charge", "Thunder Shock", "Vice Grip"],
+    "silver": ["Autotomize", "Bind", "Charge Beam", "Discharge", "Gear Grind", "Gear Up", "Magnetic Flux", "Metal Sound", "Mirror Shot", "Screech"],
+    "gold": ["Hyper Beam", "Lock-On", "Shift Gear", "Zap Cannon"],
+    "platinum": ["Gravity", "Iron Defense", "Magnet Rise"],
+    "diamond": []
+  }
+}

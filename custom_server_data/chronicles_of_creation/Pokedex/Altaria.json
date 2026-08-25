@@ -1,0 +1,17 @@
+{
+  "number": 334,
+  "name": "Altaria",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Astonish", "Fury Attack", "Growl", "Peck", "Pluck", "Sing"],
+    "silver": ["Disarming Voice", "Dragon Breath", "Dragon Dance", "Mirror Move", "Mist", "Natural Gift", "Refresh", "Round", "Safeguard", "Take Down"],
+    "gold": ["Cotton Guard", "Dragon Pulse", "Moonblast", "Perish Song", "Sky Attack"],
+    "platinum": ["Agility", "Draco Meteor", "Dragon Rush", "Feather Dance", "Power Swap", "Roost"],
+    "diamond": []
+  }
+}

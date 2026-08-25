@@ -1,0 +1,11 @@
+{
+    "name": "Egg Bomb",
+    "type": "Normal",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Ranged. -1 Accuracy.",
+    "description": "The user throws a big egg with great force against its foe.",
+    "category": "Physical"
+}

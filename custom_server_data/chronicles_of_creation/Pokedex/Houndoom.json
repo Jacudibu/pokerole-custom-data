@@ -1,0 +1,17 @@
+{
+  "number": 229,
+  "name": "Houndoom",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Ember", "Howl", "Leer", "Smog"],
+    "silver": ["Beat Up", "Embargo", "Feint Attack", "Fire Fang", "Flamethrower", "Odor Sleuth", "Roar", "Thunder Fang"],
+    "gold": ["Crunch", "Foul Play", "Inferno", "Nasty Plot"],
+    "platinum": ["Destiny Bond", "Feint", "Reversal", "Spite", "Sucker Punch", "Super Fang"],
+    "diamond": []
+  }
+}

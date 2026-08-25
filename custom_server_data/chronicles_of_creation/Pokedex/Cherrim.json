@@ -1,0 +1,17 @@
+{
+  "number": 421,
+  "name": "Cherrim",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Growth", "Leech Seed", "Tackle"],
+    "silver": ["Helping Hand", "Magical Leaf", "Morning Sun", "Petal Dance", "Sunny Day", "Take Down", "Worry Seed"],
+    "gold": ["Lucky Chant", "Petal Blizzard", "Solar Beam"],
+    "platinum": ["Aromatherapy", "Heal Pulse", "Nature Power", "Synthesis", "Weather Ball"],
+    "diamond": []
+  }
+}

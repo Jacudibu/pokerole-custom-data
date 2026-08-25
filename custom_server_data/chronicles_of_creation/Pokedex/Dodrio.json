@@ -1,0 +1,17 @@
+{
+  "number": 85,
+  "name": "Dodrio",
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Growl", "Peck", "Quick Attack", "Rage"],
+    "silver": ["Acupressure", "Agility", "Double Hit", "Fury Attack", "Pluck", "Pursuit", "Swords Dance", "Tri Attack", "Uproar"],
+    "gold": ["Drill Peck", "Endeavor", "Jump Kick", "Thrash"],
+    "platinum": ["Brave Bird", "Feint Attack", "Mirror Move"],
+    "diamond": []
+  }
+}

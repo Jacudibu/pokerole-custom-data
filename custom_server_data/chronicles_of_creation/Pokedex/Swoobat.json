@@ -1,0 +1,17 @@
+{
+  "number": 528,
+  "name": "Swoobat",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Confusion", "Gust", "Odor Sleuth"],
+    "silver": ["Air Cutter", "Amnesia", "Assurance", "Attract", "Calm Mind", "Heart Stamp", "Imprison", "Psychic"],
+    "gold": ["Air Slash", "Endeavor", "Future Sight"],
+    "platinum": ["Giga Drain", "Heat Wave", "Roost"],
+    "diamond": []
+  }
+}

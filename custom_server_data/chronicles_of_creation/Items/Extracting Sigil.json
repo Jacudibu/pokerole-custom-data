@@ -1,0 +1,6 @@
+{
+    "name": "Extracting Sigil",
+    "description": "The User's Draining Moves (ex: Leech Seed, Absorb) cannot have their effects suppressed by others. If the User's Drain Healing would be prevented they recover half as much as they normally would (rounded up). Liquid Ooze is not affected by this.",
+    "category": "HeldItem",
+    "single_use": false
+}

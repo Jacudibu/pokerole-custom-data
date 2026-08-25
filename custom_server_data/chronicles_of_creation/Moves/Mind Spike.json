@@ -1,0 +1,11 @@
+{
+    "name": "Mind Spike",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User or Ally",
+    "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the User would be hit by a Special attack, roll Damage Dice equal to Insight+2 reduced by the foe's Special Defense.",
+    "description": "The Pokemon takes the force of the blow before returning it in the form of psychic energy.",
+    "category": "Support"
+}

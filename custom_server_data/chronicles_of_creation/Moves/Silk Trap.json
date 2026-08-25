@@ -3,9 +3,9 @@
   "type": "Bug",
   "power": 0,
   "damage": "",
-  "accuracy": "Insight",
-  "target": "User",
-  "effect": "Reaction. Shield Move. Reduce the damage the user takes by their Rank. If the User would be hit by a Contact move, lower the Dexterity of the attacker by 2. ",
-  "description": "The user sets up a shield of webbing in front of themself; a sneaky trap made to inhibit their foes.",
+  "accuracy": "Vitality / Insight",
+  "target": "User or Ally",
+  "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Contact move, decrease the Dexterity of the Attacker by 1.",
+  "description": "The Pokemon sets up a shield of webbing in front of themself; a sneaky trap made to inhibit their foes.",
   "category": "Support"
 }

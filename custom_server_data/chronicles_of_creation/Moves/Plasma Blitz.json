@@ -1,0 +1,11 @@
+{
+  "name": "Plasma Blitz",
+  "type": "Electric",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Kicking. Lowers the User's Defense and Special Defense by 1 after use. If performed under Electric Terrain, this move gains additional power equal to the difference between the user's Dexterity and the Foe's. A maximum of 3 power can be gained this way.",
+  "description": "A blitz of electric strikes so fast, they strikes become plasma!",
+  "category": "Physical"
+}

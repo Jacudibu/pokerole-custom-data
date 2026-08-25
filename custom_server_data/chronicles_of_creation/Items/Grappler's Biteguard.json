@@ -1,6 +1,6 @@
 {
     "name": "Grappler's Biteguard",
-    "description": "All the User's Special Attacks gain __Biting__.",
+    "description": "All the User's Special Attacks gain __Biting__. Moves that were already __Biting__ instead gain an additional Damage Die",
     "category": "HeldItem",
     "single_use": false
 }

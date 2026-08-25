@@ -1,0 +1,5 @@
+{
+    "name": "Fairy Dust",
+    "description": "Fairy dust swirls across the battlefield, beckoning forth legendary tales. What was once just a Fantasy becomes reality.",
+    "effect": "- Fairy Types lose weakness to either Poison or Steel types, chosen at the start of the round.\n- Fairy-type, Dragon-type, Steel-type and Psychic-type moves gain +1 Damage.\n- Fairy, Psychic and Grass-types regain 1 Will at the end of each round."
+}

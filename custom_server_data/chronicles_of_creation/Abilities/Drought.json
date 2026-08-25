@@ -1,0 +1,5 @@
+{
+    "name": "Drought",
+    "description": "The Sunlight will be harshly bright, and the heat will increase in the field for as long as this Pokemon wants to.",
+    "effect": "This Pokemon can start Sunny Weather as a Free Action on their turn, once per battle (as if they had used a Move to do so)."
+}

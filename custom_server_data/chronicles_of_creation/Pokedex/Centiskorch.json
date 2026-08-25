@@ -1,0 +1,17 @@
+{
+  "number": 851,
+  "name": "Centiskorch",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Ember", "Smokescreen", "Wrap"],
+    "silver": ["Bug Bite", "Coil", "Crunch", "Fire Spin", "Flame Wheel", "Slam"],
+    "gold": ["Burn Up", "Fire Lash", "Lunge"],
+    "platinum": ["Fire Fang", "Knock Off", "Scald", "Struggle Bug", "Thunder Fang", "Venoshock"],
+    "diamond": []
+  }
+}

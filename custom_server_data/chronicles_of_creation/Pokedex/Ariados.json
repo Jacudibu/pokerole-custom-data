@@ -1,0 +1,17 @@
+{
+  "number": 168,
+  "name": "Ariados",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Constrict", "Focus Energy", "Infestation", "Poison Sting", "Scary Face", "String Shot"],
+    "silver": ["Agility", "Bug Bite", "Fell Stinger", "Fury Swipes", "Leech Life", "Night Shade", "Pin Missile", "Poison Jab", "Shadow Sneak", "Spider Web", "Sucker Punch", "Venom Drench"],
+    "gold": ["Cross Poison", "Psychic", "Sticky Web", "Swords Dance", "Toxic Thread"],
+    "platinum": ["Bounce", "Electroweb", "Night Slash", "Toxic Spikes"],
+    "diamond": []
+  }
+}

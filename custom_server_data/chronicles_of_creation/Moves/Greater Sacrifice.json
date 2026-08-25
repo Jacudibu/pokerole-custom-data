@@ -4,7 +4,7 @@
     "power": 0,
     "damage": "",
     "accuracy": "Will",
-    "target": "Allies",
+    "target": "User",
     "effect": "Sacrifice up to 6 Max HP. Gain +1 Damage dice for a number of turns equal to the HP sacrificed. If you sacrifice at least 3 HP you instead gain +1 Damage Dice for the rest of the Battle. If you sacrifice 6 HP you also gain High Critical for the rest of the Battle.",
     "description": "A lot of pain now, for a lot of power ~~later~~ immediately.",
     "category": "Support"

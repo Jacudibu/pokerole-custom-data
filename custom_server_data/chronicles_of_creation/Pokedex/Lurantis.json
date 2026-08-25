@@ -1,0 +1,17 @@
+{
+  "number": 754,
+  "name": "Lurantis",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Fury Cutter", "Growth", "Leafage", "Razor Leaf"],
+    "silver": ["Ingrain", "Leaf Blade", "Slash", "Sweet Scent", "Synthesis"],
+    "gold": ["Petal Blizzard", "Solar Beam", "Solar Blade", "Sunny Day", "X-Scissor"],
+    "platinum": ["Aromatherapy", "Brick Break", "Giga Drain", "Leaf Storm", "Swords Dance", "Weather Ball"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 740,
+  "name": "Crabominable",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "1/3",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bubble", "Bubble Beam", "Leer", "Pursuit", "Rock Smash"],
+    "silver": ["Avalanche", "Crabhammer", "Dizzy Punch", "Ice Punch", "Payback", "Power-Up Punch", "Reversal"],
+    "gold": ["Close Combat", "Dynamic Punch", "Ice Hammer", "Iron Defense"],
+    "platinum": ["Endeavor", "Superpower", "Wide Guard"],
+    "diamond": []
+  }
+}

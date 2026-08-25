@@ -1,0 +1,11 @@
+{
+    "name": "Wave Cushion",
+    "type": "Water",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality / Insight",
+    "target": "User or Ally",
+    "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Special move, increase the Special Defense of the Target by 1.",
+    "description": "The Pokemon creates a protective layer of water around itself or its ally.",
+    "category": "Support"
+}

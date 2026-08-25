@@ -1,0 +1,11 @@
+{
+  "name": "Crescent Kick",
+  "type": "Dark",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Kicking. If this move misses the foe, the user deals the moves damage to themself. Inflicts Wounds -2 Accuracy. This move has no Accuracy penalty in Unnatural Darkness.",
+  "description": "The user brings their foot up high for a kick that leaves them open, then brings it down in a powerful slam.",
+  "category": "Physical"
+}

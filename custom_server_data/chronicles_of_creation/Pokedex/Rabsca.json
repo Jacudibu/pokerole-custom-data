@@ -1,0 +1,17 @@
+{
+  "number": 954,
+  "name": "Rabsca",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Confusion", "Defense Curl", "Psych Up", "Revival Blessing", "Safeguard", "Sand Attack", "Struggle Bug", "Tackle"],
+    "silver": ["Bug Bite", "Dig", "Extrasensory", "Lunge", "Mud Shot", "Psybeam", "Rollout", "Take Down"],
+    "gold": ["Bug Buzz", "Guard Swap", "Power Swap", "Psychic", "Speed Swap"],
+    "platinum": ["Cosmic Power", "Memento", "Recover"],
+    "diamond": []
+  }
+}

@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Insight",
   "target": "Foe",
-  "effect": "If performed on Psychic Terrain, the User may add 2 Dice to the Damage Pool OR change the targeting to All Foes.",
+  "effect": "If performed on Psychic Terrain, the User may add 2 Dice to the Damage Pool and additionally may change the targeting to All Foes.",
   "description": "The Pokémon's psychic power grows, and affects the mind of a single foe. If channeled through psychic terrain, this power can affect all foes, and cause much more harm.",
   "category": "Special"
 }

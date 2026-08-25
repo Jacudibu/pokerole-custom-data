@@ -1,0 +1,11 @@
+{
+  "name": "Lovely Kiss",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Beauty",
+  "target": "Foe",
+  "effect": "Make the target Drowsy",
+  "description": "The Pokemon approaches the foe with a kiss. Its ugly face and awful smooch make the poor creature faint in terror.",
+  "category": "Support"
+}

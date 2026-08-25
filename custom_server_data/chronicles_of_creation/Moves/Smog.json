@@ -1,0 +1,11 @@
+{
+    "name": "Smog",
+    "type": "Poison",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 3 Chance Dice to Poison the Foe.",
+    "description": "The target is attacked with a discharge of filthy gases.",
+    "category": "Special"
+}

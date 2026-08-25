@@ -1,0 +1,17 @@
+{
+  "number": 637,
+  "name": "Volcarona",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "4/8",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Absorb", "Ember", "Gust", "String Shot"],
+    "silver": ["Fire Spin", "Flame Charge", "Take Down"],
+    "gold": ["Amnesia", "Bug Bite", "Bug Buzz", "Double-Edge", "Fiery Dance", "Flame Wheel", "Heat Wave", "Quiver Dance", "Rage Powder", "Silver Wind", "Whirlwind"],
+    "platinum": ["Flare Blitz", "Giga Drain", "Harden", "Hurricane", "Magnet Rise", "Morning Sun", "Tailwind", "Thrash", "Zen Headbutt"],
+    "diamond": []
+  }
+}

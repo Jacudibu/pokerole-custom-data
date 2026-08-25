@@ -1,6 +1,6 @@
 {
-    "name": "Nomad's Sash",
-    "description": "All the User's Special Attacks gain __Wind Based__.",
+    "name": "Nomad’s Sash",
+    "description": "All the User's Special Attacks gain __Wind Based__. Moves that were already __Wind Based__ instead gain an additional Damage Die",
     "category": "HeldItem",
     "single_use": false
 }

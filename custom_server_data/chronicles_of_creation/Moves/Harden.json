@@ -1,0 +1,11 @@
+{
+  "name": "Harden",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Increase the User's Defense by 1. While they have this Defense Increase, the User chooses a tag from Striking, Kicking or Fist Based, moves with the chosen tag gain +1 Damage Dice. The chosen tag cannot be changed except by performing Harden again.",
+  "description": "The user stiffins its body and prepares for any incoming attack.",
+  "category": "Support"
+}

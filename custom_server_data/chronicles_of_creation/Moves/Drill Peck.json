@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Biting.",
+  "effect": "Biting. Reduce the duration of Screens on the target's side of the battlefield by 2 Rounds. On a Critical Strike, reduce the duration by 3 Rounds instead.",
   "description": "The user pierces the foe with its beak used as a drill. A dangerous move.",
   "category": "Physical"
 }

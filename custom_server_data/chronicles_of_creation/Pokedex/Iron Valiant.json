@@ -1,0 +1,17 @@
+{
+  "number": 1006,
+  "name": "Iron Valiant",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Disable", "Double Team", "Feint", "Heart Stamp", "Hypnosis", "Spirit Break"],
+    "silver": ["Dazzling Gleam", "Fury Cutter", "Psycho Cut", "Shadow Sneak"],
+    "gold": ["Close Combat", "Future Sight", "Leaf Blade", "Moonblast", "Night Slash"],
+    "platinum": ["Destiny Bond", "Knock Off", "Quick Guard", "Wide Guard"],
+    "diamond": []
+  }
+}

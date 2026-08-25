@@ -1,0 +1,6 @@
+{
+    "name": "Titan Grips",
+    "description": "The user cannot have use of their Weapon or this item blocked by any effect.",
+    "category": "HeldItem",
+    "single_use": false
+}

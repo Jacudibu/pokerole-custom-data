@@ -1,0 +1,18 @@
+{
+  "number": 10113,
+  "api_id": 10113,
+  "name": "Muk (Alolan Form)",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Bite", "Disable", "Harden", "Mud Slap", "Poison Gas", "Pound"],
+    "silver": ["Acid Spray", "Crunch", "Fling", "Knock Off", "Minimize", "Poison Fang", "Screech", "Venom Drench"],
+    "gold": ["Acid Armor", "Belch", "Gunk Shot", "Memento"],
+    "platinum": ["Assurance", "Clear Smog", "Shadow Sneak", "Stockpile", "Swallow"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 295,
+  "name": "Exploud",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Howl", "Pound", "Uproar"],
+    "silver": ["Astonish", "Bite", "Crunch", "Echoed Voice", "Fire Fang", "Ice Fang", "Roar", "Screech", "Sleep Talk", "Stomp", "Supersonic", "Thunder Fang"],
+    "gold": ["Boomburst", "Hyper Beam", "Hyper Voice", "Rest", "Synchronoise"],
+    "platinum": ["Circle Throw", "Disarming Voice", "Fake Tears", "Icy Wind", "Outrage", "Shock Wave", "Snore", "Water Pulse", "Whirlpool"],
+    "diamond": []
+  }
+}

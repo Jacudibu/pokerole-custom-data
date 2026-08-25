@@ -1,0 +1,11 @@
+{
+    "name": "False Swipe",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Slicing. High Crit. The target's HP can't be reduced below 1 by this attack.",
+    "description": "The user strikes the foe but lowers the power of the blow at the last second.",
+    "category": "Physical"
+}

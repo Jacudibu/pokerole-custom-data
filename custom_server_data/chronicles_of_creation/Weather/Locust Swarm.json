@@ -1,5 +1,5 @@
 {
-    "name": "Locust Swarm",
-    "description": "A swarm of bugs that get into every nook and cranny of the battlefield. They're constant bugging just makes the conditions everyone is fighting in worse.",
-    "effect": "- Bug Type Pokemon gain +1 Dexterity for the Duration.\n- Offenseive Support moves used by Bug, Poison and Grass type Pokemon deal damage equal to Half Rank (Round Up).\n- Deals Bug Type Damage to each Pokemon at the end of Each Round equal to Half the Round Timer of the Weather (Round Up), this is resisted by Defense and affected by all the normal Resistance rules."
+  "name": "Locust Swarm",
+  "description": "A swarm of bugs that get into every nook and cranny of the battlefield. They're constant bugging just makes the conditions everyone is fighting in worse.",
+  "effect": "- Bug-Types gain +1 Base Dexterity.\n- Support Moves used by Bug, Poison, and Grass-Types deal damage equal to half their Rank Bonus (rounded up) if they target their opponent(s). For Support Moves which affect multiple opponents the User chooses 1 target to receive the damage.\n- Deals Bug Type Damage to each Pokemon at the end of Each Round equal to Half the Round Timer of the Weather (rounded up). This is resisted by Defense and affected by all the normal Resistance rules. Bug-Types treat this damage as Ineffective (regardless of their normal type efficiency)."
 }

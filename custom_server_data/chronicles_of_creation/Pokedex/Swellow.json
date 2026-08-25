@@ -1,0 +1,17 @@
+{
+  "number": 277,
+  "name": "Swellow",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Focus Energy", "Growl", "Peck", "Pluck", "Quick Attack"],
+    "silver": ["Aerial Ace", "Double Team", "Endeavor", "Quick Guard", "Reversal", "Wing Attack"],
+    "gold": ["Agility", "Air Slash", "Brave Bird"],
+    "platinum": ["Endure", "Rage", "Refresh", "Roost", "Sky Attack"],
+    "diamond": []
+  }
+}

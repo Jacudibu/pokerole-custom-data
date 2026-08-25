@@ -1,0 +1,5 @@
+{
+    "name": "Quark Drive",
+    "description": "This Paradox has a terrain or weather that optimizes it's combat abilities.",
+    "effect": "When this Pokemon gains this ability, they choose a Weather or Terrain. They also pick a Base Stat. Under the chosen Weather or Terrain, they gain +2 Base Stat Increase to the chosen stat. This Ability cannot be swapped or copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

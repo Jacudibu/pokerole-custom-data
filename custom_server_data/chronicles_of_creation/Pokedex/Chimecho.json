@@ -1,0 +1,17 @@
+{
+  "number": 358,
+  "name": "Chimecho",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Astonish", "Growl", "Wrap"],
+    "silver": ["Confusion", "Heal Bell", "Healing Wish", "Psywave", "Safeguard", "Take Down", "Uproar", "Yawn"],
+    "gold": ["Double-Edge", "Entrainment", "Extrasensory", "Heal Pulse", "Last Resort", "Synchronoise"],
+    "platinum": ["Cosmic Power", "Future Sight", "Recover", "Stored Power"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 534,
+  "name": "Conkeldurr",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bide", "Focus Energy", "Leer", "Pound"],
+    "silver": ["Bulk Up", "Chip Away", "Dynamic Punch", "Low Kick", "Rock Slide", "Rock Throw", "Scary Face", "Wake-Up Slap"],
+    "gold": ["Focus Punch", "Hammer Arm", "Stone Edge", "Superpower"],
+    "platinum": ["Detect", "Drain Punch", "Foresight", "Mach Punch", "Wide Guard"],
+    "diamond": []
+  }
+}
