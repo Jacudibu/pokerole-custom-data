@@ -1,0 +1,26 @@
+{
+  "number": 129,
+  "api_id": 129,
+  "species_id": 50001,
+  "name": "Omegakarp",
+  "type1_override": "Fairy",
+  "type2_override": "Dragon",
+  "ability1_override": "Levitate",
+  "ability2_override": "Beast Boost",
+  "ability_hidden_override": "Cloud Nine",
+  "weight_override_in_kilograms": 13.37,
+  "height_override_in_meters": 0.67,
+  "base_hp": 42,
+  "strength": "15/20",
+  "dexterity": "14/19",
+  "vitality": "13/18",
+  "special": "12/17",
+  "insight": "11/16",
+  "moves": {
+    "bronze": ["Splash"],
+    "silver": ["Tackle"],
+    "gold": ["Flail"],
+    "platinum": ["Bounce"],
+    "diamond": ["Hyper Beam"]
+  }
+}

@@ -3,6 +3,8 @@ Custom data and overrides for https://github.com/Jacudibu/pokerole-discord-bot
 
 Default data for all servers can be found in `/base_data/`
 
+See [custom_server_data/test_server/](custom_server_data/test_server) for examples.
+
 In order to add custom data for your own server:
 1. Add your server data to [data_mapping.json](/custom_server_data/data_mapping.json)
 2. Create a folder in `/custom_server_data/` which follows the general folder and file structure of our `base_data`. In case of doubt, look at how it's done for other servers.
