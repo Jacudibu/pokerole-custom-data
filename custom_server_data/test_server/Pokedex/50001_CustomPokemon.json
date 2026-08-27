@@ -1,6 +1,4 @@
 {
-  "number": 129,
-  "api_id": 129,
   "species_id": 50001,
   "name": "Omegakarp",
   "type1_override": "Fairy",
@@ -17,10 +15,13 @@
   "special": "12/17",
   "insight": "11/16",
   "moves": {
-    "bronze": ["Splash"],
+    "bronze": ["Splash", "Future Sight"],
     "silver": ["Tackle"],
     "gold": ["Flail"],
-    "platinum": ["Bounce"],
-    "diamond": ["Hyper Beam"]
+    "platinum": ["Bounce", "Detect"],
+    "diamond": ["Hyper Beam"],
+    "tm": ["Draco Meteor", "Gravity"],
+    "egg": ["Cosmic Power"],
+    "tutor": ["Recover", "Origin Pulse"]
   }
 }
