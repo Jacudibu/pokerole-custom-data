@@ -2,7 +2,7 @@
   "name": "Facade",
   "type": "Normal",
   "power": 2,
-  "damage": "Normal",
+  "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
   "effect": "If the user has a Status Ailment, add 2 Extra Dice to the Damage pool. While using this move, ignore the Strength reduction of Burn.",

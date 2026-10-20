@@ -7,5 +7,5 @@
   "target": "Foe",
   "effect": "User picks which stat to roll with. Move is Physical/Special in accordance with the choice. Sets up Water Pledge on the User's battlefield, which adds 2 Dice to all Chance Dice rolls by the User and Allies. This effect lasts 4 Rounds and is considered a Screen Move.",
   "description": "The Pokemon chants to invoke the power of Water. Moisture in the air bends the light to create an inspiring rainbow. Everyone in the field is sure to give its best.",
-  "category": "Physical / Special"
+  "category": "Physical/Special"
 }
