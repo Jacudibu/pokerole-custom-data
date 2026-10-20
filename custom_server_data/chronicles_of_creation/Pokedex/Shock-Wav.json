@@ -4,8 +4,6 @@
   "type1_override": "Ground",
   "type2_override": "Flying",
   "ability1_override": "Quark Drive",
-  "ability2_override": "",
-  "ability_hidden_override": "",
   "weight_override_in_kilograms": 150,
   "height_override_in_meters": 2.74,
   "base_hp": 6,

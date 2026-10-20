@@ -4,8 +4,6 @@
   "type1_override": "Electric",
   "type2_override": "Fairy",
   "ability1_override": "Protosynthesis",
-  "ability2_override": "",
-  "ability_hidden_override": "",
   "weight_override_in_kilograms": 120.5,
   "height_override_in_meters": 1.96,
   "base_hp": 5,

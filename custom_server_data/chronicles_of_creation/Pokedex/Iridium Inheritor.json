@@ -4,8 +4,6 @@
   "type1_override": "Normal",
   "type2_override": "Steel",
   "ability1_override": "Quark Drive",
-  "ability2_override": "",
-  "ability_hidden_override": "",
   "weight_override_in_kilograms": 70.2,
   "height_override_in_meters": 1.32,
   "base_hp": 5,

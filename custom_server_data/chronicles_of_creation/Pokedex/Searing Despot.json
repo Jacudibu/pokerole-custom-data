@@ -4,8 +4,6 @@
   "type1_override": "Dragon",
   "type2_override": "Fire",
   "ability1_override": "Protosynthesis",
-  "ability2_override": "",
-  "ability_hidden_override": "",
   "weight_override_in_kilograms": 408.5,
   "height_override_in_meters": 3.08,
   "base_hp": 5,

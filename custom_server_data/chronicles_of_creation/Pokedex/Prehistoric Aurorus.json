@@ -4,7 +4,6 @@
   "type1_override": "Electric",
   "type2_override": "Ice",
   "ability1_override": "Refrigerate",
-  "ability2_override": "",
   "ability_hidden_override": "Snow Warning",
   "weight_override_in_kilograms": 225.0,
   "height_override_in_meters": 2.70,

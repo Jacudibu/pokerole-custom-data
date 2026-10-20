@@ -4,8 +4,6 @@
   "type1_override": "Ghost",
   "type2_override": "Psychic",
   "ability1_override": "Quark Drive",
-  "ability2_override": "",
-  "ability_hidden_override": "",
   "weight_override_in_kilograms": 12.5,
   "height_override_in_meters": 1.10,
   "base_hp": 9,
