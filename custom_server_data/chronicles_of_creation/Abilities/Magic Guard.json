@@ -1,0 +1,5 @@
+{
+    "name": "Magic Guard",
+    "description": "The Pokemon is covered by a faint energy that stops any minor harm that may come its way.",
+    "effect": "This Pokemon won't receive damage from Hazards, Status Ailments, Recoil, Held Item or Weather effects."
+}

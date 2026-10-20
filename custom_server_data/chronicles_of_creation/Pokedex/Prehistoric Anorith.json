@@ -1,0 +1,27 @@
+{
+  "species_id": 50030,
+  "name": "Prehistoric Anorith",
+  "type1_override": "Water",
+  "type2_override": "Bug",
+  "ability1_override": "Battle Armor",
+  "ability2_override": "",
+  "ability_hidden_override": "Swift Swim",
+  "weight_override_in_kilograms": 12.5,
+  "height_override_in_meters": 0.70,
+  "base_hp": 3,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Harden", "Mud Sport", "Rain Dance", "Scratch"],
+    "silver": ["Ancient Power", "Bug Bite", "Fury Cutter", "Metal Claw", "Protect", "Slash", "Smack Down", "Water Gun"],
+    "gold": ["Brine", "Crush Claw", "Rock Blast", "X-Scissor"],
+    "platinum": ["Aqua Jet", "Knock Off", "Rapid Spin"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Body Slam", "Brick Break", "Brine", "Brutal Swing", "Bulldoze", "Captivate", "Cross Poison", "Cut", "Dig", "Earth Power", "False Swipe", "Headbutt", "Hone Claws", "Iron Defense", "Meteor Beam", "Mimic", "Mud-Slap", "Mud Shot", "Natural Gift", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Sandstorm", "Screech", "Stealth Rock", "String Shot", "Struggle Bug", "Substitute", "Sunny Day", "Swords Dance", "Water Pulse"],
+    "egg": ["Aqua Jet", "Cross Poison", "Curse", "Iron Defense", "Knock Off", "Rapid Spin", "Rock Slide", "Sand Attack", "Screech", "Swords Dance", "Water Pulse"],
+    "tutor": []
+  }
+}

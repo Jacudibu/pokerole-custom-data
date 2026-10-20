@@ -1,0 +1,11 @@
+{
+  "name": "Simple Beam",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Pulse Move. Target Pokemon's Ability is now 'Simple'.",
+  "description": "The Pokemon sends a small psychic wave to its target, giving it a simpler point of view about the world.",
+  "category": "Support"
+}

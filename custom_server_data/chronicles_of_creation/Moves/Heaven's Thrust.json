@@ -1,0 +1,11 @@
+{
+  "name": "Heaven's Thrust",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Self",
+  "effect": "Never Fail. The user leaps even further into the air! This move can only be used after using a move like Jump, Fly, Phantom Force, Bounce, Dig or Dive, causing the user to move further out of range. Use the move used before this move's Accuracy Check for determining if a Move Lands or is a Critical Hit. The user remains untargetable, and cannot be targeted even by Aerial Moves, or moves such as Earthquake or Surf. Further, the next attack they make deals an additional 5 Flat Damage. In addition, they double their offensive stat for the purposes of damage calculation. This move cannot be used with Power Herb.",
+  "description": "By jumping even further, you can pierce the heaven's and rain down an impossible power!",
+  "category": "Support"
+}

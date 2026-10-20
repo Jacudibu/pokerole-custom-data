@@ -1,0 +1,11 @@
+{
+  "name": "Thrilling Moves",
+  "type": "Dark",
+  "power": 4,
+  "damage": "Strength / Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Dancing. -2 Accuracy. If preformed under the effects of a Terrain ignore the Accuracy Penalty. This move always target's the foe's Physical Defense unless another would alter that.",
+  "description": "Because it's Thriiilllling in the night!",
+  "category": "Physical"
+}

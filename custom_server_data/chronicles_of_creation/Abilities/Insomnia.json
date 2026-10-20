@@ -1,0 +1,5 @@
+{
+      "name": "Insomnia",
+    "description": "The Pokemon does not need to sleep, it will be awake no matter the hour.",
+    "effect": "This Pokemon does not suffer negative effects from the Drowsy Status or the Sleep Status. In addition, the first time they are afflicted by the Drowsy or Sleep Status they gain either +1 Base Strength or Base Special."
+}

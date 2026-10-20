@@ -1,0 +1,5 @@
+{
+  "name": "Sniper",
+  "description": "The Pokemon will stealthily locate an advantageous position to strike it's foe's weakest spots.",
+  "effect": "If this Pokemon lands a critical hit, the damage will be increase by 100% instead of 50%. In the case of Multi-hitting moves, this bonus will only trigger once, with the other Critical Hits dealing normal 50% increased damage. You may choose which Crit gets the bonus. In the instance that this Pokemon's attack cannot deal Critical Damage due to an Ability, Move or other non-boon effect, this Pokemon adds its Rank as Damage Dice to the Damage Roll."
+}

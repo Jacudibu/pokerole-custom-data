@@ -1,0 +1,27 @@
+{
+  "species_id": 50004,
+  "name": "Chimeric Trimind",
+  "type1_override": "Psychic",
+  "type2_override": "Dragon",
+  "ability1_override": "Protosynthesis",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 360.0,
+  "height_override_in_meters": 4.80,
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "4/9",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Astonish", "Confusion", "Dragon Breath", "Dragon Rage", "Growl", "Odor Sleuth"],
+    "silver": ["Agility", "Dragon Cheer", "Dragon Pulse", "Power Swap", "Psybeam", "Twim Beam"],
+    "gold": ["Baton Pass", "Crunch", "Nasty Plot", "Psychic", "Zen Headbutt"],
+    "platinum": ["Ally Switch", "Draco Meteor", "Future Sight", "Hyper Voice", "Mirror Coat", "Wish"],
+    "diamond": [],
+    "tm": ["Agility", "Amnesia", "Baton Pass", "Bulldoze", "Calm Mind", "Charge Beam", "Confuse Ray", "Crunch", "Curse", "Dazzling Gleam", "Dragon Tail", "Earthquake", "Endeavor", "Endure", "Energy Ball", "Expanding Force", "Facade", "Foul Play", "Future Sight", "Giga Impact", "Grass Knot", "Gravity", "Heal Bell", "Helping Hand", "High Horsepower", "Hyper Beam", "Hyper Voice", "Hypnosis", "Imprison", "Iron Head", "Light Screen", "Low Kick", "Nasty Plot", "Night Shade", "Protect", "Psybeam", "Psych Up", "Psychic", "Psychic Fangs", "Psychic Noise", "Psychic Terrain", "Psyshock", "Rain Dance", "Reflect", "Rest", "Roar", "Shadow Ball", "Sleep Talk", "Stomping Tantrum", "Stored Power", "Substitute", "Sunny Day", "Swift", "Take Down", "Tera Blast", "Thief", "Thunder", "Thunderbolt", "Trailblaze", "Trick", "Trick Room", "Twister", "Uproar", "Zen Headbutt"],
+    "egg": ["Ally Switch", "Amnesia", "Beat Up", "Double Kick", "Future Sight", "Magic Coat", "Miracle Eye", "Mirror Coat", "Psych Up", "Psychic Fangs", "Psychic Terrain", "Razor Wind", "Secret Power", "Skill Swap", "Take Down", "Uproar", "Wish"],
+    "tutor": ["Ally Switch", "Body Slam", "Double-Edge", "Dream Eater", "Endure", "Foul Play", "Gravity", "Headbutt", "Hyper Voice", "Iron Tail", "Magic Coat", "Mimic", "Mud-Slap", "Nightmare", "Psych Up", "Recycle", "Shock Wave", "Signal Beam", "Sleep Talk", "Snore", "Stomping Tantrum", "Substitute", "Sucker Punch", "Swagger", "Swift", "Telekinesis", "Hypnosis", "Thunderbolt", "Trick", "Uproar", "Zen Headbutt"]
+  }
+}

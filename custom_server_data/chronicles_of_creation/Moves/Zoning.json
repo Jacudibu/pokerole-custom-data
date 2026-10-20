@@ -1,0 +1,11 @@
+{
+  "name": "Zoning",
+  "type": "Fighting",
+  "power": 2,
+    "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Switcher. If this move has High Critical and you successfully crit, you gain a second point of Evasion that lasts until used, you can only have one additional point of Evasion from this move at one time.",
+  "description": "If you control your space, you control the fight.",
+  "category": "Physical"
+}

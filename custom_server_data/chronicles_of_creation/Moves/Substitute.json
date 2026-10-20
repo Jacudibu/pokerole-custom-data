@@ -4,8 +4,8 @@
   "power": 0,
   "damage": "",
   "accuracy": "Dexterity",
-  "target": "User",
-  "effect": "The User deals 4 damage to themself and sets up a decoy with 4 HP. The decoy has the same defenses as the User, and all Moves targeting the User used by Foes are automatically redirected to the decoy (including All Foes and Area moves). If the decoy is attacked the User may Dodge to negate the attack as if they were the target. The decoy is unaffected by Support moves, Status Ailments, Weather and Stat Changes.",
+  "target": "User or Ally",
+  "effect": "The User may deal up to 20% of their Max HP to themself in Wounds. They create a decoy that has the same HP as they chose to sacrifice. When this decoy goes down, they restore the Wounds used to make this decoy but not the HP. The decoy has the same defenses as the User, and all Damaging Moves targeting the User (or targeted ally) used by Foes are automatically redirected to the decoy (including All Foes and Area moves). The decoy is unaffected by Support moves, Status Ailments, Weather and Stat Changes. A Pokemon may only have one decoy out at a time, and a Pokemon may only be protected by one decoy at a time.",
   "description": "The Pokemon disappears in a poof of smoke. When the smoke vanishes, an object identical to the user remains in its place to shield it from harm. It looks amazingly real.",
   "category": "Support"
 }

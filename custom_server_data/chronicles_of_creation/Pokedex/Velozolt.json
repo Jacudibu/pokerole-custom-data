@@ -1,0 +1,29 @@
+{
+  "number": 880,
+  "api_id": 880,
+  "species_id": 50014,
+  "name": "Velozolt",
+  "type1_override": "Electric",
+  "type2_override": "Ground",
+  "ability1_override": "Lightning Rod",
+  "ability2_override": "Static",
+  "ability_hidden_override": "Sand Rush",
+  "weight_override_in_kilograms": 6.80,
+  "height_override_in_meters": 0.6,
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "4/8",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Sand Tomb", "Thunder Shock", "Charge", "Echoed Voice"],
+    "silver": ["Ancient Power", "Discharge", "Slam", "Spark", "Dig"],
+    "gold": ["Thunder", "Bolt Beak", "Drill Run"],
+    "platinum": ["Wild Charge", "Dust Storm", "Stoming Tantrum"],
+    "diamond": [],
+    "tm": ["Agility", "Avalanche", "Blizzard", "Body Slam", "Bulldoze", "Earth Power", "Electro Ball", "Hyper Voice", "Iron Tail", "Low Kick", "Mega Kick", "Mega Punch", "Payback", "Rain Dance", "Rock Blast", "Rock Slide", "Rock Tomb", "Round", "Stomping Tantrum", "Stone Edge", "Surf", "Taunt", "Thunder", "Thunder Fang", "Thunder Punch", "Thunderbolt", "Wild Charge"],
+    "egg": ["Rototiller", "Spikes", "Mud Bomb", "Rising Voltage", "Supercell Slam", "Night Slash", "Meteor Beam"],
+    "tutor": []
+  }
+}

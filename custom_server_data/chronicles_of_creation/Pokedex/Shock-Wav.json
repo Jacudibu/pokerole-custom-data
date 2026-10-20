@@ -1,0 +1,27 @@
+{
+  "species_id": 50007,
+  "name": "Shock-Wav",
+  "type1_override": "Ground",
+  "type2_override": "Flying",
+  "ability1_override": "Quark Drive",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 150,
+  "height_override_in_meters": 2.74,
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "4/8",
+  "vitality": "3/5",
+  "special": "1/3",
+  "insight": "3/5",
+  "moves": {
+    "bronze": ["Dragon Rage", "Sand Attack", "Tackle", "Wing Attack"],
+    "silver": ["Dig", "Dragon Claw", "Fire Punch", "Fly", "Sand Tomb", "Sandstorm", "Slash", "Thunder Punch"],
+    "gold": ["Dragon Dance", "Dragon Rush", "Dual Chop", "Dual Wingbeat", "Sucker Punch"],
+    "platinum": ["Apex Rend", "Aqua Tail", "Brave Bird", "Iron Head", "Metal Claw"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Body Slam", "Breaking Swipe", "Brick Break", "Brutal Swing", "Bulldoze", "Crunch", "Cut", "Dig", "Double Team", "Double-Edge", "Dragon Cheer", "Dragon Claw", "Dragon Tail", "Endure", "Facade", "False Swipe", "Fire Punch", "Fling", "Frustration", "Giga Impact", "Helping Hand", "Hidden Power", "Hone Claws", "Ice Punch", "Iron Head", "Iron Tail", "Liquidation", "Metal Claw", "Mud Shot", "Mythril Lacerate", "Natural Gift", "Night Slash", "Outrage", "Poison Jab", "Power Gem", "Protect", "Psycho Cut", "Rain Dance", "Razor Leaf", "Razor Shell", "Rest", "Roar", "Rock Climb", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sand Tomb", "Sandstorm", "Scale Shot", "Scary Face", "Shadow Claw", "Shifting Tremor", "Sleep Talk", "Snore", "Spikes", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Swift", "Swords Dance", "Take Down", "Tera Blast", "Thunder Punch", "Toxic", "Zoning"],
+    "egg": ["Air Cutter", "Body Slam", "Double-Edge", "Iron Head", "Metal Claw", "Mud Shot", "Rock Climb", "Sand Tomb", "Scary Face", "Tectonic Slam"],
+    "tutor": []
+  }
+}

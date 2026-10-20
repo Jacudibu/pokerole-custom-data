@@ -1,0 +1,11 @@
+{
+  "name": "Fire Pledge",
+  "type": "Fire",
+  "power": 2,
+  "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "User picks which stat to roll with. Move is Physical/Special in accordance with the choice. Hazard. Sets up Fire Pledge Hazard on the opponent's battlefield, which triggers every time a victim switches to another foe than the last one they targeted. When triggered, they deal 2 Dice of Damage. Add or subtract 1 dice for every weakness or resistance the victim has to Fire type, respectively. This effect lasts 4 Rounds.",
+  "description": "The Pokemon chants to invoke the power of Fire. It's pledge is heard, then the flames consume everything around.",
+  "category": "Physical / Special"
+}

@@ -1,0 +1,27 @@
+{
+  "species_id": 50019,
+  "name": "Chrome Voyeur",
+  "type1_override": "Steel",
+  "type2_override": "Dark",
+  "ability1_override": "Quark Drive",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 25.9,
+  "height_override_in_meters": 0.90,
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "4/8",
+  "moves": {
+    "bronze": ["Fake Tears", "Growl", "Hypnosis", "Mirror Shot", "Snatch", "Taunt"],
+    "silver": ["Amnesia", "Baton Pass", "Bite", "Crunch", "Feint Attack", "Iron Defense", "Stockpile", "Vice Grip"],
+    "gold": ["Iron Head", "Dream Eater", "Spit Up", "Sucker Punch", "Swallow"],
+    "platinum": ["Fire Fang", "Poison Fang", "Super Fang", "Mythril Lacerate"],
+    "diamond": [],
+    "tm": ["Assurance", "Attract", "Baton Pass", "Brick Break", "Brutal Swing", "Captivate", "Confide", "Crunch", "Dark Pulse", "Double Team", "Embargo", "Endure", "Facade", "Fake Tears", "False Swipe", "Fire Fang", "Flash Cannon", "Fling", "Focus Blast", "Focus Punch", "Foul Play", "Future Sight", "Giga Impact", "Guard Swap", "Helping Hand", "Hidden Power", "Hyper Beam", "Ice Beam", "Ice Fang", "Icy Wind", "Incinerate", "Iron Defense", "Iron Head", "Magnet Bomb", "Mean Look", "Mega Kick", "Mega Punch", "Metal Sound", "Meteor Mash", "Nasty Plot", "Natural Gift", "Nightmare", "Parting Shot", "Payback", "Power-Up Punch", "Protect", "Psych Up", "Psychic Fangs", "Punishment", "Quash", "Rest", "Return", "Rock Slide", "Rock Smash", "Round", "Secret Power", "Shadow Ball", "Sleep Talk", "Sludge Bomb", "Snarl", "Snore", "Snatch", "Stealth Rock", "Steel Beam", "Stone Edge", "Substitute", "Swagger", "Swords Dance", "Taunt", "Thunder Fang", "Thunder Punch", "Thunder Wave", "Throat Chop", "Torment", "Toxic"],
+    "egg": ["Ancient Power", "Captivate", "False Swipe", "Fire Fang", "Guard Swap", "Ice Fang", "Metal Burst", "Poison Fang", "Power-Up Punch", "Psych Up", "Punishment", "Seismic Toss", "Slam", "Sucker Punch", "Swords Dance", "Thunder Fang", "Tickle"],
+    "tutor": ["Ancient Power", "Body Slam", "Counter", "Dark Pulse", "Double-Edge", "Dynamic Punch", "Endure", "Focus Punch", "Foul Play", "Headbutt", "Ice Punch", "Icy Wind", "Iron Defense", "Iron Head", "Knock Off", "Laser Focus", "Last Resort", "Magnet Rise", "Mega Kick", "Mega Punch", "Mimic", "Mud-Slap", "Pain Split", "Psych Up", "Rock Slide", "Seismic Toss", "Sleep Talk", "Snatch", "Snore", "Stealth Rock", "Steel Beam", "Substitute", "Sucker Punch", "Super Fang", "Swagger", "Swords Dance", "Thunder Punch"]
+  }
+}

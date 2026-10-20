@@ -1,0 +1,11 @@
+{
+  "name": "Blink",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Cool",
+  "target": "Self",
+  "effect": "You may use any Social Stat for this move. Use one of your Stocked moves, gaining an additional damage dice equal to half the successes on this moves' Accuracy Check. In addition, the Stocked move has the Switcher Tag.",
+  "description": "If you just roll with what the world has offered you, you can focus on dodging all the better.",
+  "category": "Support"
+}

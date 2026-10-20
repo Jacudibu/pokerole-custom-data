@@ -1,0 +1,11 @@
+{
+  "name": "Blackout Kick",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "Dexterity",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Gain +2 Damage Dice for every 20% of your Stagger Bar that is filled. Reduce your current stagger by your Rank.",
+  "description": "The bright side of being so drunk you can't see straight is that your kicks are just as unpredictable.",
+  "category": "Physical"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Shed Skin",
+    "description": "This Pokemon is constantly growing skin anew and molting the old one when it becomes too damaged.",
+    "effect": "At the end of the round, if this Pokemon has a Status Ailment, it heals from one Status Ailment of its choosing. Whenever it recovers from a Status, it reduces one of it's Stat Drops by 1."
+}

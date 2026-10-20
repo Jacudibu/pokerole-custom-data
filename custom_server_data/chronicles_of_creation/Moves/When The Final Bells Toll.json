@@ -1,0 +1,11 @@
+{
+  "name": "When The Final Bells Toll",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "Strength / Special",
+  "accuracy": "Tough",
+  "target": "Foe",
+  "effect": "You may use any Social Stat for this. This deals additional damage dice equal to the amount of HP you have lost over the course of this battle. It deals additional flat damage equal to the number of times you have been KOed in the current battle. The user chooses which defense this targets. This move cannot be stopped and ignores all Redirection.",
+  "description": "You've been beaten back, battered until you have almost nothing left, but that isn't stopping you...you'll put it all on the line.",
+  "category": "Support"
+}

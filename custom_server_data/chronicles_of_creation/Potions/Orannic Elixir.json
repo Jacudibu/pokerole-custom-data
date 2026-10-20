@@ -1,0 +1,8 @@
+{
+  "name": "Orannic Elxir",
+  "description": "A potion brewed from mixing heated up oran juices over a small simmer.",
+  "effect": "Heal 3 HP and 1 Wound.",
+  "recipes": [
+    "50 Poke, 3 Oran Berries"
+  ]
+}

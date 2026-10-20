@@ -1,0 +1,27 @@
+{
+  "species_id": 50043,
+  "name": "Prehistoric Aurorus",
+  "type1_override": "Electric",
+  "type2_override": "Ice",
+  "ability1_override": "Refrigerate",
+  "ability2_override": "",
+  "ability_hidden_override": "Snow Warning",
+  "weight_override_in_kilograms": 225.0,
+  "height_override_in_meters": 2.70,
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Ancient Power", "Encore", "Growl", "Powder Snow", "Thunder Shock"],
+    "silver": ["Aurora Beam", "Icy Wind", "Mist", "Nature Power", "Round", "Thunder Wave"],
+    "gold": ["Blizzard", "Freeze-Dry", "Hail", "Hyper Beam", "Ice Beam", "Light Screen", "Thunder"],
+    "platinum": ["Discharge", "Earth Power", "Iron Defense", "Outrage", "Stealth Rock", "Water Pulse"],
+    "diamond": [],
+    "tm": ["Attract", "Avalanche", "Blizzard", "Body Slam", "Bulldoze", "Calm Mind", "Charge Beam", "Confide", "Dark Pulse", "Double Team", "Dragon Tail", "Dream Eater", "Earthquake", "Earth Power", "Echoed Voice", "Encore", "Endure", "Facade", "Flash", "Flash Cannon", "Frost Breath", "Frustration", "Hail", "Giga Impact", "Hidden Power", "Hyper Beam", "Hyper Voice", "Ice Beam", "Icicle Spear", "Icy Wind", "Iron Defense", "Iron Head", "Iron Tail", "Light Screen", "Mud Shot", "Nature Power", "Outrage", "Protect", "Psychic", "Psych Up", "Rain Dance", "Reflect", "Rest", "Return", "Roar", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Safeguard", "Sandstorm", "Secret Power", "Sleep Talk", "Snore", "Stealth Rock", "Stone Edge", "Substitute", "Swagger", "Thunder Wave", "Thunder", "Thunderbolt", "Toxic", "Weather Ball", "Zen Headbutt"],
+    "egg": ["Aurora Veil", "Barrier", "Discharge", "Haze", "Magnet Rise", "Mirror Coat", "Rock Throw", "Take Down"],
+    "tutor": ["Aqua Tail", "Earth Power", "Hyper Voice", "Icy Wind", "Iron Defense", "Iron Head", "Iron Tail", "Magnet Rise", "Meteor Beam", "Outrage", "Snore", "Stealth Rock", "Water Pulse", "Zen Headbutt"]
+  }
+}

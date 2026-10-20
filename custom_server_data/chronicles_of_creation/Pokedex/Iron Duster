@@ -1,0 +1,27 @@
+{
+  "species_id": 50013,
+  "name": "Iron Duster",
+  "type1_override": "Bug",
+  "type2_override": "Dragon",
+  "ability1_override": "Quark Drive",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 13.0,
+  "height_override_in_meters": 1.20,
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Headbutt", "Struggle Bug", "Sweet Scent", "Withdraw"],
+    "silver": ["Acid Spray", "Dragon Breath", "Signal Beam", "Silver Wind", "Sleep Powder", "Stun Spore"],
+    "gold": ["Amnesia", "Bug Buzz", "Dragon Pulse", "Iron Defense", "Grav Apple", "Iron Defense", "Leech Life", "Quiver Dance"],
+    "platinum": ["Defense Curl", "Draco Meteor", "Solar Beam", "Strength Sap", "Rollout"],
+    "diamond": [],
+    "tm": ["Acid", "Acid Spray", "Bullet Seed", "Draco Meteor", "Dragon Dance", "Dragon Pulse", "Electric Terrain", "Electro Web", "Energy Ball", "First Impression", "Fly", "Focus Energy", "Giga Drain", "Giga Impact", "Grass Knot", "Grassy Glide", "Grassy Terrain", "Heavy Slam", "Infestation", "Iron Defense", "Leech Life", "Magical Leaf", "Outrage", "Pollen Puff", "Pounce", "Rototiller", "Seed Bomb", "Sunny Day", "Take Down", "Trailblaze", "U-Turn"],
+    "egg": ["String Shot", "Recycle", "Pollen Puff", "Rage Powder"],
+    "tutor": ["Draco Meteor", "Skitter Smack", "Grassy Glide"]
+  }
+}

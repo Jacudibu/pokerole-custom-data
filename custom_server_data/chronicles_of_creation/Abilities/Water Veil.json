@@ -1,5 +1,5 @@
 {
     "name": "Water Veil",
     "description": "This Pokemon is always wet and producing water to keep itself moist. Thanks to this, the Pokemon can stay away from a body of water for a long time.",
-    "effect": "This Pokemon is immune to the Burn Status."
+    "effect": "This Pokemon does not suffer negative effects from the Burn Status. In addition, when the Rain Weather is in effect, they gain +1 Base Defense and Special Defense."
 }

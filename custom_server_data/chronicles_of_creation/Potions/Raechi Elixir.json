@@ -1,0 +1,8 @@
+{
+  "name": "Raechi Elixir",
+  "description": "Boil the juices of the Rawst Berries over a low heat, and once at a simmer, the Liechi berry seeds are added with flakes of the Rawst Berries skins.",
+  "effect": "Cure Burn and become immune to Burn for the rest of the scene. Gain +1 Strength for the rest of the scene.",
+  "recipes": [
+    "100 Poke, 2 Rawst Berries, 1 Liechi Berry"
+  ]
+}

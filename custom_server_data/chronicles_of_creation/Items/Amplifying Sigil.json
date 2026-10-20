@@ -1,0 +1,6 @@
+{
+    "name": "Amplifying Sigil",
+    "description": "By consuming this Sigil as a free action, increase the damage dice of attacks matching the Sigil's type by 1 for a number of attacks equal to your rank modier (up to a max of 3 turns).",
+    "category": "Consumable",
+    "single_use": false
+}

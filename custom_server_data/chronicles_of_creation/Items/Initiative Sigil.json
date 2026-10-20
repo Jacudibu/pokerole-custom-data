@@ -1,0 +1,6 @@
+{
+    "name": "Initiative Sigil",
+    "description": "At the start of combat, gain +3 initiative. This effect lasts an amount of rounds equal to your rank modifier.",
+    "category": "Consumable",
+    "single_use": false
+}

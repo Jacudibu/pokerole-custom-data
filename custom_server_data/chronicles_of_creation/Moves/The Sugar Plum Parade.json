@@ -1,0 +1,11 @@
+{
+  "name": "The Sugar Plum Parade",
+  "type": "Fairy",
+  "power": 3,
+  "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Dancing. This move can use the Users Strength or Special as the Accuracy Stat as-well.",
+  "description": "Dancing to a song where it feels like the world is singing around you as everything is silent",
+  "category": "Special"
+}

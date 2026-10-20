@@ -1,0 +1,6 @@
+{
+    "name": "Power Herb",
+    "description": "Allows the user to use Charge moves immediately and skip the Recharge turn on Recharge Moves if used on the turn before. If used, don't apply the 1.5x bonus to Damage dice that Charge and Recharge moves get normally.",
+    "category": "Herb",
+    "single_use": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bratty Disposition",
+  "type": "Dark",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Sound Based. Switcher.",
+  "description": "You stick out your tongue, make a face, and taunt your foe, all the while you move quickly back, can't let them spank you yet!",
+  "category": "Special"
+}

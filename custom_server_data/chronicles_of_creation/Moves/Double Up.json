@@ -1,0 +1,11 @@
+{
+  "name": "Double Up",
+  "type": "Normal",
+  "power": 2,
+    "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Switcher. The user may treat this move as a Multi-Hit move, with their maximum number of hits being determined by the number of points of Evasion they had before using this move. Each successive hit in the multi-hit adds 2 Power.",
+  "description": "You can beat them with your Double Team Clones, Believe it!",
+  "category": "Physical"
+}

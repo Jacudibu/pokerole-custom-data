@@ -1,0 +1,11 @@
+{
+  "name": "Pay Day",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Each use scatters 25 × Rank  around the arena. This effect can only be triggered once per Quest and cannot be triggered outside of Quests.",
+  "description": "The user hurls coins at the target, scattering them on the battlefield.",
+  "category": "Physical"
+}

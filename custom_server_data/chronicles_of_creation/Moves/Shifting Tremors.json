@@ -1,0 +1,11 @@
+{
+  "name": "Shifting Tremors",
+  "type": "Ground",
+  "power": 1,
+  "damage": "Dexterity",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Striking. Switcher.",
+  "description": "With a slight push of the earth, you disrupt the foes movements while repositioning to a better spot.",
+  "category": "Special"
+}

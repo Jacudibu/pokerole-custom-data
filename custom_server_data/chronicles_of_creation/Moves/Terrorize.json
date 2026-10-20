@@ -1,0 +1,11 @@
+{
+  "name": "Terrorize",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "Foe",
+  "effect": "You may use a Social Stat for this move. You may only use this move Once per scene. Put a mark on your foe for the rest of combat. The foe that you land this attack on suffers -X Base Strength, Special, Dexterity, Defense and Special Defense, where X is the amount of times you’ve been KOd this combat.",
+  "description": "You should be down, you should be beaten, and the fact you aren't...it scares them...Use that.",
+  "category": "Support"
+}

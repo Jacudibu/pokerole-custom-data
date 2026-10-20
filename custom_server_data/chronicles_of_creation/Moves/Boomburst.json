@@ -1,0 +1,11 @@
+{
+  "name": "Boomburst",
+  "type": "Normal",
+  "power": 8,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Sound Based.",
+  "description": "The user creates an explosive sound that deafens everyone in the battlefield.",
+  "category": "Special"
+}

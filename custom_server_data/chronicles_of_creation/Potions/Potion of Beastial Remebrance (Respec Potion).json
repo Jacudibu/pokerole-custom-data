@@ -1,0 +1,8 @@
+{
+  "name": "Potion of Beastial Remembrance (Respec Potion)",
+  "description": "This Potion is relatively easy to make, but it does come with a heftier cost as some of its ingredients are expensive and hard to come by.",
+  "effect": "This Potion causes a Pokemon to temporarily forget the skills and training they've undergone, allowing them to refocus their training.",
+  "recipes": [
+    " 1000 Poke."
+  ]
+}

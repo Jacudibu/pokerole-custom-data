@@ -1,0 +1,11 @@
+{
+  "name": "Discharge",
+  "type": "Electric",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Roll 3 Chance Dice to Paralyze those affected.",
+  "description": "The user releases its stored electricity in all directions.",
+  "category": "Special"
+}

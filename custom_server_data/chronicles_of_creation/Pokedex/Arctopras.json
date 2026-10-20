@@ -1,0 +1,29 @@
+{
+  "number": 881,
+  "api_id": 881,
+  "species_id": 50015,
+  "name": "Arctopras",
+  "type1_override": "Ice",
+  "type2_override": "Water",
+  "ability1_override": "Water Absorb",
+  "ability2_override": "Ice Body",
+  "ability_hidden_override": "Slush Rush",
+  "weight_override_in_kilograms": 205.4,
+  "height_override_in_meters": 2.1,
+  "base_hp": 6,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Icy Wind", "Powder Snow", "Water Gun", "Snowscape"],
+    "silver": ["Ancient Power", "Aurora Veil", "Snarl", "Aqua Jet", "Headbutt"],
+    "gold": ["Blizzard", "Brine", "Freeze Dry", "Earth Power"],
+    "platinum": ["Hydro Pump", "Frost Breath", "Hail"],
+    "diamond": [],
+    "tm": ["Avalance", "Body Slam", "Crunch", "Dive", "Ice Beam", "Ice Fang", "Icicle Spear", "Iron Defense", "Iron Head", "Liquidation", "Psychic Fangs", "Rain Dance", "Rock Blast", "Rock Slide", "Rock Tomb", "Round", "Stone Edge", "Surf", "Whirlpool", "Zen Headbutt"],
+    "egg": ["Boomburst", "Curse", "Hyper Voice", "Meteor Beam", "Muddy Water", "Perish Song", "Scald", "Sing"],
+    "tutor": []
+  }
+}

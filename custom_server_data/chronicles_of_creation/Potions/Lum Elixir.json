@@ -1,0 +1,8 @@
+{
+  "name": "Lum Elixir",
+  "description": "Taking the seeds of the Lum berries and grinding them a fine powder, they are added to the juices of the Lum's over a day while the juices simmer over a low heat.",
+  "effect": "Cure two status ailments.",
+  "recipes": [
+    "200 Poke, 3 Lum Berries"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rest",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Heal 10 HP. If succesful, spend 1 Will point to activate. The user must Sleep until next turn's Round End.",
+  "description": "The user falls asleep. During this period the body benefits from a super accelerated healing process.",
+  "category": "Support"
+}

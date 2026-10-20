@@ -1,0 +1,8 @@
+{
+  "name": "Aspaya Elixir",
+  "description": "The spines of the Petaya berry are ground into a powder and added to the juices of the Aspear Berries.",
+  "effect": "Cure Frostbite and become immune to Frostbite for the rest of the scene. Gain +1 Special for the rest of the scene.",
+  "recipes": [
+    "100 Poke, 2 Aspear Berries, 1 Petaya Berry"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Immunity Elixir",
+  "description": "Once again, this potion varies depending on the berry used to protect against status ailments, but like the Shielding Elixir, it's just a variation on the final tempature it is cooked at.",
+  "effect": "Grants Status Immunity to the Corresponding Status of the Berry used in the Creation of this Elixir. Heals 3 HP and cannot be Heal Blocked for the rest of the scene. 2 Turn Cooldown.",
+  "recipes": [
+    " 500 Poke, 1 Status Immunity Berry, 2 Sitrues Berries, 1 Leppa Berry."
+  ]
+}

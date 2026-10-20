@@ -1,0 +1,27 @@
+{
+  "species_id": 50002,
+  "name": "Hellion Huntress",
+  "type1_override": "Fairy",
+  "type2_override": "Dragon",
+  "ability1_override": "Quark Drive",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 112.8,
+  "height_override_in_meters": 0.7,
+  "base_hp": 8,
+  "strength": "4/8",
+  "dexterity": "4/8",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Astonish", "Baby-Doll Eyes", "Metal Claw", "Spirit Break"],
+    "silver": ["Body Slam", "Brutal Swing", "Dragon Claw", "Play Rough", "Rock Smash", "Sweet Kiss"],
+    "gold": ["Dual Chop", "Fake Out", "Gigaton Hammer", "Knock Off", "Skitter Smack"],
+    "platinum": ["Apex Rend", "Feint", "Ice Hammer"],
+    "diamond": [],
+    "tm": ["Brick Break", "Bounce", "Bulldoze", "Bullet Punch", "Cross Chop", "Dragon Dance", "Dig", "Double Up", "Encore", "Endeavor", "Endure", "Facade", "Fell Stinger", "Fling", "Foul Play", "Guillotine", "Hard Press", "Heavy Slam", "Helping Hand", "High Jump Kick", "Knock Off", "Light Screen", "Metronome", "Needle Arm", "Pounce", "Poison Jab", "Protect", "Psycho Cut", "Reflect", "Rest", "Rock Slide", "Rock Tomb", "Skill Swap", "Skitter Smack", "Sleep Talk", "Smack Down", "Stone Edge", "Substitute", "Sucker Punch", "Swords Dance", "Teeter Dance", "Tera Blast", "Thief", "Thunder Wave", "Trailblaze", "Zoning"],
+    "egg": ["Apex Rend", "Feint", "Ice Hammer", "Quash"],
+    "tutor": []
+  }
+}

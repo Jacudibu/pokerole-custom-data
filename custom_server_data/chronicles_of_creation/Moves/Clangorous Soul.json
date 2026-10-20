@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Tough",
   "target": "User",
-  "effect": "Dancing. Sound Based. User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength, Dexterity, Special, Defense and Sp. Defense.",
+  "effect": "Dancing. Sound Based. User deals Damage to itself equal to Half of its maximum HP rounded down. Increase the User's Strength, Dexterity, Special by 2 and Defense and Special Defense by 1. These Stat Increases cannot be stolen or removed unless allowed by the User or until after the User's HP has been restored by the same amount as the damage dealt by Clangorous Soul. These Stat Increases also may not be copied.",
   "description": "The Pokemon shakes its scales around, to sharpen, shed, and rearrange them. It's a bit rough, but in the end the Pokemon feels more focused for battle.",
   "category": "Support"
 }

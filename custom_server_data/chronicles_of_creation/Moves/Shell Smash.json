@@ -1,0 +1,11 @@
+{
+  "name": "Shell Smash",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Strength",
+  "target": "Self",
+  "effect": "Increase the User's Strength, Special, Dexterity by 2. Reduce the User's Defense and Special Defense by 2. If the Stat increases from this move would be removed by any source, also remove the Stat Reductions, and viceversa. These stat changes may not be copied.",
+  "description": "By breaking its own shell, the user sacrifices defense in exchange of being free to fight with all its power.",
+  "category": "Support"
+}

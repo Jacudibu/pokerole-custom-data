@@ -1,0 +1,11 @@
+{
+  "name": "Lava Plume",
+  "type": "Fire",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Roll 3 Chance Dice to Burn those affected.",
+  "description": "The user shoots up bits of molten lava that fall scattered around the field.",
+  "category": "Special"
+}

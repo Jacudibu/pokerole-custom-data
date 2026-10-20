@@ -1,0 +1,11 @@
+{
+  "name": "Brew of Fortification",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Self",
+  "effect": "This move can only be used when your Stagger Bar is at 80% or higher. Clear your Stagger Bar. Gain a Temporary HP shield equal to your Dexterity. In addition, one enemy **must** target you on their next turn. This move cannot be used for 5 turns. Each turn you use Blackout Kick, this lowers the cooldown of this move by 1 turn.",
+  "description": "You take a deep drink of your brew, hardening your resolve!",
+  "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Aurora Beam",
+  "type": "Ice",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Pulse Move. Roll 1 Chance Dice to reduce the foe's Strength.",
+  "description": "The Pokemon shoots a beautiful rainbow colored beam that may leave the foe flabbergasted.",
+  "category": "Special"
+}

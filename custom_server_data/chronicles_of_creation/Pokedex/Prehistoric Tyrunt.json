@@ -1,0 +1,27 @@
+{
+  "species_id": 50040,
+  "name": "Prehistoric Tyrunt",
+  "type1_override": "Dark",
+  "type2_override": "Dragon",
+  "ability1_override": "Strong Jaw",
+  "ability2_override": "",
+  "ability_hidden_override": "Sturdy",
+  "weight_override_in_kilograms": 26.0,
+  "height_override_in_meters": 0.80,
+  "base_hp": 3,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Ancient Power", "Roar", "Tackle", "Tail Whip"],
+    "silver": ["Bite", "Charm", "Crunch", "Dragon Claw", "Rock Slide", "Stomp"],
+    "gold": ["Dragon Claw", "Earthquake", "Horn Drill", "Thrash"],
+    "platinum": ["Fire Fang", "Ice Fang", "Thunder Fang"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Assurance", "Attract", "Bide", "Body Slam", "Brick Break", "Bulldoze", "Charm", "Close Combat", "Confide", "Crunch", "Dark Pulse", "Dig", "Double Team", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dragon Tail", "Earth Power", "Earthquake", "Endure", "Facade", "Fire Fang", "Frustration", "Hidden Power", "Hone Claws", "Hyper Voice", "Ice Fang", "Iron Defense", "Iron Head", "Iron Tail", "Outrage", "Play Rough", "Protect", "Psychic Fangs", "Rest", "Return", "Roar", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Secret Power", "Sleep Talk", "Snore", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Superpower", "Swagger", "Thunder Fang", "Toxic", "Zen Headbutt"],
+    "egg": ["Curse", "Dragon Dance", "Fire Fang", "Ice Fang", "Poison Fang", "Rock Polish", "Rock Throw", "Thunder Fang"],
+    "tutor": ["Block", "Draco Meteor", "Dragon Pulse", "Earth Power", "Hyper Voice", "Iron Defense", "Iron Head", "Iron Tail", "Lash Out", "Meteor Beam", "Outrage", "Scale Shot", "Snore", "Stealth Rock", "Stomping Tantrum", "Superpower", "Zen Headbutt"]
+  }
+}

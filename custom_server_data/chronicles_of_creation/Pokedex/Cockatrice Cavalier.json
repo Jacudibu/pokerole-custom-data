@@ -1,0 +1,27 @@
+{
+  "species_id": 50006,
+  "name": "Cockatrice Cavalier",
+  "type1_override": "Steel",
+  "type2_override": "Dragon",
+  "ability1_override": "Protosynthesis",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 75.0,
+  "height_override_in_meters": 2.20,
+  "base_hp": 7,
+  "strength": "1/3",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Gust", "Leer", "Mean Look", "Scary Face", "Twister"],
+    "silver": ["Dragon Cheer", "Dragon Pulse", "Iron Defense", "Mirror Shot", "Power Trip"],
+    "gold": ["Breaking Swipe", "Flamethrower", "Flash Cannon", "Glare", "Swagger", "Taunt"],
+    "platinum": ["Aura Sphere", "Defog", "Reign of Primal Majesty", "Spite", "Steel Beam", "Tailwind"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Agility", "Air Cutter", "Air Slash", "Assurance", "Attract", "Body Press", "Body Slam", "Calm Mind", "Curse", "Double-Edge", "Dual Wingbeat", "Endure", "Facade", "Fake Tears", "Fire Blast", "Flash Cannon", "Fly", "Focus Energy", "Giga Impact", "Heavy Slam", "Hurricane", "Hyper Beam", "Hypnosis", "Iron Head", "Light Screen", "Metal Claw", "Metal Sound", "Nasty Plot", "Payback", "Piercing Feather Storm", "Protect", "Rain Dance", "Reflect", "Rest", "Retaliate", "Revenge", "Reversal", "Rock Smash", "Round", "Scary Face", "Screech", "Sleep Talk", "Snore", "Spite", "Steel Beam", "Steel Wing", "Substitute", "Sunny Day", "Swift", "Tailwind", "Take Down", "Taunt", "Tera Blast", "Thief", "U-turn", "Work Up"],
+    "egg": ["Defog", "Hypnosis", "Spite", "Steel Beam", "Tailwind"],
+    "tutor": ["Dual Wingbeat", "Steel Beam"]
+  }
+}

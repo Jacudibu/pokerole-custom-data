@@ -1,0 +1,8 @@
+{
+  "name": "WTF Elixir",
+  "description": "Yeah...I don't know, the recipe for this one changes everytime?",
+  "effect": "Recover 4 Will. Use Metronome twice immediately after consumption. This potion takes both an entire turn to drink. Cooldown of two turns.",
+  "recipes": [
+    "400 Poke, 2 Leppa Berries, 1 Enigma Berry"
+  ]
+}

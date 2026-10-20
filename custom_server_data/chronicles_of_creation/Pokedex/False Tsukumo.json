@@ -1,0 +1,27 @@
+{
+  "species_id": 50005,
+  "name": "False Tsukumo",
+  "type1_override": "Ghost",
+  "type2_override": "Psychic",
+  "ability1_override": "Quark Drive",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 12.5,
+  "height_override_in_meters": 1.10,
+  "base_hp": 9,
+  "strength": "1/3",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "4/9",
+  "moves": {
+    "bronze": ["Knock Off", "Night Shade", "Screech", "Spotlight"],
+    "silver": ["Curse", "Embargo", "Feint Attack", "Hex", "Shadow Ball", "Shadow Sneak", "Snatch", "Will-O-Wisp"],
+    "gold": ["Trick", "Grudge", "Phantom Force", "Sucker Punch"],
+    "platinum": ["Destiny Bond", "Magnetic Flux", "Role Play"],
+    "diamond": [],
+    "tm": ["Attract", "Calm Mind", "Captivate", "Charge Beam", "Confide", "Confuse Ray", "Curse", "Dark Pulse", "Dazzling Gleam", "Double Team", "Dream Eater", "Embargo", "Encore", "Endure", "Facade", "Flash", "Fling", "Foul Play", "Frustration", "Giga Impact", "Helping Hand", "Hex", "Hidden Power", "Hyper Beam", "Imprison", "Infestation", "Knock Off", "Lash Out", "Metronome", "Nasty Plot", "Natural Gift", "Night Shade", "Pain Split", "Payback", "Phantom Force", "Poltergeist", "Protect", "Psybeam", "Psych Up", "Psychic", "Rain Dance", "Rest", "Return", "Round", "Scary Face", "Secret Power", "Shadow Ball", "Shadow Claw", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Substitute", "Sunny Day", "Swagger", "Swords Dance", "Taunt", "Telekinesis", "Tera Blast", "Thief", "Throat Chop", "Thunder", "Thunder Wave", "Thunderbolt", "Torment", "Toxic", "Trick", "Trick Room", "Will-O-Wisp", "Mist", "Teleport"],
+    "egg": ["Astonish", "Confuse Ray", "Destiny Bond", "Disable", "Foresight", "Imprison", "Ominous Wind", "Payback", "Phanton Force", "Pursuit", "Shadow Sneak", "Magnetic Flux"],
+    "tutor": ["Ally Switch", "Body Slam", "Dark Pulse", "Double-Edge", "Dream Eater", "Endure", "Flower Shield", "Foul Play", "Headbutt", "Knock Off", "Magic Coat", "Magic Room", "Metronome", "Mimic", "Mud-Slap", "Nightmare", "Ominous Wind", "Pain Split", "Psych Up", "Role Play", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Substitute", "Sucker Punch", "Swagger", "Telekinesis", "Throat Chop", "Thunder Wave", "Trick"]
+  }
+}

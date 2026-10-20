@@ -1,0 +1,11 @@
+{
+  "name": "Charge Beam",
+  "type": "Electric",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Pulse Move. Roll 7 Chance Dice to Increase The user's Special. -1 Accuracy.",
+  "description": "The pokemon lets out an electric beam then uses the remaining charge to boost it's power.",
+  "category": "Special"
+}

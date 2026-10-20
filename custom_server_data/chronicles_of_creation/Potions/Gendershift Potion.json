@@ -1,0 +1,8 @@
+{
+  "name": "Gendershift Potion",
+  "description": "A sickly sweet, bubbly liquid. These potions are incredibly difficult to craft; however, they require relatively mundane and easy to get ingredients. As such, the Shopkeep has offered this potion for free.",
+  "effect": "The vast majority of Pokemon require this potion to be consumed to cause their sex to shift. The potion must be consumed each time a Pokemon wants to change sex.",
+  "recipes": [
+    "Free of charge."
+  ]
+}

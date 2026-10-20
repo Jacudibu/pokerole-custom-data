@@ -1,0 +1,27 @@
+{
+  "species_id": 50032,
+  "name": "Prehistoric Cranidos",
+  "type1_override": "Fighting",
+  "type2_override": "",
+  "ability1_override": "Mold Breaker",
+  "ability2_override": "",
+  "ability_hidden_override": "Sheer Force",
+  "weight_override_in_kilograms": 31.5,
+  "height_override_in_meters": 0.90,
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": ["Focus Energy", "Leer", "Pursuit", "Take Down", "Tackle"],
+    "silver": ["Ancient Power", "Assurance", "Chip Away", "Headbutt", "Scary Face"],
+    "gold": ["Head Smash", "Screech", "Zen Headbutt"],
+    "platinum": ["Hammer Arm", "Iron Head", "Superpower"],
+    "diamond": [],
+    "tm": ["Attract", "Blizzard", "Body Slam", "Bite", "Bulldoze", "Captivate", "Confide", "Crunch", "Curse", "Dig", "Double Team", "Double Edge", "Dragon Cheer", "Dragon Pulse", "Earth Power", "Earthquake", "Endeavor", "Endure", "Facade", "Fire Blast", "Fire Punch", "Flamethrower", "Fling", "Frustration", "Hidden Power", "Ice Beam", "Incinerate", "Iron Head", "Iron Tail", "Mud-Slap", "Natural Gift", "Payback", "Power-Up Punch", "Protect", "Rain Dance", "Rest", "Return", "Roar", "Rock Blast", "Rock Climb", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Secret Power", "Shock Wave", "Sleep Talk", "Smack Down", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Swagger", "Swords Dance", "Take Down", "Tera Blast", "Thief", "Thunder", "Thunder Punch", "Thunderbolt", "Toxic", "Trailblaze", "Uproar", "Zen Headbutt"],
+    "egg": ["Crunch", "Curse", "Double-Edge", "Hammer Arm", "Iron Head", "Iron Tail", "Leer", "Slam", "Stomp", "Thrash", "Whirlwind"],
+    "tutor": ["Ancient Power", "Dragon Pulse", "Earth Power", "Endeavor", "Fire Punch", "Headbutt", "Iron Head", "Iron Tail", "Mud-Slap", "Shock Wave", "Sleep Talk", "Snore", "Spite", "Stealth Rock", "Superpower", "Thunder Punch", "Uproar", "Zen Headbutt"]
+  }
+}

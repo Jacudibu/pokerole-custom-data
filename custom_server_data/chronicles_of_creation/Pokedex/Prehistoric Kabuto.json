@@ -1,0 +1,27 @@
+{
+  "species_id": 50023,
+  "name": "Prehistoric Kabuto",
+  "type1_override": "Bug",
+  "type2_override": "Water",
+  "ability1_override": "Swift Swim",
+  "ability2_override": "Battle Armor",
+  "ability_hidden_override": "Weak Armor",
+  "weight_override_in_kilograms": 11.5,
+  "height_override_in_meters": 0.5,
+  "base_hp": 3,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Absorb", "Harden", "Leer", "Sand Attack", "Scratch", "Struggle Bug"],
+    "silver": ["Aqua Jet", "Endure", "Leech Life", "Mega Drain", "Metal Sound", "Mud Shot"],
+    "gold": ["Ancient Power", "Wring Out"],
+    "platinum": ["Confuse Ray", "Iron Defense", "Stealth Rock"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Bide", "Blizzard", "Body Slam", "Brine", "Bubblebeam", "Captivate", "Curse", "Dig", "Double-Edge", "Earth Power", "Giga Drain", "Hail", "Headbutt", "Hone Claws", "Hydro Pump", "Ice Beam", "Icy Wind", "Iron Defense", "Knock Off", "Leech Life", "Liquidation", "Mega Drain", "Meteor Beam", "Mimic", "Mud Shot", "Mud Slap", "Natural Gift", "Rage", "Rain Dance", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Throw", "Rock Tomb", "Rollout", "Sandstorm", "Scald", "Screech", "Slash", "Smack Down", "Stealth Rock", "Stone Edge", "Surf", "Take Down", "Thief", "Water Gun", "Water Pulse", "Waterfall", "Whirlpool"],
+    "egg": ["Aurora Beam", "Bubble Beam", "Confuse Ray", "Dig", "Flail", "Foresight", "Giga Drain", "Icy Wind", "Knock Off", "Mega Drain", "Mud Shot", "Rapid Spin", "Screech", "Take Down"],
+    "tutor": []
+  }
+}

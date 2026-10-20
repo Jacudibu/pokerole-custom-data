@@ -1,0 +1,8 @@
+{
+  "name": "Chelac Elixir",
+  "description": "Blending the seeds of the Cheri berries with the juices of the Salac berry, then heating them over a firm boil can bring out the maximum curiative potential of the Cheri Berries.",
+  "effect": "Cure Paralysis and become immune to Paralysis for the rest of the scene. Gain +1 Dexterity for the rest of the scene.",
+  "recipes": [
+    "100 Poke, 2 Cheri Berries, 1 Salac Berry"
+  ]
+}

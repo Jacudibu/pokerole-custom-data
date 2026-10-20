@@ -1,0 +1,5 @@
+{
+    "name": "Endless Surge",
+    "description": "You just keep coming....",
+    "effect": "Your total Max HP becomes Base HP Stat+Vitality Stat. For calculating Wound Damage, use the standard Health Formula (Base HP Stat+Vitality x2). The first time you are KOed in a Battle, you instead heal to Full HP and gain +2 Base Strength or Special and +2 Base Dexterity. You cannot be revived via Reviver Seeds, however, you may still use Reviver Seeds to heal Wounds. At Paragon, this ability can proc a second time, with the stat increases stacking. After becoming a Death Knight, this ability can proc a third time. However, on the third time, the User instead gains High Critical for the rest of the battle. In addition, they take damage equal to their Rank at the end of each Round for the rest of the battle."
+}

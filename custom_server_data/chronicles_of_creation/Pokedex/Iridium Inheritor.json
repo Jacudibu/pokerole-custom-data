@@ -1,0 +1,27 @@
+{
+  "species_id": 50022,
+  "name": "Iridium Inheritor",
+  "type1_override": "Normal",
+  "type2_override": "Steel",
+  "ability1_override": "Quark Drive",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 70.2,
+  "height_override_in_meters": 1.32,
+  "base_hp": 5,
+  "strength": "1/3",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Confusion", "Growl", "Mimic", "Mirror Shot", "Sketch"],
+    "silver": ["Agility", "Charge Beam", "Coil", "Hidden Power", "Sketch"],
+    "gold": ["Flash Cannon", "Frost Mirages", "Me First", "Power Gem", "Sketch", "Tri Attack", "Water Shuriken"],
+    "platinum": ["Aura Sphere", "Hurricane", "Hyper Beam", "Rest", "Sketch", "Snore"],
+    "diamond": [],
+    "tm": ["Air Slash", "Bug Buzz", "Calm Mind", "Dragon Pulse", "Draining Kiss", "Earth Power", "Energy Ball", "Flamethrower", "Fling", "Focus Blast", "Hyper Voice", "Magnet Rise", "Nasty Plot", "Psyshock", "Sketch", "Sludge", "Smack Down", "Shadow Ball", "Surf", "Thunder Wave", "Trailblaze", "Volt Switch"],
+    "egg": ["Aura Sphere", "Echoed Voice", "Facade", "Growl", "Hurricane", "Rest", "Snore"],
+    "tutor": []
+  }
+}

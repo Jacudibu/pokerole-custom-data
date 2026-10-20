@@ -1,0 +1,27 @@
+{
+  "species_id": 50008,
+  "name": "Funerary Flame",
+  "type1_override": "Fire",
+  "type2_override": "Ghost",
+  "ability1_override": "Protosynthesis",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 90.5,
+  "height_override_in_meters": 1.70,
+  "base_hp": 6,
+  "strength": "1/3",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "4/8",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Ember", "Growl", "Lick", "Smokescreen"],
+    "silver": ["Fire Fang", "Fire Spin", "Flamethrower", "Scary Face", "Ominous Wind"],
+    "gold": ["Shadow Ball", "Flare Blitz", "Heat Wave", "Inferno"],
+    "platinum": ["Grudge", "Fire Pledge", "Perish Song"],
+    "diamond": [],
+    "tm": ["Astonish", "Bulldoze", "Beat Up", "Confide", "Confuse Ray", "Curse", "Dark Pulse", "Dream Eater", "Dragon Breath", "Dragon Claw", "Dragon Pulse", "Dragon Rage", "Earth Power", "Endure", "False Swipe", "Fire Blast", "Fire Fang", "Fire Pledge", "Fire Punch", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Heat Crash", "Heat Wave", "Helping Hand", "Hex", "Hidden Power", "Hyper Beam", "Hypnosis", "Incinerate", "Lick", "Morning Sun", "Mud-Slap", "Mystical Fire", "Nasty Plot", "Nightmare", "Outrage", "Overheat", "Protect", "Reflect", "Rest", "Scorching Sands", "Snarl", "Skull Bash", "Solar Beam", "Sunny Day", "Substitute", "Swift", "Swords Dance", "Temper Flare", "Tera Blast", "Thunder Punch", "Toxic", "Weather Ball", "Will-O-Wisp", "Work Up"],
+    "egg": ["Ancient Power", "Calm Mind", "Dark Pulse", "Nightmare", "Night Shade", "Ominous Wind", "Snarl", "Swift", "Spite", "Grudge"]
+    
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Starting Hand",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Cool",
+  "target": "Self",
+  "effect": "You may use any Social Stat for this move. Stock Five moves. Gain +1 Insight for the battle, not affecting your Willpower or Maximum Moves. In addition, gain +1 flat damage with moves that match two of the types of the moves you stock through this move for the rest of combat. If you pick the same type (you rolled two Normal-Type moves and Picked them both, for instance), you gain an additional +1 to your Insight (following the rules as before), Strength, Dexterity and Special. Priority 2. This move fails if used any time but the first turn of combat.",
+  "description": "There are already many possibilities, before the fight even started. You just have to take a moment to see them.",
+  "category": "Support"
+}

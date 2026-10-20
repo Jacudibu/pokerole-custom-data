@@ -1,0 +1,11 @@
+{
+  "name": "Psybeam",
+  "type": "Psychic",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Pulse Move. Roll 1 Chance Die to confuse the foe.",
+  "description": "Attack with a beam of psychic energy that hits the mind of the target.",
+  "category": "Special"
+}

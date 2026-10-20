@@ -1,0 +1,27 @@
+{
+  "species_id": 50039,
+  "name": "Prehistoric Archeops",
+  "type1_override": "Flying",
+  "type2_override": "",
+  "ability1_override": "Defeatist",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 32.0,
+  "height_override_in_meters": 1.40,
+  "base_hp": 5,
+  "strength": "4/8",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Double Team", "Leer", "Quick Attack", "Rock Throw", "Scary Face", "Wing Attack"],
+    "silver": ["Acrobatics", "Agility", "Ancient Power", "Crunch", "Dragon Breath", "Endeavor", "Pluck", "Quick Guard", "U-Turn"],
+    "gold": ["Dragon Claw", "Rock Slide", "Thrash"],
+    "platinum": ["Bounce", "Head Smash", "Iron Defense", "Knock Off", "Sky Attack", "Steel Wing"],
+    "diamond": [],
+    "tm": ["Acrobatics", "Aerial Ace", "Agility", "Air Slash", "Ally Switch", "Assurance", "Attract", "Bounce", "Bulldoze", "Confide", "Crunch", "Cut", "Dig", "Double Team", "Dragon Claw", "Dragon Tail", "Dragon Pulse", "Earth Power", "Earthquake", "Endure", "Facade", "Fly", "Focus Blast", "Frustration", "Giga Impact", "Heat Wave", "Hidden Power", "Hone Claws", "Hyper Beam", "Iron Defense", "Iron Tail", "Outrage", "Pluck", "Protect", "Rest", "Return", "Roar", "Rock BLast", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Roost", "Round", "Sandstorm", "Scary Face", "Secret Power", "Shadow Claw", "Sleep Talk", "Smack Down", "Snore", "Stealth Rock", "Steel Wing", "Stone Edge", "Substitute", "Swagger", "Swift", "Taunt", "Torment", "Toxic", "U-Turn", "Uproar", "Zen Headbutt"],
+    "egg": ["Ally Switch", "Bite", "Defog", "Double Team", "Dragon Pulse", "Earth Power", "Head Smash", "Knock Off", "Steel Wing", "Switcheroo", "Tailwind"],
+    "tutor": ["Ally Switch", "Aqua Tail", "Bounce", "Defog", "Dragon Pulse", "Dual Wingbeat", "Earth Power", "Endeavor", "Heat Wave", "Iron Defense", "Iron Tail", "Knock Off", "Lash Out", "Meteor Beam", "Roost", "Sky Attack", "Sleep Talk", "Snore", "Stealth Rock", "Tailwind", "Uproar", "Zen Headbutt"]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sitrussy Elixir",
+  "description": "By mixing the juice of three sitrus berries over a low heat, then cooling them overnight. This brew extracts the maximum healing properties from the berries",
+  "effect": "Heal 6 HP and 2 Wounds.",
+  "recipes": [
+    "200 Poke, 3 Sitrus Berries"
+  ]
+}

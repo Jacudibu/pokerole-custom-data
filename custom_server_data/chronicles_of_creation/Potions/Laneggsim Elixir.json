@@ -1,0 +1,8 @@
+{
+  "name": "Laneggsim Elixir",
+  "description": "Taking the petals and seeds of the Eggant berries and the juices of the persim berry, they are then cooked over a low heat, while the Lansat(s) skins are turned into a fine powder, that can be added slowly over the course of an hour.",
+  "effect": "You are immune to Taunt, Torment, Disable, Confuse, Attraction and Encore for the scene. If you were under any of these conditions before you drank this potion, clear one of those conditions. Gain High Critical for Rounds equal to the number of Lansat Berries you put into this Potion.",
+  "recipes": [
+    "500 Poke, X Lansat Berry, 3 Eggant Berries, 3 Persim Berries"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Frost Mirages",
+  "type": "Ice",
+  "power": 3,
+    "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Switcher.",
+  "description": "You creates glassy reflections to confuse your foe.",
+  "category": "Special"
+}

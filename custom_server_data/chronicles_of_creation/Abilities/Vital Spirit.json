@@ -1,0 +1,5 @@
+{
+      "name": "Vital Spirit",
+    "description": "The Pokemon is incredibly active and energetic. It needs constant activity and exercise or else it will act destructive. It never sleeps.",
+    "effect": "This Pokemon does not suffer negative effects from the Drowsy Status or the Sleep Status. In addition, whenever they fail an attack, they gain +2 Power on their next attack."
+}

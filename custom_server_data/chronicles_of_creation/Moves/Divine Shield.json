@@ -1,11 +1,11 @@
 {
-    "name": "Divine Shield",
-    "type": "Typeless",
-    "power": 0,
-    "damage": "",
-    "accuracy": "Will",
-    "target": "Ally",
-    "effect": "Reaction. Shield Move. Can be used when an Ally is targeted, redirects the triggering move to the User. Reduce the incoming damage by the User's Rank Bonus and Heal the shielded Ally for half that much rounded down. Costs 1 Will to use.",
-    "description": "A barrier of will made manifest to protect an ally!",
-    "category": "Support"
+  "name": "Divine Shield",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Ally",
+  "effect": "Reaction. Shield Move. Can be used when an Ally is targeted, redirects the triggering move to the User. Reduce the incoming damage by the User's Rank Bonus plus their Vitality Stat and Heal the shielded Ally for half that much rounded down. Costs 1 Will to use.",
+  "description": "A barrier of will made manifest to protect an ally!",
+  "category": "Support"
 }

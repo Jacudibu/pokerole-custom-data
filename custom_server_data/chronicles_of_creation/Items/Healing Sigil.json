@@ -1,0 +1,6 @@
+{
+    "name": "Healing Sigil",
+    "description": "When the user's health drops below half, they may restore 2 HP. If you use your Bonus Action and spend 1 Will, you heal an additional amount equal to your Rank Modifier.",
+    "category": "Consumable",
+    "single_use": false
+}

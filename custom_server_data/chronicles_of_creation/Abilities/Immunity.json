@@ -1,0 +1,5 @@
+{
+    "name": "Immunity",
+    "description": "The Pokemon has a very strong immune system and will rarely get sick. It could even eat rotten food without getting sick.",
+    "effect": "Poison and Badly Poisoned Status deal no damage to this Pokemon. In addition, they reduce all damage from Poison Type attacks by 1 (Applying before Defenses or Critical Damage modifiers)."
+}

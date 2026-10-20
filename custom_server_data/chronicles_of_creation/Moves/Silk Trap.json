@@ -1,11 +1,11 @@
 {
-  "name": "Silk Trap",
-  "type": "Bug",
-  "power": 0,
-  "damage": "",
-  "accuracy": "Vitality / Insight",
-  "target": "User or Ally",
-  "effect": "Reaction. Shield Move. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Contact move, decrease the Dexterity of the Attacker by 1.",
-  "description": "The Pokemon sets up a shield of webbing in front of themself; a sneaky trap made to inhibit their foes.",
-  "category": "Support"
+    "name": "Silk Trap",
+    "type": "Bug",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality / Insight",
+    "target": "User or Ally",
+    "effect": "Reaction. Shield Move. May be used to redirect a move away from an Ally. Reduce the damage the User takes by their Rank. If the move that strikes the User is a Contact move, decrease the Dexterity of the Attacker by 1.",
+    "description": "The Pokemon sets up a shield of webbing in front of themself; a sneaky trap made to inhibit their foes.",
+    "category": "Support"
 }

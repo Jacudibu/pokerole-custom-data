@@ -1,0 +1,5 @@
+{
+    "name": "Echoes of Fate",
+    "description": "You can feel a hundred different ways this could end, that's why you'll end it this way, the right way.",
+    "effect": "Whenever an enemy or ally uses a move, you may choose to expend your Bonus Actions for the round to copy that move and add it to your Stock. You may not have more moves in your Stock than your Insight. You may use the moves in your Stock as if they were moves that you knew, and may replace the damaging stat with Insight. When you use a move that matches the Typing of a move an ally used, you gain +2 Accuracy and Damage to the move. If it is a Support Move, it becomes a Critical Hit if it is succesful (Critical Hit bonuses are up to GM discretion). In addition, you may expend additional moves that you have Stocked to boost the power of a move, increasing the damage dealt by 1 per stocked move expended this way on the damage before Critical Damage or Defenses are applied. This ability cannot be used to copy Techiniques, Signatures (to a character, not to a species) Moves and some Boss Moves."
+}

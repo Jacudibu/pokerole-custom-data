@@ -1,5 +1,5 @@
 {
     "name": "Earthshaker's Fury",
     "description": "From the fire in the world's heart came the land, forever sacred and eternal.",
-    "effect": "Followers of Groudon may call upon 'Earthshaker's Fury' once per quest as a bonus action during their combat turn, allowing them to deal 4d6 Ground-type damage to all enemies. This damage can benefit from STAB bonuses and type-effectiveness, and deals 1 additional damage in Duststorm Weather. This gains 1 additional damage die per rank bonus."
+    "effect": "Followers of Groudon may call upon 'Earthshaker's Fury' once per quest as a bonus action during their combat turn, allowing them to summon a swirling storm of earth around a target, dealing their Rank Bonus as damage dice to the target at the end of the round for the next four rounds. This damage ignores defenses. While a foe is suffering this effect, they are considered weak to Ground Type attacks, ignoring any immunity they may have had. At Paragon, they gain a second use of this boon. Gain an additional charge at High Priest(ess). A target can only be affected by one instance of Kyogre or Groudon's boon at a time unless otherwise stated by a GM."
 }

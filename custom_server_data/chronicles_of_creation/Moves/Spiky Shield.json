@@ -1,11 +1,11 @@
 {
-  "name": "Spiky Shield",
-  "type": "Grass",
-  "power": 0,
-  "damage": "",
-  "accuracy": "Vitality",
-  "target": "User or Ally",
-  "effect": "Reaction. Shield Move. May be used to redirect an attack away from an Ally. Reduce the damage taken by the User equal to their Rank bonus against the instigating attack. If the User would be hit by a Physical attack, roll Damage Dice equal to Vitality+2 reduced by the foe's Defense.",
-  "description": "The Pokemon covers itself with a thorn filled shell, the foe will be damaged if it hits directly into it.",
-  "category": "Support"
+    "name": "Spiky Shield",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User or Ally",
+    "effect": "Reaction. Shield Move. May be used to redirect a move away from an Ally. Reduce the damage taken by the User equal to their Rank bonus against the instigating attack. If the User would be hit by a Physical attack, roll Damage Dice equal to Vitality+2 reduced by the foe's Defense.",
+    "description": "The Pokemon covers itself with a thorn filled shell, the foe will be damaged if it hits directly into it.",
+    "category": "Support"
 }

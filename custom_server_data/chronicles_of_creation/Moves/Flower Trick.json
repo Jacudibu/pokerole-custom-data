@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Insight",
   "target": "Foe",
-  "effect": "Ranged. This move always deals critical damage.",
-  "description": "*The Pokémon throws a rigged bouquet of flowers at the target. The target is so stunned at baffled by this action, they have no time to act!*",
+  "effect": "Ranged. This move always deals Critical Damage, but may still be fully dodged as normal (unless it threatens a natural Critical Strike on its Accuracy roll).",
+  "description": "The Pokémon throws a rigged bouquet of flowers at the target. The target is so stunned at baffled by this action, they have no time to act!",
   "category": "Physical"
 }

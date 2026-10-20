@@ -1,0 +1,11 @@
+{
+  "name": "Moonwalking",
+  "type": "Rock",
+  "power": 3,
+  "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Dancing. Switcher. This move always target's the foe's Special Defense unless another would alter that.",
+  "description": "You move with the force of the moon, sliding across the earth with no gravity.",
+  "category": "Special"
+}
