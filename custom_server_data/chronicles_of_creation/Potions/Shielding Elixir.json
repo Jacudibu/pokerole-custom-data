@@ -1,0 +1,8 @@
+{
+  "name": "Shielding Elixir",
+  "description": "This is a complicated potion, requiring a potent berries skin and seeds, mixed with the juices of sitrus and leppa. The complication comes from how each type of berry requires its own tempature.",
+  "effect": "Reduce the damage from a Specific Type of attack by 8; this applies before defenses. The typing matches the berry used in its brewing. This Elixir can be drank by the User as a reaction as long as they have their Bonus Action. Cooldown of 3 Turns.",
+  "recipes": [
+    "500 Poke, 1 Rare Damage Reduction Berry, 2 Sitrus Berries, 1 Leppa Berry."
+  ]
+}

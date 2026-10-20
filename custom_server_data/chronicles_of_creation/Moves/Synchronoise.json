@@ -1,0 +1,11 @@
+{
+    "name": "Synchronoise",
+    "type": "Typeless",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Area",
+    "effect": "Sound Based. If an affected target lacks a shared Type with the User, resolve damage as if this move were Ineffective against them (for determining base and minimum damage). If a target shares a Type with the User, add 2 Extra Dice to their Damage Pool.",
+    "description": "The user vibrates with an odd energy matching its type(s). All nearby creatures and objects sharing at least one type with the user are hurt extra badly.",
+    "category": "Special"
+}

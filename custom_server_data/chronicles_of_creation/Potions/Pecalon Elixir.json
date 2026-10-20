@@ -1,0 +1,8 @@
+{
+  "name": "Pecalon Elixir",
+  "description": "Using the juice of the Pecha Berries with the seeds of the Ganlon is the way this elixir is put together, and it is chilled instead of heated.",
+  "effect": "Cure Poison/Badly Poison and become immune to Poison for the rest of the scene. Gain +1 Defense for the rest of the scene.",
+  "recipes": [
+    "100 Poke, 2 Pecha Berries, 1 Ganlon Berry"
+  ]
+}

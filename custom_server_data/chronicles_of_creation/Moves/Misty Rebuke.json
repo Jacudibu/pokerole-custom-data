@@ -1,0 +1,11 @@
+{
+  "name": "Misty Rebuke",
+  "type": "Fairy",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If Misty terrain is active, this Blocks the target on a hit as long as the Misty terrain remains active. As long as the target is Blocked this way, it no longer benefits from the protective effects of Misty terrain.",
+  "description": "The hospitality of fey can turn hostile on a dime. Mark the target with a touch, causing the protective mist to turn hostile.",
+  "category": "Physical"
+}

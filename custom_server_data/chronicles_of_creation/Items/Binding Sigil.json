@@ -1,0 +1,6 @@
+{
+    "name": "Binding Sigil",
+    "description": "When the foe attacks the user or when the user attacks the foe (primary target in AoE Moves), choose whether to block the foe. This effect cannot activate on more than 1 target at the same time. This condition lasts an amount of rounds equal to your rank modifier.",
+    "category": "Consumable",
+    "single_use": false
+}

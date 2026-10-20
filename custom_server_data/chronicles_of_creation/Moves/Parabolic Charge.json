@@ -1,0 +1,11 @@
+{
+  "name": "Parabolic Charge",
+  "type": "Electric",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Draining. The user restores HP equal to half the highest damage dealt to a single target, rounded down.",
+  "description": "The Pokemon lets go of a big electric charge from its body. The charge comes back to it even bigger.",
+  "category": "Special"
+}

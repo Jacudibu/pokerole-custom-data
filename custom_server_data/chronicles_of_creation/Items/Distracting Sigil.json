@@ -1,0 +1,6 @@
+{
+    "name": "Distracting Sigil",
+    "description": "When a foe attacks the user with a priority move, reduce the attacking foe's move accuracy by half of their rank modifier, rounded up.",
+    "category": "Consumable",
+    "single_use": false
+}

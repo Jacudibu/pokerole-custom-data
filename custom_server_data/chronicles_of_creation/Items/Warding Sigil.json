@@ -1,0 +1,6 @@
+{
+    "name": "Warding Sigil",
+    "description": "Decreases damage from attack from the Sigil's type by your rank modifier, up to a max of 3 damage decreased. Consumed as a free reaction to a damage roll.",
+    "category": "Consumable",
+    "single_use": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Frost Breath",
+  "type": "Ice",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "This move always deals Critical Damage, but may still be fully dodged as normal (unless it threatens a natural Critical Strike on its own Accuracy roll). -1 Accuracy.",
+  "description": "The user shoots a gelid breath against the target that sends a chill through the spine. The sudden change of temperature can bring anyone to its knees.",
+  "category": "Special"
+}

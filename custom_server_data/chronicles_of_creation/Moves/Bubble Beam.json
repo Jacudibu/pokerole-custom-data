@@ -1,0 +1,11 @@
+{
+  "name": "Bubble Beam",
+  "type": "Water",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Pulse Move. Roll 1 Chance Dice to reduce the foe's Dexterity.",
+  "description": "A long stream of bubbles hits the foe, the bubble foam may prevent the target from moving freely.",
+  "category": "Special"
+}

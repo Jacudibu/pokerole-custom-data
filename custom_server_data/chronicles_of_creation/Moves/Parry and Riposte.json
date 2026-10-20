@@ -1,11 +1,11 @@
 {
-    "name": "Parry and Riposte",
-    "type": "Typeless",
-    "power": 0,
-    "damage": "",
-    "accuracy": "Vitality",
-    "target": "Ally",
-    "effect": "Reaction. Shield Move. Can be used when an ally is targeted, redirects the triggering attack to the User. Gain Damage Dice on your next attack equal to half the damage taken from the triggering Attack.",
-    "description": "Filthy Casual",
-    "category": "Support"
+  "name": "Parry and Riposte",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "Ally",
+  "effect": "Reaction. Shield Move. Can be used when an Ally is targeted, redirects the triggering move to the User. Deal flat damage equal to your Defense + Special Defense to the attacker, reduced by their defense.",
+  "description": "Filthy Casual.",
+  "category": "Support"
 }

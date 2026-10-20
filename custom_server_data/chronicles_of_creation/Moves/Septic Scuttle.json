@@ -1,0 +1,11 @@
+{
+  "name": "Septic Scuttle",
+  "type": "Poison",
+  "power": 1,
+    "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Switcher. Roll 1 Chance Die to afflict the foe with Poison, if they are already poisoned treat this move as if it were a Draining Move.",
+  "description": "Sometimes the best poison, already exists in the body. Scuttle, Scuttle, Scuttle.",
+  "category": "Physical"
+}

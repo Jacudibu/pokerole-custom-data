@@ -1,0 +1,11 @@
+{
+  "name": "Hyper Beam",
+  "type": "Normal",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Pulse Move. Must Recharge. Inflicts Wounds. -1 Accuracy.",
+  "description": "The Pokemon casts an incredible beam that leaves a giant trail of destruction behind. The user is left exhausted.",
+  "category": "Special"
+}

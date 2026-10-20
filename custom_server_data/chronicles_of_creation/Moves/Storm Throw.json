@@ -1,0 +1,11 @@
+{
+  "name": "Storm Throw",
+  "type": "Fighting",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "This move always deals Critical Damage, but may still be fully dodged as normal (unless it threatens a natural Critical Strike on its own Accuracy roll). -1 Accuracy.",
+  "description": "The user impacts a weak spot with a powerful blow.",
+  "category": "Physical"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Natural Cure",
+    "description": "This Pokemon's body will generate substances to heal itself. They can be used to create medicine.",
+    "effect": "At the end of the round, if this Pokemon has a Status Ailment, it heals from one Status Ailment of the User's choosing and recovers 2 Hit Points."
+}

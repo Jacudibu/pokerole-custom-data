@@ -1,0 +1,27 @@
+{
+  "species_id": 50024,
+  "name": "Prehistoric Kabutops",
+  "type1_override": "Bug",
+  "type2_override": "Water",
+  "ability1_override": "Swift Swim",
+  "ability2_override": "Battle Armor",
+  "ability_hidden_override": "Weak Armor",
+  "weight_override_in_kilograms": 40.5,
+  "height_override_in_meters": 1.3,
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Harden", "Leer", "Sand Attack", "Scratch", "Struggle Bug"],
+    "silver": ["Aqua Jet", "Endure", "Feint", "Leech Life", "Mega Drain", "Metal Sound", "Mud Shot", "Slash"],
+    "gold": ["Ancient Power", "Night Slash", "Wring Out"],
+    "platinum": ["Confuse Ray", "Iron Defense", "Stealth Rock"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Aqua Tail", "Bide", "Blizzard", "Body Slam", "Brick Break", "Brine", "Bubble Beam", "Captivate", "Cross Poison", "Curse", "Cut", "Dig", "Dive", "Double-Edge", "Earth Power", "Flip Turn", "Fury Cutter", "Giga Drain", "Giga Impact", "Hail", "Headbutt", "Hone Claws", "Hydro Pump", "Ice Beam", "Icy Wind", "Iron Defense", "Knock Off", "Leech Life", "Liquidation", "Low Kick", "Mega Drain", "Mega Kick", "Meteor Beam", "Mimic", "Mud Shot", "Mud Slap", "Natural Gift", "Nature Power", "Rage", "Rain Dance", "Razor Shell", "Razor Wind", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Throw", "Rock Tomb", "Rollout", "Sandstorm", "Scald", "Screech", "Seismic Toss", "Skull Bash", "Slash", "Smack Down", "Stealth Rock", "Stone Edge", "Submission", "Superpower", "Surf", "Swords Dance", "Take Down", "Thief", "Water Gun", "Water Pulse", "Waterfall", "Whirlpool", "X-Scissor"],
+    "egg": ["Aurora Beam", "Bubble Beam", "Confuse Ray", "Dig", "Flail", "Foresight", "Giga Drain", "Icy Wind", "Knock Off", "Mega Drain", "Mud Shot", "Rapid Spin", "Screech", "Take Down"],
+    "tutor": []
+  }
+}

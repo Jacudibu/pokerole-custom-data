@@ -1,0 +1,11 @@
+{
+  "name": "Jump",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Self",
+  "effect": "Never Fail. The user leaps high into the air, turning their next single target, non-multi-hit move into a Charge Move, using this turn while they Leap as the Charging turn. If used with a Move that already has Charge, you may instead skip the Charge turn, using this turn for it. Replace the next moves Accuracy Check with this moves Accuracy Check. While they are Charging through this move, they are not targetable by any move other than moves that hit Aerial Targets (Hurricane, Thunder, etc) and are immune to damage not caused by status effects other than damage via Aerial Targeting moves. This does not work with Power Herb.",
+  "description": "Time to leap into the air!",
+  "category": "Support"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Contrary Sigil",
+    "description": "When the user's stats are changed by a negative stat change for the first time from an opponent in combat, invert the stat change only for that instance. Opponents are able to reapply the stat reduction from the same source, nullifying the effect.",
+    "category": "Consumable",
+    "single_use": false
+}

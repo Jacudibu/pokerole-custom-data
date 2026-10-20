@@ -1,0 +1,11 @@
+{
+  "name": "Let Loose One's Rage",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "Self",
+  "effect": "Never Fail. The User takes and deals +2 Damage from all sources (Only on first hit of a multi-hit), Every Rage gain is 1.5x. The user can end this effect at the start of their turn or the start of the round otherwise this effect lasts until the battle ends.",
+  "description": "Now, let your full power be SEEN!",
+  "category": "Support"
+}

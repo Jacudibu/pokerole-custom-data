@@ -1,0 +1,27 @@
+{
+  "species_id": 50031,
+  "name": "Prehistoric Armaldo",
+  "type1_override": "Water",
+  "type2_override": "Bug",
+  "ability1_override": "Battle Armor",
+  "ability2_override": "",
+  "ability_hidden_override": "Swift Swim",
+  "weight_override_in_kilograms": 68.2,
+  "height_override_in_meters": 1.50,
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Harden", "Mud Sport", "Rain Dance", "Scratch"],
+    "silver": ["Ancient Power", "Bug Bite", "Fury Cutter", "Metal Claw", "Protect", "Slash", "Smack Down", "Water Gun"],
+    "gold": ["Brine", "Crush Claw", "Rock Blast", "X-Scissor"],
+    "platinum": ["Aqua Jet", "Aqua Tail", "Cross Poison", "Iron Defense", "Knock Off", "Rapid Spin"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Block", "Body Slam", "Brick Break", "Brine", "Brutal Swing", "Bulldoze", "Captivate", "Cross Poison", "Cut", "Dig", "Earth Power", "Earthquake", "False Swipe", "Flash Cannon", "Giga Impact", "Headbutt", "Hone Claws", "Hyper Beam", "Iron Defense", "Iron Tail", "Liquidation", "Low Kick", "Meteor Beam", "Mimic", "Mud-Slap", "Mud Shot", "Natural Gift", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Sandstorm", "Screech", "Shadow Claw", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "String Shot", "Struggle Bug", "Substitute", "Sunny Day", "Superpower", "Swords Dance", "Water Pulse"],
+    "egg": ["Aqua Jet", "Cross Poison", "Curse", "Iron Defense", "Knock Off", "Rapid Spin", "Rock Slide", "Sand Attack", "Screech", "Swords Dance", "Water Pulse"],
+    "tutor": []
+  }
+}

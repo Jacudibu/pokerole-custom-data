@@ -1,0 +1,27 @@
+{
+  "species_id": 50025,
+  "name": "Prehistoric Aerodactyl",
+  "type1_override": "Fighting",
+  "type2_override": "Flying",
+  "ability1_override": "Rock Head",
+  "ability2_override": "Pressure",
+  "ability_hidden_override": "Unnerve",
+  "weight_override_in_kilograms": 59.0,
+  "height_override_in_meters": 1.8,
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "4/8",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Scary Face", "Supersonic", "Take Down", "Wing Attack"],
+    "silver": ["Agility", "Crunch", "Fire Fang", "Ice Fang", "Iron Head", "Roar", "Rock Smash", "Sky Drop", "Thunder Fang"],
+    "gold": ["Giga Impact", "Hyper Beam", "Rock Slide", "Sky Uppercut"],
+    "platinum": ["Aqua Tail", "Dragon Breath", "Roost"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Air Cutter", "Ancient Power", "Aqua Tail", "Assurance", "Bide", "Brutal Swing", "Bulldoze", "Captivate", "Crunch", "Curse", "Defog", "Double-Edge", "Dragon Breath", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dragon Rage", "Dual Wingbeat", "Earth Power", "Earthquake", "Fire Blast", "Flamethrower", "Fly", "Giga Impact", "Headbutt", "Heat Wave", "Hone Claws", "Hurricane", "Hyper Beam", "Incinerate", "Iron Head", "Iron Tail", "Laser Focus", "Meteor Beam", "Mimic", "Natural Gift", "Ominous Wind", "Payback", "Psychic Fangs", "Rage", "Rain Dance", "Razor Wind", "Rock Blast", "Rock Polish", "Rock Throw", "Rock Tomb", "Roost", "Sandstorm", "Scary Face", "Sky Attack", "Smack Down", "Stealth Rock", "Steel Wing", "Stone Edge", "Strength", "Sunny Day", "Surf", "Swords Dance", "Take Down", "Thief", "Water Gun", "Swift", "Tailwind", "Taunt", "Thief", "Torment", "Twister", "Whirlwind"],
+    "egg": ["Assurance", "Curse", "Dragon Breath", "Foresight", "Pursuit", "Roost", "Steel Wing", "Tail Wind", "Whirlwind", "Wide Guard"],
+    "tutor": []
+  }
+}

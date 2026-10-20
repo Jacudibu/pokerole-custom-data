@@ -1,0 +1,8 @@
+{
+  "name": "A Heroes Elixir",
+  "description": "This elixir takes almost twelve hours to brew, painstakingly adding each berry one at a time in a specialized order. One mistake and you have a bad elixir. But the results are well worth it.",
+  "effect": "The whole party heals 3 HP and recovers from one status ailment. Cannot be used with Bestow. Two Turn Cooldown.",
+  "recipes": [
+    "500 Poke, 3 Oran Berries, 3 Sitrus Berries, 3 Lum Berries"
+  ]
+}

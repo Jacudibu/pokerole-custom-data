@@ -1,0 +1,11 @@
+{
+  "name": "Tricky Steps",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Dancing. This move ignores redirections. This move always target's the foe's Physical Defense unless another would alter that.",
+  "description": "The sudden and twisting steps confuse and leave your foes defenceless!",
+  "category": "Physical"
+}

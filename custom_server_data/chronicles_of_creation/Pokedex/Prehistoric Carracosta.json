@@ -1,0 +1,27 @@
+{
+  "species_id": 50037,
+  "name": "Prehistoric Carracosta",
+  "type1_override": "Water",
+  "type2_override": "",
+  "ability1_override": "Solid Rock",
+  "ability2_override": "Sturdy",
+  "ability_hidden_override": "Swift Swim",
+  "weight_override_in_kilograms": 81.0,
+  "height_override_in_meters": 1.20,
+  "base_hp": 3,
+  "strength": "2/5",
+  "dexterity": "1/3",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bide", "Bite", "Protect", "Rollout", "Water Gun", "Withdraw"],
+    "silver": ["Ancient Power", "Aqua Jet", "Aqua Tail", "Brine", "Crunch", "Curse", "Smack Down", "Wide Guard"],
+    "gold": ["Aqua Tail", "Hydro Pump", "Rain Dance", "Rock Slide", "Shell Smash"],
+    "platinum": ["Body Slam", "Iron Defense", "Stealth Rock"],
+    "diamond": [],
+    "tm": ["Attract", "Blizzard", "Body Slam", "Brine", "Bulldoze", "Confide", "Crunch", "Dig", "Dive", "Double Team", "Earth Power", "Earthquake", "Endure", "Facade", "Focus Blast", "Frustration", "Giga Impact", "Guard Swap", "Hidden Power", "Hydro Pump", "Hyper Beam", "Ice Beam", "Icy Wind", "Iron Defense", "Iron Head", "Iron Tail", "Liquidation", "Low Kick", "Mud Shot", "Muddy Water", "Protect", "Rain Dance", "Razor Shell", "Rest", "Return", "Rock Blast", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sandstorm", "Scald", "Secret Power", "Sleep Talk", "Smack Down", "Superpower", "Snore", "Stealth Rock", "Stone Edge", "Strength", "Substitute", "Surf", "Swagger", "Toxic", "Waterfall", "Whirlpool", "Zen Headbutt"],
+    "egg": ["Bide", "Block", "Body Slam", "Flail", "Guard Swap", "Iron Defense", "Knock Off", "Liquidation", "Rock Throw", "Rollout", "Slam", "Water Pulse", "Whirlpool"],
+    "tutor": ["Aqua Tail", "Block", "Earth Power", "Icy Wind", "Iron Defense", "Iron Head", "Iron Tail", "Knock Off", "Liquidation", "Meteor Beam", "Sleep Talk", "Snore", "Stealth Rock","Superpower", "Water Pulse", "Zen Headbutt"]
+  }
+}

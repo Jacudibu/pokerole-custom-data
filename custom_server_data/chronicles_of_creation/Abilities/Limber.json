@@ -1,0 +1,5 @@
+{
+      "name": "Limber",
+    "description": "The muscles of this Pokemon are incredibly flexible and elastic. Easing their movement, agility, and grace.",
+    "effect": "This Pokemon does not suffer negative effects from being Paralyzed. The first time this Pokemon is afflicted with the Paralyzed Status, they gain +1 Evasion."
+}

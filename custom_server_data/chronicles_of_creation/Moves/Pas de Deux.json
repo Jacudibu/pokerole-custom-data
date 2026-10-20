@@ -1,0 +1,11 @@
+{
+  "name": "Pas de Deux",
+  "type": "Flying",
+  "power": 3,
+  "damage": "Strength / Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Dancing. Charge. During the Charge Phase, the User and the Foe are unable to be targeted by anyone but each other. If the User has the Ability Dead as Disco, then they can still be targeted by allies.",
+  "description": "A Perfect Duet, no one can interupt you and your target now...",
+  "category": "Special"
+}

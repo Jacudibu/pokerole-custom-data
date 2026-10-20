@@ -1,0 +1,29 @@
+{
+  "number": 882,
+  "api_id": 882,
+  "species_id": 50016,
+  "name": "Dracosaur",
+  "type1_override": "Dragon",
+  "type2_override": "Fighting",
+  "ability1_override": "Rough SKin",
+  "ability2_override": "Hustle",
+  "ability_hidden_override": "Dragon's Maw",
+  "weight_override_in_kilograms": 6.80,
+  "height_override_in_meters": 0.6,
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Aerial Ace", "Low Sweep", "Breaking Swipe", "Focus Energy"],
+    "silver": ["Ancient Power", "Dual Chop", "Bulk Up", "Brick Break", "Headbutt"],
+    "gold": ["Dragon Pulse", "Dragon Rush", "Counter", "Revenge", "Bulldoze"],
+    "platinum": ["Draco Meteor", "Outrage", "Superpower"],
+    "diamond": [],
+    "tm": ["Body Slam", "Breaking Swipe", "Brutal Swing", "Dragon Claw", "Earth Power", "Earthquake", "Fire Blast", "Fire Fang", "Flamethrower", "Iron Tail", "Mega Kick", "Mega Punch", "Rain Dance", "Rock Blast", "Rock Slide", "Rock Tomb", "Round", "Stomping Tantrum", "Stone Edge", "Sunny Day", "Taunt", "Thunder Fang", "Thunder Wave", "Wild Charge"],
+    "egg": ["Double Kick", "Dragon Dance", "Dragon Tail", "Meteor Beam", "Rising Voltage", "Tail Slap"],
+    "tutor": []
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Faithful Sigil",
+    "description": "As a free action, consume this Sigil to restore 1 will at the end of the round, for rounds up to your rank modifier.",
+    "category": "Consumable",
+    "single_use": false
+}

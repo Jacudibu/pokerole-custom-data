@@ -1,6 +1,6 @@
 {
     "name": "Flame Seal",
-    "description": "At the end of the User's Turn they are inflicted with the Burn Status Condition, this ignores Type Immunities. If they lose this item, the Burn Status Condition fades. As long as they are holding this item, they instead Gain +1 Base Strength from Burn instead of -1 Base Strength.",
+    "description": "At the end of the User's Turn they are inflicted with the Burn Status Ailment. This ignores Type Immunities. If they lose this item, the Burn Status fades. As long as they are holding this item, they instead Gain +1 Base Strength from Burn instead of -1 Base Strength.",
     "category": "HeldItem",
-    "single_use": false
+    "single_use": "false"
 }

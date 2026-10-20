@@ -1,0 +1,5 @@
+{
+    "name": "Sturdy",
+    "description": "Once this Pokemon senses weakness, it begins acting according to their brutal nature. They can be cruel if not put in their place.",
+    "effect": "The first time this Pokemon would faint due to a Damaging move, it will remain at 1 HP instead. Status Ailments and Self-inflicted damage will still cause it to faint. The Pokemon must rest for an hour before benefiting from Sturdy again."
+}

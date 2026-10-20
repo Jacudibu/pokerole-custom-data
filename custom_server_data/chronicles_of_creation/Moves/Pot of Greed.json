@@ -1,0 +1,11 @@
+{
+  "name": "Pot of Greed",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Cool",
+  "target": "Self",
+  "effect": "You may use any Social Stat for this move. Stock two moves.",
+  "description": "Allows me to draw 2 cards from my deck-",
+  "category": "Support"
+}

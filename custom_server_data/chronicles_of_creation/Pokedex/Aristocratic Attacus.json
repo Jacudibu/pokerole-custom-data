@@ -1,0 +1,27 @@
+{
+  "species_id": 50010,
+  "name": "Aristocratic Attacus",
+  "type1_override": "Dragon",
+  "type2_override": "Bug",
+  "ability1_override": "Protosynthesis",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 328.1,
+  "height_override_in_meters": 2.75,
+  "base_hp": 7,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "4/8",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Dragon Breath", "Silver Wind", "Sleep Powder", "Stun Spore"],
+    "silver": ["Gust", "Harden", "Hyper Voice", "Roost", "Thunderbolt", "Water Pulse"],
+    "gold": ["Agility", "Bug Buzz", "Dragon Pulse", "Hurricane"],
+    "platinum": ["Draco Meteor", "Extreme Speed", "Hydro Pump", "Mist", "Tailwind"],
+    "diamond": [],
+    "tm": ["Agility", "Air Cutter", "Air Slash", "Blizzard", "Body Slam", "Breaking Swipe", "Bratty Disposition", "Bubblebeam", "Charge Beam", "Chilling Water", "Defog", "Dragon Cheer", "Dragon Claw", "Dragon Pulse", "Dragon Rage", "Earth Power", "Encore", "Endure", "Fire Spin", "Flamethrower", "Flash Cannon", "Fly", "Focus Blast", "Hail", "Haze", "Headbutt", "Heat Wave", "Helping Hand", "Sheer Cold", "Ice Beam", "Icy Wind", "Mimic", "Moonblast", "Mud-Slap", "Quiver Dance", "Power Gem", "Rain Dance", "Razor Wind", "Rock Smash", "Round", "Safeguard", "Sandstorm", "Scary Face", "Septic Scuttle", "Shock Wave", "Snowscape", "Sunny Day", "Surf", "Swift", "Thunder", "Thunder Wave", "Twister", "Water Gun", "Weather Ball", "Whirlpool", "Zap Cannon"],
+    "egg": ["Aqua Jet", "Dragon Pulse", "Extreme Speed", "Haze", "Hydro Pump", "Mist", "Pollen Puff", "Rage Powder", "Spore", "Supersonic", "Water Pulse"],
+    "tutor": []
+  }
+}

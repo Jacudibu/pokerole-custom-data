@@ -1,0 +1,27 @@
+{
+  "species_id": 50012,
+  "name": "Dashing Lights",
+  "type1_override": "Electric",
+  "type2_override": "Fairy",
+  "ability1_override": "Protosynthesis",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 120.5,
+  "height_override_in_meters": 1.96,
+  "base_hp": 5,
+  "strength": "1/3",
+  "dexterity": "3/7",
+  "vitality": "3/6",
+  "special": "4/8",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Charm", "Confuse Ray", "Growl", "Fairy Wind", "Thunder Shock", "Thunder Wave"],
+    "silver": ["Charge", "Dazzling Gleam", "Electro Ball", "Ion Deluge", "Magnetic Flux", "Power Gem", "Signal Beam"],
+    "gold": ["Cosmic Power", "Discharge", "Light Screen", "Thunder", "Moonblast"],
+    "platinum": ["Agility", "Heal Bell", "Magnet Rise", "When Courtesy Fails..."],
+    "diamond": [],
+    "tm": ["Agility", "Baby-Doll Eyes", "Body Slam", "Breaking Swipe", "Bulldoze", "Captivate", "Charge ", "Charge Beam", "Confuse Ray", "Curse", "Dazzling Gleam", "Defense Curl", "Disarming Voice", "Double-Edge", "Dragon Cheer", "Dragon Pulse", "Echoed Voice", "Eerie Impulse", "Electric Terrain", "Electro Ball", "Electroweb", "Endeavor", "Extreme Speed", "Flash", "Fling", "Focus Blast", "Headbutt", "Iron Tail", "Light Screen", "Low Kick", "Meteor Beam", "Moonlight", "Moonwalking", "Natural Gift", "Power Gem", "Rain Dance", "Rest", "Roar", "Rock Climb", "Rock Smash", "Safeguard", "Shock Wave", "Stomping Tantrum", "Sunny Day", "Supercell Slam", "Swift", "Thunder", "Thunder Wave", "Thunderbolt", "Trailblaze", "Volt Switch", "Wild Charge", "Wish", "Zap Cannon"],
+    "egg": ["After You", "Agility", "Body Slam", "Charge", "Eerie Impulse", "Electric Terrain", "Electroweb", "Flatter", "Iron Tail", "Odor Sleuth", "Reflect", "Safeguard", "Sand Attack", "Screech", "Thunderbolt"],
+    "tutor": ["After You", "Body Slam", "Counter", "Defense Curl", "Double-Edge", "Dragon Pulse", "Electroweb", "Endure", "Headbutt", "Heal Bell", "Iron Tail", "Laser Focus", "Magnet Rise", "Mega Kick", "Mimic", "Seismic Toss", "Shock Wave", "Signal Beam", "Sleep Talk", "Snore", "Substitute", "Swagger", "Swift", "Thunder Wave", "Thunderbolt"]
+  }
+}

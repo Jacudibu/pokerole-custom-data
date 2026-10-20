@@ -1,0 +1,27 @@
+{
+  "species_id": 50027,
+  "name": "Prehistoric Omastar",
+  "type1_override": "Psychic",
+  "type2_override": "Water",
+  "ability1_override": "Swift Swim",
+  "ability2_override": "Shell Armor",
+  "ability_hidden_override": "Weak Armor",
+  "weight_override_in_kilograms": 35.0,
+  "height_override_in_meters": 1.00,
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Confusion", "Constrict", "Rollout", "Water Gun", "Withdraw"],
+    "silver": ["Ancient Power", "Brine", "Leer", "Mud Shot", "Protect", "Psychic", "Spike Cannon",  "Tickle"],
+    "gold": ["Hydro Pump", "Rock Blast", "Shell Smash"],
+    "platinum": ["Iron Defense", "Spikes", "Toxic Spikes"],
+    "diamond": [],
+    "tm": ["Bide", "Bind", "Blizzard", "Body Slam", "Brine", "Bubble Beam", "Captivate", "Crunch", "Curse", "Dive", "Double-Edge", "Earth Power", "Giga Impact", "Gyro Ball", "Hail", "Headbutt", "Horn Drill", "Hyper Beam", "Ice Beam", "Icy Wind", "Iron Defense", "Liquidation", "Mimic", "Mud Shot", "Muddy Water", "Natural Gift", "Pin Missile", "Psychic Noise", "Rage", "Rain Dance", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Rollout", "Sandstorm", "Sand Attack", "Scald", "Secret Power", "Seismic Toss", "Skull Bash", "Smack Down", "Spike Cannon", "Stealth Rock", "Stored Power", "Stone Edge", "Submission", "Surf", "Take Down", "Thief", "Water Gun", "Water Pulse", "Waterfall", "Whirlpool"],
+    "egg": ["Aurora Beam", "Bide", "Bite", "Bubble Beam", "Haze", "Horn Attack", "Knock Off", "Muddy Water", "Reflect Type", "Rock Slide", "Slam", "Spikes", "Supersonic", "Tickle", "toxic Spikes", "Water Pulse", "Whirlpool", "Wring Out"],
+    "tutor": []
+  }
+}

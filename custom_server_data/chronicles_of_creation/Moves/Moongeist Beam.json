@@ -1,0 +1,11 @@
+{
+  "name": "Moongeist Beam",
+  "type": "Ghost",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Pulse Move. Inflicts Wounds. If anything on the foe's side would prevent this move from dealing damage (Pokemon Type, Abilities, Shield Moves, Weather or Barriers) ignore it.",
+  "description": "A cold reflection of the moon shines upon the target, it doesn't hurt physically but those who stare directly into the light simply collapse.",
+  "category": "Special"
+}

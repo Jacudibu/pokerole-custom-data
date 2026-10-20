@@ -1,0 +1,27 @@
+{
+  "species_id": 50009,
+  "name": "Stampeding Storm",
+  "type1_override": "Dragon",
+  "type2_override": "Electric",
+  "ability1_override": "Protosynthesis",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 34.0,
+  "height_override_in_meters": 1.50,
+  "base_hp": 5,
+  "strength": "4/8",
+  "dexterity": "4/8",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Astonish", "Dragon Tail", "Growl", "Pluck", "Spark", "Sing"],
+    "silver": ["Dragon Claw", "Dragon Dance", "Mirror Move", "Refresh", "Safeguard", "Take Down", "Thunder Punch"],
+    "gold": ["Bounce", "Breaking Swipe", "Perish Song", "Wild Charge"],
+    "platinum": ["Agility", "Dragon Rush", "Dual Wingbeat", "Steel Wing", "Supercell Slam"],
+    "diamond": [],
+    "tm": ["Acrobatics", "Agility", "Blaze Kick", "Breaking Swipe", "Bulldoze", "Captivate", "Confide", "Cross Chop", "Double Team", "Dragon Cheer", "Dragon Claw", "Dragon Dance", "Dragon Pulse", "Dual Wingbeat", "Electrical Terrain", "Endure", "Focus Energy", "Giga Impact", "Haze", "Heal Bell", "Helping Hand", "Hidden Power", "Hone Claws", "Iron Tail", "Knock Off", "Low Sweep", "Outrage", "Plasma Blitz", "Play Rough", "Psych Up", "Rock Smash", "Steel Wing", " Supercell Slam", "Swagger", " Tailwind", "Thunderbolt", "Thunder", "Trailblaze", "Volt Switch", "Wild Charge", "Zing Zap"],
+    "egg": ["Agility", "Charge", "Double-Kick", "Dragon Claw", "Nuzzle", "Thunder Wave"],
+    "tutor": []
+  }
+}

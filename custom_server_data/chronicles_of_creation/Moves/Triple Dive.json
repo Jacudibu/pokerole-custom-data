@@ -2,7 +2,7 @@
   "name": "Triple Dive",
   "type": "Water",
   "power": 2,
-  "damage": "Strength",
+  "damage": "Dexterity",
   "accuracy": "Dexterity",
   "target": "Foe",
   "effect": "Triple Action. Striking. For each successful hit, add 1 die to the damage pool.",

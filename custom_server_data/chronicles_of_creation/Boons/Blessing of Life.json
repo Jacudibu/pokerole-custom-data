@@ -1,5 +1,5 @@
 {
     "name": "Blessing of Life",
     "description": "Life burns like a wildfire and as violent as the raging sea.",
-    "effect": "Devotees of the Guardians of Sky and Sea may call upon 'Blessing of Life' once per quest as a bonus action during their combat turn, allowing them to sacrifice their own HP to heal an ally an amount equal to their own HP. To revive a fallen Ally, you must faint yourself. HP is increased by one per rank."
+    "effect": "Devotees of the Guardians of Sky and Sea may call upon 'Blessing of Life' once per quest as a bonus action during their combat turn, allowing them to sacrifice their own HP to heal an ally an amount equal to their own HP. At Luminary, you can expend 2 Will and bring an Ally back from Fainting, though each HP you restore costs 2 HP instead of 1 of yours. At Paragon, you gain an extra charge of this ability. HP is increased by one per rank."
 }

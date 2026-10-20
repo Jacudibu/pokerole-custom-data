@@ -1,0 +1,5 @@
+{
+    "name": "Leaf Guard",
+    "description": "The leaves on this Pokemon expand with the sun to cover its body.",
+    "effect": "If Sunny Weather is in effect, this Pokemon can't have any Status Ailments inflicted upon it. Previously inflicted Statuses remain."
+}

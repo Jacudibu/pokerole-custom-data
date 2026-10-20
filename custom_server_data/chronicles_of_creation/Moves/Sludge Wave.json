@@ -1,0 +1,11 @@
+{
+  "name": "Sludge Wave",
+  "type": "Poison",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Roll 3 Chance Dice to Poison those affected.",
+  "description": "The Pokemon creates a large wave of watery ooze that soaks everything around. The smell is really unpleasant.",
+  "category": "Special"
+}

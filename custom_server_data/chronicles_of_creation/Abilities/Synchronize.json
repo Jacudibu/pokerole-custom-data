@@ -1,0 +1,5 @@
+{
+    "name": "Synchronize",
+    "description": "The Pokemon can share its mood, feelings and sensations with others, especially with those who caused it pain.",
+    "effect": "If a foe inflicts a Status Ailment to this Pokemon, the same Status is inflicted onto the instigating foe (the foe still benefits from any Abilities or Type Immunities that may make them unaffected/immune to the Status)."
+}

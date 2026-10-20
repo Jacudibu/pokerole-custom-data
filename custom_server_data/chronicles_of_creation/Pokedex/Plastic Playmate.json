@@ -1,0 +1,27 @@
+{
+  "species_id": 50020,
+  "name": "Plastic Playmate",
+  "type1_override": "Bug",
+  "type2_override": "Fairy",
+  "ability1_override": "Quark Drive",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 16.5,
+  "height_override_in_meters": 1.0,
+  "base_hp": 3,
+  "strength": "3/7",
+  "dexterity": "4/9",
+  "vitality": "1/3",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Draining Kiss", "Helping Hand", "Horn Attack", "Play Nice", "Psybeam"],
+    "silver": ["Arm Thrust", "Bullet Seed", "Encore", "Pollen Puff", "Tricky Trix", "U-Turn"],
+    "gold": ["Lucky Chant", "Megahorn", "Moonblast", "Play Rough", "Wish"],
+    "platinum": ["Call of the Swarm", "Flower Shield", "Rock Blast", "The Blade of the Fairies"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Attract", "Bug Bite", "Bug Buzz", "Bullet Seed", "Call of the Swarm", "Captivate", "Coaching", "Confide", "Dazzling Gleam", "Detect", "Double Team", "Double Up", "Encore", "Endure", "Facade", "Fake Tears", "False Swipe", "Fling", "Fly", "Focus Blast", "Frost Mirages", "Frustration", "Frozen Cascade", "Fury Cutter", "Giga Impact", "Headbutt", "Helping Hand", "Hidden Power", "High Horsepower", "Hyper Beam", "Knock Off", "Leech Life", "Lunge", "Megahorn", "Misty Terrain", "Natural Gift", "Piercing Feather Storm", "Pin Missile", "Pounce", "Protect", "Rain Dance", "Rest", "Retaliate", "Return", "Round", "Safeguard", "Screech", "Secret Power", "Shadow Claw", "Skitter Smack", "Sleep Talk", "Smack Down", "Smart Strike", "Snore", "Stone Edge", "Struggle Bug", "Substitute", "Sunny Day", "Swagger", "Swarmstrike", "Swords Dance", "Tailwind", "Tera Blast", "The Blade of the Fairies", "The Sugar Plum Parade", "Throat Chop", "Toxic", "Trailblaze", "U-Turn", "Upper Hand", "Venoshock", "Volt Switch", "When Courtesy Fails", "Work Up"],
+    "egg": ["Bestow", "False Swipe", "Feint", "Infestation", "Megahorn", "Pursuit", "Tricky Steps"],
+    "tutor": ["Heal Bell", "Mimic"]
+    }
+}

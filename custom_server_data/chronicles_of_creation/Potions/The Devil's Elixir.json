@@ -1,0 +1,8 @@
+{
+  "name": "The Devil's Elixir",
+  "description": "Much like the Heroes Elixir, this one takes an exceptionally long time to make, but it is made from the remnants of a Heroes Elixir, using the leftovers in a strange, bubbling concotion...One swears they can hear the whisper of a monster offering them a deal when they drink it.",
+  "effect": "Heal HP Equal to Rank Times 5 and clear all Status Ailments. This healing can take you over your maximum HP. At the end of the Third Round after drinking this Elixir, the User Faint's and cannot recover. You lose Will Equal to Rank for both the of this Quest and for the duration of your next quest. This potion can only be drank once per Month.",
+  "recipes": [
+    "666 Poke, 6 Oran Berries, 6 Sitrus Berries, 6 Lum Berries"
+  ]
+}

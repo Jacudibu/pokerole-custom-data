@@ -1,0 +1,11 @@
+{
+  "name": "The Golem",
+  "type": "Steel",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Dancing. Roll 2 Chance Dice to increase the User's Dexterity by 1.",
+  "description": "You learned these moves from a Golurk, break it down!",
+  "category": "Special"
+}

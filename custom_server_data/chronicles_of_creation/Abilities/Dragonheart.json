@@ -1,0 +1,5 @@
+{
+    "name": "Dragonheart",
+    "description": "You take a bit of a windup, and your attacks tend to be a bit more wild, but all for the better when you land your blows.",
+    "effect": "All the Physical or Special moves the user uses gain -2 Accuracy on their accuracy checks, however, they gain +2 Base Power. The user chooses at the start of each battle which type of moves this ability affects. Any move that has the Charge Tag gains an additional -1 Accuracy and +2 Power."
+}

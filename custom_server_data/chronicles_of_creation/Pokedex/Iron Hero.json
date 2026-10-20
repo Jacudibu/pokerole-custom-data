@@ -1,0 +1,27 @@
+{
+  "species_id": 50011,
+  "name": "Iron Hero",
+  "type1_override": "Bug",
+  "type2_override": "Fighting",
+  "ability1_override": "Quark Drive",
+  "ability2_override": "",
+  "ability_hidden_override": "",
+  "weight_override_in_kilograms": 39.4, 
+  "height_override_in_meters": 1.50,
+  "base_hp": 5,
+  "strength": "4/8",
+  "dexterity": "4/8",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Assurance", "Detect", "Leer", "Low Kick", "Struggle Bug", "Vacuum Wave"],
+    "silver": ["Agility", "Lunge", "Double Kick", "Endure", "Feint", "Aura Sphere"],
+    "gold": ["Axe Kick", "Bounce", "Bug Buzz", "Drain Punch", "First Impression", "Sucker Punch"],
+    "platinum": ["Counter", "Skitter Smack", "Crescent Kick"],
+    "diamond": [],
+    "tm": ["Aerial Ace", "Acrobatics", "Blaze Kick", "Brick Break", "Bug Bite", "Bug Buzz", "Bullet Punch", "Cross Chop", "Close Combat", "Dark Pulse", "Double-Edge", "Extreme Speed", "Final Gambit", "Fling", "Focus Punch", "Focus Blast", "Giga Impact", "High Jump Kick", "Jump Kick", "Knock Off", "Lash Out", "Leech Life", "Leaf Blade", "Low Sweep", "Lunge", "Megahorn", "Mega Punch", "Pounce", "Reversal", "Skitter Smack", "Sleep Talk", "Spite", "Struggle Bug", "Substitute", "Superpower", "Swords Dance", "Take Down", "Taunt", "U-Turn", "Wild Charge", "X-Scissor"],
+    "egg": ["Counter", "Skitter Smack", "Dark Pulse", "Feint Attack", "Bulk Up", "Mach Punch", "Karate Chop"],
+    "tutor": []
+  }
+}

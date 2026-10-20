@@ -1,0 +1,27 @@
+{
+  "species_id": 50033,
+  "name": "Prehistoric Rampardos",
+  "type1_override": "Fighting",
+  "type2_override": "",
+  "ability1_override": "Mold Breaker",
+  "ability2_override": "",
+  "ability_hidden_override": "Sheer Force",
+  "weight_override_in_kilograms": 102.5,
+  "height_override_in_meters": 1.60,
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Focus Energy", "Leer", "Pursuit", "Take Down", "Tackle"],
+    "silver": ["Ancient Power", "Assurance", "Chip Away", "Headbutt", "Scary Face"],
+    "gold": ["Head Smash", "Screech", "Zen Headbutt"],
+    "platinum": ["Hammer Arm", "Iron Head", "Outrage", "Superpower"],
+    "diamond": [],
+    "tm": ["Attract", "Avalanche", "Blizzard", "Body Press", "Body Slam", "Breaking Swipe", "Brick Break",  "Bite", "Bulldoze", "Captivate", "Confide", "Crunch", "Curse", "Dig", "Double Team", "Double Edge", "Dragon Cheer", "Dragon Claw", "Dragon Tail", "Dragon Pulse", "Earth Power", "Earthquake", "Endeavor", "Endure", "Facade", "Fire Blast", "Fire Punch", "Flamethrower", "Fling", "Focus Blast", "Focus Punch", "Frustration", "Giga Impact", "Hidden Power", "Heavy Slam", "Hyper Beam", "Ice Beam", "Incinerate", "Iron Head", "Iron Tail", "Mud-Slap", "Natural Gift", "Outrage", "Payback", "Power-Up Punch", "Protect", "Rain Dance", "Rest", "Return", "Roar", "Rock Blast", "Rock Climb", "Rock Polish", "Rock Slide", "Rock Smash", "Rock Tomb", "Round", "Sandstorm", "Scary Face", "Secret Power", "Shock Wave", "Sleep Talk", "Smack Down", "Stealth Rock", "Stomping Tantrum", "Stone Edge", "Strength", "Substitute", "Sunny Day", "Supercell Slam", "Surf", "Swagger", "Swords Dance", "Take Down", "Tera Blast", "Thief", "Thunder", "Thunder Punch", "Thunderbolt", "Toxic", "Trailblaze", "Uproar", "Whirlpool", "Zen Headbutt"],
+    "egg": ["Crunch", "Curse", "Double-Edge", "Hammer Arm", "Iron Head", "Iron Tail", "Leer", "Slam", "Stomp", "Thrash", "Whirlwind"],
+    "tutor": ["Ancient Power", "Dragon Pulse", "Earth Power", "Endeavor", "Fire Punch", "Focus Punch", "Headbutt", "Iron Head", "Iron Tail", "Laser Focus", "Mud-Slap", "Outrage", "Pain Split", "Shock Wave", "Sleep Talk", "Snore", "Spite", "Stealth Rock", "Stomping Tantrum", "Superpower", "Thunder Punch", "Uproar", "Zen Headbutt"]
+  }
+}

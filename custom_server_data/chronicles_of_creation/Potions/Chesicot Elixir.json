@@ -1,0 +1,8 @@
+{
+  "name": "Chesicot Elixir",
+  "description": "The skin of the Chesto Berries are soaked in water overnight, then the water is heated while the juices of the Apicot are added.",
+  "effect": "Cure Drowsy and become immune to Drowsy for the rest of the scene. Gain +1 Special Defense for the rest of the scene.",
+  "recipes": [
+    "100 Poke, 2 Chesto Berries, 1 Apicot Berry"
+  ]
+}

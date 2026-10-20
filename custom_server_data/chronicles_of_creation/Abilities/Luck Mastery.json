@@ -1,0 +1,5 @@
+{
+    "name": "Luck Mastery",
+    "description": "The threads of fate are at your mercy now...",
+    "effect": "Whenever you use the Metronome move, you may choose to 'stock' the resulting move, and store it within your stock until the end of the Quest, you may not have more moves in your stock than your Insight stat. You may only add a move to your stock during combat, but may expend any of the stock outside of combat. You may substitute your Insight for your damaging stat for any of the stocked moves. Whenever you use a move from your stock or a a copied move (Through Mimic, Assist, etc), you gain +2 Accuracy and +2 Damage Dice. In addition, whenever you take damage, you may expend one of the moves from your Stock to reduce the incoming damage by 1 per stock expended, applied before Critical Hit damage or defenses."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Stagger",
+    "description": "You shrug off attacks in an unorthodox way. The amount of alcohol in your system should kill you, but you've grown so used to it that any pain you feel comes in waves.",
+    "effect": "Gain a Second Health Bar called your Stagger Bar. Your Stagger Bar's max health is equal to double your Dexterity. All damage you take is halved after defenses; the half that you don't take goes into your Stagger Bar. Whenever you drink a Potion, you heal Health equal to your Rank from your Stagger Bar. If your Stagger Bar is full and you take damage, the damage is instead dealt to you, adding your Rank as additional Total Damage (After critical hits, but before Defense/Resistances)."
+}

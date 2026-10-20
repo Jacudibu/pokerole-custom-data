@@ -1,0 +1,11 @@
+{
+  "name": "Shadowed Strike",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "Self",
+  "effect": "Never Fail. The user can expend up to five points of their Rage Bar, gaining up to 5 additional damage dice on their next attack. They can choose to sacrifice up to their Rank in damage to increase the total damage of their next attack as well by the amount of HP lost. Then, they may immediately use another move before ending their turn.",
+  "description": "A powerful blow using a bit of one's own rage!",
+  "category": "Support"
+}

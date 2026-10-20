@@ -1,0 +1,11 @@
+{
+  "name": "Frozen Cascade",
+  "type": "Ice",
+  "power": 3,
+  "damage": "Dexterity",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Dancing. Roll 1 Chance Dice to Flinch the Foe.",
+  "description": "A wave of frozen dance steps to leave the foe reeling!",
+  "category": "Physical"
+}

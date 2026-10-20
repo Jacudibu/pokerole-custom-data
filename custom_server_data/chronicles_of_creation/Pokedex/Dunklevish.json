@@ -1,0 +1,29 @@
+{
+  "number": 883,
+  "api_id": 883,
+  "species_id": 50017,
+  "name": "Dunklevish",
+  "type1_override": "Water",
+  "type2_override": "Rock",
+  "ability1_override": "Water Absorb",
+  "ability2_override": "Strong Jaw",
+  "ability_hidden_override": "Rock Head",
+  "weight_override_in_kilograms": 120,
+  "height_override_in_meters": 1.5,
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "1/3",
+  "vitality": "3/7",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Rock Tomb", "Water Gun", "Take Down", "Harden"],
+    "silver": ["Ancient Power", "Rock Slide", "Slam", "Aqua Jet", "Dive"],
+    "gold": ["Crunch", "Liqudation", "Fishious Rend", "Super Fang"],
+    "platinum": ["Psychic Fangs", "Whirlpool", "Head Smash"],
+    "diamond": [],
+    "tm": ["Agility", "Avalanche", "Blizzard", "Body Slam", "Bulldoze", "Earth Power", "Electro Ball", "Hyper Voice", "Iron Tail", "Low Kick", "Mega Kick", "Mega Punch", "Payback", "Rain Dance", "Rock Blast", "Rock Slide", "Rock Tomb", "Round", "Stomping Tantrum", "Stone Edge", "Surf", "Taunt", "Thunder", "Thunder Fang", "Thunder Punch", "Thunder Wave", "Thunderbolt", "Wild Charge"],
+    "egg": ["Meteor Beam", "Mud Bomb", "Night Slash", "Rising Voltage", "Rototiller", "Spies", "Supercell Slam"],
+    "tutor": []
+  }
+}

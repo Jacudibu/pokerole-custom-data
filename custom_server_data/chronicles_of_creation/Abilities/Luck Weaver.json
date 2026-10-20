@@ -1,0 +1,5 @@
+{
+    "name": "Luck Weaver",
+    "description": "Twisting the threads of fate...",
+    "effect": "Whenever you use the Metronome move, you may choose to 'stock' the resulting move, and store it within your stock until the end of the Quest. You may not have more moves in your stock than your Insight stat. You may only add a move to your stock during combat, but may expend any of the stock outside of combat. You may substitute your Insight for your damaging stat for any of the stocked moves. Whenever you use a move from your stock or a copied move (through Mimic, Assist, etc), you gain +1 Accuracy and +1 Damage Dice."
+}
